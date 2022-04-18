@@ -1,0 +1,480 @@
+[Mon Aug 06 15:21:52.029403 2018] [ssl:warn] [pid 836:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 06 15:21:52.280568 2018] [ssl:warn] [pid 836:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 06 15:21:52.868962 2018] [mpm_winnt:notice] [pid 836:tid 504] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Mon Aug 06 15:21:52.868962 2018] [mpm_winnt:notice] [pid 836:tid 504] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Mon Aug 06 15:21:52.868962 2018] [core:notice] [pid 836:tid 504] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Mon Aug 06 15:21:52.894979 2018] [mpm_winnt:notice] [pid 836:tid 504] AH00418: Parent: Created child process 18656
+[Mon Aug 06 15:21:54.353945 2018] [ssl:warn] [pid 18656:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 06 15:21:54.612117 2018] [ssl:warn] [pid 18656:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 06 15:21:54.656147 2018] [mpm_winnt:notice] [pid 18656:tid 488] AH00354: Child: Starting 150 worker threads.
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[Mon Aug 06 20:34:47.350162 2018] [mpm_winnt:notice] [pid 836:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 06 20:34:49.361496 2018] [mpm_winnt:notice] [pid 18656:tid 488] AH00364: Child: All worker threads have exited.
+[Mon Aug 06 20:34:49.584643 2018] [mpm_winnt:notice] [pid 836:tid 504] AH00430: Parent: Child process 18656 exited successfully.
+[Tue Aug 07 17:00:08.929888 2018] [ssl:warn] [pid 20252:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 07 17:00:09.537291 2018] [ssl:warn] [pid 20252:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 07 17:00:10.136689 2018] [mpm_winnt:notice] [pid 20252:tid 488] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue Aug 07 17:00:10.136689 2018] [mpm_winnt:notice] [pid 20252:tid 488] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue Aug 07 17:00:10.136689 2018] [core:notice] [pid 20252:tid 488] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Tue Aug 07 17:00:10.157703 2018] [mpm_winnt:notice] [pid 20252:tid 488] AH00418: Parent: Created child process 26832
+[Tue Aug 07 17:00:12.548289 2018] [ssl:warn] [pid 26832:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 07 17:00:12.840482 2018] [ssl:warn] [pid 26832:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 07 17:00:12.901523 2018] [mpm_winnt:notice] [pid 26832:tid 588] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 07 17:23:18.274012 2018] [ssl:warn] [pid 4144:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 07 17:23:19.057057 2018] [core:warn] [pid 4144:tid 132] AH00098: pid file C:/Eksu_CBT/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 07 17:23:19.372075 2018] [ssl:warn] [pid 4144:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 07 17:23:25.950451 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue Aug 07 17:23:25.950451 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue Aug 07 17:23:25.950451 2018] [core:notice] [pid 4144:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Tue Aug 07 17:23:25.959451 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00418: Parent: Created child process 4352
+[Tue Aug 07 17:23:27.199522 2018] [ssl:warn] [pid 4352:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 07 17:23:27.573544 2018] [ssl:warn] [pid 4352:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 07 17:23:28.953623 2018] [mpm_winnt:notice] [pid 4352:tid 144] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 07 20:02:57.938387 2018] [php7:notice] [pid 4352:tid 1616] [client ::1:55022] Cannot find session record jmd2uufbt3404krc0iiffjj0rl for user 2, creating new session., referer: http://localhost/my/?myoverviewtab=courses
+[Thu Aug 09 11:38:01.262237 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 09 11:38:05.970506 2018] [mpm_winnt:notice] [pid 4352:tid 144] AH00364: Child: All worker threads have exited.
+[Thu Aug 09 11:38:17.627173 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00430: Parent: Child process 4352 exited successfully.
+[Thu Aug 09 15:33:51.463344 2018] [ssl:warn] [pid 10708:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 09 15:33:51.983374 2018] [ssl:warn] [pid 10708:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Aug 09 15:33:58.651756 2018] [mpm_winnt:notice] [pid 10708:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Thu Aug 09 15:33:58.651756 2018] [mpm_winnt:notice] [pid 10708:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Thu Aug 09 15:33:58.651756 2018] [core:notice] [pid 10708:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Thu Aug 09 15:33:58.690758 2018] [mpm_winnt:notice] [pid 10708:tid 132] AH00418: Parent: Created child process 10396
+[Thu Aug 09 15:33:59.363796 2018] [ssl:warn] [pid 10396:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 09 15:33:59.555807 2018] [ssl:warn] [pid 10396:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Aug 09 15:34:01.098895 2018] [mpm_winnt:notice] [pid 10396:tid 144] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 10 17:36:30.853638 2018] [mpm_winnt:notice] [pid 10708:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 10 17:36:34.350838 2018] [mpm_winnt:notice] [pid 10396:tid 144] AH00364: Child: All worker threads have exited.
+[Fri Aug 10 17:36:41.169228 2018] [mpm_winnt:notice] [pid 10708:tid 132] AH00430: Parent: Child process 10396 exited successfully.
+[Fri Aug 10 17:53:01.704312 2018] [ssl:warn] [pid 9108:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 10 17:53:02.576362 2018] [ssl:warn] [pid 9108:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 10 17:53:15.919125 2018] [mpm_winnt:notice] [pid 9108:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Fri Aug 10 17:53:15.919125 2018] [mpm_winnt:notice] [pid 9108:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Fri Aug 10 17:53:15.919125 2018] [core:notice] [pid 9108:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Fri Aug 10 17:53:15.948126 2018] [mpm_winnt:notice] [pid 9108:tid 132] AH00418: Parent: Created child process 11200
+[Fri Aug 10 17:53:17.332205 2018] [ssl:warn] [pid 11200:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 10 17:53:17.663224 2018] [ssl:warn] [pid 11200:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 10 17:53:19.673339 2018] [mpm_winnt:notice] [pid 11200:tid 144] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 10 19:13:20.496834 2018] [mpm_winnt:notice] [pid 9108:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 10 19:13:22.499949 2018] [mpm_winnt:notice] [pid 11200:tid 144] AH00364: Child: All worker threads have exited.
+[Fri Aug 10 19:13:22.575953 2018] [mpm_winnt:notice] [pid 9108:tid 132] AH00430: Parent: Child process 11200 exited successfully.
+[Fri Aug 10 19:13:37.281794 2018] [ssl:warn] [pid 9276:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 10 19:13:37.676817 2018] [ssl:warn] [pid 9276:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 10 19:13:40.251964 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Fri Aug 10 19:13:40.251964 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Fri Aug 10 19:13:40.251964 2018] [core:notice] [pid 9276:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Fri Aug 10 19:13:40.262965 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00418: Parent: Created child process 14312
+Apache server shutdown initiated...
+sl:warn] [pid 14312:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 10 19:13:42.506093 2018] [ssl:warn] [pid 14312:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 10 19:13:44.773223 2018] [mpm_winnt:notice] [pid 14312:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 07:33:14.131641 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 07:33:16.132755 2018] [mpm_winnt:notice] [pid 14312:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 07:33:17.354825 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00430: Parent: Child process 14312 exited successfully.
+[Sat Aug 11 07:45:38.145196 2018] [ssl:warn] [pid 13172:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 07:45:38.637224 2018] [ssl:warn] [pid 13172:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 07:45:43.443499 2018] [mpm_winnt:notice] [pid 13172:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 07:45:43.444499 2018] [mpm_winnt:notice] [pid 13172:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 07:45:43.444499 2018] [core:notice] [pid 13172:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 07:45:43.452500 2018] [mpm_winnt:notice] [pid 13172:tid 132] AH00418: Parent: Created child process 13556
+[Sat Aug 11 07:45:44.968586 2018] [ssl:warn] [pid 13556:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 07:45:45.325607 2018] [ssl:warn] [pid 13556:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 07:45:46.605680 2018] [mpm_winnt:notice] [pid 13556:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 08:56:35.083350 2018] [mpm_winnt:notice] [pid 13172:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 08:56:37.231473 2018] [mpm_winnt:notice] [pid 13556:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 08:56:40.473659 2018] [mpm_winnt:notice] [pid 13172:tid 132] AH00430: Parent: Child process 13556 exited successfully.
+[Sat Aug 11 09:07:50.735968 2018] [ssl:warn] [pid 2560:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 09:07:51.643020 2018] [ssl:warn] [pid 2560:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 09:08:02.817659 2018] [mpm_winnt:notice] [pid 2560:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 09:08:02.818659 2018] [mpm_winnt:notice] [pid 2560:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 09:08:02.818659 2018] [core:notice] [pid 2560:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 09:08:02.917664 2018] [mpm_winnt:notice] [pid 2560:tid 132] AH00418: Parent: Created child process 7796
+[Sat Aug 11 09:08:04.494755 2018] [ssl:warn] [pid 7796:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 09:08:04.987783 2018] [ssl:warn] [pid 7796:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 09:08:07.122905 2018] [mpm_winnt:notice] [pid 7796:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 11:14:42.680015 2018] [mpm_winnt:notice] [pid 2560:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 11:14:44.682130 2018] [mpm_winnt:notice] [pid 7796:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 11:14:44.792136 2018] [mpm_winnt:notice] [pid 2560:tid 132] AH00430: Parent: Child process 7796 exited successfully.
+[Sat Aug 11 11:18:38.327494 2018] [ssl:warn] [pid 7004:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:18:38.707515 2018] [ssl:warn] [pid 7004:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:18:43.059764 2018] [mpm_winnt:notice] [pid 7004:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 11:18:43.059764 2018] [mpm_winnt:notice] [pid 7004:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 11:18:43.059764 2018] [core:notice] [pid 7004:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 11:18:43.067765 2018] [mpm_winnt:notice] [pid 7004:tid 132] AH00418: Parent: Created child process 7848
+[Sat Aug 11 11:18:44.595852 2018] [ssl:warn] [pid 7848:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:18:45.011876 2018] [ssl:warn] [pid 7848:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:18:46.078937 2018] [mpm_winnt:notice] [pid 7848:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 11:21:17.736611 2018] [mpm_winnt:notice] [pid 7004:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 11:21:19.738726 2018] [mpm_winnt:notice] [pid 7848:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 11:21:19.771728 2018] [mpm_winnt:notice] [pid 7004:tid 132] AH00430: Parent: Child process 7848 exited successfully.
+[Sat Aug 11 11:23:15.360339 2018] [ssl:warn] [pid 7060:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:23:15.855367 2018] [ssl:warn] [pid 7060:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:23:19.388570 2018] [mpm_winnt:notice] [pid 7060:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 11:23:19.388570 2018] [mpm_winnt:notice] [pid 7060:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 11:23:19.388570 2018] [core:notice] [pid 7060:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 11:23:19.398570 2018] [mpm_winnt:notice] [pid 7060:tid 132] AH00418: Parent: Created child process 4500
+[Sat Aug 11 11:23:20.964660 2018] [ssl:warn] [pid 4500:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:23:21.378683 2018] [ssl:warn] [pid 4500:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:23:22.864768 2018] [mpm_winnt:notice] [pid 4500:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 11:35:43.505131 2018] [mpm_winnt:notice] [pid 7060:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 11:35:45.507245 2018] [mpm_winnt:notice] [pid 4500:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 11:35:45.533247 2018] [mpm_winnt:notice] [pid 7060:tid 132] AH00430: Parent: Child process 4500 exited successfully.
+[Sat Aug 11 11:36:19.340180 2018] [ssl:warn] [pid 7568:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:36:19.752204 2018] [ssl:warn] [pid 7568:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:36:22.285349 2018] [mpm_winnt:notice] [pid 7568:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 11:36:22.285349 2018] [mpm_winnt:notice] [pid 7568:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 11:36:22.285349 2018] [core:notice] [pid 7568:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 11:36:22.293349 2018] [mpm_winnt:notice] [pid 7568:tid 132] AH00418: Parent: Created child process 6392
+[Sat Aug 11 11:36:23.890440 2018] [ssl:warn] [pid 6392:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:36:24.339466 2018] [ssl:warn] [pid 6392:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:36:25.499532 2018] [mpm_winnt:notice] [pid 6392:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 11:36:56.972333 2018] [mpm_winnt:notice] [pid 7568:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 11:36:58.973447 2018] [mpm_winnt:notice] [pid 6392:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 11:36:58.997448 2018] [mpm_winnt:notice] [pid 7568:tid 132] AH00430: Parent: Child process 6392 exited successfully.
+[Sat Aug 11 11:37:19.203604 2018] [ssl:warn] [pid 3344:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:37:19.676631 2018] [ssl:warn] [pid 3344:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:37:25.644973 2018] [mpm_winnt:notice] [pid 3344:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 11:37:25.644973 2018] [mpm_winnt:notice] [pid 3344:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 11:37:25.644973 2018] [core:notice] [pid 3344:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 11:37:25.652973 2018] [mpm_winnt:notice] [pid 3344:tid 132] AH00418: Parent: Created child process 7884
+[Sat Aug 11 11:37:27.246064 2018] [ssl:warn] [pid 7884:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:37:27.671089 2018] [ssl:warn] [pid 7884:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:37:48.041254 2018] [mpm_winnt:notice] [pid 7884:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 11:38:10.471537 2018] [mpm_winnt:notice] [pid 3344:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 11:38:12.490652 2018] [mpm_winnt:notice] [pid 7884:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 11:38:12.514653 2018] [mpm_winnt:notice] [pid 3344:tid 132] AH00430: Parent: Child process 7884 exited successfully.
+[Sat Aug 11 11:48:10.976189 2018] [ssl:warn] [pid 6276:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:48:11.492219 2018] [ssl:warn] [pid 6276:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:48:16.260491 2018] [mpm_winnt:notice] [pid 6276:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 11:48:16.260491 2018] [mpm_winnt:notice] [pid 6276:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 11:48:16.260491 2018] [core:notice] [pid 6276:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 11:48:16.268492 2018] [mpm_winnt:notice] [pid 6276:tid 132] AH00418: Parent: Created child process 6704
+[Sat Aug 11 11:48:17.763577 2018] [ssl:warn] [pid 6704:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 11:48:18.106597 2018] [ssl:warn] [pid 6704:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 11:48:21.159772 2018] [mpm_winnt:notice] [pid 6704:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 12:09:30.221358 2018] [mpm_winnt:notice] [pid 6276:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 12:09:32.223472 2018] [mpm_winnt:notice] [pid 6704:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 12:09:32.247474 2018] [mpm_winnt:notice] [pid 6276:tid 132] AH00430: Parent: Child process 6704 exited successfully.
+[Sat Aug 11 12:10:36.324139 2018] [ssl:warn] [pid 3200:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 12:10:36.752163 2018] [ssl:warn] [pid 3200:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 12:10:39.187302 2018] [mpm_winnt:notice] [pid 3200:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 12:10:39.187302 2018] [mpm_winnt:notice] [pid 3200:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 12:10:39.187302 2018] [core:notice] [pid 3200:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 12:10:39.195303 2018] [mpm_winnt:notice] [pid 3200:tid 132] AH00418: Parent: Created child process 4144
+[Sat Aug 11 12:10:40.783394 2018] [ssl:warn] [pid 4144:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 12:10:41.163415 2018] [ssl:warn] [pid 4144:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 12:10:42.478491 2018] [mpm_winnt:notice] [pid 4144:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 12:11:40.209793 2018] [mpm_winnt:notice] [pid 3200:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 12:11:42.210907 2018] [mpm_winnt:notice] [pid 4144:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 12:11:42.240909 2018] [mpm_winnt:notice] [pid 3200:tid 132] AH00430: Parent: Child process 4144 exited successfully.
+[Sat Aug 11 12:12:21.355146 2018] [ssl:warn] [pid 7372:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 12:12:21.820173 2018] [ssl:warn] [pid 7372:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 12:12:23.724282 2018] [mpm_winnt:notice] [pid 7372:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 12:12:23.724282 2018] [mpm_winnt:notice] [pid 7372:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 12:12:23.724282 2018] [core:notice] [pid 7372:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 12:12:23.733282 2018] [mpm_winnt:notice] [pid 7372:tid 132] AH00418: Parent: Created child process 6580
+[Sat Aug 11 12:12:25.307372 2018] [ssl:warn] [pid 6580:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 12:12:25.649392 2018] [ssl:warn] [pid 6580:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 12:12:27.966524 2018] [mpm_winnt:notice] [pid 6580:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 12:20:06.369743 2018] [mpm_winnt:notice] [pid 7372:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 12:20:08.372858 2018] [mpm_winnt:notice] [pid 6580:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 12:20:08.400860 2018] [mpm_winnt:notice] [pid 7372:tid 132] AH00430: Parent: Child process 6580 exited successfully.
+[Sat Aug 11 12:20:22.071642 2018] [ssl:warn] [pid 7676:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 12:20:22.593671 2018] [ssl:warn] [pid 7676:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 12:20:24.019753 2018] [mpm_winnt:notice] [pid 7676:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 12:20:24.019753 2018] [mpm_winnt:notice] [pid 7676:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 12:20:24.019753 2018] [core:notice] [pid 7676:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 12:20:24.026753 2018] [mpm_winnt:notice] [pid 7676:tid 132] AH00418: Parent: Created child process 7160
+[Sat Aug 11 12:20:25.547840 2018] [ssl:warn] [pid 7160:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 12:20:25.935863 2018] [ssl:warn] [pid 7160:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 12:20:27.171933 2018] [mpm_winnt:notice] [pid 7160:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 12:42:26.543013 2018] [mpm_winnt:notice] [pid 7676:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 12:42:28.544128 2018] [mpm_winnt:notice] [pid 7160:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 12:42:28.568129 2018] [mpm_winnt:notice] [pid 7676:tid 132] AH00430: Parent: Child process 7160 exited successfully.
+[Sat Aug 11 13:15:00.891837 2018] [ssl:warn] [pid 6944:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 13:15:01.476871 2018] [ssl:warn] [pid 6944:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 13:15:07.014187 2018] [mpm_winnt:notice] [pid 6944:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 13:15:07.014187 2018] [mpm_winnt:notice] [pid 6944:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 13:15:07.014187 2018] [core:notice] [pid 6944:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 13:15:07.022188 2018] [mpm_winnt:notice] [pid 6944:tid 132] AH00418: Parent: Created child process 4692
+[Sat Aug 11 13:15:08.628280 2018] [ssl:warn] [pid 4692:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 13:15:09.013302 2018] [ssl:warn] [pid 4692:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 13:15:11.869465 2018] [mpm_winnt:notice] [pid 4692:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 11 13:30:07.063311 2018] [mpm_winnt:notice] [pid 6944:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 11 13:30:09.089427 2018] [mpm_winnt:notice] [pid 4692:tid 144] AH00364: Child: All worker threads have exited.
+[Sat Aug 11 13:30:09.128429 2018] [mpm_winnt:notice] [pid 6944:tid 132] AH00430: Parent: Child process 4692 exited successfully.
+[Sat Aug 11 13:32:15.114635 2018] [ssl:warn] [pid 6856:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 13:32:15.529659 2018] [ssl:warn] [pid 6856:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 13:32:17.477770 2018] [mpm_winnt:notice] [pid 6856:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Aug 11 13:32:17.477770 2018] [mpm_winnt:notice] [pid 6856:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Aug 11 13:32:17.477770 2018] [core:notice] [pid 6856:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Aug 11 13:32:17.488771 2018] [mpm_winnt:notice] [pid 6856:tid 132] AH00418: Parent: Created child process 7536
+[Sat Aug 11 13:32:19.326876 2018] [ssl:warn] [pid 7536:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 11 13:32:19.764901 2018] [ssl:warn] [pid 7536:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 11 13:32:21.152980 2018] [mpm_winnt:notice] [pid 7536:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 12 10:30:35.937977 2018] [ssl:warn] [pid 6592:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 10:30:36.379002 2018] [core:warn] [pid 6592:tid 132] AH00098: pid file C:/Eksu_CBT/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 12 10:30:36.709021 2018] [ssl:warn] [pid 6592:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 10:30:51.226851 2018] [mpm_winnt:notice] [pid 6592:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Aug 12 10:30:51.226851 2018] [mpm_winnt:notice] [pid 6592:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Aug 12 10:30:51.226851 2018] [core:notice] [pid 6592:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Aug 12 10:30:51.233852 2018] [mpm_winnt:notice] [pid 6592:tid 132] AH00418: Parent: Created child process 5892
+[Sun Aug 12 10:30:53.026954 2018] [ssl:warn] [pid 5892:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 10:30:53.530983 2018] [ssl:warn] [pid 5892:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 10:30:55.332086 2018] [mpm_winnt:notice] [pid 5892:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 12 13:10:23.761456 2018] [mpm_winnt:notice] [pid 6592:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 12 13:10:25.892578 2018] [mpm_winnt:notice] [pid 5892:tid 144] AH00364: Child: All worker threads have exited.
+[Sun Aug 12 13:10:27.542672 2018] [mpm_winnt:notice] [pid 6592:tid 132] AH00430: Parent: Child process 5892 exited successfully.
+[Sun Aug 12 13:10:41.931495 2018] [ssl:warn] [pid 4144:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 13:10:42.539530 2018] [ssl:warn] [pid 4144:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 13:10:52.988127 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Aug 12 13:10:52.988127 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Aug 12 13:10:52.988127 2018] [core:notice] [pid 4144:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Aug 12 13:10:53.006128 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00418: Parent: Created child process 5984
+[Sun Aug 12 13:10:54.574218 2018] [ssl:warn] [pid 5984:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 13:10:54.992242 2018] [ssl:warn] [pid 5984:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 13:10:56.218312 2018] [mpm_winnt:notice] [pid 5984:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 12 15:21:22.183932 2018] [php7:warn] [pid 5984:tid 1604] [client 192.168.0.10:52262] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://192.168.0.10/admin/user/user_bulk.php
+[Sun Aug 12 15:59:26.207570 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 12 15:59:29.850779 2018] [mpm_winnt:notice] [pid 5984:tid 144] AH00364: Child: All worker threads have exited.
+[Sun Aug 12 15:59:38.157254 2018] [mpm_winnt:notice] [pid 4144:tid 132] AH00430: Parent: Child process 5984 exited successfully.
+[Sun Aug 12 16:04:09.284762 2018] [ssl:warn] [pid 9232:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 16:04:09.763789 2018] [ssl:warn] [pid 9232:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 16:04:15.626124 2018] [mpm_winnt:notice] [pid 9232:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Aug 12 16:04:15.626124 2018] [mpm_winnt:notice] [pid 9232:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Aug 12 16:04:15.626124 2018] [core:notice] [pid 9232:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Aug 12 16:04:15.665127 2018] [mpm_winnt:notice] [pid 9232:tid 132] AH00418: Parent: Created child process 6880
+[Sun Aug 12 16:04:17.198214 2018] [ssl:warn] [pid 6880:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 16:04:17.560235 2018] [ssl:warn] [pid 6880:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 16:04:18.952315 2018] [mpm_winnt:notice] [pid 6880:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 12 16:09:47.809124 2018] [mpm_winnt:notice] [pid 9232:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 12 16:09:49.810239 2018] [mpm_winnt:notice] [pid 6880:tid 144] AH00364: Child: All worker threads have exited.
+[Sun Aug 12 16:09:49.862241 2018] [mpm_winnt:notice] [pid 9232:tid 132] AH00430: Parent: Child process 6880 exited successfully.
+[Sun Aug 12 16:43:29.756773 2018] [ssl:warn] [pid 5076:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 16:43:30.130794 2018] [ssl:warn] [pid 5076:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 16:43:34.513045 2018] [mpm_winnt:notice] [pid 5076:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Aug 12 16:43:34.513045 2018] [mpm_winnt:notice] [pid 5076:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Aug 12 16:43:34.513045 2018] [core:notice] [pid 5076:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Aug 12 16:43:34.522045 2018] [mpm_winnt:notice] [pid 5076:tid 132] AH00418: Parent: Created child process 10048
+[Sun Aug 12 16:43:36.038132 2018] [ssl:warn] [pid 10048:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 12 16:43:36.384152 2018] [ssl:warn] [pid 10048:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 12 16:43:37.527217 2018] [mpm_winnt:notice] [pid 10048:tid 144] AH00354: Child: Starting 150 worker threads.
+[Mon Aug 13 21:46:33.278021 2018] [mpm_winnt:notice] [pid 5076:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 13 21:46:36.631213 2018] [mpm_winnt:notice] [pid 10048:tid 144] AH00364: Child: All worker threads have exited.
+[Mon Aug 13 21:46:39.689388 2018] [mpm_winnt:notice] [pid 5076:tid 132] AH00430: Parent: Child process 10048 exited successfully.
+[Mon Aug 13 21:49:58.667769 2018] [ssl:warn] [pid 4008:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 13 21:49:59.173798 2018] [ssl:warn] [pid 4008:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Aug 13 21:50:06.867238 2018] [mpm_winnt:notice] [pid 4008:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Mon Aug 13 21:50:06.868238 2018] [mpm_winnt:notice] [pid 4008:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Mon Aug 13 21:50:06.868238 2018] [core:notice] [pid 4008:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Mon Aug 13 21:50:06.892239 2018] [mpm_winnt:notice] [pid 4008:tid 132] AH00418: Parent: Created child process 8040
+[Mon Aug 13 21:50:09.477387 2018] [ssl:warn] [pid 8040:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 13 21:50:09.851409 2018] [ssl:warn] [pid 8040:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Aug 13 21:50:11.221487 2018] [mpm_winnt:notice] [pid 8040:tid 144] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 14 08:35:02.796784 2018] [mpm_winnt:notice] [pid 4008:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 14 08:35:04.810899 2018] [mpm_winnt:notice] [pid 8040:tid 144] AH00364: Child: All worker threads have exited.
+[Tue Aug 14 08:35:05.781955 2018] [mpm_winnt:notice] [pid 4008:tid 132] AH00430: Parent: Child process 8040 exited successfully.
+[Tue Aug 14 08:35:46.202267 2018] [ssl:warn] [pid 7944:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 14 08:35:46.613290 2018] [ssl:warn] [pid 7944:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 14 08:35:53.834703 2018] [mpm_winnt:notice] [pid 7944:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue Aug 14 08:35:53.834703 2018] [mpm_winnt:notice] [pid 7944:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue Aug 14 08:35:53.834703 2018] [core:notice] [pid 7944:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Tue Aug 14 08:35:53.842704 2018] [mpm_winnt:notice] [pid 7944:tid 132] AH00418: Parent: Created child process 7496
+[Tue Aug 14 08:35:55.382792 2018] [ssl:warn] [pid 7496:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 14 08:35:55.744812 2018] [ssl:warn] [pid 7496:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 14 08:35:56.859876 2018] [mpm_winnt:notice] [pid 7496:tid 144] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 14 12:44:58.540954 2018] [mpm_winnt:notice] [pid 7944:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 14 12:45:00.995094 2018] [mpm_winnt:notice] [pid 7496:tid 144] AH00364: Child: All worker threads have exited.
+[Tue Aug 14 12:45:05.542355 2018] [mpm_winnt:notice] [pid 7944:tid 132] AH00430: Parent: Child process 7496 exited successfully.
+[Tue Aug 14 20:35:55.437428 2018] [ssl:warn] [pid 7016:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 14 20:35:56.223473 2018] [ssl:warn] [pid 7016:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 14 20:35:59.972687 2018] [mpm_winnt:notice] [pid 7016:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue Aug 14 20:35:59.972687 2018] [mpm_winnt:notice] [pid 7016:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue Aug 14 20:35:59.972687 2018] [core:notice] [pid 7016:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Tue Aug 14 20:35:59.997689 2018] [mpm_winnt:notice] [pid 7016:tid 132] AH00418: Parent: Created child process 9056
+[Tue Aug 14 20:36:01.748789 2018] [ssl:warn] [pid 9056:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 14 20:36:02.157812 2018] [ssl:warn] [pid 9056:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 14 20:36:03.657898 2018] [mpm_winnt:notice] [pid 9056:tid 144] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 14 20:47:24.966867 2018] [mpm_winnt:notice] [pid 7016:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 14 20:47:26.971981 2018] [mpm_winnt:notice] [pid 9056:tid 144] AH00364: Child: All worker threads have exited.
+[Tue Aug 14 20:47:27.015984 2018] [mpm_winnt:notice] [pid 7016:tid 132] AH00430: Parent: Child process 9056 exited successfully.
+[Mon Aug 20 12:35:59.707674 2018] [ssl:warn] [pid 4528:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 20 12:36:02.354825 2018] [ssl:warn] [pid 4528:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Aug 20 12:36:05.228990 2018] [mpm_winnt:notice] [pid 4528:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Mon Aug 20 12:36:05.229990 2018] [mpm_winnt:notice] [pid 4528:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Mon Aug 20 12:36:05.229990 2018] [core:notice] [pid 4528:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Mon Aug 20 12:36:05.254991 2018] [mpm_winnt:notice] [pid 4528:tid 132] AH00418: Parent: Created child process 9604
+Apache server shutdown initiated...
+sl:warn] [pid 9604:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 20 12:36:07.485119 2018] [ssl:warn] [pid 9604:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Aug 20 12:36:07.760134 2018] [mpm_winnt:notice] [pid 9604:tid 144] AH00354: Child: Starting 150 worker threads.
+[Mon Aug 20 14:01:48.944323 2018] [mpm_winnt:notice] [pid 4528:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 20 14:01:50.946437 2018] [mpm_winnt:notice] [pid 9604:tid 144] AH00364: Child: All worker threads have exited.
+[Mon Aug 20 14:01:50.993440 2018] [mpm_winnt:notice] [pid 4528:tid 132] AH00430: Parent: Child process 9604 exited successfully.
+[Fri Aug 31 14:31:56.412308 2018] [ssl:warn] [pid 9276:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 31 14:31:57.156351 2018] [ssl:warn] [pid 9276:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 31 14:32:06.649894 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Fri Aug 31 14:32:06.649894 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Fri Aug 31 14:32:06.649894 2018] [core:notice] [pid 9276:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Fri Aug 31 14:32:06.709897 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00418: Parent: Created child process 4412
+[Fri Aug 31 14:32:09.087033 2018] [ssl:warn] [pid 4412:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 31 14:32:09.490056 2018] [ssl:warn] [pid 4412:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 31 14:32:26.024002 2018] [mpm_winnt:notice] [pid 4412:tid 144] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 31 14:43:43.710763 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 31 14:43:45.711878 2018] [mpm_winnt:notice] [pid 4412:tid 144] AH00364: Child: All worker threads have exited.
+[Fri Aug 31 14:43:45.743880 2018] [mpm_winnt:notice] [pid 9276:tid 132] AH00430: Parent: Child process 4412 exited successfully.
+[Sat Sep 15 23:45:17.899988 2018] [ssl:warn] [pid 8300:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 15 23:45:18.567026 2018] [ssl:warn] [pid 8300:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Sep 15 23:45:22.879273 2018] [mpm_winnt:notice] [pid 8300:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sat Sep 15 23:45:22.879273 2018] [mpm_winnt:notice] [pid 8300:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sat Sep 15 23:45:22.879273 2018] [core:notice] [pid 8300:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sat Sep 15 23:45:22.888273 2018] [mpm_winnt:notice] [pid 8300:tid 132] AH00418: Parent: Created child process 10688
+[Sat Sep 15 23:45:24.575370 2018] [ssl:warn] [pid 10688:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 15 23:45:25.026395 2018] [ssl:warn] [pid 10688:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\Eksu_CBT\\server\\php\\ext\\php_intl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Sep 15 23:45:26.673490 2018] [mpm_winnt:notice] [pid 10688:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Oct 21 20:38:28.357312 2018] [ssl:warn] [pid 7872:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 21 20:38:28.769336 2018] [core:warn] [pid 7872:tid 132] AH00098: pid file C:/Eksu_CBT/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 21 20:38:29.173359 2018] [ssl:warn] [pid 7872:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 21 20:38:36.792794 2018] [mpm_winnt:notice] [pid 7872:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Oct 21 20:38:36.793794 2018] [mpm_winnt:notice] [pid 7872:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Oct 21 20:38:36.793794 2018] [core:notice] [pid 7872:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Oct 21 20:38:36.803795 2018] [mpm_winnt:notice] [pid 7872:tid 132] AH00418: Parent: Created child process 2720
+[Sun Oct 21 20:38:38.865913 2018] [ssl:warn] [pid 2720:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 21 20:38:39.364942 2018] [ssl:warn] [pid 2720:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 21 20:38:39.437946 2018] [mpm_winnt:notice] [pid 2720:tid 144] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 22 20:54:53.729631 2018] [php7:warn] [pid 2720:tid 1584] [client ::1:50828] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/admin/user/user_bulk.php
+[Mon Oct 22 21:15:47.610349 2018] [mpm_winnt:notice] [pid 7872:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 22 21:15:51.200554 2018] [mpm_winnt:notice] [pid 2720:tid 144] AH00364: Child: All worker threads have exited.
+[Mon Oct 22 21:16:18.053090 2018] [mpm_winnt:notice] [pid 7872:tid 132] AH00431: Parent: Forcing termination of child process 2720
+[Mon Oct 22 21:17:51.932460 2018] [ssl:warn] [pid 6940:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 22 21:17:52.535494 2018] [ssl:warn] [pid 6940:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 22 21:17:55.026637 2018] [mpm_winnt:notice] [pid 6940:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Mon Oct 22 21:17:55.026637 2018] [mpm_winnt:notice] [pid 6940:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Mon Oct 22 21:17:55.026637 2018] [core:notice] [pid 6940:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Mon Oct 22 21:17:55.062639 2018] [mpm_winnt:notice] [pid 6940:tid 132] AH00418: Parent: Created child process 6352
+[Mon Oct 22 21:17:56.669731 2018] [ssl:warn] [pid 6352:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 22 21:17:57.045752 2018] [ssl:warn] [pid 6352:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 22 21:17:57.133757 2018] [mpm_winnt:notice] [pid 6352:tid 144] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 29 20:59:32.143642 2018] [mpm_winnt:notice] [pid 6940:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 29 20:59:41.474176 2018] [mpm_winnt:notice] [pid 6352:tid 144] AH00364: Child: All worker threads have exited.
+[Mon Oct 29 21:00:02.853399 2018] [mpm_winnt:notice] [pid 6940:tid 132] AH00431: Parent: Forcing termination of child process 6352
+[Fri Nov 02 00:09:45.158740 2018] [ssl:warn] [pid 15336:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 02 00:09:45.719772 2018] [ssl:warn] [pid 15336:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 02 00:09:45.851780 2018] [mpm_winnt:notice] [pid 15336:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Fri Nov 02 00:09:45.856780 2018] [mpm_winnt:notice] [pid 15336:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Fri Nov 02 00:09:45.856780 2018] [core:notice] [pid 15336:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Fri Nov 02 00:09:45.885781 2018] [mpm_winnt:notice] [pid 15336:tid 132] AH00418: Parent: Created child process 10676
+[Fri Nov 02 00:09:47.521875 2018] [ssl:warn] [pid 10676:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 02 00:09:47.970901 2018] [ssl:warn] [pid 10676:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 02 00:09:48.053905 2018] [mpm_winnt:notice] [pid 10676:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Nov 04 21:45:50.120884 2018] [php7:warn] [pid 10676:tid 1592] [client ::1:50171] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/admin/user/user_bulk.php?adminedit=1&sesskey=Ik40VhMi3W
+[Sun Nov 04 21:46:05.971790 2018] [php7:warn] [pid 10676:tid 1624] [client ::1:50178] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0, referer: http://localhost/admin/user/user_bulk.php
+[Sun Nov 04 23:03:05.009984 2018] [mpm_winnt:notice] [pid 15336:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 04 23:03:11.431351 2018] [mpm_winnt:notice] [pid 10676:tid 144] AH00364: Child: All worker threads have exited.
+[Sun Nov 04 23:03:35.983756 2018] [mpm_winnt:notice] [pid 15336:tid 132] AH00431: Parent: Forcing termination of child process 10676
+[Wed Feb 20 23:06:53.893903 2019] [ssl:warn] [pid 7028:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 23:06:55.449992 2019] [ssl:warn] [pid 7028:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 23:07:31.914078 2019] [mpm_winnt:notice] [pid 7028:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Wed Feb 20 23:07:31.915078 2019] [mpm_winnt:notice] [pid 7028:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Wed Feb 20 23:07:31.915078 2019] [core:notice] [pid 7028:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Wed Feb 20 23:07:31.925079 2019] [mpm_winnt:notice] [pid 7028:tid 132] AH00418: Parent: Created child process 4884
+[Wed Feb 20 23:07:35.364275 2019] [ssl:warn] [pid 4884:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 23:07:36.085317 2019] [ssl:warn] [pid 4884:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 20 23:07:36.368333 2019] [mpm_winnt:notice] [pid 4884:tid 144] AH00354: Child: Starting 150 worker threads.
+[Wed Feb 20 23:39:38.355264 2019] [mpm_winnt:notice] [pid 7028:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 20 23:39:40.358379 2019] [mpm_winnt:notice] [pid 4884:tid 144] AH00364: Child: All worker threads have exited.
+[Wed Feb 20 23:39:40.483386 2019] [mpm_winnt:notice] [pid 7028:tid 132] AH00430: Parent: Child process 4884 exited successfully.
+[Sun Mar 17 08:16:03.743014 2019] [ssl:warn] [pid 4740:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:16:04.353049 2019] [ssl:warn] [pid 4740:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:16:10.179383 2019] [mpm_winnt:notice] [pid 4740:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Mar 17 08:16:10.179383 2019] [mpm_winnt:notice] [pid 4740:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Mar 17 08:16:10.179383 2019] [core:notice] [pid 4740:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Mar 17 08:16:10.187383 2019] [mpm_winnt:notice] [pid 4740:tid 132] AH00418: Parent: Created child process 5260
+Apache server shutdown initiated...
+sl:warn] [pid 5260:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:16:14.638638 2019] [ssl:warn] [pid 5260:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:16:14.765645 2019] [mpm_winnt:notice] [pid 5260:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Mar 17 08:22:57.993708 2019] [php7:crit] [pid 5260:tid 1600] [client ::1:49534] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:23:00.680862 2019] [php7:crit] [pid 5260:tid 1600] [client ::1:49552] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:23:07.362244 2019] [php7:crit] [pid 5260:tid 1600] [client ::1:49555] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:23:08.949335 2019] [php7:crit] [pid 5260:tid 1600] [client ::1:49561] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:23:23.808185 2019] [php7:crit] [pid 5260:tid 1600] [client ::1:49563] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:24:44.883822 2019] [php7:crit] [pid 5260:tid 1600] [client ::1:49567] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:24:48.718041 2019] [mpm_winnt:notice] [pid 4740:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 17 08:24:50.719156 2019] [mpm_winnt:notice] [pid 5260:tid 144] AH00364: Child: All worker threads have exited.
+[Sun Mar 17 08:24:50.778159 2019] [mpm_winnt:notice] [pid 4740:tid 132] AH00430: Parent: Child process 5260 exited successfully.
+[Sun Mar 17 08:27:05.859885 2019] [ssl:warn] [pid 7096:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:27:06.195905 2019] [ssl:warn] [pid 7096:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:27:06.246907 2019] [mpm_winnt:notice] [pid 7096:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Sun Mar 17 08:27:06.246907 2019] [mpm_winnt:notice] [pid 7096:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Sun Mar 17 08:27:06.246907 2019] [core:notice] [pid 7096:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Sun Mar 17 08:27:06.253908 2019] [mpm_winnt:notice] [pid 7096:tid 132] AH00418: Parent: Created child process 5996
+[Sun Mar 17 08:27:07.378972 2019] [ssl:warn] [pid 5996:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:27:07.640987 2019] [ssl:warn] [pid 5996:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 17 08:27:07.685990 2019] [mpm_winnt:notice] [pid 5996:tid 144] AH00354: Child: Starting 150 worker threads.
+[Sun Mar 17 08:27:19.331656 2019] [php7:crit] [pid 5996:tid 1604] [client ::1:49571] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Sun Mar 17 08:27:20.898745 2019] [php7:crit] [pid 5996:tid 1604] [client ::1:49572] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31
+[Wed Mar 27 15:17:58.414840 2019] [ssl:warn] [pid 3020:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 15:17:58.765860 2019] [core:warn] [pid 3020:tid 132] AH00098: pid file C:/Eksu_CBT/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 27 15:17:59.088879 2019] [ssl:warn] [pid 3020:tid 132] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 15:18:03.960157 2019] [mpm_winnt:notice] [pid 3020:tid 132] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Wed Mar 27 15:18:03.960157 2019] [mpm_winnt:notice] [pid 3020:tid 132] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Wed Mar 27 15:18:03.961157 2019] [core:notice] [pid 3020:tid 132] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Eksu_CBT/server/apache -f conf\\httpd.conf'
+[Wed Mar 27 15:18:03.970158 2019] [mpm_winnt:notice] [pid 3020:tid 132] AH00418: Parent: Created child process 9924
+[Wed Mar 27 15:18:05.663255 2019] [ssl:warn] [pid 9924:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 15:18:06.222287 2019] [ssl:warn] [pid 9924:tid 144] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 27 15:18:06.331293 2019] [mpm_winnt:notice] [pid 9924:tid 144] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 27 15:25:03.074865 2019] [php7:crit] [pid 9924:tid 1588] [client ::1:53900] PHP Parse error:  syntax error, unexpected end of file in C:\\Eksu_CBT\\server\\moodle\\config.php on line 31

@@ -1,0 +1,4012 @@
+username,password,firstname,lastname,email,department
+178104001,ifanegan,Joy,Olajumoke,gst1@gmail.com1,FRWM
+178104002,james,Deborah,Sandra,gst2@gmail.com2,FWM
+168430053,taiwo,Grace,Ifeoluwa,gst1@gmail.com2,APH
+178101049,ajagbe,Samuel,Aanuoluwa,gst2@gmail.com3,A.E.E
+75930758AE,oyerele,Precious,Yetunde,gst1@gmail.com3,A.E.E
+178101059,osasuyi,Oluwakemisola,Odunayo,gst2@gmail.com4,A.E.E
+178101021,adedayo,Fikewa,Stella,gst1@gmail.com4,A.E.E
+178101043,adeleke,Grace,Oluwatobi,gst2@gmail.com5,A.E.E
+178101104,shokanbi,Blessing,Modupe,gst1@gmail.com5,A.E.E
+178101073,ariyo,Stella,Sefunmi,gst2@gmail.com6,A.E.E
+178101034,bamisaye,Temidayo,Alaayo,gst1@gmail.com6,A.E.E
+178101102,toluwase,Micheal,Ayodele,gst2@gmail.com7,A.E.E
+168101128,busari,Dolapo,Sheidat,gst1@gmail.com7,A.E.E
+178101061,abegunde,Foyekemi,Maryann,gst2@gmail.com8,A.E.E
+178101036,ogunlokun,Adeleye,T.,gst1@gmail.com8,AEE
+178101005,alade,Abigael,Adepoju,gst2@gmail.com9,AEE
+178101047,fafuroti,Ayomide,O.,gst1@gmail.com9,AEE
+178101010,ojo,Oluwadamilola,Oluwaseun,gst2@gmail.com10,AEE
+178101025,akinleye,Oyinkansola,Mary,gst1@gmail.com10,AEE
+178101002,olubiyi,Moyinoluwa,Olamide,gst2@gmail.com11,AEE
+178101053,otitolaiye,Stella,,gst1@gmail.com2,AEE
+178101066,bankole,Ifeoluwa,Oluwatimilehin,gst2@gmail.com3,AEE
+178101069,olumomi,Olubunmi,O.,,AEE
+178101011,otutu,Chioma,Sandra,,AEE
+178101031,olumoroti,Rereloluwa,Deborah,,AEE
+178101090,alade,Olawale,Samuel,,AEE
+178101055,alonge,Ojo,Philips,,AEE
+178101029,obayemi,Tobi,Dunsin,,AEE
+178101009,awani,Temitope,Alice,,AEE
+178101003,adesina,Ismail,Kolawole,,AEE
+178101018,adeleke,Timothy,A.,,AEE
+178101044,oke,Omotomiwa,Faron,,AEE
+178101016,ogunade,Saheedat,Folakemi,,AEE
+178101065,adefioye,Iyanuoluwa,Ikeade,,AEE
+178101084,aladeyelu,Caleb,Adebowale,,AEE
+178101033,daniel,Hellen,Ovayioza,,AEE
+178101019,fagboyo,Mayowa,Hellen,,AEE
+178101054,osuntuyi,Ayomide,Favour,,AEE
+178101039,akinbode,Peace,Segun,,AEE
+178101056,john,Emmauel,Apochi,,AEE
+178101014,abdulhadi,Salim,Ayomide,,AEE
+178101008,ajayi,Racheal,Odunayo,,AEE
+178101111,adegoke,Dolapo,Funmilayo,,AEE
+178101020,adeyo,Kehinde,Tolulope,,AEE
+178101048,ilegbusi,Ayomide,Clara,,AEE
+178101109,ewuola,Oluwaseyi,Fiyinfoluwa,,AEE
+178101001,olatunbosun,Mobolaji,Victor,,AEE
+178101077,adetoberu,Olukorede,A.,,AEE
+178101013,jolayemi,Toibat,Titilayo,,AEE
+178101012,ogunleye,Temiloluwa,Samuel,,AEE
+178101079,kazeem,Boluwatife,Koretomiwa,,AEE
+178101050,olofintuyi,Ebenezer,B.,,AEE
+178101017,ojubolamo,Yemisi,Deborah,,AEE
+178101060,david,Deji,emmanuel,,AEE
+178101097,akindele,Eriayo,Joshua,,AEE
+178101058,daramola,abiodun,Eunice,,AEE
+178101026,ayodele,Deborah,Oluwagbotemi,,AEE
+178101089,bello,ayomide,Godswill,,AEE
+178101041,aroso,Modupe,Justina,,AEE
+178101035,ayeditan,Deborah,Moyinoluwa,,AEE
+178101022,ojo,Oluwadamilola,Deborah,,AEE
+178101032,ogunleye,Opeyemi,Okokiolaoluwa,,AEE
+178101038,akinyemi,Tolulope,Oladunni,,AEE
+178101075,apata,Kemisola,Zenith,,AEE
+178101072,ilesanmi,Moyinoluwa,Mary,,AEE
+178101024,fayomi,Oluwafunto,B.,,AEE
+178101062,akinyemi,Oluwaseun,Temitope,,AEE
+178431094,ajagbe,OLOLADE,HUSSAIN,,AEE
+75930758AE,oyerele,Precious,Yetunde,,AEE
+178101059,osasuyi,Oluwakemisola,Odunayo,,AEE
+178101021,adedayo,Fikewa,Stella,,AEE
+178101043,adeleke,Grace,Oluwatobi,,AEE
+178101104,shokunbi,Blessing,Modupe,,AEE
+178101073,ariyo,Stella,Sefunmi,,AEE
+178101034,bamisaye,Temidayo,Abayo,,AEE
+178104003,adetoyi,Toluwalope,Racheal,,FWM
+178104002,james,Deborah,Sandra,,FWM
+75694759JF,hamzat,Bukola,Blessing,,SRE
+178103001,taiwo,Jesupelumi,Ifeoluwa,,SRE
+178105002,faremola,Iyanuoluwa,Florence,,SRE
+178106001,oloke,Ifeoluwa,Damilare,,CHL
+178106003,ikusagba,Seyi,Opeyemi,,CHL
+178106005,adeosun,Rofiat,Anuoluwapo,,CHL
+178102013,ogundare,Adeola,Abel,,A.P.H
+178102025,olaniyi,Promise,Deborah,,A.P.H
+178102003,adereolu,Gbenga,Opeyemi,,A.P.H
+178102023,aina,Ayodeji,Oluwatimilehin,,A.P.H
+178102012,onipede,Esther,Kanyinsola,,A.P.H
+178102029,adeshina,Godwin,,,A.P.H
+178102010,akande,Oluwalayo,Samuel,,A.P.H
+178102007,olugboyo,Gbenga,Rapheal,,A.P.H
+178102006,oguntuase,Haruna,Olamide,,A.P.H
+178102015,oyelumade,Oluwatosin,Oluwalope,,A.P.H
+178102005,alabi,Khadijat,Jumoke,,A.P.H
+77042029IB,adisa,Mariam,Bukola,,A.P.H
+178102033,ogunlade,Mary,Olasunbo,,A.P.H
+178102022,shittu,Rahmat,Omonike,,A.P.H
+178102028,oluwasanmi,Blessing,Aanuoluwapo,,A.P.H
+178102019,emmanuel,Excel,Temiloluwa,,A.P.H
+178102011,olusola,Olalekan,Tunde,,A.P.H
+178102021,alofun,Toluwalope,Deborah,,A.P.H
+178102034,odetayo,Oluwakemi,Ibukun,,A.P.H
+178102020,opatola,Bridget,Adefunke,,A.P.H
+178102014,gbogbolomo,Gbenga,Peter,,A.P.H
+178102036,kayode,Oluwapelumi,Joseph,,A.P.H
+178102032,abass,Olatomiwa,Olaide,,A.P.H
+178102031,taiwo,Olamilekan,David,,A.P.H
+178102004,adeleke,Nasirudeen,Aduragbemi,,A.P.H
+178101085,arole,Taiwo,Moses,,A.P.H
+178102041,adaramodu,Oyindamola,Justina,,A.P.H
+17821408,orji,Peter,Obinna,,TMA
+178214042,adebayo,Motunrayo,Ayomide,,TMA
+178214090,ogungbade,Olumide,Esther,,TMA
+178214009,olowojebutu,Ayodele,Oluwaponmile,,TMA
+178214003,ojieabu,Benita,ADEDIWURA,,TMA
+178214057,oladejo,Fayobi,Morenikeji,,TMA
+178214015,benjamin,Monica,Uhrobose,,TMA
+178214043,adeyemi,Titilayo,Opeyemi,,TMA
+178214054,akinoso,Segun,Adewale,,TMA
+178214064,osisaye,Olawumi,Morenikeji,,TMA
+178214017,ayinde,Asisat,Bisola,,TMA
+178214027,olatunji,Omolara,Olajumoke,,TMA
+178214010,ajayi,Olalekan,Dominis,,TMA
+76227001IG,adeleye,Moyosore,Anuoluwapo,,TMA
+178214068,efunwole,Aderonke,Funmilayo,,TMA
+178214006,peoro,Rabmat,Ayomide,,TMA
+178214039,omotoso,Opeyemi,,,TMA
+178214069,olaniyi,Oluwaseun,Emmanuel,,TMA
+178214080,balogun,Tomileye,Temilade,,TMA
+178213001,chukwujekwu,Cornelius,C.,,Religious Sudies
+178213003,isah,Musa,Attilawa,,Religious Sudies
+178213006,olawale,Festus,Jayeola,,Religious Sudies
+178213004,omotayo,Taiwo,Victor,,Religious Sudies
+178213002,adeyemi,Fatuia,Oluwamayowa,,Religious Sudies
+178213007,adebisi,Jeremiah,Oluwatimilehin,,Religious Sudies
+178213009,folorunso,Rashidat,Chunene,,Religious Sudies
+168213012,lawal,Lateef,Lekan,,Religious Sudies
+178213010,lawal,Abdulqayyum,Oladapo,,Religious Sudies
+168213006,ayansola,Kemi,Stella,,Religious Sudies
+178211088,ogunlayi,Kudirat,Abiodun,,Yoruba
+178211095,olayode,Basirat,Olamide,,Yoruba
+178208109,adeoti,Loveth,Taiwo,,ELS
+178208102,paimo-moshood,Sherifat,Oyeronke,,ELS
+178208135,ajewole,Oreoluwa,,,ELS
+178208134,oyedeji,Oyenike,Balikis,,ELS
+178208123,olaoye,Mariam,Omolabake,,ELS
+178208204,anifowose,Adebukola,Mary,,ELS
+178208093,adewumi,Oluwafunto,Felicia,,ELS
+178208185,adesanya,Oluwapelumi,Ayomide,,ELS
+178431094,olukiyesi,OLOLADE,HUSSAIN,,ELS
+178208217,asake,Oluwatobiloba,Blessing,,ELS
+178208120,ajomole,Tobi,Benjamin,,ELS
+178208162,bello,Khadijat,Olabimpe,,ELS
+178208133,olubodun,Mercy,Pelum,,ELS
+178208119,tawose,Mary,Modupe,,ELS
+178208168,adeniran,Oreoluwa,Patricia,,ELS
+178208202,bello,Boluwatife,Eunice,,ELS
+178208160,saliu,Toyin,Funke,,ELS
+76319964IA,adewuya,Oluwaseyi,Victor,,ELS
+75360138AI,akindogbe,Emmanuel,Damilola,,ELS
+178427017,eze,Pascaline,Taiwo,,ELS
+178208181,adebiyi,Damilola,Esther,,ELS
+178208086,adeleye,Adewale,Samuel,,ELS
+178208124,akinola,Adejoke,Idayat,,ELS
+178208195,kasali,Hadijat,Oyinloye,,ELS
+17820893,oguntimehin,Favour,Oluwabusola,,ELS
+,,,,,
+178210115,oluwasesan,Paul,Oluwaseyi,,History
+178210046,olufemi,Susane,Oreoluwa,,History
+178210037,idowu,Ebunoluwa,Grace,,History
+178210033,ayanbiola,Mary,Feranmi,,History
+178210090,akinola,Abdulhameed,Fisayo,,History
+178210014,ape,Temitope,Deborah,,History
+178210065,adejare,Ayobami,Johnson,,History
+178210124,adetola,Laura,Oyinkansola,,History
+178210150,falade,Iyanu,Oluwaseun,,History
+178210105,filade,Oluwasemilore,D.,,History
+178210122,fanusi,Omfolasayo,G.,,History
+178210106,ogunsusi,Bisola,Justinah,,History
+178210087,omidiya,Adebola,Esther,,History
+178210025,kolawole,Oluwaseun,A.,,History
+178210050,ben,Kikelomo,Honesty,,History
+76229730EH,atusibah,Tobiloba,Henry,,History
+158210044,asaolu,Adedayo,Isaac,,History
+178210094,akinyemi,Tolulope,Israel,,History
+178210145,bashorun,Opeoluwa,Babatunde,,History
+178210056,alade,Lydia,Ajoke,,History
+178210036,babatunde,Oluwaseun,,,History
+178210121,ayobami,Ademuyiwa,,,History
+178210096,akinwolemiwa,Oluwabunmi,Kemi,,History
+178210083,okomye,Bisola,Sandra,,History
+178210048,samuel,Tolulope,,,History
+178210079,oyejide,Damilare,Emmanuel,,History
+178210063,ihunweze,Emmanuel,Tochukwu,,History
+178210152,ajayi,Bankole,Oluwabusuyi,,History
+178210098,aladesiun,Aanuoluwa,Johnmary,,History
+178210021,ajayi,Idowu,,,History
+178210126,adepoju,Lolade,Deborah,,History
+178210158,ogundipe,Anthony,Oladapo,,History
+178210132,adeniji,Toluwa,Oluwanifemi,,History
+178210003,owoku,Patricia,Bimbo,,History
+178210043,ojo,Ayoola,Praise,,History
+178210104,ogunleye,Juliet,Ojurere,,History
+178210171,deji-alade,Adebowale,Damilola,,History
+178211008,olotu,Toluwalope,Blessing,,Linguistics
+178211118,alabi,Israel,Olamide,,Linguistics
+178211062,fasakin,DanielOluwatimileyin,,,Linguistics
+76419783FE,aderoju,Adedamola,Adetomi,,Linguistics
+178211055,okunola,Omolola,Anuoluwapo,,Linguistics
+178211086,onah,Eniola,Brooklyn,,Linguistics
+168211064,olajide,Oluwadamilare,Johnson,,Linguistics
+178211067,aderibigbe,Jeminah,Adeyinka,,Linguistics
+178211025,adeboyejo,Blessing,Olamilekan,,Linguistics
+17821106,omoniyi,Omojisola,Motunrayo,,Linguistics
+178211013,sede,Omone,Endurance,,Linguistics
+178211051,olawoore,Tijesuni,Victor,,Linguistics
+178211063,adewumi,Olabamidele,Tope,,Linguistics
+178211152,yusuff,Taslim,Alabi,,Linguistics
+178211054,salami,Selimot,Omolade,,Linguistics
+178211125,sanni,Kausara,Ayoka,,Linguistics
+178211097,aeromi,Elijah,Ojo,,Linguistics
+178211005,olatunji,Adeniyi,Oluwaseun,,Linguistics
+178211031,olowe,Dolapo,Racheal,,Linguistics
+178211044,abdulrasaq,Habeebullahi,,,Linguistics
+178211079,obimakinde,Oluwafunke,Rashidat,,Linguistics
+178211089,adebayo,Oluwatobiloba,Faith,,Linguistics
+178211015,aina,OLUTAYO,Oluwatimileyin,,Linguistics
+7535521CC,adeyemo,Titofumi,Lydia,,Linguistics
+178212080,fakerede,Adeola,Omolara,,Philosophy
+178212116,adegbite,Kolade,Oluwaseun,,Philosophy
+178212115,adegbasoke,Oluwayemisi,Gbemisola,,Philosophy
+178212005,adejumo,Esther,Iyanuoluwa,,Philosophy
+178212106,oluwatayo,Adebimpe,Oluwaponmile,,Philosophy
+178212028,fasua,Francisca,Oluwanifemi,,Philosophy
+178212026,ajayi,Oluwanifesimi,David,,Philosophy
+1402461,ojajuni,Amos,Sunday,,Philosophy
+,,,,,
+178212064,arimoro,Ayomide,Ajani,,Philosophy
+178212070,adepoju,Funke,Damilola,,Philosophy
+178212128,fasusi,Racheal,Onowumi,,Philosophy
+178212121,oni,Emmanuella,Pelumi,,Philosophy
+178212033,akinyemi,Atinuke,Mercy,,Philosophy
+178212099,chukwudi,Mary,Chikadibia,,Philosophy
+178212097,lawal,Ibrahim,Akanni,,Philosophy
+178212002,ogirimah,Olayinka,Ado,,Philosophy
+178212073,arinola,AbuduRalomiu,O.,,Philosophy
+17821202,ani,Alex,Ifeanyi,,Philosophy
+178209007,ojo,Elkanal,Tunde,,French 
+178209012,fadiran,Racheal,Adedoyin,,French
+178209009,awodele,Esther,Ayobami,,French
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178209044,akinola,Blessing,,,French
+178209028,adyanju,Boluwatife,Elizabeth,,French
+178209016,idowu,Blessing,Oluwaferanmi,,French
+178209030,ebea,Joy,Wyc,,French
+178209029,rasheed,Nofisat,M.,,French
+178209031,olaniyi,Suliyat,Olajumoke,,French
+178209050,atoyosoye,Adenike,Olamide,,French
+178209019,odewabi,Oluwatobiloba,S.,,French
+75360319EH,balogun,Mayokun,Patience,,French
+178209045,musa,Racheal,Eniola,,French
+178209040,thomas,Oluwadamilola,Elizabeth,,French
+178209014,ojoare,Oluwatimileyin,,,French
+178209001,olanipekun,Olawumi,Beatrice,,French
+178213001,chukwujekwu,Cornelius,C.,,Religious Sudies
+178213003,isah,Musa,Attilawa,,Religious Sudies
+178213006,olawale,Festus,Jayeola,,Religious Sudies
+178213004,omotayo,Taiwo,Victor,,Religious Sudies
+178213002,adeyemi,Fatuia,Omowumi,,Religious Sudies
+178213007,adebisi,Jeremiah,Oluwatimilehin,,Religious Sudies
+178430090,bamisile,Blessing,Samuel,,Art & Language
+178430072,oluwaseyi,Bunmi,Bolu,,Art & Language
+178427008,onuoha,Oluchi,Maureen,,Art & Language
+178430084,aloba,Taiwo,Tope,,Art & Language
+178430057,awe,Mercy,Olamide,,Art & Language
+178430150,akeredolu,Blessing,Omowumi,,Art & Language
+178430185,alabi,Tomilola,Mary,,Art & Language
+178430078,ogundipe,Deborah,Tijesu,,Art & Language
+178430070,olatoye,Blessing,Funmilayo,,Art & Language
+7570643653,adams,Olufemi,Idris,,Art & Language
+178427001,abanikanda,Christianah,O.,,Art & Language
+178430063,okayide,Oluwayimika,Oluwatomisin,,Art & Language
+178430122,adesuyi,Olufunmilola,Hope,,Art & Language
+178430172,adeoye,Adesola,Timileyin,,Art & Language
+178430047,odeleye,Timileyin,Grace,,Art & Language
+178427006,fadipe,Ruth,Oluwadara,,Art & Language
+178430049,anusiom,GraceChinwongozi,,,Art & Language
+178430169,gabrel,Temitope,Oluwatosin,,Art & Language
+178211110,popoola,Omotoyosi,Lydia,,Linguistics
+178211010,oke,Esther,Oluwatosin,,Linguistics
+17821107,brown,Eunice,Sotonye,,Linguistics
+178211065,olowoyo,Josiah,Toluwaloju,,Linguistics
+178211028,oladokun,Christianah,Olufunmbi,,Linguistics
+178211006,farinu,Deborah,Toluwani,,Linguistics
+178211035,okwuosa,Gloria,A.,,Linguistics
+178211080,ilegbusi,Ayodeji,Comfort,,Linguistics
+178211078,faniyi,SegunTimilehin,,,Linguistics
+178211014,adeyemi,Elizabeth,Modupeoluwa,,Linguistics
+178211036,olajide,Khadijat,Feyikemi,,Linguistics
+178211043,okosi,Alice,Helen,,Linguistics
+178211041,olajide,Adenike,Evelyn,,Linguistics
+178211098,osho,Ifeoluwa,Grace,,Linguistics
+178211046,bassey,Abigail,Uniimeobang,,Linguistics
+178211033,daramola,Mercy,Olamide,,Linguistics
+178211143,victor,Utulu,Victory,,Linguistics
+178211049,opaniran,Bosede,Rebecca,,Linguistics
+178211047,adedayo,Aanuoluwa,Boluwatife,,Linguistics
+178211075,akinmuleya,Pamela,Felicia,,Linguistics
+178211040,animasaun,Remilekun,Oluwaseun,,Linguistics
+178211048,alabi,Zainah,Oyeshola,,Linguistics
+178211022,adeyeye,Olubunmi,Elizabeth,,Linguistics
+178211034,afuye,Ibukun,Olanrewaju,,Linguistics
+178211027,omotayo,Kehinde,Victoria,,Linguistics
+178211012,osatunji,Iyanuoluwa,Esther,,Linguistics
+178211060,chukwu,Chinaza,Sarah,,Linguistics
+178211039,akinade,Dorcas,Aanuoluwapo,,Linguistics
+178211061,ilesanmi,Felicia,Oreoluwa,,Linguistics
+178211024,komolafe,Favour,Olamide,,Linguistics
+178431094,ibrahim,OLOLADE,HUSSAIN,,Linguistics
+76640001EJ,adesomi,Aanuoluwapo,Elizabeth,,Linguistics
+178211011,abosede,Adedamola,Uchechukwu,,Linguistics
+178211032,akintomide,Caroline,Omota,,Linguistics
+178222084,ojewole,Dideoluwa,Mary,,Linguistics
+178211066,akinyele,Funmilayo,Dorcas,,Linguistics
+178211021,famokunde,Bukola,Mercy,,Linguistics
+178211085,afolarin,Clothlda,Damilola,,Linguistics
+178211016,ogundare,Grace,Tomilayo,,Linguistics
+178211030,kayode-awe,Anuoluwapo,Yetunde,,Linguistics
+178211056,faroyeje,Mercy,Abosede,,Linguistics
+178211050,adekunle,Adewumi,Immaculate,,Linguistics
+178211029,abakare,Onome,Eniola,,Linguistics
+178211045,kolawole,Morenikeji,,,Linguistics
+178211129,fatade,Toluwanimi,Esther,,Linguistics
+178211132,sanni,Racheal,Omolola,,Linguistics
+76424319CG,eludini,luwayemisi,Abel,,Linguistics
+178211082,afolabi,Ifeoluwa,Mercy,,Linguistics
+178211069,elutinju,Olusayo,Oyinkansola,,Linguistics
+178211100,ajiboye,Faith,Funke,,Linguistics
+178211004,adebayo,Oluwafisolami,Elizabeth,,Linguistics
+178211094,aribalusi,Ifeoluwa,Olayemi,,Linguistics
+178211087,ogunkunle,Jumoke,Racheal,,Linguistics
+178211111,oladepo,Elijah,Opeyemi,,Linguistics
+178211096,akinyeke,Yemisi,Elizabeth,,Linguistics
+178211017,lambe,Promise,Aduragbemiro,,Linguistics
+178211023,asaolu,Iyanuoluwa,Esther,,Linguistics
+178211081,akintunde,Olasunkanmi,Adesina,,Linguistics
+178211018,jegede,Olubunmi,Abosede,,Linguistics
+178211124,bakare,Rahmat,Esther,,Linguistics
+178211038,afolabi,Afolashade,Elizabeth,,Linguistics
+178211057,alabi,Sarah,Boma,,Linguistics
+178211058,adedesji,Busayo,Esther,,Linguistics
+178211077,oloun-oluwatosin,Hellen,,,Linguistics
+178211073,bello,Busayo,Abosede,,Linguistics
+178211119,akoda,Opeyemi,Blessing,,Linguistics
+178211090,adewale,Adebayo,Titilope,,Linguistics
+178211122,akinyemi,Yakubu,Ayomide,,Linguistics
+76354981HC,ayeremi,Ibukun,Mary,,Linguistics
+178211009,abdul-wasiu,Nafisat,Olamide,,Linguistics
+178211076,ufele,Oluebube,F.,,Linguistics
+178211101,tajudeen,Lateefat,Adenike,,Linguistics
+178211071,olaniyan,Yetunde,Julianah,,Linguistics
+178211068,olawole,Faith,Bidemi,,Linguistics
+178211008,olotu,Toluwalope,Bleesing,,Linguistics
+178211118,alabi,Israel,Olamide,,Linguistics
+178211062,fasakin,DanielOluwatimileyin,,,Linguistics
+76419783FE,aderoju,Adedamola,ADEDIWURA,,Linguistics
+178211055,okunola,Fayobi,Anuoluwapo,,Linguistics
+178211086,onah,Eniola,Brooklyn,,Linguistics
+168211064,olajide,Oluwadamilare,Johnson,,Linguistics
+178211067,aderibigbe,Jeminah,Adeyinka,,Linguistics
+178210035,aina,Oluwaseun,Comfort,,History
+178210016,ajisafe,Onaopemipo,Mary,,History
+178210100,ayeni,Oluwabusayomi,Deborah,,History
+178210127,odunaya,Micheal,Olorunosebi,,History
+178210057,adetayo,Adeyinka,Nathaniel,,History
+178210009,oyelere,Zainab,Adenike,,History
+178210012,clement,Oluwatomisin,Esther,,History
+178210001,adetunji,Oluwaseun,Mercy,,History
+178210002,agunbiade,Opeyemi,Olajumoke,,History
+178210011,falodun,Blessing,Racheal,,History
+178210013,olatunji,Oluwakemi,Testimony,,History
+178210008,dada,Rachael,Eniola,,History
+178210076,faseemo,Akinola,Oluwatope,,History
+178210024,bayewumi,Oluwatobiloba,Goodness,,History
+178210019,boboye,Adebisi,Oluwamayowa,,History
+178210110,ikechukwu,Sessica,,,History
+178210004,folorunso,Morufat,Kanyinsola,,History
+178210027,oladipupo,Mary,Adeola,,History
+178210095,olarinde,Taiwo,Oluwatoyin,,History
+178210093,ajibade,Dorcas,Abisopeoluwa,,History
+178210034,adelusi,Kehinde,Ibukunoluwa,,History
+178210039,aremu,Honour,Oluwafemi,,History
+178210030,faniyi,Glory,Temitope,,History
+178210064,ige,OluwapelumiOdunayo,,,History
+178210084,atere,Olamilekan,Joseph,,History
+178210006,olajuyin,Ifeoluwa,Clement,,History
+178210114,babalola,Oluwaseyi,Precious,,History
+178210026,aluko,Esther,Aduragbemi,,History
+178210099,chukwuka,David,Ojieh,,History
+75928052HB,ogunleye,Oluwatosin,Timilehin,,History
+178431094,tajudeen,OLOLADE,HUSSAIN,,History
+178210117,oluwagbemi,Oreoluwa,,,History
+178210020,ojo,Samson,Olayiwola,,History
+178210040,soladoye,Amidat,O.,,History
+178210045,adefulire,Toluwalase,Samuel,,History
+178210054,ogunsesin,Temitope,Rachael,,History
+178210022,thekuna,Chidira,Emmanuella,,History
+178210015,lateef,Saidat,Kehinde,,History
+178210102,oyetan,Ejio,Opeoluwa,,History
+178210177,hamzat,Hakeem,Dennis,,History
+76826772IB,oni,Olaronke,Omotayo,,History
+178210074,adoide,Adedolapo,Rachael,,History
+178210032,akinnusoye,Blessing,Titilayo,,History
+178210010,aribisala,Ifeoluwa,Eniola,,History
+178210109,ojo,Favour,Temitope,,History
+178210038,adeniyi,Samuel,Oluwadamilare,,History
+178210060,ojo-gbenga,Opeyemi,Joseph,,History
+,,,,,
+178210174,ajiboro,Esther,Inioluwa,,History
+168210018,agbaje,Sefunmi,Hannah,,History
+178210021,olubunmi,Blessing,,,History
+178210036,ojo,Adesola,Joy,,History
+178210143,fatoyinbo,Oluwatobi,Mayokun,,History
+178210091,bello,Odunayo,Blessing,,History
+178210067,anunlopo,Blessing,Opeyemi,,History
+178210189,ayoade,Ayodamope,Joseph,,History
+178210029,adaramola,Deborah,Oluwakemi,,History
+178210051,oyewumi,Bukola,Adefunke,,History
+178210101,oluyede,Precious,Ayodeji,,History
+178210028,adelola,Adebola,Esther,,History
+178210178,adeleye,Taiwo,Hannah,,History
+178210142,arokoya,Funmilayo,Mercy,,History
+178210051,adewuyi,Olugbenga,David,,History
+178210053,akinloye,Muyiwa,David,,History
+178210192,babaagba,Favour,Adeola,,History
+178210112,samuel,Orihijapa,Ayomide,,History
+178210058,bamidele,Blessing,Ayoola,,History
+178210044,loya,Tarih,Violet,,History
+178210017,akinrodoye,Olakunle,Miracle,,History
+178210018,akinwolemiwa,Ayobami,Olamide,,History
+178210055,igbaroola,Ayanfeoluwa,Moses,,History
+178210062,sajowon,Oluwapelumi,Ikepo,,History
+178210128,ojo,Oluwatosin,Abiodun,,History
+178210115,oluwasesan,Paul,Oluwaseyi,,History
+178210046,olufemi,Susane,Oreoluwa,,History
+178210037,idowu,Ebunoluwa,Grace,,History
+178210033,ayanbiola,Mary,Feranmi,,History
+178210090,akinola,Abdulhammed,Fisayo,,History
+178210014,ape,Temitope,Deborah,,History
+178210065,adejare,Ayobami,Johnson,,History
+178214018,olayiwola,Wariz,Samuel,,TMA
+178214050,ubogu,Emmauel,Oghenemaro,,TMA
+178214007,ariyo,Paul,,,TMA
+178214045,olawuyi,Odunola,Abiodun,,TMA
+178214028,oketade,Adenike,Omolola,,TMA
+178214041,adegboyega,Kanyinsola,Magret,,TMA
+178214002,ilesami,Odunayo,Racheal,,TMA
+178214029,akande,Temilola,Ireoluwa,,TMA
+178214040,adetolaju,Adebamisaye,Olu,,TMA
+178914035,okwuani,Chidera,Francis,,TMA
+178214089,oluwaseyi,Daniel,Ayomide,,TMA
+1782114022,abodunrin,Aminat,,,TMA
+178214021,alabi,Beatrice,Uguke,,TMA
+178214055,okeke,Dennis,Kaosisochukuu,,TMA
+178214066,olagunju,Boluwatife,Olamide,,TMA
+178214101,akinola,Bukola,Omotade,,TMA
+17821408,orji,PeterObinna,,,TMA
+178214042,adebayomotunrayo,Ayomide,,,TMA
+178214090,ogungbade,Olumide,Esther,,TMA
+178214009,olowojebutu,Ayodele,Oluwaponmile,,TMA
+178214003,ojieabu,Benita,Omoye,,TMA
+178214057,oladejo,Idowu,Morenikeji,,TMA
+178214015,benjamin,Monica,Uhrobose,,TMA
+178214043,adeyemi,Titilayo,Opeyemi,,TMA
+178214054,akinoso,Segun,Adewale,,TMA
+178214064,osisaye,Olawumi,Morenikeji,,TMA
+178214017,ayinde,Asisat,Bisola,,TMA
+178212009,ayoade,OLUTAYO,Abiodun,,Philosophy
+178212007,alofe,Yemisi,Comfort,,Philosophy
+178212008,alaba,Samuel,,,Philosophy
+178212043,aderobaki,David,Ayodeji,,Philosophy
+178212031,omosebi,Taiwo,Deborah,,Philosophy
+178212013,afenifemi,Omobolanle,Mary,,Philosophy
+178212014,oladibo,Temitope,Oluwaseun,,Philosophy
+178212030,egbina,Omyinye,Eugenia,,Philosophy
+178212025,ayowole,Sunday,Seyi,,Philosophy
+178212006,okere,Chinwe,Perpetual,,Philosophy
+,,,,,
+178212029,adigun,Racheal,Oludayo,,Philosophy
+178212071,chukwuka,Mercy,Ojieh,,Philosophy
+178212044,aremu,Damilola,Tobiloba,,Philosophy
+178212011,mayomi,Enitan,Emmanuel,,Philosophy
+178212027,onibusola,Deborah,Anuduwapo,,Philosophy
+178212078,mba,Rejoice,Chitunyeremugo,,Philosophy
+178212034,okafor,Anihony,Ikechukwu,,Philosophy
+178212024,olasugbagbe,Abisola,Joy,,Philosophy
+178212095,peter,Faith,Oluwabunmi,,Philosophy
+178212035,desalu,Shina,Olawale,,Philosophy
+178212037,adeniran,Rachael,Oluwaferanmi,,Philosophy
+178212001,daramola,Olamide,Ayomide,,Philosophy
+178212114,olatunji,Precious,Ajiboye,,Philosophy
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178212041,ibidapo,Oluwafemi,Victor,,Philosophy
+178212019,olaiya,Susan,Taiwo,,Philosophy
+178212016,olagbenjo,Mariam,Olabisi,,Philosophy
+178212023,asajin,Emmanuel,Timileyin,,Philosophy
+178212042,emuadema,Mary,Opeyemi,,Philosophy
+178212056,folorunsho,Funmilayo,,,Philosophy
+178212093,morawo,Damilare,Samuel,,Philosophy
+178212113,famosinpe,Oluwatimilehin,,,Philosophy
+178212092,aturamu,Nifemi,Josephine,,Philosophy
+178212100,akanji,Oluwatobiloba,Esther,,Philosophy
+178212017,akinwolade,Racheal,Ayosami,,Philosophy
+178212039,agunloye,Oluwapelumi,Blessing,,Philosophy
+178212012,agbaje,Maryma,Abolanle,,Philosophy
+178212062,ojo,Oluwatoyin,Daniella,,Philosophy
+178212069,igbasa,Eucharia,Ishioma,,Philosophy
+178212018,ojo,Esther,Fiyinfoluwa,,Philosophy
+178212036,oguntoye,Abosede,Ayomide,,Philosophy
+178212046,falua,Oluwaseun,Bamidele,,Philosophy
+178212061,micheal,Ruth,,,Philosophy
+178212096,akanle,Sekemi,Odunayo,,Philosophy
+178212047,jayeoba,Taiwo,Tosin,,Philosophy
+178212110,oshikanmi,Tinuola,Abibat,,Philosophy
+178212053,olanipekun,Temitope,Joseph,,Philosophy
+178212075,bankole,Oyindamola,Ayomide,,Philosophy
+178212022,olarewaju,Naomi,Opemipo,,Philosophy
+77066716DB,adegbesan,Iyanuoluwa,Esther,,Philosophy
+178212048,asaba,Opeyemi,Stephen,,Philosophy
+75904556EA,adekeyo,Abayomi,Seun,,Philosophy
+178212080,fakerede,Adeola,Omolara,,Philosophy
+178212116,adegbite,Kolade,Oluwaseun,,Philosophy
+178212115,adegbasoke,Oluwayemisi,Gbemisola,,Philosophy
+178212005,adejumo,Esther,Iyanuoluwa,,Philosophy
+178212106,oluwatayo,Adebimpe,Oluwaponmile,,Philosophy
+178212028,fasua,Francisca,Oluwanifemi,,Philosophy
+178212026,ajayi,Oluwanifesimi,David,,Philosophy
+1402461,ojajuni,Amos,Sunday,,Philosophy
+168212001,idehen,Samuel,Orobosa,,Philosophy
+178208090,agboola,Tomilola,Adeola,,ELS
+178208075,agbaje,Blessing,Oluwabukola,,ELS
+178208054,joshua,Rhoda,Temitope,,ELS
+178208001,ajao,Priscilla,Adebola,,ELS
+178208189,adeniran,Mariam,Adedayo,,ELS
+178208091,ajayi,Oluwatoyin,Abiodun,,ELS
+178208005,adetule,Adetutu,Oluwapelumi,,ELS
+178208097,ilegbusi,Kehinde,Oluwasekejimi,,ELS
+178208087,daniel,Flamish,Iniada,,ELS
+178208027,adaralegbe,Damilola,Emmanuel,,ELS
+178208029,ologundudu,Eniola,Adenike,,ELS
+178208022,adigun,Grace,Aderonke,,ELS
+178208014,ojo,Deborah,Odunayo,,ELS
+178208072,ogunmola,Mary,Oluwabukola,,ELS
+178208046,dada,Adesewa,Aduragbemi,,ELS
+178208002,omoniyi,Victoria,Oluwapelumi,,ELS
+178208092,kolawole,DamilolaPatience,,,ELS
+178208143,fadare,Victoria,Oluwatoyin,,ELS
+178208033,ayeni,Bisola,Jumoke,,ELS
+178208125,abiodun,Olaoluwa,Gabriel,,ELS
+178208151,badmus,Olalekan,Oladipupo,,ELS
+178208096,awotunde,Olawanifemi,Olubunmi,,ELS
+178208044,adigun,Faizat,Adedamola,,ELS
+178208034,ishola,Racheal,Bose,,ELS
+178208068,olajide,Faith,Toluwani,,ELS
+178208144,oluyemi,Oluwapelumi,Precious,,ELS
+178208051,ayenigba,Ayobola,Esther,,ELS
+178208015,ologede,Comfort,Oluwatimilehin,,ELS
+178208150,olaoye,Tawakalt,Adeola,,ELS
+178208050,ogunlade,Catherine,Temilayo,,ELS
+178431094,ajayi,OLOLADE,HUSSAIN,,ELS
+178208078,olubusoye,Abimbola,Mary,,ELS
+178208113,akintola,Bolanle,Jolade,,ELS
+178208177,olayemi,Yemisi,Felicia,,ELS
+178208121,ogunyomi,Blessing,Samuel,,ELS
+178208026,taiwo,Temitope,Dorcas,,ELS
+178208024,akanbi,Damiloa,Wuraola,,ELS
+178208048,sunday,Abimbola,Oluwakemisola,,ELS
+178208012,amao,Sayo,Oluwaboyin,,ELS
+178208070,adeniyi,Damilola,Martina,,ELS
+178208010,adeola,Marvellous,Opeyemi,,ELS
+178208146,lawal,Temitayo,Abibat,,ELS
+178208079,adetia,Adepeju,Grace,,ELS
+178208074,oguntuyi,Abosede,Olayinka,,ELS
+178208083,alagbe,Adeola,Praise,,ELS
+178208139,ajoloko,Gloria,Oluwatosin,,ELS
+178208025,oluwasemire,Ifeoluwa,Abel,,ELS
+178208071,ogunleye,Tolulope,Mercy,,ELS
+178208032,adewole,Kemi,Ruth,,ELS
+178208055,olaiya,Kehinde,Temitope,,ELS
+178208131,ajayi,Elizabeth,Oluwabusayo,,ELS
+178208008,okimi,Taiwo,Richard,,ELS
+178208021,olorunfemi,Mary,Yetunde,,ELS
+178208045,oluwagbemi,Oluwagbohunmi,Ayomide,,ELS
+178208011,fabiyi,Folasade,Ruth,,ELS
+178208064,felix,Rosemary,Nneka,,ELS
+178208110,olaiya,Nifesimi,Grace,,ELS
+178208137,osonbiyi,Gbenga,Emmanuel,,ELS
+178208148,fajuyi,Eniola,Eunice,,ELS
+178208004,joshua,Rahmat,,,ELS
+178208165,alli,Rofiat,Wuraola,,ELS
+178208043,apejua,Kehinde,Oluwafunke,,ELS
+178208136,olugbaro,Funmilayo,Dorcas,,ELS
+178208095,fajana,Damilola,Peace,,ELS
+178208223,dedeigbo,Oluwadamilare,Samuel,,ELS
+178208042,aliyu,Abdulafeez,Oluwafemi,,ELS
+178208063,oladebo,Joshua,Temitope,,ELS
+178208158,adegoke,Adebisi,Emmanuel,,ELS
+178208116,bolarinwa,Ayomide,Alo,,ELS
+178208126,ajibola,Ibunoluwa,Kemi,,ELS
+178208037,ogbodo,Ozioma,Favour,,ELS
+178208023,alagbe,Olufemi,Emmanuel,,ELS
+178208056,akinkunmi,Oluwafemi,Shola,,ELS
+178208003,alatise,Adedeji,Samuel,,ELS
+178208112,ayilana,Ifetayo,Fatimah,,ELS
+178208100,yusuf,Ameedat,Bolatito,,ELS
+178208163,gbadebo,Timileyin,Racheal,,ELS
+178208115,adeleye,Oluwafadekemi,ADEDIWURA,,ELS
+178208142,adejola,Fayobi,Olutola,,ELS
+178208066,olanrewaju,Kehinde,Veronica,,ELS
+178208157,akume,Favour,Victoria,,ELS
+178208052,olowofila,Janet,Oluwaseun,,ELS
+178208182,rotifa,David,Ayodeji,,ELS
+178208164,adekunle,Bukunmi,Christinah,,ELS
+178208219,adedeji,Bose,Omoyemi,,ELS
+178208080,bamidele,Oluwaseyi,Temitayo,,ELS
+178208105,oludamiro,Oluwakemi,Ann,,ELS
+178208104,adedeji,Ebunoluwa,Oluwapelumi,,ELS
+178208069,adejumo,Adelani,Isaac,,ELS
+178208028,adedigba,Adeola,Oluwapelumi,,ELS
+178208030,afolabi,Abimbola,Oluwaferanmi,,ELS
+178208127,olubolade,Opemipo,Titilope,,ELS
+178208106,david,Deborah,Temitope,,ELS
+178208132,awe,Folasade,Bolarinwa,,ELS
+178208053,sanumi,Ezekiel,Oluwasanmi,,ELS
+178208076,adelaja,Adewumi,Elizabeth,,ELS
+178208085,bamgbose,Sodiq,Oluwamayowa,,ELS
+178208035,adeniran,Olajumoke,Temitope,,ELS
+178208039,niyi-ojo,ELIZABETH,OMOLOLA,,ELS
+178208041,oladapo,Ayomide,Funmilayo,,ELS
+178208084,daramola,Deborah,Olajumoke,,ELS
+178208067,akande,Christianah,Oluwaseun,,ELS
+178208059,ohunayo,Simisola,Ayomide,,ELS
+178208062,agboola,Oluwatoyin,Esther,,ELS
+178208198,ola-olatunji,Oladayo,,,ELS
+178208138,oyeyemi,Victoria,Oluwatimileyin,,ELS
+178208065,ale,Susan,Oluwatomiwa,,ELS
+178208107,adeyanju,Sunday,Kolawole,,ELS
+178208089,kayode,Seyi,,,ELS
+178208058,oladele,Precious,Ifebusola,,ELS
+178208057,adebanjo,Adenike,Magret,,ELS
+178208019,olukonu,Temidayo,Blessing,,ELS
+178431094,olugbenga,OLOLADE,HUSSAIN,,ELS
+178208190,ajayi,Oluwakemisola,Comfort,,ELS
+178208108,odeyemi,Faith,Segun,,ELS
+178208020,olusanya,Favour,Bukola,,ELS
+178208161,omoyeni,Olamitan,Enitan,,ELS
+178208007,oni,Temitope,Shulammite,,ELS
+178208098,ibidun,Romoke,Esther,,ELS
+178208038,oladimeji,Damilola,Catherine,,ELS
+178208118,akeem,Zainab,Olayinka,,ELS
+178208196,okosi,Mary,Destiny,,ELS
+178208114,bello,Kemisola,Adedamola,,ELS
+178208192,ojoawo,Christianah,Oluwaferanmi,,ELS
+168208070,jayeola,Adenike,Esther,,ELS
+178208061,famakinde,Tolulope,Oluwabunmi,,ELS
+178208077,ibrahim,Blessing,Nifemi,,ELS
+178208179,adelegan,Oyindamola,Mary,,ELS
+178208111,ojo,Monisola,Grace,,ELS
+,,,,,
+178208016,ajibola,Miracle,Kemisola,,ELS
+178208117,babalola,Ayomiposi,Marvellous,,ELS
+178208018,omowaye,Hoyce,Busola,,ELS
+178208140,akinyede,Oluwadamilola,Mary,,ELS
+178208205,oni,Gloria,Yejide,,ELS
+178208156,oni,Mary,Oluwadamilola,,ELS
+178208222,aderamoye,Iyanuoluwa,Deborah,,ELS
+178208145,apanisile,Oluwatoyin,Eunice,,ELS
+178208149,nwankwo,Favour,Modupe,,ELS
+178208017,aina,Boluwatife,Stella,,ELS
+178208009,ogunnusi,Omotayo,Precious,,ELS
+178208187,idowu,Ayodele,Oluwaseun,,ELS
+178208036,ajayi,Oso,Olawande,,ELS
+178208180,orimoogunje,Mopelola,Aanuoluwa,,ELS
+178208191,olawumi,Olaniyan,,,ELS
+178208073,ojo,Mercy,Auragbemi,,ELS
+178208099,momodu,grace,Efe,,ELS
+178208147,falayi,Sefunmi,Mercy,,ELS
+178208211,adebolu,Loveth,Bisola,,ELS
+178208081,alaba,Rhoda,Aina,,ELS
+178208166,igwe,Blessing,Amaka,,ELS
+178208109,adeoti,Loveth,Taiwo,,ELS
+178208102,paimo-moshood,Sherifat,Oyeronke,,ELS
+178208135,ajewole,Oreoluwa,,,ELS
+178208134,oyedeji,Oyenike,Balikis,,ELS
+178208123,olaoye,Mariam,Omolabake,,ELS
+178208204,anifowose,Adebukola,Mary,,ELS
+178208093,adewumi,Oluwafunto,Felicia,,ELS
+178208185,adesanya,Oluwapelumi,ayomide,,ELS
+178434001,jimoh,SIDIKAT,FUNMILAYO,,G & C
+178434003,ikpuri,OGHENEVWEGBA,THEODORE,,G & C
+178434026,nwanze,NONSO,ALEX,,G & C
+178434007,oyetoro,DEBORAH,RONKE,,G & C
+178434013,badmus,WALIAT,AYOMIDE,,G & C
+178434005,subor,EMMANUEL,DOUBA,,G & C
+178434022,oyedele,OYERONKE,FELICIA,,G & C
+178434011,akintaro,CHRISTIANA,DAMILOLA,,G & C
+178434030,adegboyega,OLUWATOBI,JUMOKE,,G & C
+178434000,osunyemi,AANUOLUWAPO,ENIOLA,,G & C
+178434028,ilesanmi,ROTIMI,DAVID,,G & C
+178434025,oluyemi,OLUWAFUNMILAYO,A.,,G & C
+178434015,oyerinde,TEMITOPE,BILIKIS,,G & C
+178431075,falade,EBUNOLUWA,G.,,G & C
+178434002,agboola,BOBOYE,MOSES,,G & C
+178434004,moses,OLUWAKEMI,OLUWATOSIN,,CHILDHOOD EDU
+178434006,oloyede,MARY,TOLUWASE,,CHILDHOOD EDU
+178426002,joseph,IFEJESU,LYDIA,,ADULT EDU
+178430001,adedayo,DOLAPO,ROFIAT,,PHYSICS
+178433060,otegbeye,AISHAT,AYOBAMI,,V.T.E AGRIC
+178433071,odeniran,ROSELINE,TEMITOPE,,V.T.E AGRIC
+178433027,oluwasegun,PETER,TIMILEYIN,,V.T.E AGRIC
+178433117,oluwasegun,PETER,TIMILEYIN,,V.T.E AGRIC
+178430058,aluko,OLUWASEUN,OLAREMI,,ENG EDU
+178430095,aduloju,EMMANUEL,OLUWATOBI,,ENG EDU
+178427018,ajewole,ITUNU,OLUWATOBI,,ENG EDU
+178430052,olatunji,RUKAYAT,OLAYEMI,,ENG EDU
+178431059,adebayo,FATIMAH,ATINUKE,,SOCIAL STUDIES
+7575247613,alao,BUKOLA,OMOYEMI,,SOCIAL STUDIES
+178431009,gbadegesin,AYOMIDE,MARY,,SOCIAL STUDIES
+178431054,jeje,OLUTAYO,DEBORAH,,SOCIAL STUDIES
+178431020,igwe,BLESSING,RITA,,SOCIAL STUDIES
+178431085,abel,TAIWO,ABIGAEL,,SOCIAL STUDIES
+178431074,adejinle,TOYIN,FLORENCE,,SOCIAL STUDIES
+178431078,musiliu,ISLAMIAT,AJOKE,,SOCIAL STUDIES
+178431069,adebayo,IFEOLUWA,,,SOCIAL STUDIES
+178430096,orimaye,AYOMIDE,SAMUEL,,MATHS EDU
+178430002,adedigba,ADEKOLA,JACOB,,MATHS EDU
+178430006,oladele,MARGARETTE,OYINLOLA,,MATHS EDU
+178433014,osedayo,JOANNAH,IDOWU,,ACCOUNTING EDU
+,,,,,
+178433009,adebero,OLUWAGBEMISOLA,DEBORAH,,ACCOUNTING EDU
+178433099,bankole,BLESSING,JOHN,,ACCOUNTING EDU
+178433015,olujoro,IBUKUN,OLUWATOWOJU,,ACCOUNTING EDU
+178433007,ajayi,BOLATITO,,,ACCOUNTING EDU
+178433092,azeez-pelumi,MUINAT,,,ACCOUNTING EDU
+178433054,olayinka,TITILAYO,VICTORIA,,ACCOUNTING EDU
+178433061,oyewo,ABIODUN,RACHEAL,,MARKETING EDU
+178430009,asiyanbola,DAMILOLA,SUNDAY,,CHEM EDU
+7637205690,kehinde-david,PEACE,ADESOLA,,CHEM EDU
+178430159,bakare,JUSTINA,BOLADE,,CHEM EDU
+178430086,alabi,JOSHUA,OLUWASOLA,,CHEM EDU
+178430141,owoyemi,ABIMBOLA,HALIMAT,,CHEM EDU
+178430119,ayeola,JOSHUA,TOPE,,BASIC EDU
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178430116,nzeadadue,PRECIOUS,ADAEZE,,BASIC EDU
+178434027,durodola,ESTHER,JUMOKE,,BASIC EDU
+178428001,olanigbehin,BEATRICE,MOJISOLA,,EMT
+178428003,ebiem,EUNICE,CHINASA,,EMT
+178428007,moshood,RUTH,OLABISI,,EMT
+178428009,akinyele,TEMILOLUWA,MARY,,EMT
+178428008,ominiyi,FLORENCE,IYANU,,EMT
+178428015,azeez,BARAKAT,MOSUNMOLA,,EMT
+178428019,olatunbosun,SULIYAH,DASOLA,,EMT
+178428024,uzebu,VICTORIA,OLUWATOMISIN,,EMT
+1400607,boboye,TEMITOPE,OLUWAFUNMILAYO,,EMT
+178428002,animashaun,MISTUN,AGBEKE,,EMT
+178428020,umolo,FELICIA,IHOTU,,EMT
+178428012,shonibare,MOJISOLA,OMOWUNMI,,EMT
+178428018,ologunowa,IYADUNNI,OMOWUMI,,EMT
+158428027,bakare,MUJEEB,ADEKUNLE,,EMT
+178428001,olanigbehin,BEATRICE,MOJISOLA,,EMT
+178428003,ebiem,EUNICE,CHINASA,,EMT
+178428007,moshood,RUTH,OLABISI,,EMT
+178428009,akinyele,TEMILOLUWA,MARY,,EMT
+178428008,ominiyi,FLORENCE,IYANU,,EMT
+178428015,azeez,BARAKAT,MOSUNMOLA,,EMT
+178428019,olatunbosun,SULIYAH,DASOLA,,EMT
+178428024,uzebu,VICTORIA,OLUWATOMISIN,,EMT
+1400607,boboye,TEMITOPE,OLUWAFUNMILAYO,,EMT
+178428002,animashaun,MISTUN,AGBEKE,,EMT
+178428020,umolo,FELICIA,IHOTU,,EMT
+178428012,shonibare,MOJISOLA,OMOWUNMI,,EMT
+178428018,ologunowa,IYADUNNI,OMOWUMI,,EMT
+158428027,bakare,MUJEEB,ADEKUNLE,,EMT
+178429007,odediran,BASIT,DARE,,H.E.D
+178429020,moses,EMEDIONG,ASUQUO,,H.E.D
+178429004,daramola,MONIKANAYO,EBUNTUNDE,,H.E.D
+178429003,seriki,NOFISAT,TAIWO,,H.E.D
+178429041,okon,HELEN,BOSE,,H.E.D
+178429018,akinola,VICTORIA,OLUWATOMI,,H.E.D
+178429013,olalere,OLUWASEYI,RACHEAL,,H.E.D
+178429024,bello,WALIYAT,OYEWUMI,,H.E.D
+178429026,adeleke,ADESERERE,SAVIOUR,,H.E.D
+178429028,badejo,OLUWATOYOSI,ESTHER,,H.E.D
+178429009,eze,ONYEKA,BLESSING,,H.E.D
+178429015,adeogun,ANJOLA,REBECCA,,H.E.D
+178429027,falade,IMOLEAYO,OLUBUKOLA,,H.E.D
+178429014,awoyemi,ABIDEMI,SULIYAT,,H.E.D
+178429001,ilegbusi,AKEEM,ADEWALE,,K.H.E
+178429033,ebimomi,ADESHEWA,OLUWABUKOLA,,K.H.E
+178429022,yusuf,AISHAT,NIFEMI,,K.H.E
+178429023,sunday,ROSELINE,QUEEN,,K.H.E
+178429006,oladejo,JACOB,TUNDE,,K.H.E
+178429021,adene,OLUWADUNSIN,STELLA,,K.H.E
+178429016,adebayo,JANET,PEACE,,K.H.E
+178429012,ojuade,DAMILOLA,LYDIA,,K.H.E
+178429011,akande,AYOOLA,MOTUNRAYO,,K.H.E
+178429002,omojuwa,EMMANUEL,SOJI,,K.H.E
+178429030,ogunyemi,OLUWAREMILEKUN,JANET,,K.H.E
+178429025,ayoola,DAMILOLA,YETUNDE,,K.H.E
+178429005,ojelabi,BLESSING,JOSHUA,,K.H.E
+178429031,ayoola,VICTORIA,FUNMILAYO,,K.H.E
+178434001,jimoh,SIDIKAT,FUNMILAYO,,G & C
+178434003,ikpuri,OGHENEVWEGBA,THEODORE,,G & C
+178434026,nwanze,NONSO,ALEX,,G & C
+178434007,oyetoro,DEBORAH,RONKE,,G & C
+178434013,badmus,WALIAT,AYOMIDE,,G & C
+178434005,subor,EMMANUEL,DOUBA,,G & C
+178434022,oyedele,OYERONKE,FELICIA,,G & C
+,,,,,
+178434030,adegboyega,OLUWATOBI,JUMOKE,,G & C
+178431094,osunyemi,OLOLADE,HUSSAIN,,G & C
+178434028,ilesanmi,ROTIMI,DAVID,,G & C
+178434025,oluyemi,OLUWAFUNMILAYO,A.,,G & C
+178434015,oyerinde,TEMITOPE,BILIKIS,,G & C
+178431075,falade,EBUNOLUWA,G.,,G & C
+178434002,agboola,BOBOYE,MOSES,,G & C
+178431050,dada,OLUWADAMILOLA,SAMUEL,,ECONOMICS EDU
+178431039,awoyemi,BASILIA,AYOOLA,,ECONOMICS EDU
+178431072,oladipo,DAMILOLA,ESTHER,,ECONOMICS EDU
+178431056,olatoye,BUSUYI,SOLOMON,,ECONOMICS EDU
+178431047,hammed,HAJARAT,AJOKE,,ECONOMICS EDU
+178431029,akpedieme,MARY,ELOKHAISOMT,,ECONOMICS EDU
+178431016,akindutire,OPEOLUWA,EMMANUEL,,ECONOMICS EDU
+178431061,ebere,MERCY,KELECHI,,ECONOMICS EDU
+178431010,adeaje,ELIZABETH,ABOSEDE,,ECONOMICS EDU
+178431017,bisiriyu,QUDUS,BABATUNDE,,ECONOMICS EDU
+178431043,afolayan,KEHINDE,Abel,,ECONOMICS EDU
+178431073,adetona,FUNKE,,,ECONOMICS EDU
+178431060,olawoyin,SHOLA,YUSUF,,ECONOMICS EDU
+178431036,onija,ALAYO,ESTHER,,ECONOMICS EDU
+178431049,ajagbonna,BLESSING,SINMIBOWALE,,ECONOMICS EDU
+178430121,emmanuel,OLUWANIFISE,AYOMIDE,,COMPUTER SCIENCE
+178430036,jegede,PHILEMON,OMOLAYO,,COMPUTER SCIENCE
+178430017,adekunle,AYOMIDE,FAITH,,COMPUTER SCIENCE
+178430038,obisanya,SAMUEL,OLUWAMAYOWA,,COMPUTER SCIENCE
+178430028,duru,AMAKA,,,COMPUTER SCIENCE
+178430029,fagbenjo,ESTHER,OLADAYO,,COMPUTER SCIENCE
+178430034,ukpai,ROSELYN,OGHALE,,COMPUTER SCIENCE
+178430135,orioye,OYINKANSOLA,ABIMBOLA,,COMPUTER SCIENCE
+178430120,ganiyu,Rahmat,ADISA,,COMPUTER SCIENCE
+178430022,ogundele,OLASUNKANMI,GBENGA,,COMPUTER SCIENCE
+178430064,falua,MAYOWA,SAMUEL,,COMPUTER SCIENCE
+178430110,emilolorun,ALICE,OLUWASEUN,,COMPUTER SCIENCE
+178430098,adelani,ISRAEL,TAIWO,,COMPUTER SCIENCE
+178430148,olukunyon,DANIEL,KELVIN,,COMPUTER SCIENCE
+178430031,joshua,BEATRICE,GLADICE,,COMPUTER SCIENCE
+178430040,salau,AMINAT,OMOBOLAJI,,COMPUTER SCIENCE
+178430140,olajide,OPEYEMI,SUNDAY,,COMPUTER SCIENCE
+178430134,adeyinka,COLLINS,OLUWAFEMI,,COMPUTER SCIENCE
+178430074,adebayo,OLANREWAJU,SAMSON,,COMPUTER SCIENCE
+178430032,isekiigbe,ADEKUNLE,SAMUEL,,COMPUTER SCIENCE
+178430163,edogha,JOSHUA,OJEFUNMIKE,,COMPUTER SCIENCE
+178430068,oladiran,OLABODE,ALEXANDER,,COMPUTER SCIENCE
+178430154,fatokun,ABIDEMI,ATINUKE,,COMPUTER SCIENCE
+178430124,ashifat,RUKAYAT,MOROMOKE,,COMPUTER SCIENCE
+178430041,adebayo,REBECCA,DAMILOLA,,COMPUTER SCIENCE
+178430010,apara,AYOMIDE,SODIQ,,COMPUTER SCIENCE
+178430109,abdul,SALAM,ADEDIWURA,,COMPUTER SCIENCE
+178430178,olagunju,Fayobi,LANRE,,COMPUTER SCIENCE
+178430200,akinwunmi,MORENIKEJI,MOYOSORE,,COMPUTER SCIENCE
+178430166,mba,SAVIOUR,CHIGOZIRIM,,COMPUTER SCIENCE
+178430023,odesehinde,FESTUS,AYODEJI,,COMPUTER SCIENCE
+178430044,akande,DAVID,AYODEJI,,COMPUTER SCIENCE
+178430117,bello,ABDULRASAK,BAMIDELE,,COMPUTER SCIENCE
+178430167,minadiki,ANDREW,TEKENA,,COMPUTER SCIENCE
+178430097,oyewale,SAMUEL,TAYO,,COMPUTER SCIENCE
+178430170,nwobi,ARINZE,FRANK,,COMPUTER SCIENCE
+178430125,ogabi,QUADRI,ABAYOMI,,COMPUTER SCIENCE
+178430179,asiribo,PEACE,AKINTAYO,,COMPUTER SCIENCE
+178431053,adesida,ELIZABETH,FADEKEMI,,POL. SCIENCE EDU
+178431005,falade,ADEKOYA,ABIODUN,,POL. SCIENCE EDU
+178428004,ajepe,HEZEKIAH,OLUWASEGUN,,POL. SCIENCE EDU
+178431002,omolade,DAVID,ABIODUN,,POL. SCIENCE EDU
+178431083,omolade,MOTUNRAYO,OYINDAMOLA,,POL. SCIENCE EDU
+178431008,onwodinaka,CHUKWEMEKA,,,POL. SCIENCE EDU
+178431007,kehinde,ISRAEL,OLUWAFUNMINIYI,,POL. SCIENCE EDU
+178431028,osinleye,JANET,Oluwamayowa,,POL. SCIENCE EDU
+178431014,ademiluyi,ADETOYOSI,OSAMUDIAME,,POL. SCIENCE EDU
+178431023,folorunso,MIRACLE,KEMISOLA,,POL. SCIENCE EDU
+178431062,adekanbi,RAPHAEL,OLADAPO,,POL. SCIENCE EDU
+178431012,agbo,JAMES,STEPHEN,,POL. SCIENCE EDU
+178431018,marvellous,PROGRESS,LOVETH,,POL. SCIENCE EDU
+178431025,adebayo,GRACE,AYOMIDE,,POL. SCIENCE EDU
+178431032,ologun,OLUWAKEMI,OLUWATOSIN,,POL. SCIENCE EDU
+178431063,oloyede,SOFIYAT,,,POL. SCIENCE EDU
+178431045,omolade,TEMITOPE,OLAMIDE,,POL. SCIENCE EDU
+178431033,abdulrahmon,MARIAM,MOTUNRAYO,,POL. SCIENCE EDU
+178431001,omotoso,TAIWO,JUSTINAH,,POL. SCIENCE EDU
+178431026,ayodele,EMMANUEL,OLUWASEUN,,POL. SCIENCE EDU
+178431040,isaac,OLUWASEUN,JOHN,,POL. SCIENCE EDU
+178431067,agboola,OLAITAN,FUNMILAYO,,POL. SCIENCE EDU
+178431027,isatayo,MOSES,MIRACLE,,POL. SCIENCE EDU
+178431094,amusan,OLOLADE,HUSSAIN,,POL. SCIENCE EDU
+178431041,ariyo,DANIEL,OLUWATIMILEHIN,,POL. SCIENCE EDU
+178431082,adedoyin,OLAJUMOKE,ABIMBOLA,,POL. SCIENCE EDU
+178431048,peters,FRANK,TEMITAYO,,POL. SCIENCE EDU
+178431015,awoniyi,ROKEEB,OPEYEMI,,POL. SCIENCE EDU
+178431004,dada,OLUWATOYIN,MARY,,POL. SCIENCE EDU
+178431076,alabi,KEHINDE,TOYIN,,POL. SCIENCE EDU
+178431077,bhadmus,MARIAM,AKOREDE,,POL. SCIENCE EDU
+178428103,fatona,ABIOLA,MOTUNRAYO,,POL. SCIENCE EDU
+178431021,oguntuyi,ISAAC,DAMILARE,,POL. SCIENCE EDU
+178431079,adedire,PELUMI,OLUWATIMILEYIN,,POL. SCIENCE EDU
+178433045,ashaolu,FRIDADAY,TOSIN,,V.T.E
+178433029,williams,RERELOLUWA,DEBORAH,,VTE/ L/S
+178433075,oladiran,OLUWASEUN,OMOWUMI,,VTE
+178433046,ajayi,PETER,OLUWAFEMI,,VTE/ L/S
+178433002,olorungbemi,DEJI,SAMUEL,,VTE/ L/S
+178433056,mbanefo,LYDIA,CHISOM,,VTE(EDU TECH)
+,,,,,
+178433024,ibikunle,QUADRI,OLUMIDE,,VTE/BUS EDU/ACC
+178433030,popoola,STELLA,TAIWO,,VTE/BUS EDU/ACC
+178433081,popoola,EMMANUEL,KEHINDE,,VTE/BUS EDU/ACC
+178433016,james,MOJISOLA,DUPE,,VTE/BUS EDU/ACC
+178433011,eluyera,OPEYEMI,KEHINDE,,VTE/BUS EDU/ACC
+178433072,omoyungbo,RACHAEL,A.,,VTE(AGRIC)
+178433063,eleonu,GIFT,ONYINYECHI,,VTE/BUS EDU
+178433044,adelani,OLUWATOYIN,CHRISTIANAH,,VTE/OTM
+178433103,abayomi,AYODEJI,FAITH,,VTE(EDU TECH)
+178433004,akanrin,TOSIN,TERESA,,VOC & TECH
+178433017,akinade,ESTHER,OMOWUMI,,LIBRARY SCIENCE
+178433098,abal,FAITH,OJO,,ACCOUNTING
+178433022,ogunremi,GRACE,YETUNDE,,VTE (BUS EDU)
+178433095,adeyemo,MICHAEL,TEMITOPE,,VTE (BUS EDU)
+178433026,adeyemi,HAPPINESS,VINCENT,,VTE/TECH/ELECT
+178433067,olayiwola,AFEEZ,TUNDE,,VTE/AGRIC EDU
+178433008,ogunmodede,BUKUNMI,JOSHUA,,VTE/LIBRARY
+178433064,olaniyi,MOJEED,ABEFE,,VTE/BUILDING
+178433041,adekanola,ADEDOLAPO,T.,,V.T.S/LIBRARY
+178433076,oriola,ABOSEDE,ENIOLA,,VTE EDU TECH
+178433055,jebbe,FOLASHADE,BARAKAT,,VTE/MARKETING
+178433121,jimoh,AMINAT,ENIOLA,,VTE/MARKETING
+  79242566JG,ajagbe,ROFICIA,ADEOLA,,VTE BUS EDU/MKT
+178433051,okeowo,DEBORAH,TEMITOPE,,VTE/EDU TECH
+178433050,jabita,MODINAT,ABOLANLE,,VTE/EDU TECH
+178433047,afolabi,PAUL,GBENGA,,VTE/ ACC
+178433068,orabiyi,OPEYEMI,YETUNDE,,VTE/ L/S
+1784330011,omoyajowo,ELIZABETH,ADEOLA,,VTE/ L/S
+178433019,ojamo,ISAIAH,ADEYEMI,,VTE/ L/S
+178433033,afolayan,OYEBOLA,OMOWUMI,,VTE
+178433052,omojade,LEKAN,CHARLES,,VTE/ L/S
+178433035,oyebisi,REBECCA,ABOSEDE,,VTE/ L/S
+178433010,ogunbiyi,RUFUS,DAMILOLA,,VTE/ACC
+178433062,ajayi,TEMITOPE,FELIX,,VTE/ACC
+178433034,sakibu,TAOFEEQ,,,VTE/ ACC
+178433021,akosile,BLESSING,OLAOLUWA,,VTE/ L/S
+178433032,falusi,PRECIOUS,OLAIDE,,VTE/ L/S
+178433037,adeyemo,ROKIBAT,ADEDOLAPO,,VTE BE/A
+178433043,odugbemi,FRANCISCA,BOLUWAJI,,BUS EDU/ACC
+178433069,dada,OLUWATOMISIN,DEBORAH,,VTE/ L/S
+178433006,peter,MATTHEW,IBUKUN,,VTE L/S
+178433122,ogunmoyero,SOLOMON,IMOLEAYO,,VTE/BUILDING
+178433038,taiwo,ADEOLA,CAROLINE,,VTE/ L/S
+178433084,ajibade,BOLUWATIFE,ADEDAPO,,VTE/AGRIC 
+178433003,odelami,DAVID,OBAFEMI,,VTE/BUILDING
+178433119,okhio,EVAN,OSAYANDE,,VTE/MECH
+178433085,eziefule,MICHAEL,NNAMDI,,VTE/BUILDING
+178433118,eniayewu,JOSHUA,OLADOYIN,,VTE/ELECT
+178434029,paul,KEZIAH,WANA,,G/C
+178433057,yusuf,AISHAT,OMOSHALEWA,,VTE ACC EDU
+178433040,adama,ESTHER,ELIZABETH,,VTE
+178433096,ganiyu,OPEYEMI,ANUOLUWAPO,,V.T.E
+178433070,adeyiolu,ENIOLA,FEYIKEMI,,VTE
+178433025,babayemi,PEACE,AYOYIMIKA,,VTE/LIBRARY
+178433106,ojo,OLUWASOLA,MARY,,VTE/TECH EDU
+178433074,ojo,ABIODUN,OLUWASEGUN,,VTE/BUS EDU
+178433113,oyedokun,TOMISIN,ADEBANJO,,VTE/MECH TECH
+178433005,onomakpome,TEGA,MEVIS,,VTE/BUS EDU
+178430026,oyebade,ELIZABETH,IYANU,,BIOLOGY EDU
+178430015,omotoso,OLUTAYO,COMFORT,,BIOLOGY EDU
+178430033,adejobi,ANTHONIA,OLUWASEUN,,BIOLOGY EDU
+178430018,adeyemo,OLUWASEUN,PAULINAH,,BIOLOGY EDU
+178430042,daramola,OLUWATOYOSI,ELIZABETH,,BIOLOGY EDU
+178430051,jayeola,OPEYEMI,MARY,,BIOLOGY EDU
+178430005,amoo,OMOTAYO,BOLUWATIFE,,BIOLOGY EDU
+178430020,adejoba,ADEFUNKE,ADESAYO,,BIOLOGY EDU
+178430004,adeyanju,OLUWADUNSIN,NIFEMI,,BIOLOGY EDU
+178430164,famoroti,FUNMILAYO,MARY,,BIOLOGY EDU
+178430008,idierukevbe,REBECCA,ONOME,,BIOLOGY EDU
+,,,,,
+178430130,oguntola,JOHN,BLESSING,,BIOLOGY EDU
+178430012,ogundele,VICTORIA,OLUWATOSIN,,BIOLOGY EDU
+178430106,aremu,BLESSING,OYEBOLA,,BIOLOGY EDU
+178430013,arimuyi,KEMISOLA,JOY,,BIOLOGY EDU
+178430003,abegunde,TITILOPE,MARVELLOUS,,BIOLOGY EDU
+178430043,adebayo,OLUWABUSOLA,ADETORO,,BIOLOGY EDU
+178430056,omoboriowo,OMOLAYO,,,BIOLOGY EDU
+178430030,ajileye,MORENIKE,OLUWAFUNMILAYO,,BIOLOGY EDU
+178430112,asanit,ANIFAT,DAMILOLA,,BIOLOGY EDU
+178430174,adedokun,TEMIDAYO,EMMANUEL,,BIOLOGY EDU
+178430157,tofade,OLALEKAN,MICHAEL,,BIOLOGY EDU
+178430025,awobajo,OMOBOLAJI,MARY,,BIOLOGY EDU
+178430027,osadare,OMOLADE,MODUPE,,BIOLOGY EDU
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+   76821272DC,yusuf,VICTORIA,OLUWAFUNMILAYO,,BIOLOGY EDU
+178430035,ibidiran,AYOMIDE,EBENEZER,,BIOLOGY EDU
+    76058848EI,efunniyi,IBROHEEM,DAMILARE,,BIOLOGY EDU
+178430201,babatunde,IFEOLUWA,AANUOLUWAPO,,BIOLOGY EDU
+178430176,awoseye,OLUWATOYOSI,SARAH,,BIOLOGY EDU
+178431033,abdulrahmon,MARIAM,MOTUNRAYO,,BIOLOGY EDU
+178430077,adejoju,AISHAH,OPEYEMI,,BIOLOGY EDU
+178430194,olorunfemi,SOLOMON,A,,BIOLOGY EDU
+178430115,egbeleke,USMAN,A,,BIOLOGY EDU
+178430137,,SALAHUDEEN,LATEEF,,BIOLOGY EDU
+   76820345AE,akande,OLUWAFEMI,O.,,BIOLOGY EDU
+178430123,akintunde,ESTHER,FUNMILAYO,,BIOLOGY EDU
+178430048,akomolafe,MOTUNRAYO,ELIZABETH,,BIOLOGY EDU
+178430039,alo,GRACE,OLUWATOSIN,,BIOLOGY EDU
+178430085,adedeji,SAMSON,ADEDOTUN,,BIOLOGY EDU
+178430101,olasode,ABOSEDE,OLANIKE,,BIOLOGY EDU
+    75935674JH,adebiyi,ADEKUNLE,EMMANUEL,,BIOLOGY EDU
+178430152,adesoye,ODUNAYO,SEUN,,BIOLOGY EDU
+178430175,olusegun,JUMOKE,DEBORAH,,BIOLOGY EDU
+178430024,olukade,GBOLAHAN,QUADRI,,BIOLOGY EDU
+178430038,olusola,OLUWASEUN,OLAJUMOKE,,BIOLOGY EDU
+178430100,busari,TEMILADE,FEYISARA,,BIOLOGY EDU
+178430007,adebiyi,DAMILOLA,EMMANUEL,,BIOLOGY EDU
+178430113,adetoye,TITILOPE,COMFORT,,BIOLOGY EDU
+178430014,oke,OMOLOLA,ENIOLA,,BIOLOGY EDU
+178430156,adegoke,OREOLUWA,VICTORIA,,BIOLOGY EDU
+178430126,bakare,ANIFAT,BOLAJI,,BIOLOGY EDU
+178430128,oladini,FAITH,ADESOLA,,BIOLOGY EDU
+178430209,adekola,HABEEB,AYODEJI,,BIOLOGY EDU
+178430139,oyeleye,OLUWATOBILOBA,T,,BIOLOGY EDU
+178430162,adeleye,TEMITOPE,PRECIOUS,,BIOLOGY EDU
+178430171,odeyemi,HANNAH,BUKOLA,,BIOLOGY EDU
+178430019,ojufun,ADEBANKE,ILERIOLUWA,,BIOLOGY EDU
+178430161,akinwole,KOLAWOLE,PETER,,BIOLOGY EDU
+178430204,adeyanju,AOLAT,ADETOUN,,BIOLOGY EDU
+178430207,awe,EMMANUEL,OLUWAFEMI,,BIOLOGY EDU
+178430180,salahudeen,FUAD,OLABISI,,BIOLOGY EDU
+178433012,adeola,FUNMILAYO,RACHEL,,BUS-EDU
+178433023,adegoke,REMILEKUN,ATINUKE,,BUS-EDU
+76324903AH,fatoyinbo,TEMITOPE,OLUWAPELUMI,,BUS-EDU
+178433112,olofin,OMOLADE,AYOMIDE,,BUS-EDU
+178433090,orebiyi,NURAT,BISOLA,,BUS-EDU
+178433049,sodiq,BISOLA,TAWAKALITU,,BUS-EDU
+178433023,ogunseka,BUSAYO,T.,,BUS-EDU
+178433031,ilegbusi,JOHN,ABIODUN,,BUS-EDU
+178433018,okunade,MIRACLE,OLUWATOBI,,BUS-EDU
+178433042,akinleye,OLUWASEYI,ABIGAIL,,BUS-EDU
+178433036,omokein,IFEOLUWA,MOTUNRAYO,,BUS-EDU
+178433039,ishola,KAOSARAT,ADEWUMI,,BUS-EDU
+178433020,akemu,HANNAH,OGEHENSUWE,,BUS-EDU
+178433079,dosunmu,DEBORAH,OLUWASAYO,,BUS-EDU
+178433001,afodeso,TIMILEYIN,EZEKIAH,,BUS-EDU
+168433020,anthony,OLUWATOBI,,,BUS-EDU
+168433148,osemakin,BUSOLA,TEMIDAYO,,BUS-EDU
+178433087,olukayode,IFEOLUWA,EMMANUEL,,BUS-EDU
+178433057,yusuf,AISHAT,OMSHALEWA,,BUS/EDU/ACC
+168433152,oyaniyi,OLUMIDE,STEPHEN,,BUS/EDU/ACC
+178433093,olowolagba,SODIQ,OPEYEMI,,BUS/EDU/MRK
+178752211,samuel,OLUWASEUN,GODWIN,,BUS ADMIN
+178752290,awolumate,FUNMI,ADEYORI,,BUS ADMIN
+178752115,oke,AJIBOLA,TOLUWALOPE,,BUS ADMIN
+178752090,muhammad,AWWAT,JEMILAT,,BUS ADMIN
+178752018,kolade,ZAINAB,DAMILOLA,,BUS ADMIN
+178752163,apara,AYODELE,PATRICK,,BUS ADMIN
+178752346,afolabi,OLUWAYEMISI,SEYIFUNMI,,BUS ADMIN
+178752127,omidokun,OLUWAPELUMI,DAVID,,BUS ADMIN
+178752068,olunlade,ESTHER,OPEYEMI,,BUS ADMIN
+178431094,bamisile,OLOLADE,HUSSAIN,,ART & LANGUAGE
+178430072,oluwaseyi,BUNMI,BOLU,,ART & LANGUAGE
+178427008,onuoha,OLUCHI,MAUREEN,,ART & LANGUAGE
+178430084,aloba,TAIWO,TOPE,,ART & LANGUAGE
+178430057,awe,MERCY,OLAMIDE,,ART & LANGUAGE
+178430150,akeredolu,BLESSING,OMOWUMI,,ART & LANGUAGE
+178430185,alabi,TOMILOLA,MARY,,ART & LANGUAGE
+178430078,ogundipe,DEBORAH,TIJESU,,ART & LANGUAGE
+178430070,olatoye,BLESSING,FUNMILAYO,,ART & LANGUAGE
+75706436IB,adam,OLUFEMI,IDRIS,,ART & LANGUAGE
+178427001,abanikanda,CHRISTIANAH,O.,,ART & LANGUAGE
+178430063,okeyide,OLUWAYINKA,OLUWATOMISIN,,ART & LANGUAGE
+178430122,adesuyi,OLUFUNMILOLA,HOPE,,ART/FRENCH LANG
+178430172,adeoye,ADESOLA,TIMILEYIN,,ART/ENG LANG
+178430047,odeleye,TIMILEYIN,GRACE,,ART & LANGUAGE
+178427006,fadipe,RUTH,OLUWADARA,,ART & LANGUAGE
+178430049,anusiem,GRACE,Abel,,ENG EDU
+178430169,gabriel,TEMITOPE,OLUWATOSIN,,ENG EDU
+178430081,adeyinka,PAULINA,RADEKEMI,,ENG EDU
+178427014,kehinde,TEMITOPE,ELIZABETH,,"HIS, ART & LANG"
+178430102,olajiya,OLUWAPELUMI,DEBORAH,,ENG EDU
+178427002,olalusi,OLUWASEUN,ALICE,,ENG EDU
+178430073,akinola,KAYINSOLA,IYANUOLUWA,,ENG EDU
+178430076,oshipitan,HAPPINESS,OMOTOLA,,ENG EDU
+178430083,balogun,BOLUWATIFE,MARY,,ENG EDU
+178430114,adeolokun,MICHAEL,BUKOLA,,ENG EDU
+178430133,erinfolami,BETTY,O.,,ENG EDU
+178427012,odegbile,ITUNU,ODEGBILE,,ENG EDU
+178430092,olasanmi,MORENIKE,TITILAYO,,ENG EDU
+178427015,oyeyemi,Rahmat,EMMANUEL,,ENG EDU
+178427030,moses,RACHAEL,ADEDAMOLA,,HISTORY EDU
+178430079,obedeji,OLUWATOSIN,ELIZABETH,,ENG EDU
+178430055,ibukun,OLUWADUNSIN,JANET,,ENG EDU
+178430059,akinwande,GBEMISOLA,BISOLA,,ENG EDU
+178430173,olowofoyeku,AYOMIDE,ELIZABETH,,ENG EDU
+178427020,woye,AYOOLUWA,ELIZABETH,,ENG EDU
+178430091,fagunlola,ESTHER,ADERUBA,,ENG EDU
+178430067,koyejo,TEMITAYO,BUKUNMI,,ENG EDU
+178427003,oyebanjo,LIFE,ESTHER,,ENG EDU
+178430080,iheme,HOPE,IJEOMA,,ENG EDU
+178430087,ajibola,OLAMIDE,FAITH,,ENG EDU
+178427015,ajewole,BUKOLA,OLUWATOYIN,,HIS EDU
+178428016,musa,MABET,ANEGBEYERE,,HIS EDU
+178427027,ogunmoroti,YETUNDE,KEMI,,HIS EDU
+178427025,betiku,IYANUOLUWA,MARY,,HIS EDU
+178427011,odetola,IFEOLUWA,ELIZABETH,,HIS EDU
+178427032,adeleye,ADENIKE,AYOBAMI,,HIS EDU
+178430060,adebayo,MONSURAT,ADEDIWURA,,ENG EDU
+178427007,haastrup,Fayobi,SARAH,,ENG EDU
+178430193,olarewaju,CHRISTIANAH,EBUNLOMO,,ENG EDU
+178430146,adams,IDOWU,ARINOLA,,ENG EDU
+178430131,olaniyi,ESTHER,IFEOLUWA,,ENG EDU
+178427010,akansehinde,ESTHER,ADEBAMPE,,ENG EDU
+178430066,ojo,MODUPE,FAITH,,ENG EDU
+178430197,abeni,OLABISI,FISAYO,,ENG EDU
+178340186,sulaimon,OLUWASEYIFUNMI,ELIZABETH,,ENG EDU
+76416197EF,olatubi,VINCENT,KOLADE,,ENG EDU
+178430071,nyah,BLESSING,DANIEL,,ENG EDU
+178430145,ogunmakin,VICTORIA,OLUWAFUNMITO,,ENG EDU
+178430129,akande,TIOLUWANIMI,CHRISTIANA,,ENG EDU
+178430082,ayanbayo,AFUSAT,AYANRENIKE,,ENG EDU
+178430045,mumini,MARIAM,ADEJOKE,,ENG EDU
+178430195,ariyo,OLUWAKEMISOLA,ESTHER,,ENG EDU
+178427135,olawoye,DOYINSOLA,MABEL,,ENG EDU
+178430046,ajisegiri,FAVOUR,AYOMIPOSI,,ENG EDU
+178427035,ilori,MOSHOOD,AKINSEMOYIN,,YORUBA  EDU
+178430132,ojo,TUMISE,Oluwamayowa,,ENG EDU
+178427023,abereifa,BOLUWATIFE,GOODNESS,,ENG EDU
+178430103,folorunso,RACHAEL,OLAMIDE,,ENG EDU
+178430069,ajayi,DAMILOLA,SARAH,,ENG EDU
+178430054,shittu,RUKAYAT,TITILOPE,,ENG EDU
+178427022,ogundare,OLABISI,OLUWABUNMI,,YORUBA  EDU
+178430177,ajayi,ESTHER,OLAJUMOKE,,ENG EDU
+178430053,adedokun,JULIUS,OLUWASEGUN,,FRENCH EDU 
+178427021,olatunde,TOLUWANI,JOSEPH,,ENG EDU
+178427024,ajayi,BUSAYO,JOY,,YORUBA  EDU
+178430181,payne,DORCAS,ERIOLUWA,,ENG EDU
+178430062,ogundare,SEFUNMI,TOYIN,,ENG EDU
+178434004,moses,OLUWAKEMI,OLUWATOSIN,,CHILDHOOD EDU
+178434006,oloyede,MARY,TOLUWASE,,CHILDHOOD EDU
+178426002,joseph,IFEJESU,LYDIA,,ADULT EDU
+178430001,adedayo,DOLAPO,ROFIAT,,PHYSICS
+178431094,otegbeye,OLOLADE,HUSSAIN,,V.T.E AGRIC
+178433071,odeniran,ROSELINE,TEMITOPE,,V.T.E AGRIC
+178433027,oluwasegun,PETER,TIMILEYIN,,V.T.E AGRIC
+178433117,oloyede,AFEEZ,OLAMILEKAN,,V.T.E AGRIC
+178433105,victor,TONY,OBINNA,,V.T.E AGRIC
+178433077,olalekan,PAMILERIN,JOHN,,V.T.E AGRIC
+178433091,babalola,YUSUF,ADEBAYO,,V.T.E AGRIC
+178430058,aluko,OLUWASEUN,OLAREMI,,ENG EDU
+178430095,aduloju,EMMANUEL,OLUWATOBI,,ENG EDU
+178427018,ajewole,ITUNU,OLUWATOBI,,ENG EDU
+178430052,olatunji,RUKAYAT,OLAYEMI,,ENG EDU
+178430190,omoniyi,MARY,OLUWADAMILOLA,,ENG EDU
+178430192,adewole,CYNTHIA,OUWABUNMI,,ENG EDU
+178430093,ojo,TAIWO,KEMISOLA,,ENG EDU
+178431059,adebayo,FATIMAH,ATINUKE,,SOCIAL STUDIES
+7575247613,alao,BUKOLA,OMOYEMI,,SOCIAL STUDIES
+178431009,gbadegesin,AYOMIDE,MARY,,SOCIAL STUDIES
+,,,,,
+178431020,igwe,BLESSING,RITA,,SOCIAL STUDIES
+178431085,abel,TAIWO,ABIGAEL,,SOCIAL STUDIES
+178431074,adejinle,TOYIN,FLORENCE,,SOCIAL STUDIES
+178431078,musiliu,ISLAMIAT,AJOKE,,SOCIAL STUDIES
+178431069,adebayo,IFEOLUWA,,,SOCIAL STUDIES
+178431019,babalola,OLUWATOSIN,M.,,SOCIAL STUDIES
+178431003,afolayan,SAMUEL,OLUWASEUN,,SOCIAL STUDIES
+75359953HT,ilesanmi,SAMUEL,OLUWAKAYODE,,SOCIAL STUDIES
+178430096,orimaye,AYOMIDE,SAMUEL,,MATHS EDU
+178430002,adedigba,ADEKOLA,JACOB,,MATHS EDU
+178430006,oladele,MARGARETTE,OYINLOLA,,MATHS EDU
+178430107,akande,SESAN,DANIEL,,MATHS EDU
+178433014,osedayo,JOANNAH,IDOWU,,ACCOUNTING EDU
+178433013,sunday,VICTORIA,OLUWABUNMI,,ACCOUNTING EDU
+178433009,adebero,OLUWAGBEMISOLA,DEBORAH,,ACCOUNTING EDU
+178433099,bankole,BLESSING,JOHN,,ACCOUNTING EDU
+178433015,olujoro,IBUKUN,OLUWATOWOJU,,ACCOUNTING EDU
+178433007,ajayi,BOLATITO,,,ACCOUNTING EDU
+178433092,azeez-pelumi,MUINAT,,,ACCOUNTING EDU
+178433054,olayinka,TITILAYO,VICTORIA,,ACCOUNTING EDU
+178433078,buoye,EWAOLUWA,BUNMI,,ACCOUNTING EDU
+178433061,oyewo,ABIODUN,RACHEAL,,MARKETING EDU
+178430009,asiyanbola,DAMILOLA,SUNDAY,,CHEM EDU
+7637205690,kehinde-david,PEACE,ADESOLA,,CHEM EDU
+178430159,bakare,JUSTINA,BOLADE,,CHEM EDU
+178430086,alabi,JOSHUA,OLUWASOLA,,CHEM EDU
+178430141,owoyemi,ABIMBOLA,HALIMAT,,CHEM EDU
+178430119,ayeola,JOSHUA,TOPE,,BASIC EDU
+178430116,nzeadadue,PRECIOUS,ADAEZE,,BASIC EDU
+178434027,durodola,ESTHER,JUMOKE,,BASIC EDU
+178428001,olanigbehin,BEATRICE,MOJISOLA,,EMT
+178428003,ebiem,EUNICE,CHINASA,,EMT
+178428007,moshood,RUTH,OLABISI,,EMT
+178428009,akinyele,TEMILOLUWA,MARY,,EMT
+178428008,ominiyi,FLORENCE,IYANU,,EMT
+178428015,azeez,BARAKAT,MOSUNMOLA,,EMT
+178428019,olatunbosun,SULIYAH,DASOLA,,EMT
+178428024,uzebu,VICTORIA,OLUWATOMISIN,,EMT
+1400607,boboye,TEMITOPE,OLUWAFUNMILAYO,,EMT
+178428002,animashaun,MISTUN,AGBEKE,,EMT
+178428020,umolo,FELICIA,IHOTU,,EMT
+178428012,shonibare,MOJISOLA,OMOWUNMI,,EMT
+178428018,ologunowa,IYADUNNI,OMOWUMI,,EMT
+158428027,bakare,MUJEEB,ADEKUNLE,,EMT
+178428023,joseph,DAVID,LAWRENCE,,EMT
+178429007,odediran,BASIT,DARE,,H.E.D
+178429020,moses,EMEDIONG,ASUQUO,,H.E.D
+178429004,daramola,MONIKANAYO,EBUNTUNDE,,H.E.D
+178429003,seriki,NOFISAT,TAIWO,,H.E.D
+178429041,okon,HELEN,BOSE,,H.E.D
+178429018,akinola,VICTORIA,OLUWATOMI,,H.E.D
+178429013,olalere,OLUWASEYI,RACHEAL,,H.E.D
+178429024,bello,WALIYAT,OYEWUMI,,H.E.D
+178429026,adeleke,ADESERERE,SAVIOUR,,H.E.D
+178429028,badejo,OLUWATOYOSI,ESTHER,,H.E.D
+178429009,eze,ONYEKA,BLESSING,,H.E.D
+178429015,adeogun,ANJOLA,REBECCA,,H.E.D
+178429027,falade,IMOLEAYO,OLUBUKOLA,,H.E.D
+178429014,awoyemi,ABIDEMI,SULIYAT,,H.E.D
+178429001,ajitena,OLUTAYO,ADEWALE,,K.H.E
+178429033,ebimomi,ADESHEWA,OLUWABUKOLA,,K.H.E
+178429022,yusuf,AISHAT,NIFEMI,,K.H.E
+178429023,sunday,ROSELINE,QUEEN,,K.H.E
+178429006,oladejo,JACOB,TUNDE,,K.H.E
+178429021,adene,OLUWADUNSIN,STELLA,,K.H.E
+178429016,adebayo,JANET,PEACE,,K.H.E
+178429012,ojuade,DAMILOLA,LYDIA,,K.H.E
+178429011,akande,AYOOLA,MOTUNRAYO,,K.H.E
+178429002,omojuwa,EMMANUEL,SOJI,,K.H.E
+,,,,,
+178429025,ayoola,DAMILOLA,YETUNDE,,K.H.E
+178429005,ojelabi,BLESSING,JOSHUA,,K.H.E
+178429031,ayoola,VICTORIA,FUNMILAYO,,K.H.E
+178429017,oladimeji,OLASEWA,HELLEN,,K.H.E
+178434001,jimoh,SIDIKAT,FUNMILAYO,,G & C
+178434003,ikpuri,OGHENEVWEGBA,THEODORE,,G & C
+178434026,nwanze,NONSO,ALEX,,G & C
+178434007,oyetoro,DEBORAH,RONKE,,G & C
+178434013,badmus,WALIAT,AYOMIDE,,G & C
+178434005,subor,EMMANUEL,DOUBA,,G & C
+178434022,oyedele,OYERONKE,FELICIA,,G & C
+,,,,,
+178434030,adegboyega,OLUWATOBI,JUMOKE,,G & C
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178434000,osunyemi,AANUOLUWAPO,ENIOLA,,G & C
+178434028,ilesanmi,ROTIMI,DAVID,,G & C
+178434025,oluyemi,OLUWAFUNMILAYO,A.,,G & C
+178434015,oyerinde,TEMITOPE,BILIKIS,,G & C
+178431075,falade,EBUNOLUWA,G.,,G & C
+178434002,agboola,BOBOYE,MOSES,,G & C
+178434032,olanrewaju,OLAIDE,ADENIKE,,G & C
+178431050,dada,OLUWADAMILOLA,SAMUEL,,ECONOMICS EDU
+178431039,awoyemi,BASILIA,AYOOLA,,ECONOMICS EDU
+178431072,oladipo,DAMILOLA,ESTHER,,ECONOMICS EDU
+,,,,,
+178431047,hammed,HAJARAT,AJOKE,,ECONOMICS EDU
+178431029,akpedieme,MARY,ELOKHAISOMT,,ECONOMICS EDU
+178431016,akindutire,OPEOLUWA,EMMANUEL,,ECONOMICS EDU
+178431061,ebere,MERCY,KELECHI,,ECONOMICS EDU
+178431010,adeaje,ELIZABETH,ABOSEDE,,ECONOMICS EDU
+178431017,bisiriyu,QUDUS,BABATUNDE,,ECONOMICS EDU
+178431043,afolayan,KEHINDE,JOSEPH,,ECONOMICS EDU
+178431073,adetona,FUNKE,,,ECONOMICS EDU
+178431060,olawoyin,SHOLA,YUSUF,,ECONOMICS EDU
+178431036,oniya,ALAYO,ESTHER,,ECONOMICS EDU
+178431049,ajagbonna,BLESSING,SINMIBOWALE,,ECONOMICS EDU
+178430121,emmanuel,OLUWANIFISE,AYOMIDE,,COMPUTER SCIENCE
+178430036,jegede,PHILEMON,OMOLAYO,,COMPUTER SCIENCE
+178430017,adekunle,AYOMIDE,FAITH,,COMPUTER SCIENCE
+178430038,obisanya,SAMUEL,OLUWAMAYOWA,,COMPUTER SCIENCE
+178430028,duru,AMAKA,,,COMPUTER SCIENCE
+178430029,fagbenjo,ESTHER,OLADAYO,,COMPUTER SCIENCE
+178430034,ukpai,ROSELYN,OGHALE,,COMPUTER SCIENCE
+178430135,orioye,OYINKANSOLA,ABIMBOLA,,COMPUTER SCIENCE
+178430120,ganiyu,WASIU,ADISA,,COMPUTER SCIENCE
+178430022,ogundele,OLASUNKANMI,GBENGA,,COMPUTER SCIENCE
+178430064,falua,MAYOWA,SAMUEL,,COMPUTER SCIENCE
+178430110,emilolorun,ALICE,OLUWASEUN,,COMPUTER SCIENCE
+178430098,adelani,ISRAEL,TAIWO,,COMPUTER SCIENCE
+178430148,olukunyon,DANIEL,KELVIN,,COMPUTER SCIENCE
+178430031,joshua,BEATRICE,GLADICE,,COMPUTER SCIENCE
+178430040,salau,AMINAT,OMOBOLAJI,,COMPUTER SCIENCE
+178430140,olajide,OPEYEMI,SUNDAY,,COMPUTER SCIENCE
+178430134,adeyinka,COLLINS,OLUWAFEMI,,COMPUTER SCIENCE
+178430074,adebayo,OLANREWAJU,SAMSON,,COMPUTER SCIENCE
+178430032,isekiigbe,ADEKUNLE,SAMUEL,,COMPUTER SCIENCE
+178430163,edogha,JOSHUA,OJEFUNMIKE,,COMPUTER SCIENCE
+178430068,oladiran,OLABODE,ALEXANDER,,COMPUTER SCIENCE
+178430154,ilegbusi,ABIDEMI,ATINUKE,,COMPUTER SCIENCE
+178430124,ashifat,RUKAYAT,MOROMOKE,,COMPUTER SCIENCE
+178430041,adebayo,REBECCA,DAMILOLA,,COMPUTER SCIENCE
+178430010,apara,AYOMIDE,SODIQ,,COMPUTER SCIENCE
+178430109,abdul,SALAM,ADAM,,COMPUTER SCIENCE
+178430178,olagunju,SHERIFF,LANRE,,COMPUTER SCIENCE
+178430200,akinwunmi,MORENIKEJI,MOYOSORE,,COMPUTER SCIENCE
+178430166,mba,SAVIOUR,CHIGOZIRIM,,COMPUTER SCIENCE
+178430023,odesehinde,FESTUS,AYODEJI,,COMPUTER SCIENCE
+178430044,akande,DAVID,AYODEJI,,COMPUTER SCIENCE
+178430117,bello,ABDULRASAK,BAMIDELE,,COMPUTER SCIENCE
+178430167,minadiki,ANDREW,TEKENA,,COMPUTER SCIENCE
+178430097,oyewale,SAMUEL,TAYO,,COMPUTER SCIENCE
+178430170,nwobi,ARINZE,FRANK,,COMPUTER SCIENCE
+178430125,ogabi,QUADRI,ABAYOMI,,COMPUTER SCIENCE
+178430179,asiribo,PEACE,AKINTAYO,,COMPUTER SCIENCE
+178430183,adefioye,ADEOLA,CHRISTIANAH,,COMPUTER SCIENCE
+178431033,abdulrahmon,MARIAM,MOTUNRAYO,,POL. SCIENCE EDU
+178431001,omotoso,TAIWO,JUSTINAH,,POL. SCIENCE EDU
+178431026,ayodele,EMMANUEL,OLUWASEUN,,POL. SCIENCE EDU
+178431040,isaac,OLUWASEUN,JOHN,,POL. SCIENCE EDU
+178431067,agboola,OLAITAN,FUNMILAYO,,POL. SCIENCE EDU
+178431027,isatayo,MOSES,MIRACLE,,POL. SCIENCE EDU
+,,,,,
+178431041,ariyo,DANIEL,OLUWATIMILEHIN,,POL. SCIENCE EDU
+178431082,adedoyin,OLAJUMOKE,ABIMBOLA,,POL. SCIENCE EDU
+178431048,peters,FRANK,TEMITAYO,,POL. SCIENCE EDU
+178431015,awoniyi,ROKEEB,OPEYEMI,,POL. SCIENCE EDU
+178431004,dada,OLUWATOYIN,MARY,,POL. SCIENCE EDU
+178431076,alabi,KEHINDE,TOYIN,,POL. SCIENCE EDU
+178431077,bhadmus,MARIAM,AKOREDE,,POL. SCIENCE EDU
+178428103,fatona,ABIOLA,MOTUNRAYO,,POL. SCIENCE EDU
+178431021,oguntuyi,ISAAC,DAMILARE,,POL. SCIENCE EDU
+178431079,adedire,PELUMI,OLUWATIMILEYIN,,POL. SCIENCE EDU
+178431013,olubunmi,MICHAEL,,,POL. SCIENCE EDU
+178431054,olatunji,SODIQ,ABISOLA,,POL. SCIENCE EDU
+178433045,ashaolu,FRIDADAY,TOSIN,,V.T.E
+178433029,williams,RERELOLUWA,DEBORAH,,VTE/ L/S
+178433075,oladiran,OLUWASEUN,OMOWUMI,,VTE
+178433046,ajayi,PETER,Abel,,VTE/ L/S
+178433002,olorungbemi,DEJI,SAMUEL,,VTE/ L/S
+178433056,mbanefo,LYDIA,CHISOM,,VTE(EDU TECH)
+178433053,abere,KEHINDE,OLUWATOSIN,,VTE/EDU TECH
+178433024,ibikunle,QUADRI,OLUMIDE,,VTE/BUS EDU/ACC
+178433030,popoola,STELLA,TAIWO,,VTE/BUS EDU/ACC
+178433081,popoola,EMMANUEL,KEHINDE,,VTE/BUS EDU/ACC
+178433016,james,MOJISOLA,DUPE,,VTE/BUS EDU/ACC
+178433011,eluyera,OPEYEMI,KEHINDE,,VTE/BUS EDU/ACC
+178433072,omoyungbo,RACHAEL,A.,,VTE(AGRIC)
+178433063,eleonu,GIFT,ONYINYECHI,,VTE/BUS EDU
+178433044,adelani,OLUWATOYIN,CHRISTIANAH,,VTE/OTM
+178433103,abayomi,AYODEJI,FAITH,,VTE(EDU TECH)
+178433004,akanrin,Rahmat,TERESA,,VOC & TECH
+178433017,akinade,ESTHER,OMOWUMI,,LIBRARY SCIENCE
+178433098,abal,FAITH,OJO,,ACCOUNTING
+178433022,ogunremi,GRACE,YETUNDE,,VTE (BUS EDU)
+178433095,adeyemo,MICHAEL,TEMITOPE,,VTE (BUS EDU)
+178433026,adeyemi,HAPPINESS,VINCENT,,VTE/TECH/ELECT
+178433067,olayiwola,AFEEZ,TUNDE,,VTE/AGRIC EDU
+178433008,ogunmodede,BUKUNMI,JOSHUA,,VTE/LIBRARY
+178433064,olaniyi,MOJEED,ABEFE,,VTE/BUILDING
+178433041,adekanola,ADEDOLAPO,T.,,V.T.S/LIBRARY
+178433076,oriola,ABOSEDE,ENIOLA,,VTE EDU TECH
+178433055,jebbe,FOLASHADE,BARAKAT,,VTE/MARKETING
+178433121,jimoh,AMINAT,ENIOLA,,VTE/MARKETING
+  79242566JG,ajagbe,ROFICIA,ADEOLA,,VTE BUS EDU/MKT
+178433051,okeowo,DEBORAH,TEMITOPE,,VTE/EDU TECH
+178433050,jabita,MODINAT,ABOLANLE,,VTE/EDU TECH
+178433047,afolabi,PAUL,GBENGA,,VTE/ ACC
+178433068,orabiyi,OPEYEMI,YETUNDE,,VTE/ L/S
+1784330011,omoyajowo,ELIZABETH,ADEDIWURA,,VTE/ L/S
+178433019,ojamo,Fayobi,ADEYEMI,,VTE/ L/S
+178433033,afolayan,OYEBOLA,OMOWUMI,,VTE
+178433052,omojade,LEKAN,CHARLES,,VTE/ L/S
+178433035,oyebisi,REBECCA,ABOSEDE,,VTE/ L/S
+178433010,ogunbiyi,RUFUS,DAMILOLA,,VTE/ACC
+178433062,ajayi,TEMITOPE,FELIX,,VTE/ACC
+178433034,sakibu,TAOFEEQ,,,VTE/ ACC
+178433021,akosile,BLESSING,OLAOLUWA,,VTE/ L/S
+178433032,falusi,PRECIOUS,OLAIDE,,VTE/ L/S
+178433037,adeyemo,ROKIBAT,ADEDOLAPO,,VTE BE/A
+178433043,odugbemi,FRANCISCA,BOLUWAJI,,BUS EDU/ACC
+178433069,dada,OLUWATOMISIN,DEBORAH,,VTE/ L/S
+178433006,peter,MATTHEW,IBUKUN,,VTE L/S
+178433122,ogunmoyero,SOLOMON,IMOLEAYO,,VTE/BUILDING
+178433038,taiwo,ADEOLA,CAROLINE,,VTE/ L/S
+178433084,ajibade,BOLUWATIFE,ADEDAPO,,VTE/AGRIC 
+178433003,odelami,DAVID,OBAFEMI,,VTE/BUILDING
+178433119,okhio,EVAN,OSAYANDE,,VTE/MECH
+178433085,eziefule,MICHAEL,Oluwamayowa,,VTE/BUILDING
+178433118,eniayewu,JOSHUA,OLADOYIN,,VTE/ELECT
+178434029,folorunso,KEZIAH,WANA,,G/C
+178433057,yusuf,AISHAT,OMOSHALEWA,,VTE ACC EDU
+178433040,adama,ESTHER,ELIZABETH,,VTE
+178433096,ganiyu,OPEYEMI,ANUOLUWAPO,,V.T.E
+178433070,adeyiolu,ENIOLA,FEYIKEMI,,VTE
+178433025,babayemi,PEACE,AYOYIMIKA,,VTE/LIBRARY
+178433106,ojo,OLUWASOLA,MARY,,VTE/TECH EDU
+178433074,ojo,ABIODUN,OLUWASEGUN,,VTE/BUS EDU
+178433113,oyedokun,TOMISIN,ADEBANJO,,VTE/MECH TECH
+178433005,onomakpome,TEGA,MEVIS,,VTE/BUS EDU
+178430026,oyebade,ELIZABETH,IYANU,,BIOLOGY EDU
+178430015,omotoso,OLAJUMOKE,COMFORT,,BIOLOGY EDU
+178430033,adejobi,ANTHONIA,OLUWASEUN,,BIOLOGY EDU
+178430018,adeyemo,OLUWASEUN,PAULINAH,,BIOLOGY EDU
+178431094,daramola,OLOLADE,HUSSAIN,,BIOLOGY EDU
+178430051,jayeola,OPEYEMI,MARY,,BIOLOGY EDU
+178430005,amoo,OMOTAYO,BOLUWATIFE,,BIOLOGY EDU
+178430020,adejoba,ADEFUNKE,ADESAYO,,BIOLOGY EDU
+178430004,adeyanju,OLUWADUNSIN,NIFEMI,,BIOLOGY EDU
+178430164,famoroti,FUNMILAYO,MARY,,BIOLOGY EDU
+178430008,idierukevbe,REBECCA,ONOME,,BIOLOGY EDU
+178430160,abiodun,TOMILAYO,DUPEORE,,BIOLOGY EDU
+178430130,oguntola,JOHN,BLESSING,,BIOLOGY EDU
+178430012,ogundele,VICTORIA,OLUWATOSIN,,BIOLOGY EDU
+178430106,aremu,BLESSING,OYEBOLA,,BIOLOGY EDU
+178430013,arimuyi,KEMISOLA,JOY,,BIOLOGY EDU
+178430003,abegunde,TITILOPE,MARVELLOUS,,BIOLOGY EDU
+178430043,adebayo,OLUWABUSOLA,ADETORO,,BIOLOGY EDU
+178430056,omoboriowo,OMOLAYO,,,BIOLOGY EDU
+178430030,ajileye,MORENIKE,OLUWAFUNMILAYO,,BIOLOGY EDU
+178430112,asanit,ANIFAT,DAMILOLA,,BIOLOGY EDU
+,,,,,
+178430157,tofade,OLALEKAN,MICHAEL,,BIOLOGY EDU
+178430025,awobajo,OMOBOLAJI,MARY,,BIOLOGY EDU
+178430027,ojadare,OMOLADE,MODUPE,,BIOLOGY EDU
+   76821272DC,yusuf,VICTORIA,OLUWAFUNMILAYO,,BIOLOGY EDU
+178430035,ibidiran,AYOMIDE,EBENEZER,,BIOLOGY EDU
+    76058848EI,efunniyi,IBROHEEM,DAMILARE,,BIOLOGY EDU
+178430201,babatunde,IFEOLUWA,AANUOLUWAPO,,BIOLOGY EDU
+178430176,awoseye,OLUWATOYOSI,SARAH,,BIOLOGY EDU
+178431033,abdulrahmon,MARIAM,MOTUNRAYO,,BIOLOGY EDU
+178430077,adejoju,AISHAT,OPEYEMI,,BIOLOGY EDU
+178430194,olorunfemi,SOLOMON,A,,BIOLOGY EDU
+178430115,egbeleke,USMAN,A,,BIOLOGY EDU
+178430137,,SALAHUDEEN,LATEEF,,BIOLOGY EDU
+   76820345AE,akande,OLUWAFEMI,O.,,BIOLOGY EDU
+178430123,akintunde,ESTHER,FUNMILAYO,,BIOLOGY EDU
+178430048,akomolafe,MOTUNRAYO,ELIZABETH,,BIOLOGY EDU
+178430039,alo,GRACE,OLUWATOSIN,,BIOLOGY EDU
+178430085,adedeji,SAMSON,ADEDOTUN,,BIOLOGY EDU
+178430101,,OLASODE,ABOSEDE,,BIOLOGY EDU
+    75935674JH,adebiyi,ADEKUNLE,EMMANUEL,,BIOLOGY EDU
+178430152,adesoye,ODUNAYO,SEUN,,BIOLOGY EDU
+178430175,olusegun,JUMOKE,DEBORAH,,BIOLOGY EDU
+178430024,olukade,GBOLAHAN,QUADRI,,BIOLOGY EDU
+178430088,olusola,OLUWASEUN,OLAJUMOKE,,BIOLOGY EDU
+178430100,busari,TEMILADE,FEYISARA,,BIOLOGY EDU
+178430007,adebiyi,DAMILOLA,EMMANUEL,,BIOLOGY EDU
+178430113,adetoye,TITILOPE,COMFORT,,BIOLOGY EDU
+178430014,oke,OMOLOLA,ENIOLA,,BIOLOGY EDU
+178430156,adegoke,OREOLUWA,VICTORIA,,BIOLOGY EDU
+178430126,bakare,ANIFAT,BOLAJI,,BIOLOGY EDU
+178430128,oladini,FAITH,ADESOLA,,BIOLOGY EDU
+178430209,adekola,HABEEB,AYODEJI,,BIOLOGY EDU
+178430139,oyeleye,OLUWATOBILOBA,T,,BIOLOGY EDU
+178430162,adeleye,TEMITOPE,PRECIOUS,,BIOLOGY EDU
+178430171,odeyemi,HANNAH,BUKOLA,,BIOLOGY EDU
+178430019,ojufun,ADELANKE,I.,,BIOLOGY EDU
+178430161,akinwole,KOLAWOLE,PETER,,BIOLOGY EDU
+178430204,adeyanju,AOLAT,ADETOUN,,BIOLOGY EDU
+178430207,awe,EMMANUEL,OLUWAFEMI,,BIOLOGY EDU
+178430180,salahudeen,FUAD,OLABISI,,BIOLOGY EDU
+178430210,folaranmi,OYELOLA,VERONICA,,BIOLOGY EDU
+178430021,aluko,OLATUNDE,OLUWASEGUN,,BIOLOGY EDU
+178430016,balogun,DAMILOLA,MICHAEL,,BIOLOGY EDU
+178430168,akinbolaji,OLUWASEUN,,,BIOLOGY EDU
+178430158,lawal,DOLAPO,SAHEED,,BIOLOGY EDU
+178433012,adeola,FUNMILAYO,RACHEL,,BUS-EDU
+178433023,adegoke,REMILEKUN,ATINUKE,,BUS-EDU
+76324903AH,fatoyinbo,TEMITOPE,OLUWAPELUMI,,BUS-EDU
+178433112,olofin,OMOLADE,AYOMIDE,,BUS-EDU
+178433090,orebiyi,NURAT,BISOLA,,BUS-EDU
+178433049,sodiq,BISOLA,TAWAKALITU,,BUS-EDU
+178433023,ogunseka,BUSAYO,T.,,BUS-EDU
+178433031,odetunde,JOHN,ABIODUN,,BUS-EDU
+178433018,okunade,MIRACLE,OLUWATOBI,,BUS-EDU
+178433042,akinleye,OLUWASEYI,ABIGAIL,,BUS-EDU
+178433036,omokein,IFEOLUWA,MOTUNRAYO,,BUS-EDU
+178433039,ishola,KAOSARAT,ADEWUMI,,BUS-EDU
+178433020,akemu,HANNAH,OGEHENSUWE,,BUS-EDU
+178433079,dosunmu,DEBORAH,OLUWASAYO,,BUS-EDU
+178433001,afodeso,OLUTAYO,EZEKIAH,,BUS-EDU
+168433020,anthony,OLUWATOBI,,,BUS-EDU
+168433148,osemakin,BUSOLA,TEMIDAYO,,BUS-EDU
+178433087,olukayode,IFEOLUWA,EMMANUEL,,BUS-EDU
+178433057,yusuf,AISHAT,OMSHALEWA,,BUS/EDU/ACC
+168433152,oyaniyi,OLUMIDE,STEPHEN,,BUS/EDU/ACC
+178433093,olowolagba,SODIQ,OPEYEMI,,BUS/EDU/MRK
+178752211,samuel,OLUWASEUN,GODWIN,,BUS ADMIN
+178752290,awolumate,FUNMI,ADEYORI,,BUS ADMIN
+178752115,oke,AJIBOLA,TOLUWALOPE,,BUS ADMIN
+,,,,,
+178752018,kolade,ZAINAB,DAMILOLA,,BUS ADMIN
+178752163,apara,AYODELE,PATRICK,,BUS ADMIN
+178752346,afolabi,OLUWAYEMISI,SEYIFUNMI,,BUS ADMIN
+178752127,omidokun,OLUWAPELUMI,DAVID,,BUS ADMIN
+178752068,olunlade,ESTHER,OPEYEMI,,BUS ADMIN
+178433066,omoniyi,OLUWABUNMI,ELIZABETH,,BUS/EDU/ACC
+178433082,aladelokun,OLUGBEMI,BANKE,,BUS/EDU/ACC
+168433026,babalola,ESTHER,OLUWATOYIN,,BUS/EDU/ACC
+178430090,bamisile,BLESSING,SAMUEL,,ART & LANGUAGE
+178430072,oluwaseyi,BUNMI,BOLU,,ART & LANGUAGE
+178427008,onuoha,OLUCHI,MAUREEN,,ART & LANGUAGE
+178430084,aloba,TAIWO,TOPE,,ART & LANGUAGE
+178430057,awe,MERCY,OLAMIDE,,ART & LANGUAGE
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178430150,akeredolu,BLESSING,OMOWUMI,,ART & LANGUAGE
+178430185,alabi,TOMILOLA,MARY,,ART & LANGUAGE
+178430078,ogundipe,DEBORAH,TIJESU,,ART & LANGUAGE
+178430070,olatoye,BLESSING,FUNMILAYO,,ART & LANGUAGE
+75706436IB,adam,OLUFEMI,IDRIS,,ART & LANGUAGE
+178427001,abanikanda,CHRISTIANAH,O.,,ART & LANGUAGE
+178430063,okeyide,OLUWAYINKA,OLUWATOMISIN,,ART & LANGUAGE
+178430122,adesuyi,OLUFUNMILOLA,HOPE,,ART/FRENCH LANG
+178430172,adeoye,ADESOLA,TIMILEYIN,,ART/ENG LANG
+178430047,odeleye,TIMILEYIN,GRACE,,ART & LANGUAGE
+178427006,fadipe,RUTH,OLUWADARA,,ART & LANGUAGE
+178430049,anusiem,GRACE,CHINWONGOZI,,ENG EDU
+178430169,gabriel,TEMITOPE,OLUWATOSIN,,ENG EDU
+178430081,adeyinka,PAULINA,RADEKEMI,,ENG EDU
+178433028,ibrahim,Rodiat,Oluwatobiloba,,Agric Edu
+178105004,anyimukwu,Chioma,Crystalbella,,F.A.M
+178105002,oguntola,Peace,Esther,,F.A.M
+178105001,isola,Jessica,Oluwapelumi,,F.A.M
+178105008,saliu,Basirat,Olayemi,,F.A.M
+178105005,akintade,Oluwatobiloba,Moyawa,,F.A.M
+178539046,alabi,Oluwakunle,Johnson,,COMPUTER ENGR.
+178539030,oluwatoba,Demola,Abraham,,COMPUTER ENGR.
+178539063,alawode,Saheed,Oluwadamilare,,COMPUTER ENGR.
+178539064,afolayan,Olanrewaju,John,,COMPUTER ENGR.
+178539020,ojo,Oluwaseyi,Emmanuel,,COMPUTER ENGR.
+178539014,ikosimi,John,Progress,,COMPUTER ENGR.
+178539094,akomolafe,Ayodeji,Sunday,,COMPUTER ENGR.
+178539002,olamikusibe,Ajibade,David,,COMPUTER ENGR.
+178539077,abiti,Olumide,O.,,COMPUTER ENGR.
+178539047,omofioye,Israel,Adekunle,,COMPUTER ENGR.
+178539010,sikiru,Rofiat,Omobolanle,,COMPUTER ENGR.
+178539044,ilesanmi,Kehinde,John,,COMPUTER ENGR.
+178539058,dada,Mayowa,Felix,,COMPUTER ENGR.
+178539103,olakari,Toluwabori,Michael,,COMPUTER ENGR.
+178539018,taiwo,James,Ayomide,,COMPUTER ENGR.
+178539017,adeniran,Victor,Adewumi,,COMPUTER ENGR.
+178539040,adesina,Peter,Oluwasina,,COMPUTER ENGR.
+178539050,afolabi,Ayodeji,Benjamin,,COMPUTER ENGR.
+178539074,olaiya,Divine,Oluwole,,COMPUTER ENGR.
+178539067,ubaka,Tobechukwu,Augustine,,COMPUTER ENGR.
+178539070,bakare,Adedayo,Tolu,,COMPUTER ENGR.
+178539079,owolabi,Doyinsola,Olamide,,COMPUTER ENGR.
+178539006,oyebiyi,Adewale,Julius,,COMPUTER ENGR.
+178539093,owosola,Oluwashina,Israel,,COMPUTER ENGR.
+178539061,ilegbusi,Emmanuel,,,COMPUTER ENGR.
+178539071,ajayi,Temitayo,Jonathan,,COMPUTER ENGR.
+178539038,afolabi,Idowu,David,,COMPUTER ENGR.
+178539001,jogbodo,Abbey,Ojo,,COMPUTER ENGR.
+178539009,oladipo,Sikiru,Aduragbemi,,COMPUTER ENGR.
+178539065,ajala,Odunayo,David,,COMPUTER ENGR.
+178539121,kumapayi,Abiola,Ugochukwu,,COMPUTER ENGR.
+178539012,asaolu,Femi,Samuel,,COMPUTER ENGR.
+178539088,falokun,Oluwasanmi,Adekunle,,COMPUTER ENGR.
+178539033,oguntuase,Stephen,Olayiwola,,COMPUTER ENGR.
+178539008,olugbade,Damilola,Mary,,COMPUTER ENGR.
+178539080,ogesola,Timileyin,Julius,,COMPUTER ENGR.
+178539054,ogundipe,Abiodun,Toluwase,,COMPUTER ENGR.
+178539028,akinpelu,Kehinde,,,COMPUTER ENGR.
+178539091,oloyede,Abosede,Florence,,COMPUTER ENGR.
+178539068,abolaji,Olamide,Adewale,,COMPUTER ENGR.
+178539052,adewumi,Micheal,Precious,,COMPUTER ENGR.
+178539015,adeniyi,Pelumi,Jeremiah,,COMPUTER ENGR.
+178539095,adeomi,Adedayp,Moses,,COMPUTER ENGR.
+178539035,oyinlola,Oludare,Adebori,,COMPUTER ENGR.
+178539087,ita,Tabitha,Victor,,COMPUTER ENGR.
+178539034,fadahunsi,Oluwaseyi,Abiodun,,COMPUTER ENGR.
+178539043,bamisile,Olawale,Joseph,,COMPUTER ENGR.
+178431094,onifade,OLOLADE,HUSSAIN,,COMPUTER ENGR.
+178539116,aturamu,Micheal,Somijisola,,COMPUTER ENGR.
+178539107,ajepe,Fiyinfoluwa,Temitope,,COMPUTER ENGR.
+178539086,olanipekun,Oluwapelumi,Olabode,,COMPUTER ENGR.
+178539022,adeyemi,Adewole,Moses,,COMPUTER ENGR.
+178539099,ajani,Boluwatife,Faith,,COMPUTER ENGR.
+178539073,mayowa,Iyanuoluwa,Victoria,,COMPUTER ENGR.
+178539036,balogun,Hamzat,Adewale,,COMPUTER ENGR.
+71819563CC,ogunlana,Funmilola,Oluwaseyi,,COMPUTER ENGR.
+178539051,adeyemi,Hammed,Adedeji,,COMPUTER ENGR.
+178539062,afolabi,Ibrahim,Olamide,,COMPUTER ENGR.
+178540002,adanlawo,Joseph,Ayobowale,,Elect/Elect
+178540106,ayigi,Matthew,Olaoluwa,,Elect/Elect
+178540040,adeyemi,Enoch,Gbadebo,,Elect/Elect
+178540076,oguntoyinbo,Ayodele,Philip,,Elect/Elect
+178540090,adepetye,Ifedayo,Raphael,,Elect/Elect
+178540078,kareem,Ololade,Abel,,Elect/Elect
+178540074,popoola,Ajanfeoluwa,Oyinkemisola,,Elect/Elect
+178540022,afolabi,Oluwatosin,Enoch,,Elect/Elect
+178540023,amusan,Isreal,Olasunkanmi,,Elect/Elect
+178540065,ibironke,Lekan,Sunday,,Elect/Elect
+178540010,ayodele,Emmanuel,Oladimeji,,Elect/Elect
+178540043,ogundipe,Femi,Olamilekan,,Elect/Elect
+178540024,adeusi,Oluwaseyi,Emmanuel,,Elect/Elect
+178540060,ayileke,Ayomikun,Christiana,,Elect/Elect
+178540004,williams,Rasaq,Olayiwola,,Elect/Elect
+178540056,oladipupo,Sunday,Mathew,,Elect/Elect
+178540081,kayode,Laurence,,,Elect/Elect
+178538041,quadri,Wasiu,Ademola,,Civil
+178538058,olasupo,Rahmat,Sodiq,,Civil
+178538044,agbede,Israel,Boluwatife,,Civil
+178538018,odesola,Kehinde,Damola,,Civil
+178538060,oripeloye,Oluwanifemi,Olamide,,Civil
+178538039,olakunori,Ayodeji,Victor,,Civil
+178538091,ekundayo,Ayodeji,Oluwaseun,,Civil
+178538072,adeyemi,Sunday,Isaac,,Civil
+178538071,ibosiola,Olayinka,Oluwaseun,,Civil
+178538009,oluwole,Olamide,Steven,,Civil
+178538057,badmus,Ibrahim,Abiodun,,Civil
+178538088,ogunsesin,Micheal,Akinwale,,Civil
+178538085,adebayo,Rapheal,Oluwapelumi,,Civil
+178538043,adegoke,Ademola,Iyanu,,Civil
+75351936HD,obadofin,Samuel,O.,,Civil
+178538038,olufiade,Blessing,Timileyin,,Civil
+178541070,olanrewaju,Emmanuel,Oluwaseun,,MECH-ENGR
+178541059,olayinka,Ihukun,Olawale,,MECH-ENGR
+178541056,fapojuwo,Martins,Ayomide,,MECH-ENGR
+178541102,isidi,Clinton,ADEDIWURA,,MECH-ENGR
+178541121,olusegu,Fayobi,Adeniyi,,MECH-ENGR
+178541121,moshood,Eniola,Daniel,,MECH-ENGR
+178541029,emmanuel,Joshua,Ugwuka,,MECH-ENGR
+178541077,oluwagbenga,Samuel,Erioluwa,,MECH-ENGR
+178541019,bamidele,Oluwakorede,Emmanuel,,MECH-ENGR
+178541037,agunbiade,Taiwo,Emmanuel,,MECH-ENGR
+178541114,ajayi,Oluwatani,O.,,MECH-ENGR
+178541042,alawode,Taiwo,Dansel,,MECH-ENGR
+178541076,otitoju,Victor,Olasunkanmi,,MECH-ENGR
+178541009,babatola,John,Oluwafemi,,MECH-ENGR
+178541095,afolabi,Segun,Olatayo,,MECH-ENGR
+178541040,oyewumi,Olaife,Stephen,,MECH-ENGR
+178541072,muraina,Bashiru,Olasunkanmi,,MECH-ENGR
+178541017,oyeniyi,Oluwanishola,Daniel,,MECH-ENGR
+178541063,adebayo,Adeniyi,Micheal,,MECH-ENGR
+178541081,ojo,Damilola,Samuel,,MECH-ENGR
+178541068,fatayo,Teslleem,Ayomide,,MECH-ENGR
+178538003,ayodeji,Oluwagbotemi,Akinsanmi,,Civil
+178538051,jimoh,Olalekan,Oluwamayowa,,Civil
+178538030,folawewo,Olaoluwa,Gbeminiyi,,Civil
+178538002,folorunso,Chars,Adesoji,,Civil
+178538037,akinwa,Mojisola,Faith,,Civil
+178538036,abe,Adesoji,Samuel,,Civil
+178538022,ogundele,Olasunkanmi,Samuel,,Civil
+178538034,bada,Seyifunmi,Oladimeji,,Civil
+178538033,biosun,EmmanuelOluwasogo,,,Civil
+178538028,akinwande,Idris,Ayomide,,Civil
+178538006,william,Andrew,Orchucko,,Civil
+178538016,agbolade,Toba,Ayomide,,Civil
+178538015,yakubu,Godwin,Oluwatobi,,Civil
+178538008,oluwafemi,Emmanuel,Jesujoba,,Civil
+178538025,asaolu,Olayinka,Modupe,,Civil
+178538017,adeleke,Babtunde,Zacchaus,,Civil
+178538055,okpara,Oluwatobi,Kelechi,,Civil
+178431094,balogun,OLOLADE,HUSSAIN,,Civil
+178538010,akingbesote,Miracle,Emmanuel,,Civil
+178538079,olayemi,Mutiu,Olatunji,,Civil
+178538026,adebayo,Iyanuoluwa,Shalom,,Civil
+178538005,akintade,Oloruntimileyin,Timothy,,Civil
+178538035,opadeji,Israel,Oluwatimileyin,,Civil
+178538012,ojo,Ayodeji,Olaoluwa,,Civil
+178538066,igotun,Oluwanifemi,,,Civil
+178538007,akingbolu,Khadijat,,,Civil
+178583011,akinlose,Oluwaseyifunmi,,,Civil
+178538,adeyemitimilehin,Victor,,,Civil
+178538075,seriki,Damilola,Ibrahim,,Civil
+178538024,adeosun,Ademola,,,Civil
+178538001,gbadebo,Uthman,Abiodun,,Civil
+178538054,ojelade,Seun,Folarinwa,,Civil
+178538013,adediran,Ademiju,Stephen,,Civil
+178538019,atobatele,John,Odunayo,,Civil
+,,,,,
+178538045,adebanjo,Adesina,Samuel,,Civil
+75972304BB,ojo,OlalekanJacob,,,Civil
+178538041,quadri,Wasiu,Ademola,,Civil
+178538058,olasupo,Olasewo,Sodiq,,Civil
+178538044,agbede,Israel,Boluwatife,,Civil
+178538018,odesola,Kehinde,Damola,,Civil
+178538060,oripeloye,Oluwanifemi,Olamide,,Civil
+178538039,olakunori,Ayodeji,Victor,,Civil
+178538091,ekundayo,Ayodeji,Oluwaseun,,Civil
+178538072,adeyemi,Sunday,Isaac,,Civil
+178538071,ibosiola,Olayinka,Oluwaseun,,Civil
+178538009,oluwole,Olamide,Steven,,Civil
+178538057,badmus,Ibrahim,Abiodun,,Civil
+178540013,akponehwe,Eric,O.,,Elect/Elect
+178540005,solomon,Okon,Asuquo,,Elect/Elect
+178540018,olawoye,Oluwaferanmi,Isaac,,Elect/Elect
+178540014,timothy,Abidemi,Mary,,Elect/Elect
+178540047,obayemi,Ayomide,O.,,Elect/Elect
+178540007,adebisi,Oluwafemi,David,,Elect/Elect
+178540011,ogunwole,Joshua,Ayooluwa,,Elect/Elect
+178540025,okpozi,Afamefuna,Ndubisi,,Elect/Elect
+178540021,olaofe,Emmanuel,Oreoluwa,,Elect/Elect
+178540067,ojewunmi,Adewale,Jelil,,Elect/Elect
+178540116,olaiya,Toluwalase,Emmanuel,,Elect/Elect
+178540126,bankole,Samuel,Segun,,Elect/Elect
+178540036,abiodun,Oluwaseun,Temitope,,Elect/Elect
+178540105,shotonwa,Emmanuel,Olusegun,,Elect/Elect
+178540082,akanle,Precious,Olawatosin,,Elect/Elect
+178540064,awoyinka,Oluwaniyi,Victor,,Elect/Elect
+178540020,olajide,Elijah,Oluwagbemiga,,Elect/Elect
+178540027,megbontowon,Ayomide,Israel,,Elect/Elect
+178540041,kayode,Segun,Samuel,,Elect/Elect
+178540003,adeyemi,Ayomade,Sanmi,,Elect/Elect
+178540066,okenbaloye,Emmanuel,F.,,Elect/Elect
+178540071,oladeji,Olanrewaju,Akinrinlola,,Elect/Elect
+178540051,ausi,Boluwatife,Precious,,Elect/Elect
+178540094,olorunyomi,Idowu,Toluwalase,,Elect/Elect
+178540037,odetola,Vicent,Timileyin,,Elect/Elect
+178540012,oluwakunle,Mosope,Samuel,,Elect/Elect
+178540008,akinbi,Olatunde,Festus,,Elect/Elect
+178540052,adebayo,Emmanuel,Oluwatobiloba,,Elect/Elect
+178540001,kasaba,Nana-Aishat,Olasubomi,,Elect/Elect
+178540058,fatuase,Tolulope,Emmanuel,,Elect/Elect
+178540088,nann,Olajide,Samuel,,Elect/Elect
+178540049,oyetayo,Emmanuel,Adedamola,,Elect/Elect
+178540097,ajenifoja,Olatoye,Samson,,Elect/Elect
+178540006,oke,Oluwatobiloba,Joshua,,Elect/Elect
+178540079,olatunji,Olasunkanmi,Emmanuel,,Elect/Elect
+178540044,owoade,Abel,Adegbola,,Elect/Elect
+178540034,bakare,Abdusamad,Oladimeji,,Elect/Elect
+178540042,eze,Chinenye,Mercy,,Elect/Elect
+178540054,kolawole,Oluwamuyiwa,Favour,,Elect/Elect
+178540084,ajala,Ayodeji,Emmanuel,,Elect/Elect
+178540109,abiodun,Boluwatife,Busola,,Elect/Elect
+178540048,apaguntan,Mosunmola,Esther,,Elect/Elect
+178540115,egunjobi,Micheal,Anuoluwapo,,Elect/Elect
+178540039,taiwo,Adewale,Stephen,,Elect/Elect
+178540045,okungbowa,Enodredia,Magdalene,,Elect/Elect
+178540016,awe,Folabi,Faithful,,Elect/Elect
+178540080,ishaya,Peter,Killiwe,,Elect/Elect
+178540099,owolabi,Oluwaseun,Israel,,Elect/Elect
+178540026,ajigbolamu,Damilare,,,Elect/Elect
+178540062,adegoke,Adewale,Stephen,,Elect/Elect
+178540108,akeredolu,Emmanuel,Olasanmi,,Elect/Elect
+178540050,adebayo,Oluwasogo,Samuel,,Elect/Elect
+178540092,adegoke,Stephen,Ayobami,,Elect/Elect
+178541025,ajiboye,Rachael,Olayinka,,MECH-ENGR
+178541012,akinbamidele,George,Sunday,,MECH-ENGR
+178541015,ajegboyega,Sodiq,Adekunle,,MECH-ENGR
+,,,,,
+178541071,adeleye,E.,Oluwadamilare,,MECH-ENGR
+178541041,owoeye,Temitope,Ayomide,,MECH-ENGR
+178541038,odeyale,Tobi,Julius,,MECH-ENGR
+178541024,ibinaiye,Jonathan,Seyi,,MECH-ENGR
+178541034,olaniba,Oluwafemi,Paul,,MECH-ENGR
+178541013,sanusidaniel,Oluwajuwon,,,MECH-ENGR
+178541092,omotayo,Olawale,Idowu,,MECH-ENGR
+178541050,sulaimon,Usman,Adebisi,,MECH-ENGR
+178541020,okunola,Emmauel,Olayiwola,,MECH-ENGR
+178541065,joseph,Nehemiah,Kolade,,MECH-ENGR
+178541023,adasola,Felix,Abiodun,,MECH-ENGR
+178541031,osadipe,George,Oluabisola,,MECH-ENGR
+178541089,ajayi,Richard,Oluwatobi,,MECH-ENGR
+GROUP 8,,,,,
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178541043,lawanson,Opeyemi,Oluwaseyi,,MECH-ENGR
+178541010,filani,Samuel,Olalekan,,MECH-ENGR
+178541004,okusanya,Samuel,,,MECH-ENGR
+178541005,badru,Abdulazeez,Olanrewaju,,MECH-ENGR
+178541030,ajayi,Timilehin,Peace,,MECH-ENGR
+178541035,ojo,Ekuntayo,Oluwasegun,,MECH-ENGR
+178541093,oyediran,Oluwafemi,Emmanuel,,MECH-ENGR
+178541060,omoniyi,Jeremiah,O.,,MECH-ENGR
+178541011,aina,Adeshina,Daniel,,MECH-ENGR
+178541014,abe,Bamidele,Olatunbosun,,MECH-ENGR
+178541021,taiwo,Jesugbemi,Emmanuel,,MECH-ENGR
+178541001,adepelemo,Ojo,Samuel,,MECH-ENGR
+178541064,oladele,Oladayo,Israel,,MECH-ENGR
+178541033,oluwalusi,Oluwoniyi,Ayodele,,MECH-ENGR
+178541006,ogundare,Ayomide,Samuel,,MECH-ENGR
+178541018,babatunde,Peter,I.,,MECH-ENGR
+178541032,benjamin,Dominion,Ugonna,,MECH-ENGR
+178541090,adebisi,Adedoyin,Oluwaseun,,MECH-ENGR
+178541098,ogundare,Samuel,Temitope,,MECH-ENGR
+178541048,olunloyo,Michael,Aderemi,,MECH-ENGR
+178541028,babatunde,Suliyat,Olajumoke,,MECH-ENGR
+178541008,fatoba,Oluwanifemi,Bisola,,MECH-ENGR
+178541047,ibrahim,Omolade,Tabitha,,MECH-ENGR
+178541049,oketola,Emmanuel,Aduragbemi,,MECH-ENGR
+178541003,olanrewaju,Thompson,Oluwatosin,,MECH-ENGR
+178541073,ahmed,Wali,Olanrewaju,,MECH-ENGR
+178541061,ajayi,Lekan,Samson,,MECH-ENGR
+178541039,ibrahim,Michael,Ekundayo,,MECH-ENGR
+178541022,adeyemi,Samuel,Adewale,,MECH-ENGR
+178541084,ofi,Olabisi,Joshua,,MECH-ENGR
+178541053,adesina,Samuel,Ayodeji,,MECH-ENGR
+178541015,ajegbomogun,Opeyemi,Ayomikun,,MECH-ENGR
+178541104,asiribo,Ayotunde,Michael,,MECH-ENGR
+178541062,idowu,Dare,Ezekiel,,MECH-ENGR
+178541045,akerele,Dotun,Samuel,,MECH-ENGR
+178541057,akinmade,Fatai,Babajide,,MECH-ENGR
+178541070,olanrewaju,Emmanuel,Oluwaseun,,MECH-ENGR
+178541059,olayinka,Ihukun,Olawale,,MECH-ENGR
+,,,,,
+178541016,isidi,Clinton,Chibueze,,MECH-ENGR
+178539111,john,Damilare,Pelumi,,COMPUTER ENGR.
+178539007,festus,Damilare,Michael,,COMPUTER ENGR.
+178539049,omoniyi,Daniel,Bamidele,,COMPUTER ENGR.
+178539037,ilegbusi,Jamiu,Bolu,,COMPUTER ENGR.
+178539075,michael,Emmanuel,Olalekan,,COMPUTER ENGR.
+178539019,oluwaleye,James,Ayooluwa,,COMPUTER ENGR.
+178539003,ajewole,Ayomide,Adewale,,COMPUTER ENGR.
+178539011,osho,Oluwajomiloju,Daniel,,COMPUTER ENGR.
+178539013,akinpade,Victor,Oluwatayo,,COMPUTER ENGR.
+178539026,egbayelo,Kingsley,Obadele,,COMPUTER ENGR.
+178539027,adekola,Oluwafunmilayo,B.,,COMPUTER ENGR.
+178539005,ogedengbe,Olamide,Segun,,COMPUTER ENGR.
+178539021,michael,Tomiloba,Mfon,,COMPUTER ENGR.
+178539042,akinwumi,Femi,Olaoluwa,,COMPUTER ENGR.
+178539025,afolayan,Samuel,Olabode,,COMPUTER ENGR.
+178539016,salami,John,Ayofe,,COMPUTER ENGR.
+178539046,alabi,Oluwakunle,Johnson,,COMPUTER ENGR.
+178539030,oluwatoba,Demola,Abraham,,COMPUTER ENGR.
+178539063,alawode,Saheed,Oluwadamilare,,COMPUTER ENGR.
+178539064,afolayan,Olanrewaju,John,,COMPUTER ENGR.
+,,,,,
+,,,,,
+178539094,akomolafe,Ayodeji,Sunday,,COMPUTER ENGR.
+178539002,olamikusibe,Ajibade,David,,COMPUTER ENGR.
+178539077,abiti,Olumide,O.,,COMPUTER ENGR.
+178539047,omofioye,Israel,Adekunle,,COMPUTER ENGR.
+178431094,sikiru,OLOLADE,HUSSAIN,,COMPUTER ENGR.
+,,,,,
+178539058,dada,Mayowa,Felix,,COMPUTER ENGR.
+,,,,,
+,,,,,
+,,,,,
+178539040,adesina,Peter,Oluwasina,,COMPUTER ENGR.
+178539050,atolabi,Ayodeji,Benjamin,,COMPUTER ENGR.
+178539074,olaiya,Divine,Oluwole,,COMPUTER ENGR.
+178539048,araromi,Ibukun,Enoch,,COMPUTER ENGR.
+178539115,oyelaran,Adewale,Adebayo,,COMPUTER ENGR.
+178539045,odelola,Taiwo,Meshack,,COMPUTER ENGR.
+178539097,balogun,Boluwatife,Suliyat,,COMPUTER ENGR.
+178539081,titus,Ayomide,Blessing,,COMPUTER ENGR.
+178539106,oyebade,Kehinde,Seyifunmi,,COMPUTER ENGR.
+178539085,adebero,Oluwafemi,Priscilla,,COMPUTER ENGR.
+178539100,kumapayi,Ibitayo,Abel,,COMPUTER ENGR.
+178539083,famoriyo,Ismail,Olugbenga,,COMPUTER ENGR.
+178539060,okunade,Adedoyin,Kunle,,COMPUTER ENGR.
+178539032,saka,Rebecca,Titilope,,COMPUTER ENGR.
+178539090,ekiran,Oluwatobi,Rotimi,,COMPUTER ENGR.
+178539029,olasanoye,Oluwadare,Michael,,COMPUTER ENGR.
+178539056,olabode,Folashade,Esther,,COMPUTER ENGR.
+178539053,hassan,Abimbola,Rofiat,,COMPUTER ENGR.
+178539082,hunpatin,Sonayon,Abiodun,,COMPUTER ENGR.
+178539079,owolabi,Doyinsola,Olamide,,COMPUTER ENGR.
+178539006,oyebiyi,Adewale,Julius,,COMPUTER ENGR.
+178539093,owosola,Oluwashina,Israel,,COMPUTER ENGR.
+178539061,ayekolegun,Emmanuel,,,COMPUTER ENGR.
+178539071,ajayi,Rahmat,Jonathan,,COMPUTER ENGR.
+178539038,afolabi,Idowu,David,,COMPUTER ENGR.
+178539001,jogbodo,Abbey,Ojo,,COMPUTER ENGR.
+,,,,,
+,,,,,
+178539121,kumapayi,Abiola,Ugochukwu,,COMPUTER ENGR.
+,,,,,
+178539088,falokun,Oluwasanmi,Adekunle,,COMPUTER ENGR.
+178539033,oguntuase,Stephen,Olayiwola,,COMPUTER ENGR.
+,,,,,
+,,,,,
+178539054,ogundipe,Abiodun,Toluwase,,COMPUTER ENGR.
+,,,,,
+178539091,oloyede,Abosede,Florence,,COMPUTER ENGR.
+178645053,ayangbade,BUKOLA,BLESSING,,LAW
+178645124,arogundade,EMMANUEL,,,LAW
+178645033,ogundare,OLUWAKEMI,JOY,,LAW
+178645070,tiwo,OLUWABUKOLA,OMOYEMI,,LAW
+178645018,adeyemo,JESUTOFUNMI,ADEDIWURA,,LAW
+178645035,ogunmokunwa,OREOFE,CHRISTIANAH,,LAW
+178645004,alabi,ADENIKE,,,LAW
+178645036,fayemi,TAIWO,OLUWADASOLA,,LAW
+178645023,kolade-oje,TEMIDAYO,O,,LAW
+178645001,olatunde,NANA,FIRDAUS,,LAW
+178645006,okam,BLESSING,NGOZI,,LAW
+178645016,olonitoye,AKINFOLARIN,,,LAW
+178645138,oluwafemi,OLUMUYIWA,O,,LAW
+178645012,shobogun,ODUNAYO,OLUWAPELUMI,,LAW
+178645034,ajao,IYANUOLUWA,AZEEZAT,,LAW
+178645007,awe,OLAYEMI,DEBORAH,,LAW
+178645141,jimoh,SAKA,ADENIYI,,LAW
+178645008,ajagbonna,JOLAOLUWA,DEBORAH,,LAW
+178645005,olusina,TOLUWALAGBARA,ESTHER,,LAW
+178645131,isola,ADURAYEMI,DEBORAH,,LAW
+178645100,sijuade,IBUKUNOLUWA,AYENI,,LAW
+178645128,onipede,JAMIU,OLABODE,,LAW
+178645082,agbaje,OLUWADAMILOLA,FATIMAT,,LAW
+178645002,abe,AYOMIDE,Oluwamayowa,,LAW
+178645091,ajayi,OLUSOLA,FRANCIS,,LAW
+178645017,folorunso,OLUWAPELUMI,AYOMIDE,,LAW
+178645027,oni,OLUWASESAN,JOHN,,LAW
+178645020,anoruo,NNEOMA,MEDIATRIX,,LAW
+178645079,olusuyi,YETUNDE,PRISCILLA,,LAW
+178645014,akinyosotu,DAMILOLA,ADERONKE,,LAW
+178645074,ojo,ADEOLA,REBECCA,,LAW
+178645041,ajayi,PHILIP,MUYIWA,,LAW
+178645021,fanola,OREOLUWA,MOROLAKE,,LAW
+178645019,babalola,YETUNDE,ANTHONIA,,LAW
+178645030,akinyele,DAVID,OLAMIDE,,LAW
+178645105,abiola,LILIAN,TOLULOPE,,LAW
+178645031,oluwaleye,JOANA,AYOMIKUN,,LAW
+178645076,ogunmodede,BOLUWATIFE,M,,LAW
+178645026,akinniyi,OLAKUNLE,EMMANUEL,,LAW
+178431094,adeyemi,OLOLADE,HUSSAIN,,LAW
+178645013,adesina,ADEDEJI,BLESSING,,LAW
+178645025,egbeeye,DEBBY,MOTUNRAYO,,LAW
+178645043,olaniyo,OLALEKAN,IFEOLUWA,,LAW
+178645015,ade-ojo,TOLUWANI,OMOBOLANLE,,LAW
+178645032,oguntomiloye,MERCY,AYOMIPOSI,,LAW
+178645130,adebayo,SUNDAY,ADEKUNLE,,LAW
+178645011,akinola,DEBORAH,BLESSING,,LAW
+178645069,ajayi,OLAMIDE,ELIZABETH,,LAW
+178645024,ajayi,MOSUNMOLA,ENIOLA,,LAW
+178645040,oladele,OLUWATOSIN,GRACE,,LAW
+178645061,fasanmi,IFEOLUWA,AYOMIPOSI,,LAW
+178645062,omoyajowo,BLESSING,ARAMIDE,,LAW
+178645077,egunjobi,PRECIOUS,OLUWATOSIN,,LAW
+178645072,olusesan,OLUWABUKOLAMI,A,,LAW
+178645029,famoni,BLESSING,YETUNDE,,LAW
+178645071,olurotimi,COMFORT,ADESOLA,,LAW
+,,,,,
+178645139,adewumi,OLAKUNLE,ANTHONY,,LAW
+178645046,adepetu,PRAISE,MOYINOLUWA,,LAW
+178645067,babalola,BLESSING,OYINDAMOLA,,LAW
+178645106,filani,INUMIDUN,JOMILOJU,,LAW
+178645037,adetoyi,IDOWU,JOSHUA,,LAW
+178645123,awujoola,ADEDAMOLA,AYOMIDE,,LAW
+178645009,adeosun,ADEOLA,ESTHER,,LAW
+178645107,faleye,RACHEAL,IYANUOLUWA,,LAW
+178645092,jombo,MOSUNMOLA,,,LAW
+178645084,obileye,AYOMIDE,DAVID,,LAW
+178645003,alade,OLUWAFERANMI,OLAYINKA,,LAW
+178645117,avwemoya,BLESSING,OGHENEOCHUKO,,LAW
+178645140,fatola,SIKIRU,OLALEKAN,,LAW
+178645081,ajulo,ADEBISI,JOSHUA,,LAW
+178645096,adeyanju,JAMIU,AKINYEMI,,LAW
+178645068,ogunjobi,FLORAL,IBIYEMI,,LAW
+178645051,owolabi,AYOOLUWA,MOSES,,LAW
+178645098,abimbola,OLUWATOSIN,ADESEWA,,LAW
+17864518,olabode,REBECCA,OLAYEMI,,LAW
+178645089,ologbe,TAJUDEEN,SUBAIR,,LAW
+178645103,ayoola,MERCY,BIDEMI,,LAW
+178645125,akintunde,TEMITOPE,BISOLA,,LAW
+178645133,alao,DOTUN,RENEWAL,,LAW
+178645085,daramola,MOLODY,ADEOLA,,LAW
+178645073,omojola-martins,ARAMIDE,,,LAW
+178645028,darelasebikan,DOYINSOLA,ABISOLA,,LAW
+178645095,tiamiyu,PETER,OLUWANIYI,,LAW
+178645042,alokan,DOTUN,PHILIPS,,LAW
+178645086,baale,OLUWASEGUN,DAVID,,LAW
+178645058,israel,ADEBIYI,ADEDEJI,,LAW
+178645111,oluwalana,DANIEL,FERANMI,,LAW
+178645057,afolayan,MORONFOLA,ELIZABETH,,LAW
+178645052,adebayo,TOLUWANI,VICTORIA,,LAW
+178645050,ola-awe,DAMILOLA,RACHEAL,,LAW
+178645022,afolabi,NIFESIMI,PRECIOUS,,LAW
+178645113,adedayo,OLAJIDE,DAMILOLA,,LAW
+178645044,eseyin,PHILIP,AYOKUNLE,,LAW
+178645045,oshikoya,ADEKUNLE,OLUWATOYOSI,,LAW
+178645129,john,MERCY,,,LAW
+178645134,ojo,MORENIKEJI,RHODES,,LAW
+178645090,olasupo,PRAISE,OLUWAPELUMI,,LAW
+178645078,omoniyi,BOLUWATIFE,FAITH,,LAW
+178645121,olayiwola,JOSHUA,AYODELE,,LAW
+178645055,oyeyemi,DUNSIN,AANUOLUWA,,LAW
+178645050,olawe,Damilola,Racheal,,Law
+178645022,afolabi,Nifesismi,Precisous,,Law
+178645113,adedayo,Olajide,Damilola,,Law
+,,,,,
+178645045,osukoya,Adekunle,Oluwatoyosi,,Law
+178645129,john,Mercy,,,Law
+178645134,ojopohe,Morenikeji,,,Law
+178645090,olasupo,Praise,Oluwapelumi,,Law
+178648078,omoniyi,Boluwatife,Faith,,Law
+178645121,olayiwola,Joshua,Ayoola,,Law
+178645055,oyeyemi,Dunsin,Aanuoluwa,,Law
+178645056,odebunmi,Oluwaseun,Odunayo,,Law
+178645127,daramola,Olateju,Bernice,,Law
+178645108,awe,Pelumi,Elizabeth,,Law
+178645064,ajayi,Ayomiposi,Yetunde,,Law
+178645099,fakunle,OLUTAYO,Oluwayomi,,Law
+178645080,adewumi,Omosewa,Oluwanyemi,,Law
+178645065,oguntoyinbo,Oluwafisayomi,Oluwanifemi,,Law
+178752286,fatumore,FISAYO,VERONICA,,INSURANCE
+178752194,balogun,IDOWU,VICTORIA,,INSURANCE
+178752139,oluwadare,FEMI,BOLUWAJI,,INSURANCE
+178752239,abiodun,DEBORAH,DAMILOLA,,INSURANCE
+178752169,james,OLUWAFERANMI,EZEKIEL,,INSURANCE
+178752181,jimoh,BLESSING.,M,,INSURANCE
+178752206,bakare,JUBRIL,OLUWADAMILARE,,INSURANCE
+,,,,,
+178752137,alabi,TAOFEEK,OLUWATOMILOLA,,INSURANCE
+178752142,ayodele,RICHARD,ABIODUN,,INSURANCE
+178751069,dawodu,TEMITAYO,FUNMILAYO,,COOPRATIVE
+178751040,ubiadiku,CHRISTIAN,,,COOPRATIVE
+178751070,adewuyi,EZEKIEL,GBOLAHAN,,COOPRATIVE
+178751073,djossou,MAUTIN,ABOSEDE,,COOPRATIVE
+178751067,ogunmoroti,HANNAH,ANUOLUWAPO,,COOPRATIVE
+178751064,lawal,MARIAM,TEMITOPE,,COOPRATIVE
+178751068,omole-jacob,ESTHER,AYOMIDE,,COOPRATIVE
+178751097,woleola,USMAN,ABIDEMI,,COOPRATIVE
+178751076,amoo,ODUNAYO,COMFORT,,COOPRATIVE
+178751071,salau,AMINAT,OLAPEJU,,COOPRATIVE
+178751049,lukmon,RASHEED,OLAYINKA,,COOPRATIVE
+178752026,joseph,FRIDAY,AMEH,,MARKETING
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178752171,suberu,JOHN,,,MARKETING
+178752133,oyekanmi,RASHEEDAT,OMOWUMI,,MARKETING
+178752320,adeola,OLUWAJUWON,SUNDAY,,MARKETING
+178752016,akinola,BOLUWATIFE,OLUWAJUWON,,MARKETING
+178752035,adegbemi,BLESSING,OLUWAFUNMILAYO,,MARKETING
+178752027,akinyemi,JOSIAH,OLAYEMI,,MARKETING
+178752083,babalola,BLESSING,TEMIDAYO,,MARKETING
+178752109,adefarati,MAYOWA,IRETI,,MARKETING
+178752268,omotayo,OLASUNBO,BLESSING,,MARKETING
+178752103,stephen,ELIZABETH,OLUWASEUN,,MARKETING
+178752119,aderibigbe,WASIU,ADEDEJI,,MARKETING
+178752170,oladejo,ELIZABETH,OLAITAN,,MARKETING
+178752357,adebila,EMMANUEL,VICTOR,,MARKETING
+178752099,timi-ojo,IBUKUN,DANIEL,,MARKETING
+178750272,daudu,ESTHER,DAMILOLA,,ACTUARIAL
+178750110,ojo,WAILAT,OPEYEMI,,ACTUARIAL
+178750275,oyebanji,FOLASADE,BOLANLE,,ACTUARIAL
+178750027,mustapha,DAMILOLA,FAITH,,ACTUARIAL
+178750323,ladejo,MICHAEL,OLAMILEKAN,,ACTUARIAL
+178750054,nnamdi,HAPPINESS,GINIKACHI,,ACTUARIAL
+178750023,akintomide,BAYO,JOSHUA,,ACTUARIAL
+178750072,onisile,OLUWATOYIN,CHRISTIANAH,,ACTUARIAL
+178750070,runsewe,ADEMOLA,OLUWASEGUN,,ACTUARIAL
+178750088,sani,JAMES,OLUWASEUN,,ACTUARIAL
+1787571052,osho,ROSELINE,EBENMOSI,,IRPM
+1787571155,moses,TEMITOPE,MARY,,IRPM
+1787571026,joshua,AYOMIDE,FUNMILAYO,,IRPM
+1787571019,aleem,QUDRAH,ABIDEMI,,IRPM
+1787571050,akinfenwa,BOLUWATIFE,BLESSING,,IRPM
+1787571002,onyenebe,OBEN,CHUKWUKA,,IRPM
+1787571234,ogunsakin,OMOSALEWA,OYINKAN,,IRPM
+1787571028,aderinto,KOREDE,SAMUEL,,IRPM
+1787571147,george,ABIDEMI,FAVOUR,,IRPM
+1787571149,libamoyo-ojo,DAMILOLA,COMFORT,,IRPM
+1787571048,oladele,ABISOLA,,,IRPM
+1787571160,ajagbe,BARAKAT,AJIBOLA,,IRPM
+1787571005,oyeyode,S.,AYOFE,,IRPM
+1787571038,oyesiji,JULIUS,AYOMIDE,,IRPM
+1787571055,salahudeen,BARAKAT,OMOBOLANLE,,IRPM
+1787571183,oderanti,ZACCHEAUS,TIMILEYIN,,IRPM
+1787571250,ibrahim,FATIMO,DEBORAH,,IRPM
+1787571249,fakorede,ADEDAMOLA,OMONIYI,,IRPM
+1787571087,awe,STEPHEN,OLAOLUWA,,IRPM
+1787571148,egbuwalo,TOLA,ISAAC,,IRPM
+1787571007,ilegbusi,JAMES,ABIODUN,,IRPM
+1787571238,oladoja,MARIAM,ADUNNI,,IRPM
+1787571120,ajala,ZAINAB,ADEBOLA,,IRPM
+1787571170,abiodun,DAMILOLA,ISRAEL,,IRPM
+1787571246,raheem,HABEEB,OLAWALE,,IRPM
+1787571016,shoroye,OLANREWAJU,AHMMED,,IRPM
+1787571161,adewumi,AYOMIDE,CHRISTIANAH,,IRPM
+1787571157,oluwabiyi,KEHINDE,OLUWABUNMI,,IRPM
+178752189,salami,RUTH,OLUWAFUNMILOLA,,BUS ADMIN
+178752185,lawal,OLUWASEUN,BOLUWATIFE,,BUS ADMIN
+178752144,fasogba,ABOSEDE,MONISOLA,,BUS ADMIN
+178752187,adebayo,TOLUWASE,IYANUOLUWA,,BUS ADMIN
+178752184,adejuwon,ADEJUMOKE,GRACE,,BUS ADMIN
+178752309,idowu,FLORENCE,OLAIDE,,BUS ADMIN
+178752158,omojuwa,DEBORAH,BOLANLE,,BUS ADMIN
+178752024,fehintola,OLUWABAMIKE,SARAH,,BUS ADMIN
+178752076,mmojekwe,CHIKALO,MARY,,BUS ADMIN
+178752188,falana,BOLANLE,OLUWASEYI,,BUS ADMIN
+178752219,ifede,TAIWO,ITUNUOLUWA,,BUS ADMIN
+178752025,ojo,FAITH,OLUWATOYOSI,,BUS ADMIN
+178752264,okwudiri,UCHECHI,COMFORT,,BUS ADMIN
+178752341,oyewole,ELIZABETH,TITILADE,,BUS ADMIN
+178752284,akintomide,OLUWATOYIN,ESTHER,,BUS ADMIN
+178431094,adedokun,OLOLADE,HUSSAIN,,BUS ADMIN
+178752010,oyewole,ELIZABETH,TITILADE,,BUS ADMIN
+178752045,agunsoye,OYINKANSOLA,HANNAH,,BUS ADMIN
+178752082,adebayo,OLUWABUKUNMI,ABIGEAL,,BUS ADMIN
+178752361,aribisala,JOLAYEMI,OLUWATUMISE,,BUS ADMIN
+178752318,loyinmi,OPEYEMI,STELLA,,BUS ADMIN
+178752332,okunola,FAITH,ADEBANKE,,BUS ADMIN
+178752162,akinkunmi,AKINLAMI,SAMUEL,,BUS ADMIN
+178752023,ajayi,AYOMIDE,EUNICE,,BUS ADMIN
+178752009,adeyemo,DAVID,KOREDE,,BUS ADMIN
+178752020,okanlawon,ELIZABETH,TEMILOLUWA,,BUS ADMIN
+178752013,mukaila,TEMITOPE,OLAJUMOKE,,BUS ADMIN
+178752010,oyeniran,MAYOWA,TOLULOPE,,BUS ADMIN
+178752291,oladele,LATEEF,OLUWAFEMI,,BUS ADMIN
+178752146,ade,IYANUOLUWA,GABRIEL,,BUS ADMIN
+178752274,eniola,MICHEAL,TEMITOPE,,BUS ADMIN
+178752328,adeyemo,ONAOPEMIPO.,Abel,,BUS ADMIN
+178752066,abdulganiyu,SAMSONDEEN,OMOBORIOWO,,BUS ADMIN
+178752074,ilesanmi,ALICE,DAMI,,BUS ADMIN
+178752107,ajayi,RACHEAL,BLESSING,,BUS ADMIN
+178752147,arowolo,PEACE,AYOBAMI,,BUS ADMIN
+178752105,omoniyi,AYODELE,EMMANUEL,,BUS ADMIN
+16875226,abolaji,BUKOLA,COMFORT,,BUS ADMIN
+178752064,kilanko,DAMILOLA,COMFORT,,BUS ADMIN
+178752012,adebayo,TEMITOPE,ESTHER,,BUS ADMIN
+178752002,sadare,MERCY,OLUWAKEMI,,BUS ADMIN
+178752258,olarewaju,BEATRICE,OLAMIPOSI,,BUS ADMIN
+178752256,abiodun,ADEPEJU,ESTHER,,BUS ADMIN
+178752089,adeniji,TIMILEYIN,DEBORAH,,BUS ADMIN
+178752182,gilbert-ojo,Rahmat,,,BUS ADMIN
+178752007,adeoba,TITILAYO,RUTH,,BUS ADMIN
+178752124,omolade,OLUWAFUNKE,OLAMIDE,,BUS ADMIN
+178752014,lamidi,OMOWUMI,SULIYAT,,BUS ADMIN
+178752085,makinwa,BUKOLA,MOTUNRAYO,,BUS ADMIN
+178752048,okeke,GEOFFREY,JUNIOR,,BUS ADMIN
+178752067,ogunshade,DANIEL,OLUBUNMI,,BUS ADMIN
+178752314,fabiyi,ENIOLA,CHRISTIANA,,BUS ADMIN
+178752096,owolabi,ABIDEMI,SUSAN,,BUS ADMIN
+178752050,kolawole,OMOWUNMI,IGE,,BUS ADMIN
+178752134,agbayewa,RACHEAL,OLUWABUKOLA,,BUS ADMIN
+178752191,giwa,ADENIKE,BASIRAT,,BUS ADMIN
+178752021,oke,JOSHUA,TEMIDAYO,,BUS ADMIN
+7536645GD,ajayi,ISRAEL,OLUWATOBILOBA,,BUS ADMIN
+178752022,ayodeji,OLUWATOBI,DAVID,,BUS ADMIN
+178752108,kolawole,BOLUWATIFE,ROSELINE,,BUS ADMIN
+178752085,emubosa,TEGA,PRINCE,,BUS ADMIN
+178752204,oni,OLUWADAMILOLA,IRETIAYO,,BUS ADMIN
+178752152,ganiyu,BARAKAT,ADEDIWURA,,BUS ADMIN
+178752110,olubokun,Fayobi,DEBORAH,,BUS ADMIN
+178752122,rotimi,KEHINDE,RACHEAL,,BUS ADMIN
+178752180,idowu,JOHNSON,SEGUN,,BUS ADMIN
+178752199,olumuyiwa,SAMUEL,AYOBAMI,,BUS ADMIN
+178752100,abdullateef,HAMDALAT,WURAOLA,,BUS ADMIN
+178752135,bello,ABDULRAHMON,ADETUNJI,,BUS ADMIN
+178752092,abiola,ADEDOTUN,KAZEEM,,BUS ADMIN
+178752015,ojofinni,IBRAHIM,OLAYEMI,,BUS ADMIN
+178752202,akanji,OLUIWAFUNMILAYO,OYINKANSOLA,,BUS ADMIN
+178752232,joseph,TOSIN,SEUN,,BUS ADMIN
+178752063,akinleye,OMOLARA,VICTORIA,,BUS ADMIN
+178752101,yusuf,AISHAT,OLUWADAMILOLA,,BUS ADMIN
+178752061,adejumo,ABIODUN,DAVID,,BUS ADMIN
+178752052,ayodele,DIMEJI,PAUL,,BUS ADMIN
+178752316,gidado,ADEBOLA,YUSUF,,BUS ADMIN
+178752094,adu,OLUWAFEMI,BAMIDELE,,BUS ADMIN
+178752267,abey,JOHN,OLAYINKA,,BUS ADMIN
+178752218,umoh,UDUAK-OBONG,EKERETTE,,BUS ADMIN
+178752054,john,REBECCA,Oluwamayowa,,BUS ADMIN
+178752006,oyetade,OMOLOLA,MARY,,BUS ADMIN
+178752299,folorunso,TOYOSI,MOTUNRAYO,,BUS ADMIN
+178752008,matthew,JOY,ONOZASI,,BUS ADMIN
+178752039,moronfade,ADEBOYE,SOLOMON,,BUS ADMIN
+178752043,omotade,OLUWADAMILOLA,JANET,,BUS ADMIN
+178752038,obidairo,OLUYINKA,OLAMIDE,,BUS ADMIN
+178752308,oluwatayemise,CHRISTIANAH.,O,,BUS ADMIN
+178752073,okupe,ADEOLA,ELIZABETH,,BUS ADMIN
+178752154,dada,TIMILEYIN,JERRY,,BUS ADMIN
+178752095,afolabi,IYANUOLUWA,JOSEPH,,BUS ADMIN
+178752005,awowale,CHRISTIANAH,OLUWATOBILOBA,,BUS ADMIN
+178752281,yekinni,KUBURAT,OMOLARA,,BUS ADMIN
+178752145,kodaolu,TEMITAYO,DAMILOLA,,BUS ADMIN
+178752143,sunday,CHINENYE,RITA,,BUS ADMIN
+178752230,osakuni,SUCCESS,AYODELE,,BUS ADMIN
+178431094,omotosho,OLOLADE,HUSSAIN,,BUS ADMIN
+178752011,makinde,OMOLOLA,DEBORAH,,BUS ADMIN
+178752304,afolabi,ITUNU,JULIANAH,,BUS ADMIN
+178752055,bamidele,ABISOLA,NAOMI,,BUS ADMIN
+178752186,tomori,MICHEAL,IBUKUNOLUWA,,BUS ADMIN
+178752130,olatunji,OLAOLUWA,FRIDAY,,BUS ADMIN
+178752310,adebiyi,OLUWAFOLAKEMI,MASCOT,,BUS ADMIN
+178752051,udoyph,SOLOMON,JOSHUA,,BUS ADMIN
+178752017,adewale,OLANIYI,OLAMILEKAN,,BUS ADMIN
+178752226,oni,ABIDEMI,JULIANA,,BUS ADMIN
+178752221,samson,ROSEMARY,FUNMILAYO,,BUS ADMIN
+178752063,babalola,OMOTOLANI,ESTHER,,BUS ADMIN
+178752234,owoeye,MAYOWA,GABRIEL,,BUS ADMIN
+178751084,ajayi,KOLAWOLE,JOSEPH,,FINANCE
+178751095,alabi,ANUOLUWAPO,,,FINANCE
+178751058,omeje,CHIKA,SAMSON,,FINANCE
+178751077,solomon,OLADOTUN,EMMANUEL,,FINANCE
+,,,,,
+178751129,okeke,ROSELINE,CHIBUZOR,,FINANCE
+178751154,adekanbi,SADIAT,ADEOLA,,FINANCE
+178751011,ojo,MARTHA,OLUFUNMILAYO,,FINANCE
+178751085,fagbohun,ELIJAH,OLUWADAMILARE,,FINANCE
+178751031,adetoye,TITILAYO,BLESSING,,FINANCE
+178751203,olatunji,SEKINAT,ODUNAYO,,FINANCE
+178751006,sulaimon,MARIAM,SHARON,,FINANCE
+178751214,olofintoke,OMOYEMI,OMOLAYO,,FINANCE
+178751089,amabali,OMOLARA,SHERIFAT,,FINANCE
+178751159,alle,GRACE,BOSE,,FINANCE
+178751200,agbaje,OMOWUMI,,,FINANCE
+178751101,kayode,TEMIDAYO,COMFORT,,FINANCE
+178751099,ogundare,OLUWASEYI,OMOLARA,,FINANCE
+178751090,adebeshin,DAMILARE,AYOOLA,,FINANCE
+178751162,akinsuyi,SEYI,GABRIEL,,FINANCE
+178751173,oliver,MERCY,,,FINANCE
+178751008,salami,ZAINAB,YETUNDE,,FINANCE
+178751012,awe,JOSEPH,SOGO,,FINANCE
+178751168,babayemi,ABIGAIL,MOKUNFAYO,,FINANCE
+178751017,adedokun,TUNMISE,OLUWATOMISIN,,FINANCE
+178751003,popoola,KAFAYAT,OLUWATOYIN,,FINANCE
+178751004,emmanuel,BLESSING,EDIDIONG,,FINANCE
+178751029,oladejo,IDOWU,TIMOTHY,,FINANCE
+178751164,amartey,RUTH,TOSIN,,FINANCE
+178751035,faleye,PATRICK,BOLUWADURO,,FINANCE
+178751098,ibiyokun,ESTHER,OLAPEJU,,FINANCE
+178751093,ogundipe,ADEOLA,VICTORIA,,FINANCE
+178751001,adeojo,MOTUNRAYO,MERCY,,FINANCE
+178751078,aremo,OLUWASEUN,RICHARD,,FINANCE
+178751125,hameed,MOTUNRAYO,ADUKE,,FINANCE
+178751201,kareem,DAMILOLA,ARIKE,,FINANCE
+178751131,ajadi,BLESSING,REBECCA,,FINANCE
+178751034,akanji,OKIKI,SUNDAY,,FINANCE
+178751020,olalude,HELLEN,OLUWATOYIN,,FINANCE
+178751194,ige,CHRISTIANAH,OMOTAYO,,FINANCE
+178751135,jayeoba,KEHINDE,RACHEAL,,FINANCE
+178751010,omowa,JOSHUA,OLUWASEUN,,FINANCE
+178751205,ojo,DORCAS,TOPE,,FINANCE
+178751045,ohakwe,LINDA,BIBIANA,,FINANCE
+178751042,francis,PRINCESS.,E,,FINANCE
+178751065,odusola,OLUWAYOMI,MARY,,FINANCE
+178751041,aiyejuto,FUNMI,VICTORIA,,FINANCE
+178751075,awolola,OLUWATOYIN,ESTHER,,FINANCE
+178751169,ariyibi,PROMISE,OMODARA,,FINANCE
+178751167,anisulowo,MICHEAL,OLUWAGBENGA,,FINANCE
+178751108,kolawole,SAMUEL,IYANUOLUWA,,FINANCE
+178751047,sulaimon,MODUPE,ROFIAT,,FINANCE
+178751024,akinjide,OLADAYO,FRANCIS,,FINANCE
+178751258,adeoye,MICHAEL,OLUWASEGUN,,FINANCE
+178751051,ashafa,YEWANDE,GANIYAT,,FINANCE
+178751217,ogunkowade,BLESSING,OLADIMEJI,,FINANCE
+178751242,ajenifuja,TAIWO,GBOLAHAN,,FINANCE
+178751178,adebawore,ADEKOLAPO,GABRIEL,,FINANCE
+178751066,olawoyin,TUNDE,,,FINANCE
+178751022,adeogun,JAMES,SEUN,,FINANCE
+178751109,akinbolade,OYINKANSOLA,ADEWUNMI,,FINANCE
+178751252,folorunsho,REBECCA,OLUWATOSIN,,FINANCE
+178751018,ayano,PAUL,OLUWASEGUN,,FINANCE
+178751023,afolayan,ABIODUN,SAMUEL,,FINANCE
+178751166,abdulganiyi,OLUTAYO,OLUWAKEMI,,FINANCE
+178751036,adetutu,VICTORIA,IFEOLUWA,,FINANCE
+178751061,ogundare,WUMI,ELIZABETH,,FINANCE
+178751025,alix,COURAGE,FUNMILAYO,,FINANCE
+178751039,ogungbe,LAURETTA,TITILOPE,,FINANCE
+178751150,adeyemi,DAMILOLA,EMMANUEL,,FINANCE
+178751206,saliman,KAOSARA,YETUNDE,,FINANCE
+178751092,adewumi,OMOLAYO,COMFORT,,FINANCE
+178751082,falola,SAMUEL,OLUWAFEMI,,FINANCE
+178751033,olowoseunrere,OLAMIDE,BOSE,,FINANCE
+,,,,,
+178750147,agunbiade,DEBORAH,OLUWASEUN,,ENTREPRENEURIAL
+178750337,bashiru,ABIMBOLA,MARIAM,,ENTREPRENEURIAL
+178750031,fadunmila,OMOTOLA,AYODEJI,,ENTREPRENEURIAL
+178750177,kolawole,ANJOLAOLUWA,FAVOUR,,ENTREPRENEURIAL
+178750194,oyeboade,OLUWAFEMI,PELUMI,,ENTREPRENEURIAL
+178750244,azeez,MUBARAK,BOLANLE,,ENTREPRENEURIAL
+178750193,majekodunm,DAMILOLA,SEYIFUNMI,,ENTREPRENEURIAL
+178750140,odedeji,OYINDAMOLA,MARY,,ENTREPRENEURIAL
+178750285,ojo,TOYIN,MARIAM,,ENTREPRENEURIAL
+178750107,adesola,ADEJUMOKE,ODUNAYO,,ENTREPRENEURIAL
+178750143,adewunmi,MOSURAT,ADETOUN,,ENTREPRENEURIAL
+178750040,ale,OLUWATOSIN,RACHEAL,,ENTREPRENEURIAL
+178750197,ojo,OLORUNTOBA,CHARLES,,ENTREPRENEURIAL
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178750267,akinwale,IMISIOLUWA,PAULINE,,ENTREPRENEURIAL
+178750364,innocent,FAITH,OLAYI,,ENTREPRENEURIAL
+178750227,popoola,DAMILOLA,PAMILERIN,,ACCOUNTING
+178750016,akilo,OPEYEMI,ELIZABETH,,ACCOUNTING
+178750015,ariwoola,KEHINDE,BUKOLA,,ACCOUNTING
+178750264,awe,BOLUWATIFE,MERCY,,ACCOUNTING
+178750060,afolabi,NAFISAT,OLANIKE,,ACCOUNTING
+178750163,akinboboye,OLUWAYEMISI,TITILAYO,,ACCOUNTING
+178750006,oluwafemi,OLUWASEYI,SAMUEL,,ACCOUNTING
+178750002,adeleke,VICTORIA,WURAOLA,,ACCOUNTING
+178750003,boyede,OMOLOLA,ANITA,,ACCOUNTING
+178750379,oladokun,ESTHER,OLUWASEUN,,ACCOUNTING
+178750064,olatunji,GRACE,TEMITOPE,,ACCOUNTING
+178750042,adeoti,TOPE,OLAJIDE,,ACCOUNTING
+178750299,agbaje,IFEOLUWA,OLAMIDE,,ACCOUNTING
+178750005,adeosun,VICTORIA,ADEYINKA,,ACCOUNTING
+178750036,olola,OUWAFEMI,OLADIMEJI,,ACCOUNTING
+178750057,akingbesote,VICTORIA,MODUPE,,ACCOUNTING
+178750079,oloyede,JOY,OLUWADARASIMI,,ACCOUNTING
+178750025,alademomi,AYOMIDE,OPEYEMI,,ACCOUNTING
+178750024,alagbe,AYOBOLA,EMMANUEL,,ACCOUNTING
+178750128,ajayi,BISOLA,DEBORAH,,ACCOUNTING
+178750325,idowu,OLUWAROTIMI,HENRY,,ACCOUNTING
+178750127,ademola,TAWA,,,ACCOUNTING
+178750159,ayanleye,BERNARD,GBOHUNAYOMI,,ACCOUNTING
+178750160,adewole,ADEYEMI,SAMUEL,,ACCOUNTING
+178750049,osasuyi,BLESSING,KIKELOMO,,ACCOUNTING
+178750113,omotosho,OLAYINKA,YETUNDE,,ACCOUNTING
+178750073,afolayan,COMFORT,BUKOLA,,ACCOUNTING
+178750273,ajayi,TIMILEHIN,EMMANUELLA,,ACCOUNTING
+178750284,faniyi,GRACE,TOMILOLA,,ACCOUNTING
+178750129,ajewole,DORCAS,ABOSEDE,,ACCOUNTING
+178750109,oluyinka,PAUL,YEMI,,ACCOUNTING
+178750028,jimoh,ADEIZA,MONDAY,,ACCOUNTING
+178750167,odeyemi,JOY,OLUWABUKOLA,,ACCOUNTING
+178750017,popoola,JESUFEMISI,PRECIOUS,,ACCOUNTING
+178750214,aderinto,ELIZABETH,OLAMIDE,,ACCOUNTING
+178750018,adeniyi,JESUTOFUNMI,FLORA,,ACCOUNTING
+178750345,owoeye,ADEDOYIN,OLUWAFISAYO,,ACCOUNTING
+178750312,adebayo,SUSAN,ADERINOLA,,ACCOUNTING
+178750233,ogundele,ENIOLA,MARY,,ACCOUNTING
+178750097,oyatunde,YETUNDE,ABIGEAL,,ACCOUNTING
+178750044,olaniyi,GRACE,ANUOLUWAPO,,ACCOUNTING
+178750080,olufemi,MARY,BUKOLA,,ACCOUNTING
+178750106,ilegbusi,DAMILARE,ADEMOLA,,ACCOUNTING
+178750186,ojoye,ODUNAYO,TEMITOPE,,ACCOUNTING
+178750096,ojo,JOHN,OLAYINKA,,ACCOUNTING
+178750061,akomolafe,TITILAYO,BOLUWATIFE,,ACCOUNTING
+178750034,azeez,RIDWAN,ABIODUN,,ACCOUNTING
+178750039,olofintila,FISAYO,IBUKUN,,ACCOUNTING
+178750062,aborisade,AANU,OLUWAPAMILERIN,,ACCOUNTING
+178750055,lateef,AMINAT,TAYE,,ACCOUNTING
+178750090,onilu,ESTHER,OMOTOLA,,ACCOUNTING
+178750121,salami,GBEMISOLA,SARAH,,ACCOUNTING
+178750279,daramola,DAMILOLA,DOLAPO,,ACCOUNTING
+178750008,owolabi,OLUWATOMISIN,FAVOUR,,ACCOUNTING
+178750051,alimi,MARIAM,OLANIKE,,ACCOUNTING
+178750348,olagunju,TOMILOLA,ELIZABETH,,ACCOUNTING
+178750154,adedeji,ITEOLUWA,ADETUTU,,ACCOUNTING
+178750133,fasan,AYODEJI,EMMANUEL,,ACCOUNTING
+178750161,mokuolu,OLUWATISE,GLORY,,ACCOUNTING
+178750162,omoniyi,ELIZABETH,ENIOLA,,ACCOUNTING
+178750203,adeleke,TOLUWALOPE,PRECIOUS,,ACCOUNTING
+178750105,akintade,AYODEJI,SAMUEL,,ACCOUNTING
+178750041,busari,NAFISAT,AYOBAMI,,ACCOUNTING
+178750188,aguntasolo,OLAWUNMI,ESTHER,,ACCOUNTING
+178750056,aweloogun,RACHEAL,RONKE,,ACCOUNTING
+178431094,adesipe,OLOLADE,HUSSAIN,,ACCOUNTING
+178750173,lamidi,SIDIKAT.,O,,ACCOUNTING
+178750419,babalola,ABIOLA,ESTHER,,ACCOUNTING
+178750389,oyeyemi,ABOSEDE,ABIMBOLA,,ACCOUNTING
+178750231,ogunmodede,GBEMISOLA,ABOSEDE,,ACCOUNTING
+178750282,abe,OLUWAYEMISI,SEUN,,ACCOUNTING
+178750019,oladapo,OLANIKE,REBECCA,,ACCOUNTING
+178750066,akanle,OLUWATOBI,GOODNEWS,,ACCOUNTING
+178750010,abe,TAIWO,MERCY,,ACCOUNTING
+178750253,oladeji,OLASUPO,EMMANUEL,,ACCOUNTING
+178750144,adediwura,ADEDAMOLA,ISEOLUWA,,ACCOUNTING
+178750045,aduwo,DORCAS,TEMITOPE,,ACCOUNTING
+178750204,omonijo,TEMITOPE,MARY,,ACCOUNTING
+178750309,dada,JOSHUA,OLUWATAYO,,ACCOUNTING
+178750130,olowookere,EMMANUEL,OLUWADARE,,ACCOUNTING
+178750201,owolabi,SUKURAT,OPEYEMI,,ACCOUNTING
+178750199,agbebunmi,BOLATITO.,Abel,,ACCOUNTING
+178750071,tiamiyu,KOLADE,LATEEF,,ACCOUNTING
+178750139,balogun,MARY,BOLANLE,,ACCOUNTING
+178750038,adebulu,ADEBIMPE,ESTHER,,ACCOUNTING
+178750007,ogunlade,AYOOLA,OLUWAKEMI,,ACCOUNTING
+178750032,omolade,FAITRH,OLUWADAMILOLA,,ACCOUNTING
+178750082,ojo,EUNICE,IBUKUNOLUWA,,ACCOUNTING
+178750366,owoyomi,EMMANUEL,ODUNAYO,,ACCOUNTING
+178750058,aladesusi,ELIZABETH,ADURAGBEMI,,ACCOUNTING
+178750255,lawal,OLADAYO,TAOFEEKAT,,ACCOUNTING
+178750169,ogunbowode,OLUWASEUN,THERESA,,ACCOUNTING
+178750283,ibidiran,OMOWUMI,JANET,,ACCOUNTING
+178750156,oyetayo,GLORY,ADEOLA,,ACCOUNTING
+178750022,ajayi,Rahmat,OLUWADASOLA,,ACCOUNTING
+178750035,akanbi,OLUWADAMILOLA,PETER,,ACCOUNTING
+178750123,olabode,SEGUN,ISRAEL,,ACCOUNTING
+178750108,alonge,ADESEWA,KANYINSOLA,,ACCOUNTING
+178750268,abegunde,OLAYINKA,DEBORAH,,ACCOUNTING
+178750086,ogunleye,MOTUNRAYO,OLUWADUNSIN,,ACCOUNTING
+178750356,aremu,TEMITOPE,ALEX,,ACCOUNTING
+178750221,agboola,AMINAT,AJIBOLA,,ACCOUNTING
+178750095,olaniran,OLUWALAANU,DEBORAH,,ACCOUNTING
+178750027,akinyemi,JOSIAH,OLAYEMI,,ACCOUNTING
+178750087,ojo,TIMILEHIN,AYOMIDE,,ACCOUNTING
+178750413,oladipupo,OLUWASEUN,ESTHER,,ACCOUNTING
+178750210,yusuff,MISKIYAT,BOLUWATIFE,,ACCOUNTING
+178750180,ojiako,CHIDIEBERE,EMMANUEL,,ACCOUNTING
+178750200,kupoluyi,COMFORT,TEMITOPE,,ACCOUNTING
+178750237,samuel,ADEMOLA,OLUWASEYI,,ACCOUNTING
+178750182,makanjuola,VICTORIA,TOSIN,,ACCOUNTING
+178750174,ojezua,GIFT,ESELE,,ACCOUNTING
+178750094,oluwatosin,SAMSON,ADEDIWURA,,ACCOUNTING
+178750093,obafemi,Fayobi,A,,ACCOUNTING
+178750136,familugba,ADETUTU,OLAMIDE,,ACCOUNTING
+178750254,musa,OLOHIGBE,VICTORIA,,ACCOUNTING
+178750151,ajibile,UTHMAN,OPEYEMI,,ACCOUNTING
+178750122,balogun,JUBRIL,AJIBOLA,,ACCOUNTING
+178750146,ibukun,TEMITOPE,PETER,,ACCOUNTING
+178750141,afolabi,EMMANUEL,OLAOLUWA,,ACCOUNTING
+178750157,bello,MAYOWA,RUKAYAT,,ACCOUNTING
+178750307,olaniyi,DAMILARA,ABAYOMI,,ACCOUNTING
+178750155,abegunde,OLUWADAMILOLA,OMOLOLA,,ACCOUNTING
+178750050,ibeh,LINDA,UGOCHI,,ACCOUNTING
+178750012,omoju,EMMANUEL,AYOMIDE,,ACCOUNTING
+178750262,agidigbi,ADEDAMOLA,VERONICA,,ACCOUNTING
+178750236,eluaka,EMMANUELLA,NKECHI,,ACCOUNTING
+178750404,akosile,ADEOLA,ESTHER,,ACCOUNTING
+178750350,mebawondoye,FUNMILAYO,V,,ACCOUNTING
+178750098,oladejo,SEYI,EMMANUELLA,,ACCOUNTING
+178750021,oyelayo,HABEEBLAHI,TAIWO,,ACCOUNTING
+178750165,sulaimon,IBRAHIM,Oluwamayowa,,ACCOUNTING
+178750171,alabi,PETER,AYODELE,,ACCOUNTING
+178750249,folorunso,PEACE,MICHEAL,,ACCOUNTING
+178750103,akinrinola,OLUWASOLA,,,ACCOUNTING
+178750347,olanrewaju,ELIZABETH,OLAMIDE,,ACCOUNTING
+178750252,dada,FOYINFOLUWA,OMOTOYOSI,,ACCOUNTING
+178750295,fadola,MAYOWA,DANIEL,,ACCOUNTING
+178750134,adejola,MICHAEL,OLANREWAJU,,ACCOUNTING
+178750381,adedeji,TIMILEHIN,BIMPE,,ACCOUNTING
+178750426,falua,ADEOLA,PRAISE,,ACCOUNTING
+178750004,ojo,OLASUNKANMI,DONALD,,ACCOUNTING
+178750009,olonisola,OMOWUNMI,HENRIETTA,,ACCOUNTING
+178750048,awofadeju,ENIOLA,MARY,,ACCOUNTING
+178750190,agbenla,MARIAM,OLUWATOYIN,,ACCOUNTING
+178750084,olusola,ESTHER,IBUKUN,,ACCOUNTING
+178750260,ogundola,TEMITOPE,FUNMILAYO,,ACCOUNTING
+178431094,sotola,OLOLADE,HUSSAIN,,ACCOUNTING
+178750230,akinleye,TOLUWANI,AKINDEJI,,ACCOUNTING
+178750101,olalekan,BLESSING,OLUWASOLA,,ACCOUNTING
+178750280,oloruntoba,OLATUNDE,CORNELIUS,,ACCOUNTING
+178750218,adedara,OLUWATOMILOLA,VENITA,,ACCOUNTING
+178750145,oguntuase,TEMITAYO,GRACE,,ACCOUNTING
+178750425,onijingin,SUNDAY,TIMILEHIN,,ACCOUNTING
+178750240,somorin,ABIBAT,OLADUNNI,,ACCOUNTING
+178750281,ogunjobi,ELIZABETH,TOYIN,,ACCOUNTING
+178750075,olushoga,VICTORIA,OLUWASHIKEMI,,ACCOUNTING
+178750083,adedokun,ESTHER,ADEOLA,,ACCOUNTING
+178750329,ojo,VICTORIA,ESTHER,,ACCOUNTING
+178750349,aladenika,ABIODUN,JAMIU,,ACCOUNTING
+178750224,adeloye,ADENIKE,ESTHER,,ACCOUNTING
+168750003,abolaji,DAMILOLA,BRIGHT,,ACCOUNTING
+178750135,adeniji,MAYOWA,MICHAEL,,ACCOUNTING
+178750424,olorunfemi,GIDEON,SEGUN,,ACCOUNTING
+,,,,,
+178752225,oladimeji,Elizabeth,Oluwatosin,,Marketing 
+178752215,alao,Mariam,Adejoke,,Marketing 
+178782097,adeleke,moses,Oluwaseun,,Marketing 
+178752049,adejumo,Oluwaseun,Olaitan,,Marketing 
+178952112,peter,Blessing,Amaka,,Marketing 
+178152111,olayiinka,Olabode,Fatai,,Marketing 
+178752159,ogunrinola,Damilola,Toyin,,Marketing 
+178752208,dahaunsi,Ibukum,Ayomide,,Marketing 
+178752207,azeez,Bashirat,Busayo,,Marketing 
+178752104,olujuyigbe,Bisola,Elizabeth,,Marketing 
+178752377,afolabi,Mathew,Oluwaseyi,,Marketing 
+178752030,ilesanmi,Oluwatomiwa,Esther,,Marketing 
+178752080,awotunde,Mary,Oyinlayo,,Marketing 
+178752042,bamgbose,Ifeoluwa,Tomiwa,,Marketing 
+178752126,akintayo,Aderonke,Adeola,,Marketing 
+178750272,daudu,Esther,Damiloa,,Actuarial
+178750110,ojo,Wailat,Opeyemi,,Actuarial
+178750275,oyebanji,Folasade,Bolanle,,Actuarial
+178750027,mustapha,Damilola,Faith,,Actuarial
+178750322,adeniran,Job,Temitope,,Actuarial
+,,,,,
+178750023,akintomide,Bayo,Joshua,,Actuarial
+178750072,onisile,Oluwatosin,Christiana,,Actuarial
+178750070,runsewe,Ademola,Oluwasegun,,Actuarial
+178750088,sani,James,Oluwaseun,,Actuarial
+178750219,ganiyu,Muideen,Ademola,,Actuarial
+178750232,kayode,Taiwo,Apeke,,Actuarial
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+178751072,abolarinwa,Abisola,Precisou,,CRD
+178751133,ilori,Adedoyin,Comfort,,CRD
+178751111,abodunrin,Sunday,Toheeb,,CRD
+,,,,,
+178750077,oladejo,Quwam,Pelumi,,Entrepreneur
+178750111,ajileye,Oluwakemi,Jolade,,Entrepreneur
+178750216,olaiya,Heritage,Jesuferanmi,,Entrepreneur
+178750359,ayeni,Abiodun,Emmanuel,,Entrepreneur
+178750334,asaka,Ikeola,Grace,,Entrepreneur
+178750104,olorunfemi,Samson,Temitope,,Entrepreneur
+178750333,akinjisola,Gbemisola,Pelumi,,Entrepreneur
+178752286,fatumore,Fisayo,Vernonica,,Insurance
+178752194,balogun,Idowu,Victoria,,Insurance
+,,,,,
+178752239,abiodun,Deborah,Damilola,,Insurance
+178752169,james,Oluwaferanmi,Ezekiel,,Insurance
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+178752231,nkwocha,OLUTAYO,Kelechi,,Insurance
+178752238,ibrahim,Mariam,Omowunmi,,Insurance
+178752141,isholaiye,Idiat,Olaide,,Insurance
+178752280,olaitan,Lateefat,Temitope,,Insurance
+178751250,ibrahim,Fatimo,Deborah,,IRPM
+178751249,fakorede,Adedamola,Omoniy,,IRPM
+178751037,awe,Stephen,Ola,,IRPM
+178751148,egbuwalo,Tola,Isaac,,IRPM
+178751007,popoola,James,Abiodun,,IRPM
+178751238,oladoja,Maraim,Adunni,,IRPM
+,,,,,
+,,,,,
+,,,,,
+178751016,shoroye,Olarenwaju,Ahmed,,IRPM
+178751161,adewumi,Ayomide,Christianah,,IRPM
+178751157,oluwabiyi,Kehinde,Oluwabunmi,,IRPM
+178751248,osaebu,Chibuogun,Justice,,IRPM
+178751175,ojo,Christianah,Temilayo,,IRPM
+178751184,fasola,Samuel,Oluwasegun,,IRPM
+178752310,adebiyi,Oluwafolakemi,Mascot,,BAM
+178752051,udoyoh,Solomon,Joshua,,BAM
+178758087,adewale,Olaniyi,Olamilekan,,BAM
+178752226,oni,Abidemi,Juliana,,BAM
+178752221,samson,Rosemary,Funmilayo,,BAM
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+168752063,babalola,Omotolani,Esther,,BAM
+178752234,owoeye,Mayowa,Gabriel,,BAM
+178752209,akinwale,Oluwafunmibi,Promise,,BAM
+178752192,oke,Monsurat,Omowunmi,,BAM
+178752250,adebayo,Basirat,Olaitan,,BAM
+178752029,olayiwola,Ayodeji,Ore-Oluwa,,BAM
+178752183,usunloro,Damilola,Adeola,,BAM
+178750287,ogunyemi,Taiye,Stella,,BAM
+168752033,aina,Kemi,Omowunmi,,BAM
+178752363,lawal,Suliat,Omowunmi,,BAM
+178752176,idowu,Grace,Oluwaseyifunmi,,BAM
+178752224,idris,Taiwo,Oluwamodupe,,BAM
+178752229,balogun,Oluwabukola,Sarah,,BAM
+178752302,kolawole,Victoria,Itun,,BAM
+178752070,oseni,Mutiat,Omobolanle,,BAM
+178752037,adeosun,Timileyin,Sakirudeen,,BAM
+178752001,akinlabi,John,Abayomi,,BAM
+178752240,alonge,Ebenezer,Seun,,BAM
+168752041,akanbi,Simbiat,Bisola,,BAM
+178752216,bakare,Oluwaseyi,Balikis,,BAM
+178752272,adelusi,Blessing,Tosin,,BAM
+178752129,thomas,Tunde,Tope,,BAM
+178752036,ogundipe,Obaloluwa,Adewunmi,,BAM
+178752214,ojedeji,Temitope,Kofoworola,,BAM
+178752081,adepoju,Mayowa,,,BAM
+178752235,adeola,Esther,Mojolaoluwa,,BAM
+178752269,ogunbayo,Aishat,,,BAM
+178752366,ibitoye,Oliade,Rachael,,BAM
+178752157,ajayi,Glory,Oluwatise,,BAM
+178752203,raheem,Kafilat,Deborah,,BAM
+178752078,alaketu,Adesola,Favour,,BAM
+178752113,aremu,Boluwatife,Oreoluwa,,BAM
+178750007,olowaseun,Rufus,Damisi,,BAM
+178752223,adedara,Damilola,Oluwabunmi,,BAM
+178752332,muhammed,Bisola,Opeyemi,,BAM
+175752072,akele,Oluwatoyin,,,BAM
+178752140,oluwafemi,Toyosi,Dorcas,,BAM
+178752079,akinpade,Bose,Esther,,BAM
+178752248,oduba,Adetutu,Ayomiposi,,BAM
+178752237,olowoyo,Opeyemi,Dorcas,,BAM
+178752065,afolabi,Samson,Olanrewaju,,BAM
+178752271,adegoke,Deborah,Timileyin,,BAM
+158752148,imisi,Oladimeji,Micheal,,BAM
+178752058,fabunmi,Tobiloba,Busuyi,,BAM
+178752212,ilegbusi,Oluwatosin,Sarah,,BAM
+178752041,adeyeni,Oluwaseyi,Aderemi,,BAM
+178752075,komolafe,Oluwaseun,Joshua,,BAM
+178752337,okunola,Oluwagbnga,Kings,,BAM
+178752084,aloriba,Jubril,Mayowa,,BAM
+158752077,akinola,Oluwaseun,Dorcas,,BAM
+178752333,waleola,Oluwatoyin,Ayobami,,BAM
+178752220,olaoluwa,Olayemi,,,BAM
+178752123,sunmonu,Olajumoke,Fausat,,BAM
+178752387,ayinde,Seyi,Olaitan,,BAM
+178752173,ogunjobi,Victor,Olumide,,BAM
+178752290,omiteye,Funmilola,Wuraola,,BAM
+178752255,bello,Samuel,Akindayo,,BAM
+178752249,soetan,Ayuba,Idowu,,BAM
+178752345,olayeni,Taiwo,Dorcas,,BAM
+AM/2017/000042,ekeh,Janet,Imma,,BAM
+178752282,afolalu,Damilola,Grace,,BAM
+EKSU/BAM5/16/011,babawale,Mathew,Olumide,,BAM
+,,,,,
+,,,,,
+178751136,lambo,Adeniyi,Oluwafemi,,Finance
+178751009,bello,Sheriffdeen,Oreoluwa,,Finance
+75371131AJ,dada,Ayomide,David,,Finance
+178431094,ajayi,OLOLADE,HUSSAIN,,Finance
+178751138,olasehinde,Oluwatoyin,,,Finance
+178751145,alesbiosu,Henry,Taiwo,,Finance
+178751030,olusola,Lekan,Seyi,,Finance
+178751144,alamaruf,Sodiq,Ishola,,Finance
+178751212,olamijulo,Feranmi,Esther,,Finance
+178751208,olorunfemi,Jude,Oluwaseun,,Finance
+178751165,ihuoma,Ikechukwu,George,,Finance
+1787511094,olukanni,Ololade,,,Finance
+178751088,adebayo,Hasan,Taye,,Finance
+178751219,murtitala.,O.,Azeezat,,Finance
+178751244,adeola,olufunke,Odunayo,,Finance
+178751181,jegede,Oladele,Isaiah,,Finance
+178751027,bamisoye,Adeola,Tope,,Finance
+168751120,odetola,Sefiu,Keji,,Finance
+178751146,raheem,Kaosara,Opeyemi,,Finance
+178751190,kolawole,Omotayo,Abel,,Finance
+178751152,adesola,Azeez,Adebayo,,Finance
+178751054,araoyinbo,David,Temitope,,Finance
+178751247,adeboye,Glory,Temitope,,Finance
+178751143,ojurongbe,Olawale,Samuel,,Finance
+178751110,ganiyu,Rukayat,Abisola,,Finance
+178751142,ogunyi,Deborah,Ayomikun,,Finance
+178750349,aladenika,Abiodun,Jamiu,,Accounting 
+178750224,adeloye,Adenike,Esther,,Accounting 
+178750003,abolaji,Damilola,Bright,,Accounting 
+178750135,adeniji,Mayowa,Michael,,Accounting 
+178750424,olorunfmi,Gideon,Segun,,Accounting 
+178750341,ogunmilua,Bolaji,Samuel,,Accounting 
+178750417,erinfolami,Rahmat,Yetunde,,Accounting 
+178750026,adeyemo,Mubarak,Abiodun,,Accounting 
+178750053,aamilola,Temitope,pemipo,,Accounting 
+178750229,ajayi,Faith,Samuel,,Accounting 
+178750266,adegoke,Wunmi,Christiana,,Accounting 
+178750001,ajayi,Rebecca,Omodolapo,,Accounting 
+178750152,oladepo,Sunday,Busayo,,Accounting 
+178750398,ojo,Ayomide,Aduragbemi,,Accounting 
+178750131,okintimehin,Oluwanifemi,B.,,Accounting 
+178750223,ajibade,Bidemi,Rachael,,Accounting 
+178750119,taiwo,Pamilerin,Emmanuel,,Accounting 
+178750332,fabusuyi,Iyanuoluwa,Praise,,Accounting 
+178750148,ige,Oluwapelumi,Joy,,Accounting 
+178750384,bamidele,Oyewumi,Titilope,,Accounting 
+178750246,oni,Joy,Adelomo,,Accounting 
+178750014,busari,Saheed,Temitope,,Accounting 
+178750170,adejuyigbe,Omolola,Helen,,Accounting 
+178750402,odunsi,Oyindamola,Christinah,,Accounting 
+178750369,oluwalana,Ruth,ADEDIWURA,,Accounting 
+178750371,ogunbanjo,Fayobi,Esther,,Accounting 
+178750353,akosile,Gideon,Oluwadamilola,,Accounting 
+178750274,adeosun,Oluwafemi,Oluwaseyi,,Accounting 
+178750259,ilori,Toluwani,Timothy,,Accounting 
+178750029,owoyemi,Jamiu,Opeyemi,,Accounting 
+178750053,familola,Temitope,Opemipo,,Accounting 
+178750065,babalola,Inioluwa,Mercy,,Accounting 
+178750059,talabi,Oluwabukunmi,Olamide,,Accounting 
+178750117,ajayi,Olanrewaju,Sunday,,Accounting 
+178750184,samuel,Kehinde,Oluwaseyi,,Accounting 
+178750185,samuel,Taiwo,Motolani,,Accounting 
+178750150,tahola,Oyindamola,Esther,,Accounting 
+178750331,ogunrinde,Omolola,Oluwadunsin,,Accounting 
+178750235,salami,Monsurat,Olamide,,Accounting 
+178750209,olayemi,Daniel,Oluwatunmise,,Accounting 
+178750189,akinyemi,Favour,Temitope,,Accounting 
+178750208,lawonson,Taofeek,Adesina,,Accounting 
+178750327,kolawole,Mosunmola,Ayomipo,,Accounting 
+178750303,ilori,Benjamin,Oluwamayowa,,Accounting 
+178750310,ogbiki,Oluwabunmi,,,Accounting 
+178750020,folorunso,Ifeoluwa,John,,Accounting 
+178750102,orobola,Olasubomi,Mertha,,Accounting 
+178750183,adeniyi,Folayemi,Lovelyn,,Accounting 
+178750011,ekundayo,Oluwaseun,Elizabeth,,Accounting 
+178750269,balogun,Mathew,Oluwatobi,,Accounting 
+178750192,oluwafemi,Racheal,Oluwafunke,,Accounting 
+178750247,adeleke,Damilola,Mary,,Accounting 
+178750243,ajayi,Ifedayo,Adesola,,Accounting 
+178750375,fabiyi,Oluwaseun,Emmanuel,,Accounting 
+178750354,akinwande,Temitope,Joseph,,Accounting 
+178750091,owolabi,Oluwatoba,Joshua,,Accounting 
+178750228,kayode,Faith,Ololade,,Accounting 
+178750234,oluwasanmi,Titilayo,Abisola,,Accounting 
+178750300,awoseyila,Ayodeji,Victor,,Accounting 
+178431094,anyimukwu,OLOLADE,HUSSAIN,,F.A.M
+178105002,oguntola,PEACE,ESTHER,,F.A.M
+178105001,isola,JESSICA,OLUWAPELUMI,,F.A.M
+178105001,saliu,BASIRAT,OLAYEMI,,F.A.M
+178105005,akinlode,OLUWATOBILOBA,MAYOWA,,F.A.M
+178105007,ayeni,BUKOLA,RUTH,,F.A.M
+178321006,afolayan,VICTOR,TEMITOPE,,PHYSIOLOGY
+178321003,adeyinka,RACHAEL,OLUWATIMILEYIN,,PHYSIOLOGY
+178321008,dunmoye,GBEMISOLA,LOIS,,PHYSIOLOGY
+178321016,olumodeji,BUKOLA,MARY,,PHYSIOLOGY
+178321004,yusuf,GRACE,OYIZA,,PHYSIOLOGY
+178321013,egbowon,DOLAPO,TITILOPE,,PHYSIOLOGY
+178321004,oluwalade,PRISCA,OLUBUNMI,,PHYSIOLOGY
+178321044,ojo,OLUWASEGUN,OLUWALEKE,,PHYSIOLOGY
+178321002,aiyeloja,MATTHEW,AYODELE,,PHYSIOLOGY
+178321032,olajiga,BUKOLA,LOIS,,PHYSIOLOGY
+178321033,osadare,SUNKANMI,MATTHEW,,PHYSIOLOGY
+,,,,,
+178321053,ajimati,ISRAEL,OLALEKAN,,PHYSIOLOGY
+178321034,olaiya,ADETUTU,THERESA,,PHYSIOLOGY
+178321010,oluwajoro,VICTOR,AYOBAMI,,PHYSIOLOGY
+178321029,ogedengbe,OMOTEBI,OMOBOLADE,,PHYSIOLOGY
+178321049,aroso,KEHINDE,OLUWATOMILOLA,,PHYSIOLOGY
+178321022,ademoyega,OLUWADOLAPO,GBEMISOLA,,PHYSIOLOGY
+178321025,abdulganiyu,KUDIRAT,OMOWUMI,,PHYSIOLOGY
+178321026,oyegbola,OYEDOYIN,EUNICE,,PHYSIOLOGY
+178321042,owolabi,STEPHEN,OLUWASHOLA,,PHYSIOLOGY
+178321027,durodola,BISOLA,CHRISTIANA,,PHYSIOLOGY
+     75354875ID,suleiman,AYOMIDE,PRECIOUS,,PHYSIOLOGY
+178321059,afuye,DAMILOLA,CHRISTIANA,,PHYSIOLOGY
+178321015,awe,OLUWASEGUN,DAVID,,PHYSIOLOGY
+75361931GB,ajulo,DAMILOLA,OLUWADARA,,PHYSIOLOGY
+178321052,olasupo,ANUOLUWAPO,OPEYEMI,,PHYSIOLOGY
+178321020,faturoti,OLUWADAMILOLA,ESTHER,,PHYSIOLOGY
+77193136EB,ibrahim,MARIAM,OLUWATOMIYOSI,,PHYSIOLOGY
+178321038,jagun,DIEKO,DORCAS,,PHYSIOLOGY
+178321019,olatunji,TOBA,GEORGE,,PHYSIOLOGY
+178321009,ogunlola,AYOBAMI,DAVID,,PHYSIOLOGY
+178321018,aderibigbe,TOSIN,STEPHEN,,PHYSIOLOGY
+178321048,adeyeye,VICTOR,JOSEPH,,PHYSIOLOGY
+178321054,owolabi,ADEDOYIN,GRACE,,PHYSIOLOGY
+178321021,awe,OLUBUKOLA,SUCCESS,,PHYSIOLOGY
+178321001,adeparusi,FAITH,OLUWASEYI,,PHYSIOLOGY
+178321037,olasunkanmi,MARY,OLUWADAMILOLA,,PHYSIOLOGY
+178321030,adedeji,IYANUOLUWA,MARVELOUS,,PHYSIOLOGY
+178321058,sulaiman,FAREED,OYINDAMOLA,,PHYSIOLOGY
+178321005,adewumi,TOLULOPE,OMOPELUMI,,PHYSIOLOGY
+178321039,bejide,ADEBAYO,RAPHAEL,,PHYSIOLOGY
+178321056,matthias,RACHAEL,TAIWO,,PHYSIOLOGY
+178324012,ojo,SUNDAY,SAMUEL,,ANATOMY
+178324047,olajide,TANIMOLA,DAVID,,ANATOMY
+178324037,akerele,ALEX,AYOBAMI,,ANATOMY
+178324011,fagbamila,MERCY,ADESOLA,,ANATOMY
+178324026,suleiman,WOLIMAT,,,ANATOMY
+178324005,falugba,OLUWAFEMI,MICHAEL,,ANATOMY
+178324048,oluyemi,OLUWATOYIN,SUNDAY,,ANATOMY
+178324025,adekunle,ENIOLA,SAMUEL,,ANATOMY
+178324008,idowu,BOLUWATIFE,CAROLINE,,ANATOMY
+178324038,bamisaye,NIFEMI,DAMILOLA,,ANATOMY
+178324034,oriji,DAMILOLA,OLAJIDE,,ANATOMY
+178324031,ojarotade,RACHAEL,ADEBOLA,,ANATOMY
+178324049,hammed,OLUWAKEMI,FATIMOH,,ANATOMY
+178324023,afolabi,KAYINSOLA,MARY,,ANATOMY
+178324030,oluwoleblessing,ESTHER,,,ANATOMY
+178324063,joseph,SIMILEOLUWA,GOODNESS,,ANATOMY
+178324066,adeseemo,YEMISI,BOLATITO,,ANATOMY
+178324017,abe,OLUWASEUN,SAMUEL,,ANATOMY
+178324084,adeturu,SAMUEL,ADEOLA,,ANATOMY
+178324045,oladipo,MARVELLOUS,ADENIKE,,ANATOMY
+178324087,owoeye,OLUWATOPE,FAITH,,ANATOMY
+178324075,omikunle,ABISOLA,JANET,,ANATOMY
+   75360934EF,oluwayomi,FAITH,OLUWAPELUMI,,ANATOMY
+178324059,ojolo,ENIOLA,HEPHIZIBAH,,ANATOMY
+178324058,adeoye,BLESSING,TINUOLA,,ANATOMY
+178324027,akinsika,OGOOLUWA,ISAAC,,ANATOMY
+178324021,ekundayo,EBUNOLUWA,ABIMBOLA,,ANATOMY
+178324018,popoola,SEFUNMI,,,ANATOMY
+178324003,ogundaisi,OLUTAYO,OLAYEMI,,ANATOMY
+178324019,falade,PEACE,OLUWANIFEMI,,ANATOMY
+178324013,bamisaye,OLUWAFUNKE,JANET,,ANATOMY
+178324041,ogundola,BISOLA,HELEN,,ANATOMY
+178324022,adesua,OLUKAYODE,OLUWALABANI,,ANATOMY
+178324032,atalabi,OPEYEMI,JOHNSON,,ANATOMY
+178324010,adebile,ELIZABETH,OLUWAKEMI,,ANATOMY
+178324046,oloniyo,OLUWANIFEMI,ANTHONY,,ANATOMY
+178324007,femi,TIMILEHIN,JOSEPHINE,,ANATOMY
+178324068,duru,CHIOMA,VICTORIA,,ANATOMY
+178324053,malomo,ADEDAYO,EMMANUEL,,ANATOMY
+178324014,ogunleye,BLESSING,GRACE,,ANATOMY
+178324071,osuntoyinbo,FEYISAYO,OMOLARA,,ANATOMY
+178324074,adaralegbe,FEYISARA,MARY,,ANATOMY
+   76227060AG,obasuyi,KEMISOLA,ADESOLA,,ANATOMY
+178324077,ogunleye,DAMILOLA,DUROJAYE,,ANATOMY
+178324069,rotimi,FUNSHO,ROSEMARY,,ANATOMY
+178324073,osameyan,ADEKUNLE,DAVID,,ANATOMY
+178324042,olulana,SUSAN,IFEOLUWA,,ANATOMY
+178324051,jegede,IFEOLUWA,MORENIKEJIMI,,ANATOMY
+178324061,owloabi,AKINWUMI,AYOKUNLE,,ANATOMY
+178324004,ekundayo,VICTOR,TIMILEYIN,,ANATOMY
+178321023,olubodun,VICTOR,ADESANMI,,ANATOMY
+178324024,odedeji,ADEYEMI,EMMAUEL,,ANATOMY
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178324029,adedeji,OLUWAFEYIKEMI,MABEL,,ANATOMY
+178324076,abiodun,TEMILADE,ADETOLA,,ANATOMY
+178324080,eniolabi,PAUL,ADESAYO,,ANATOMY
+178324060,afolabi,AFEEZ,AYODEJI,,ANATOMY
+178324090,faleye,GRACE,OLUWADAMILOLA,,ANATOMY
+178324009,faleye,VICTOR,OLUWATOSIN,,ANATOMY
+178324044,otaru,TIMOTHY,ADETOLA,,ANATOMY
+178324050,tijani,TOYIYIB,ADEKILEKUN,,ANATOMY
+178324043,akinola,OMOWUMI,RUTH,,ANATOMY
+178324082,ogunlokun,DAMILOLA,ELIZABETH,,ANATOMY
+178324006,alao,DAMILOLA,AKINOLA,,ANATOMY
+178324086,abe,ABIMBOLA,STELLA,,ANATOMY
+178324055,ogbu,CHUKWURONSO,CLINTON,,ANATOMY
+178324039,kayode,ADEMOLA,FESTUS,,ANATOMY
+178102026,ayorhe,MATTHEW,E.,,APH
+178102001,oyinlola,KEHINDE,SUNDAY,,APH
+75358630HA,fatose,OLUWASEYI,MICHAEL,,APH
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+178859033,timothy,ATINUKE,AKOREDE,,BIOCHEMISTRY
+178859094,adeniyi,MERCY,OLUWATOSIN,,BIOCHEMISTRY
+178859094,oluwasusi,OLUWABUNMI,BOLADE,,BIOCHEMISTRY
+178859040,babatunde,AYOMIPOSI,MARGARET,,BIOCHEMISTRY
+178859158,abegunde,TOBI,JEMIMA,,BIOCHEMISTRY
+178859012,olajide,CLEMENT,OLUWAKAYODE,,BIOCHEMISTRY
+178859056,chiome,AGATHA,OLUCHI,,BIOCHEMISTRY
+178859061,ayodele,OLUWAPELUMI,RUTH,,BIOCHEMISTRY
+178859006,ijadare,OLUWATOBI,ISAAC,,BIOCHEMISTRY
+178859036,adeosun,FAITH,BUSOLA,,BIOCHEMISTRY
+178859041,oloyede,MELODY,OYINLOLAJESU,,BIOCHEMISTRY
+178859109,owolade,OPEYEMI,Oluwamayowa,,BIOCHEMISTRY
+178859003,ojo,ADETOUN,OLUWAYEMISI,,BIOCHEMISTRY
+178859049,folorunso,SILEOLA,RACHAEL,,BIOCHEMISTRY
+178859058,onibonoje,EMMANUEL,OLUWATIMILEYIN,,BIOCHEMISTRY
+178859084,aransiola,OMOBOLANLE,FAVOUR,,BIOCHEMISTRY
+178859023,akomolafe,ENIOLA,ELIZABETH,,BIOCHEMISTRY
+178859139,atanda,ISLAMIYYAH,DASOLA,,BIOCHEMISTRY
+178859050,joseph,OYINDAMOLA,M,,BIOCHEMISTRY
+178859022,agboola,FUNMILOLA,G,,BIOCHEMISTRY
+178859024,ojumu,ADEWUNMI,PAUL,,BIOCHEMISTRY
+178859011,adeleye,RICHARD,ADEREMI,,BIOCHEMISTRY
+178859057,aderiye,PRECIOUS,DAMILOLA,,BIOCHEMISTRY
+178859063,olofin,OPEYEMI,CHRISTIANAH,,BIOCHEMISTRY
+178859018,oyakunle,MONSURAT,OLUWAFUNKE,,BIOCHEMISTRY
+178859027,olajide,PROMISE,OKIKIJESU,,BIOCHEMISTRY
+178859020,oni,DAMILOLA,GRACE,,BIOCHEMISTRY
+178431094,ejobona,OLOLADE,HUSSAIN,,BIOCHEMISTRY
+178859122,akande,KHADIJAT,AJOKE,,BIOCHEMISTRY
+178859118,atanda,MONSURAT,OLANSHILE,,BIOCHEMISTRY
+178859025,olamide,PRAISE,OLUWAPELUMI,,BIOCHEMISTRY
+178859068,ahisu,MODUPE,BLESSING,,BIOCHEMISTRY
+178859007,emiyah,EMMANUEL,FEYISAYO,,BIOCHEMISTRY
+178859019,ojo,MARY,AYOMIDE,,BIOCHEMISTRY
+178859010,ayeni,AYOMIDE,GRACE,,BIOCHEMISTRY
+178859064,muhammed,ZAINAB,OHUNENE,,BIOCHEMISTRY
+178859071,oparinde,BODURIN,JOSEPHINE,,BIOCHEMISTRY
+178859021,aluko,OLAJUMOKE,DEBORAH,,BIOCHEMISTRY
+178859035,adeyeye,MOYOSOREOLUWA,ESTHER,,BIOCHEMISTRY
+178859004,fatoba,OLUWANIFEMI,OLAMIJI,,BIOCHEMISTRY
+178859110,uko,BLESSING,VIVIAN,,BIOCHEMISTRY
+178859072,bolarinwa,FEMI,EMMANUEL,,BIOCHEMISTRY
+178859078,ajayi,PEACE,,,BIOCHEMISTRY
+178859083,olutusin,BOLAJI,MARY,,BIOCHEMISTRY
+,,,,,
+178859073,yusuf,ANIFAT,ADEJOKE,,BIOCHEMISTRY
+178859095,bamidele,OLAMIDE,HELLEN,,BIOCHEMISTRY
+178859171,owonifaari,OLUWAFERANMI,ESTHER,,BIOCHEMISTRY
+178859106,ojumola,OLUWOLE,IYANU,,BIOCHEMISTRY
+178859059,ameh,FAITH,VICTORIA,,BIOCHEMISTRY
+178859044,ayoola,IYANUOLUWA,TEMITOPE,,BIOCHEMISTRY
+178859008,adaranijo,NIHINLOLUWA,BAMIDELE,,BIOCHEMISTRY
+178859060,akande,GOODNESS,OLUWADAMILOLA,,BIOCHEMISTRY
+178859183,ojo,LYDIA,ITUNU,,BIOCHEMISTRY
+178859108,sanni,DOLAPO,AZEEZAT,,BIOCHEMISTRY
+178859131,joshua,TOLULOPE,TOLULOPE,,BIOCHEMISTRY
+178859124,folahanmi,WONDER,AYOMIDE,,BIOCHEMISTRY
+178859054,aseye,OPEOLUWA,REBECCA,,BIOCHEMISTRY
+178859144,uwah,NKECHI,FLORENCE,,BIOCHEMISTRY
+178859028,alabi,BEATRICE,OLUWAPELUMI,,BIOCHEMISTRY
+178859053,sunday,CHIOMA,THERESA,,BIOCHEMISTRY
+178859141,ikhanoba,ERNEST,SUNDAY,,BIOCHEMISTRY
+178859174,alabi,OLUWASEYI,SAMUEL,,BIOCHEMISTRY
+178859029,ogunfunmilayo,AYOMIDE,ABOSEDE,,BIOCHEMISTRY
+178859009,oyebamiji,HELEN,TOLAMISE,,BIOCHEMISTRY
+178859005,ajibade,OMOWUNMI,PRECIOUS,,BIOCHEMISTRY
+178859013,odukoya,VICTOR,AYOKUNLE,,BIOCHEMISTRY
+178859016,omodara,ABISOLA,MARY,,BIOCHEMISTRY
+178859039,idowu,JOY,OLUWADAMILOLA,,BIOCHEMISTRY
+178859043,animasaun,SODIQ,IFEOLUWA,,BIOCHEMISTRY
+178859001,aribisala,OLUWAFUNMILOLA,DORCAS,,BIOCHEMISTRY
+178859080,adedeji,OLUWATOBI,FRANK,,BIOCHEMISTRY
+178859030,adedara,ADEBAYO,GIDEON,,BIOCHEMISTRY
+178859097,oladapo,TEMIDAYO,HELEN,,BIOCHEMISTRY
+178859175,lateef,SEKINAT,IYABO,,BIOCHEMISTRY
+76228586IE,alabi,OLAWALE,OMOLAYO,,BIOCHEMISTRY
+178859100,jegede,ADERONKE,BOLUWATIFE,,BIOCHEMISTRY
+178859085,akingboye,EMMANUEL,ADEYEMI,,BIOCHEMISTRY
+178859032,fijuyigbe,OLUWATELEMI,R,,BIOCHEMISTRY
+178859162,ogunwole,ANTHONY,IYANUOLUWA,,BIOCHEMISTRY
+178859076,ademola,VICTOR,ADEOLU,,BIOCHEMISTRY
+178859048,adetunji,JOSHUA,ADEYEMI,,BIOCHEMISTRY
+178859047,olomoniyi,PRECIOUS,OLUWAFEMI,,BIOCHEMISTRY
+178859075,folorunsho,TEMITOPE,,,BIOCHEMISTRY
+178859113,afolabi,HANNAH,FOLASHADE,,BIOCHEMISTRY
+178859062,olotu,ADEOLA,TIWALOLA,,BIOCHEMISTRY
+178859105,adeniyi,OMOLOLA,GIFT,,BIOCHEMISTRY
+178859147,ogundele,BUKOLA,JANET,,BIOCHEMISTRY
+178862006,adewole,DAVID,ADEWALE,,MATHEMATICS
+178862008,agbetanmije,BOLUWATIFE,MARY,,MATHEMATICS
+178862003,akinsehinwa,ITUNUAYO,JUSTINAH,,MATHEMATICS
+178862086,atoki,SEGUN,MICHAEL,,MATHEMATICS
+178862001,kehinde,OLUWATOSIN,SAMUEL,,MATHEMATICS
+178862007,lawal,ISMAIL,BOLUWATIFE,,MATHEMATICS
+178862002,adetunji,SAMUEL,VICTOR,,MATHEMATICS
+76340009HH,aribisala,DAVID,OLAOLUWA,,MATHEMATICS
+178861014,olanisebe,TOSIN,MAGARET,,GEO-PHY
+178861007,agunbiade,OLUWATOBI,VICTOR,,GEO-PHY
+178861040,aluko,OLUWASEUN,MERCY,,GEO-PHY
+178862137,agborume,BLESSING,OGHENETEGA,,COMPUTER SCIENCE
+178862034,okafor,ANTHONY,EBUKA,,COMPUTER SCIENCE
+178862044,amujo,BABATUNDE,EMMANUEL,,COMPUTER SCIENCE
+178862077,samuel,VICTORY,IZUCHUKWU,,COMPUTER SCIENCE
+178862183,orisadare,TOPE,DANIEL,,COMPUTER SCIENCE
+178862027,olayiwola,OLUTAYO,SUNDAY,,COMPUTER SCIENCE
+178862029,ayeni,OLUWATOSIN,ESTHER,,COMPUTER SCIENCE
+178862041,bello,OLADIMEJI,RASHEED,,COMPUTER SCIENCE
+178862030,ayegbusi,OLUWATOSIN,KEHINDE,,COMPUTER SCIENCE
+178862047,olubiyo,JOSHUA,PURITY,,COMPUTER SCIENCE
+178862031,odunmbaku,SODIQ,AYINDE,,COMPUTER SCIENCE
+178862151,adesanya,RAPHAEL,AYOMIDE,,COMPUTER SCIENCE
+178862038,abulefon,STEPHEN,OLUWAJUWON,,COMPUTER SCIENCE
+178862052,obatola,DAVID,OPEYEMI,,COMPUTER SCIENCE
+178862061,adamolekun,PELUMI,DAVID,,COMPUTER SCIENCE
+,,,,,
+178862046,adeoye,BABALOLA,JAMIU,,COMPUTER SCIENCE
+178862147,francis,VICTORIA,OGWA,,COMPUTER SCIENCE
+178862148,ilepe,AKINYEMI,TEMITAYO,,COMPUTER SCIENCE
+178862023,ubaka,AMAKA,GLORIA,,COMPUTER SCIENCE
+178862070,ogunlade,SULAIMON,ADEDOJA,,COMPUTER SCIENCE
+178862076,onanuga,JOSHUA,KOYINSOLA,,COMPUTER SCIENCE
+178862073,kayode,FOLASHEWA,,,COMPUTER SCIENCE
+178862117,ajayi,EMMANUEL,ADEOLU,,COMPUTER SCIENCE
+178862049,abdulazeez,GANIYAT,INIOLUWA,,COMPUTER SCIENCE
+178862024,ojo,OLUWADAMILOLA,EBUNOLUWA,,COMPUTER SCIENCE
+178862057,nwankwo,STEPHEN,GOZIE,,COMPUTER SCIENCE
+178862060,falola,ADEBOWALE,IBRAHIM,,COMPUTER SCIENCE
+178862078,akande,FISAYO,OYELEYE,,COMPUTER SCIENCE
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+77095477HI,adeyemo,ABIOLA,T,,COMPUTER SCIENCE
+178862059,omotosho,ADEFUNKE,DAMILOLA,,COMPUTER SCIENCE
+178862056,kayode,OPEYEMI,,,COMPUTER SCIENCE
+178862042,jegede,AYOKUNLE,ODUNAYO,,COMPUTER SCIENCE
+178862083,ogunleye,SIMILOLUWA,SAMUEL,,COMPUTER SCIENCE
+178865021,adediran,BLESSING,ADEPATE,,PLANT SCIENCE
+178865057,ojo,CHRISTIANAH,TITILOPE,,PLANT SCIENCE
+178865014,afolabi,JOHNSON,TEMITOPE,,PLANT SCIENCE
+178865005,jegede,ABIODUN,JOSHUA,,PLANT SCIENCE
+178865003,omole,ODUNAYO,CHRISTIANAH,,PLANT SCIENCE
+178865017,lawal,MORUFAT,MOROMOKE,,PLANT SCIENCE
+178865071,obaidu,MARY,IKEOLUWA,,PLANT SCIENCE
+178865028,oluwafemi,TAIWO,OLUWATOSIN,,PLANT SCIENCE
+178865015,awe,FERANMI,TEMIDAYO,,PLANT SCIENCE
+178865029,onijala,FADEKEMI,FAITH,,PLANT SCIENCE
+178865004,mogaji,MOTUNRAYO,FAITH,,PLANT SCIENCE
+178865039,ibitimehin,BISOLA,HEPHZIBAH,,PLANT SCIENCE
+178865019,ojo,OMOLOLA,ENIOLA,,PLANT SCIENCE
+178865051,abe,KEMISOLA,CHRISTIANAH,,PLANT SCIENCE
+178865022,adebayo,ADESOLA,AYOMIDE,,PLANT SCIENCE
+178865020,ogunmola,TOMISIN,BECKY,,PLANT SCIENCE
+178865023,salau,OLUWATOYIN,OLUWASEUN,,PLANT SCIENCE
+178865006,oke,ADEMILOLA,FAITH,,PLANT SCIENCE
+178865095,jamo,TITILAYO,ELIZABETH,,PLANT SCIENCE
+178865089,omosowone,TEMITOPE,HANNAH,,PLANT SCIENCE
+178865061,oke,MOKUNFAYO,PATIENCE,,PLANT SCIENCE
+178865119,ilori,OLUWAFUNKE,GRACE,,PLANT SCIENCE
+178865091,olayode,DAMILOLA,ABIODUN,,PLANT SCIENCE
+178865010,odamo,SUNDAY,,,PLANT SCIENCE
+178865093,oluokun,USMAN,OLANREWAJU,,PLANT SCIENCE
+178865035,olajesu,TOSIN,DEBORAH,,PLANT SCIENCE
+178865062,sanni,HALIMAT,TEMITOPE,,PLANT SCIENCE
+178865067,ajibade,TEMILADE,TOLUWASE,,PLANT SCIENCE
+75373956HA,akinwunmi,ADERONKE,ESTHER,,PLANT SCIENCE
+178865053,adejuwon,WEMIMO,H,,PLANT SCIENCE
+178865060,iletogun,LEAH,OLUWASOMIDOTUN,,PLANT SCIENCE
+178865063,oladele,STEPHEN,ADEDAMOLA,,PLANT SCIENCE
+178865040,egunjobi,ADEBOLA,DEBORAH,,PLANT SCIENCE
+178865037,adebayo,ADEBUKOLA,COMFORT,,PLANT SCIENCE
+178865026,adegboyega,OLUWATOBI,RACHEAL,,PLANT SCIENCE
+178865033,alao,PONMILE,MARY,,PLANT SCIENCE
+178865034,raheem,AMINAT,OLAWUMI,,PLANT SCIENCE
+178865066,dickson,JOY,FAITH,,PLANT SCIENCE
+178865002,alabi,FAVOUR,OLAMIDE,,PLANT SCIENCE
+178865056,ilegbusi,BUKOLA,AMINAT,,PLANT SCIENCE
+178865042,agbetuyi,TEMITOPE,IFEOLUWA,,PLANT SCIENCE
+178865080,ajifa,OLUMIDE,VICTOR,,PLANT SCIENCE
+178865045,adu,FOLASHADE,MERCY,,PLANT SCIENCE
+76391034AB,akanbi,BOSE,OMOLOLA,,PLANT SCIENCE
+178865041,balogun,GIDEON,IFEOLUWAPO,,PLANT SCIENCE
+178865103,oke,BISOLA,MARGARET,,PLANT SCIENCE
+178865058,jimoh,SHERIF,OLATUNDE,,PLANT SCIENCE
+178865024,adetifa,OLUSAYO,OMOTOLA,,PLANT SCIENCE
+178865044,akinremi,DAMILOLA,AKINADE,,PLANT SCIENCE
+178865031,oni,TITILAYO,NANCY,,PLANT SCIENCE
+178865074,adedeji,PETER,AYOMIDE,,PLANT SCIENCE
+178865055,kehinde,OLUWAKEMI,ESTHER,,PLANT SCIENCE
+178865099,omoyajowo,OLAWALE,TAIWO,,PLANT SCIENCE
+178865008,abimbawo,TOHEEB,ABIDEMI,,PLANT SCIENCE
+178865061,diisu,BLESSING,BAMIDELE,,PLANT SCIENCE
+178865109,ogunwale,OLUWATIMILEYIN,ESTHER,,PLANT SCIENCE
+178865009,akinmade,OLUWADAMILOLA,,,PLANT SCIENCE
+77191626BC,falokun,AYOBAMI,B,,PLANT SCIENCE
+178865047,olaitan,JESUTOFUNMI,A,,PLANT SCIENCE
+178865081,adebayo,RACHAEL,ADETOKE,,PLANT SCIENCE
+178865088,ojo,BLESSING,ABIMBOLA,,PLANT SCIENCE
+178865032,aniefiok,VERA,,,PLANT SCIENCE
+178431094,akinyelure,OLOLADE,HUSSAIN,,PLANT SCIENCE
+178865073,omotola,LUKMAN,OLUWASEUN,,PLANT SCIENCE
+178865072,osakuade,AYODEJI,SUNDAY,,PLANT SCIENCE
+178865076,samuel,AYOMIDE,OLUWASEUN,,PLANT SCIENCE
+178865064,lawal,AJIBOLA,YUSUFF,,PLANT SCIENCE
+178864019,makinde,OLUWADAMILOLA,MARY,,PHYSICS
+178864004,osayomi,DAMILOLA,OPEYEMI,,PHYSICS
+178864022,abiodun,SARAH,OLUWATOSIN,,PHYSICS
+178864006,orohu,VICTOR,AGIDA,,PHYSICS
+75905258QI,oluwagbemiga,AAUNUOLUWAPO,,,PHYSICS
+178864007,peter,JULIET,,,PHYSICS
+178864013,towolawi,MONIJESU,ESTHER,,PHYSICS
+178864011,adeagbo,FEYISAYO,ADEOLA,,PHYSICS
+178864018,busari,ABIODUN,AFUSAT,,PHYSICS
+178864003,akinade,KEHINDE,VICTOR,,PHYSICS
+178864023,adedeji,TOLANI,ABIODUN,,PHYSICS
+178864040,akande,TOLUWALOPE,Abel,,PHYSICS
+178864027,ihekhomon,PRECIOUS,BEST,,PHYSICS
+178864030,ololade,ADEOLA,SHERIFAH,,PHYSICS
+178864002,akinsola,FOLAHANMI,INIOLUWA,,PHYSICS
+178864025,oyediran,FARUQ,AKOREDE,,PHYSICS
+178864020,akintomide,FEMI,OLAOLUWA,,PHYSICS
+178864015,afolabi,BUSAYO,ADENIYI,,PHYSICS
+178864032,aderoju,BUKOLA,TIMILEYIN,,PHYSICS
+75935846GG,adesanya,OLUWASEYI,OLUWABUKUNMI,,PHYSICS
+178864012,kayode,OLUWAFEMI,VICTOR,,PHYSICS
+178864005,ojo,OLALEKAN,MICHAEL,,PHYSICS
+178864028,amusa,OYEBOLAJI,AISHAT,,PHYSICS
+178864047,olayiwola,FALILAT,OLUWAKUNMI,,PHYSICS
+178864036,oderinlo,Rahmat,OLUWABUNMI,,PHYSICS
+178864009,adeleke,ADEOLU,ISREAL,,PHYSICS
+178864008,kaka,OLARONKE,KAFILAT,,PHYSICS
+178864021,asogbon,KEHINDE,ADESOLA,,PHYSICS
+178864024,owem,MOSES,TEMITOPE,,PHYSICS
+178864016,olotu,RUTH,AYOMITAN,,PHYSICS
+178864014,rabiu,SHARAFADEEN,OLAMIDE,,PHYSICS
+7587514DB,orobiyi,OPEYEMI,ESTHER,,PHYSICS
+178863068,oguns,OLUWAKEMI,OLAJESU,,MICROBIOLOGY
+17886305,dada,AYOMIKUN,PRECIOUS,,MICROBIOLOGY
+178863083,oritogun,SUNMISOLA,GRACE,,MICROBIOLOGY
+178863074,james,AYOMIDE,ESTHER,,MICROBIOLOGY
+178863009,omoniyi,OPEYEMI,MAYOWA,,MICROBIOLOGY
+178863035,john,ESTHER,OGHENETEGA,,MICROBIOLOGY
+178863024,adebayo,SARAH,MOYOSIOREOLUWA,,MICROBIOLOGY
+178863022,olaseni,ADEDAYO,PHOEBEL,,MICROBIOLOGY
+178863004,adeosun,CHRISTIANA,OYINKANSOLA,,MICROBIOLOGY
+178863154,adeniyi,ADEOLA,RACHAEL,,MICROBIOLOGY
+178863010,idowu,OLAYEMI,ADEDIWURA,,MICROBIOLOGY
+178863084,akomolede,Fayobi,FISAYO,,MICROBIOLOGY
+178863132,adeyeye,MICHAEL,BUKUNMI,,MICROBIOLOGY
+178863001,adeleye,EMMANUEL,ADEWUMI,,MICROBIOLOGY
+178863167,kayode,OLUWATIMILEYIN,TOSIN,,MICROBIOLOGY
+178863164,aroso,ARINOLA,OLUWAFUNMILOLA,,MICROBIOLOGY
+178863176,joshua,OLAMIDE,OYINKANSOLA,,MICROBIOLOGY
+178863026,agunbiade,OLUWASEUN,IYABODE,,MICROBIOLOGY
+178863141,balogun,IFEOLUWA,EVELYN,,MICROBIOLOGY
+178863046,oketola,ANDALINE,ADEWUNMI,,MICROBIOLOGY
+178863020,osho,ANJOLAOLUWA,PRISCILLA,,MICROBIOLOGY
+178863025,adeoye,MERCY,VICTORIA,,MICROBIOLOGY
+178863030,dayo-adeleye,GBEMISOLA,ANDREA,,MICROBIOLOGY
+178863039,iyiola,FUNMILAYO,BOLANLE,,MICROBIOLOGY
+178863123,olayemi,TOSIN,,,MICROBIOLOGY
+178863008,ajayi,ABIGAIL,ODUNAYO,,MICROBIOLOGY
+178863086,adewumi,HANNAH,IFEOLUWA,,MICROBIOLOGY
+178863036,fakomogbon,OLAMIDE,OMOKWA,,MICROBIOLOGY
+178863040,oluwatola,NIFEMI,VICTORIA,,MICROBIOLOGY
+178863135,adedara,BUKOLA,Oluwamayowa,,MICROBIOLOGY
+178863013,agbelusi,MARY,TUNRAYO,,MICROBIOLOGY
+178863158,folorunso,OLUWASEUN,EMIKHE,,MICROBIOLOGY
+178863059,adeniran,EMMANUEL,OLAOLUWA,,MICROBIOLOGY
+178863050,ashaolu,BOLA,MARY,,MICROBIOLOGY
+178863172,adeloye,OLUFUNKE,KIKELOMO,,MICROBIOLOGY
+178863180,jimoh,AYOMIDE,ELIZABETH,,MICROBIOLOGY
+178863098,benjamin,IFEOLUWA,EVELYN,,MICROBIOLOGY
+178863183,asaolu,PETER,OLUWATIMILEHIN,,MICROBIOLOGY
+178863096,fabunmi,OLAMIDE,DEBORAH,,MICROBIOLOGY
+178863007,adeyemi,TEMITOPE,,,MICROBIOLOGY
+178863031,adetimiro,JOHN,AYOMIDE,,MICROBIOLOGY
+178863177,adedugba,DEBORAH,OLUWASEYI,,MICROBIOLOGY
+178863082,babalola,YEWANDE,AYOBAMI,,MICROBIOLOGY
+178863089,olasanmi,IFEOLUWA,DEBORAH,,MICROBIOLOGY
+178863100,adeola,FAVOUR,MONISADE,,MICROBIOLOGY
+1788863186,ariyo,BOLUWATIFE,MARY,,MICROBIOLOGY
+178863027,olayiwola,ANUOLUWAPO,MARY,,MICROBIOLOGY
+178863115,akinyemi,DEBORAH,DUPE,,MICROBIOLOGY
+178863111,komolafe,ADEYOSOLA,CECILIA,,MICROBIOLOGY
+178863147,abe,ABIMBOLA,OPEYEMI,,MICROBIOLOGY
+178863018,david,KEMISOLA,MOTUNRAYO,,MICROBIOLOGY
+178862113,owolabi,Oluwakemi,Ifeoluwa,,Statistics
+178862109,ajisafe,Ayodele,Samuel,,Statistics
+178862017,akadri,Sekinat,Olaperi,,Statistics
+178862114,popoola,Olayinka,Janet,,Statistics
+178862089,fadare,Temitope,Olajumoke,,Statistics
+178862095,agboola,Oluranti,Majekodunmi,,Statistics
+178862110,olugbenga,Bishop,Gbenga,,Statistics
+178862061,azeez,Olalekan,Akin,,Statistics
+55096063AF,agboola,Obaloluwa,Isaac,,Statistics
+178862021,bolaji,Abisola,Oluwanifesimi,,Statistics
+178862106,salami,Oluwakemi,Beatrice,,Statistics
+,,,,,
+178862108,babalola,Kemi,Heplizibau,,Statistics
+178867091,alabi,Ayomide,Mary,,SLT. (Biotech)
+178867085,israel,Faith,Omobolanle,,SLT. (Biotech)
+178867219,akinola,Omowumi,Precious,,SLT. (Biotech)
+76823580JA,adetila,Bisola,Graceful,,SLT. (Geo)
+178867248,odejide,Funmilayo,Grace,,SLT. (Geo)
+178867283,omode,Temitayo,Serah,,SLT. (Biotech)
+75366928AI,toba-ojo,Anjolajesu,Eunice,,SLT. (Geo)
+178867139,ajayi,Olamide,Boluwatife,,SLT. (Biotech)
+178867263,adewumi,Damilola,Deborah,,SLT. (Chem)
+178867341,okon-inyang,Boluwatife,Wemimo,,SLT. (Biotech)
+178867204,akomolafe,Mercy,Pelumi,,SLT. (Biotech)
+178867217,adeleke,Esther,O.,,SLT. (BTH)
+178867141,akinloye,Hammed,Olalekan,,SLT. (BTH)
+178867096,adeyinka,Adedamola,Gafar,,SLT. (Biotech)
+178867261,aderibigbe,Omobolanle,Juliana,,SLT. (BCH)
+178867304,omole,Oluwafemi,Ayomide,,SLT. (BTH)
+178867121,richard,Chioma,Karis,,SLT. (BTH)
+178867163,oluseebi,Catherine,O.,,SLT. (BCH)
+178867213,kuti,Toyosi,Emmanuel,,SLT. (BCH)
+178867310,esanomowumi,Victoria,,,SLT. (Geo)
+178867203,odia,Sandra,Omoze,,SLT. (Biotech)
+178867127,akolade,Mojolaoluwa,Roseline,,SLT. (BTH)
+178867404,ayoola,Kehinde,Victoria,,SLT. (BTH)
+178867188,fatuase,Ayomide,Benjamin,,SLT. (BTH)
+178867187,akinleye,Oluwanifemi,Henry,,SLT. (Chem)
+178867016,oshodi,Inioluwa,Janet,,SLT. (Biotech)
+178867324,adeyemi,Abimbola,Gift,,SLT. (Chem)
+178867273,odewule,Aminat,,,SLT. (Geo)
+178867362,ogunbiyi,Esther,Olaitan,,SLT. (Geo)
+178867327,ojegor,Ngozi,Blessing,,SLT. (BTH)
+178867294,bamidele,Timothy,Mayowa,,SLT. (Biochem)
+178867161,akinbilleyo,Oluwaseun,Joy,,SLT. (Chem)
+178867158,adelabu,Ayomide,Daniel,,SLT. (Biotech)
+178867159,adeyemo,Oluwadamilola,John,,SLT. (Biotech)
+178867262,akomolafe,Adetola,Olaide,,SLT. (Biotech)
+178867135,ogunniran,Opeyemi,Seun,,SLT. (Biochem)
+178867099,apata,Ayodeji,,,SLT. (BTH)
+75559226CT,ogboka,Happiness,Ayokanmi,,SLT. (Biotech)
+178867207,ogunrinde,Ayokunle,Bidemi,,SLT. (Chem)
+178867235,oke,Grace,Oluwatoyin,,SLT. (Biotech)
+178867157,akinbola,Providence,,,SLT. (Chem)
+17886183,olorunsola,Eniola,,,SLT. (Biotech)
+178867143,olatunji,Anuoluwapo,Boluwatife,,SLT. (Chem)
+77027480HI,christopher,Victoria,,,SLT. (Geo)
+178867316,folaranmi,Olamiposi,Motunrayo,,SLT. (Phy/Eco)
+178867027,ibrahim,Seun,John,,SLT. (Biochem)
+178867334,abegunde,Kolade,Itunu,,SLT. (Biochem)
+178867331,ajayi,Kehinde,Demola,,SLT. (Phy/Eco)
+76228556IE,alabi,Olawale,Omolaye,,Biochemistry
+178859100,jegede,Aderonke,Boluwatife,,Biochemistry
+,,,,,
+178859032,fijuyigbe,Oluwatelemi,Rebecca,,Biochemistry
+178859162,ogunwole,Anthony,Iyanuoluwa,,Biochemistry
+178859076,ademola,Victor,Adeolu,,Biochemistry
+178859048,adetunji,Joshua,Adeyemi,,Biochemistry
+178859049,olomoniyi,Precious,Oluwanifemi,,Biochemistry
+178859075,folorunso,Temitope,,,Biochemistry
+178859113,afolabi,Hanah,Folashade,,Biochemistry
+178859062,olotu,OLUTAYO,Tiwalola,,Biochemistry
+178859105,adeniyi,Omolola,Gift,,Biochemistry
+178859147,ogundele,Bukola,Janet,,Biochemistry
+178859123,lowolafeayomide,Seun,,,Biochemistry
+178859152,adebisiprecious,Adebiyi,,,Biochemistry
+178859052,adesuyi,Oluwasefunmi,Oluwadamilola,,Biochemistry
+178859002,ajibola,Damilola,Gloria,,Biochemistry
+76823661EH,oloyede,Esther,Ifeoluwa,,Biochemistry
+178859173,odunase,Jumoke,Adetola,,Biochemistry
+178859155,aliu,Roinat,Ayobami,,Biochemistry
+,,,,,
+178859128,tayo,Damilola,Victor,,Biochemistry
+178859066,olorunfemi,Aanuoluwapo,Odunayo,,Biochemistry
+178859093,ajewole,Ayomide,Michael,,Biochemistry
+178859099,ogunrinde,Roseline,Omolola,,Biochemistry
+178859098,adetiba,Blessing,Temitope,,Biochemistry
+168859017,afuye,Oluwasola,Roseline,,Biochemistry
+178859079,isola,Christy,Oluwaseun,,Biochemistry
+178859117,oladimeji,Mariam,Bisi,,Biochemistry
+178859077,ojo,Heritage,Oluwanifemi,,Biochemistry
+178859042,olaniyan,Aanuoluwapo,Tobiloba,,Biochemistry
+178859092,fakologbon,Ruth,,,Biochemistry
+178859169,adebayo,Faith,Opeyemi,,Biochemistry
+178859115,fakiya,Victor,Ayobami,,Biochemistry
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178859126,olaniran,Olawumi,Esther,,Biochemistry
+178859127,ayodele,Oluwatobiloba,Temitope,,Biochemistry
+178859086,adefioye,Samuel,Olufemi,,Biochemistry
+178859159,pius,Esther,Mayowa,,Biochemistry
+178859074,osuntuyi,Adesoye,Charles,,Biochemistry
+79144613EF(DE),fabumi,Akintunde,Sanmi,,Biochemistry
+178861014,olanisebe,Tosin,Magaret,,Geophysics
+178861007,agunbiade,Oluwatobi,Victor,,Geophysics
+178861040,aluko,Oluwaseun,Mercy,,Geophysics
+178861039,owoeye,Sunday,Samuel,,Geology
+178861070,adebiyi,Olamide,Oluwaseyi,,Geology
+178867061,abu,Opeyemi,Helen,,Geology
+178861028,ayoola,Olamilekan,Samson,,Geology
+178861008,ogunsola,Samuel,Oluwadamilare,,Geology
+178861024,aladegbeni,Bukola,Adeola,,Geology
+178861060,oke,Grace,Oluwadamilola,,Geology
+178861021,adubiaro,Blessing,Temitope,,Geology
+178861018,olatunde,Grace,Ayomide,,Geology
+178861015,akinniyi,Oluwatosin,Grace,,Geology
+178861002,faari,Ebenezer,,,Geology
+178861010,onifade,Kehinde,Paul,,Geology
+178861011,onifade,Taiwo,Peter,,Geology
+178861043,olusola,Tolulope,Boluwatife,,Geology
+178861045,olatunde,Emmanuel,O.,,Geology
+178861062,falebita,Collins,Temitope,,Geology
+178864020,akintomide,Femi,Olaoluwa,,Physics
+178864015,afolabi,Busayo,Adeniyi,,Physics
+178864032,abu,Opeyemi,Helen,,Physics
+75935846GG,adesanya,Oluwaseyi,Oluwabukunmi,,Physics
+178864012,kayode,Oluwafemi,Victor,,Physics
+178864005,ojo,Olalekan,Michael,,Physics
+,,,,,
+,,,,,
+,,,,,
+178864031,mene,Josephine,Damilola,,Physics
+178864041,eke,Akinwale,,,Physics
+178862001,kehinde,Oluwatosin,Samuel,,Maths
+178862002,adetunji,Samuel,Victor,,Maths
+76340009HH,aribisala,David,Olaoluwa,,Maths
+178862008,agbetanmije,Boluwatife,Mary,,Maths
+178862003,akinsehinwa,Itunnayo,Justinah,,Maths
+178862086,atoki,Michael,Segun,,Maths
+178862006,adewole,David,Adewale,,Maths
+178862007,lawal,Ismail,Boluwatife,,Maths
+158862093,ilegbusi,Agboola,Michael,,Maths
+158862191,oyetunji,Olusegun,Timilehin,,Maths
+75356376EC,adenuga,Simisola,Damilola,,M.C.B
+178863053,aderemi,Olakunle,Busayo,,M.C.B
+761130473JB,alesinloye,Anthony,Ayomide,,M.C.B
+178863156,ojo,Adeola,Esther,,M.C.B
+178863194,ojo,Alafia,David,,M.C.B
+178863149,owolabi,Iyanu,Glory,,M.C.B
+178863106,oguntuase,Mercy,Bunmi,,M.C.B
+178863104,owoeye,Oluwatofunmi,Eniola,,M.C.B
+178863112,adeyemi,Omolara,Racheal,,M.C.B
+178863019,owolabi,Emmanuel,Precious,,M.C.B
+75732149FH,oriolaoladimeji,Clement,,,M.C.B
+178863051,longe,Mercy,Opeyemi,,M.C.B
+178863108,ibidunni,Oluwabunmi,Racheal,,M.C.B
+178863192,omotosho,Ayomide,Christiana,,M.C.B
+178863165,oloyede,Oluwaseun,Opeyemi,,M.C.B
+178863042,oguntimehin,Grace,Oyinlola,,M.C.B
+178863102,ojo,Precious,Oluwatobiloba,,M.C.B
+178863034,adewuya,Oluwatoyosi,Comfort,,M.C.B
+178862083,ogunleye,Similoluwa,Samuel,,Comp. Sci.
+178862158,olatunji,Joel,Olubankole,,Comp. Sci.
+178870038,okorie,Blessing,Gloria,,Comp. Sci.
+178431094,ajijola,OLOLADE,HUSSAIN,,Comp. Sci.
+178862058,ajayi,Taiwo,Steven,,Comp. Sci.
+178870029,idowu,Omobolanle,Ruth,,Comp. Sci.
+178862033,adeleke,Tolulope,Stephen,,Comp. Sci.
+178870075,fagbohun,Olamide,Esther,,Comp. Sci.
+178862081,oba,Chibueze,Leonard,,Comp. Sci.
+178862053,akinmode,Akinyemi,Oluwaseun,,Comp. Sci.
+178862156,abioye,Oreoluwa,Mercy,,Comp. Sci.
+178862065,olowomeye,Oluwapelumi,Blessing,,Comp. Sci.
+178862066,omotunla,Olayinka,Omotayo,,Comp. Sci.
+178862050,balogun,Abdulmalik,Oluwasegun,,Comp. Sci.
+178862171,owolabi,Gbenga,Samuel,,Comp. Sci.
+178862040,alabi,Olaide,Sarah,,Comp. Sci.
+178862129,okewale,Olamide,Samuel,,Comp. Sci.
+178862035,adani,Peter,Oluwatimilehin,,Comp. Sci.
+178862124,aina,Emmanuel,Abiodun,,Comp. Sci.
+178862136,afolabi,Henekiata,Abel,,Comp. Sci.
+178862120,akinola,Tosin,Samuel,,Comp. Sci.
+178862154,oke,Oladele,Ebenezer,,Comp. Sci.
+178862123,akiniose,Justus,Olaoluwa,,Comp. Sci.
+178862085,adebayo,Adekunle,Ebun,,Comp. Sci.
+178862032,abdulsalam,Idayat,Omotolani,,Comp. Sci.
+178862036,isiyaka,Abdullateef,Adeiza,,Comp. Sci.
+178862028,eziah,Oneyebu,Daniel,,Comp. Sci.
+178862054,aina,Oluwapelumi,Daniel,,Comp. Sci.
+178862172,ogundare,Damilola,Adewumi,,Comp. Sci.
+178862138,taiwo,Philip,Oluwaseun,,Comp. Sci.
+178862179,ukagho,Ogheneewende,Michael,,Comp. Sci.
+178862082,ozonuwe,Chukwuka,Faith,,Comp. Sci.
+178862102,babalola,Rahmat,Adedoyin,,Comp. Sci.
+178862144,oladejo,Olayinka,Samson,,Comp. Sci.
+178862067,olabode,Oladele,Joseph,,Comp. Sci.
+178862072,orinmolade,Funmilola,Arinola,,Comp. Sci.
+178870006,adeleke,Tolulope,Adetunji,,Comp. Sci.
+,adeyemi,Bukola,Tope,,Comp. Sci.
+,oyeyemi,Elizabet,Dolapo,,Comp. Sci.
+178862063,ayodele,Ayomide,Isaac,,Comp. Sci.
+178862131,eniosi,Temitope,Omoyeni,,Comp. Sci.
+178870069,alamu,Jumoke,Grace,,Comp. Sci.
+178862121,omolade,Foluke,Grace,,Comp. Sci.
+178862185,solomon,Olayemi,Helen,,Comp. Sci.
+178862075,ebiazoeye,Osariemen,Anne,,Comp. Sci.
+178862068,ayodele,Joshua,Ayokunle,,Comp. Sci.
+178862055,omoyeni,Mosunmola,Hellen,,Comp. Sci.
+178862048,oladejo,Gloria,Aramide,,Comp. Sci.
+178862025,olaloye,Adeola,Muiz,,Comp. Sci.
+178862039,ajewole,Oyindamola,Adebola,,Comp. Sci.
+178862118,babawande,Sodiq,ADEDIWURA,,Comp. Sci.
+178862153,olajide,Fayobi,Olanrewaju,,Comp. Sci.
+178862161,ogundahunsi,Adebowale,Adeoye,,Comp. Sci.
+178862062,otokesusi,Banwo,Philip,,Comp. Sci.
+178862157,oluwatobi,Oluwafemi,David,,Comp. Sci.
+178862165,osiki,Oghebetega,Oluwatosin,,Comp. Sci.
+76227270FF,olabisi,Azeez,Olamilekan,,Comp. Sci.
+178862184,bamigboye,Precious,Ezekiel,,Comp. Sci.
+178862170,aluko,Oluwagbemiga,Jeremiah,,Comp. Sci.
+178862169,olubowale,Kehinde,Ismail,,Comp. Sci.
+178862128,odefiran,Oluwasarasimi,Elijah,,Comp. Sci.
+178862132,fakua,Damilola,Oluwafunmilayo,,Comp. Sci.
+178862159,arwolo,Adewale,Oluwasegun,,Comp. Sci.
+178870102,odetola,Ifeoluwa,Babatunde,,Comp. Sci.
+178862126,olukofin,Daniel,,,Comp. Sci.
+178862125,shodeinde,Simeon,Oluwasemilogo,,Comp. Sci.
+79197795GE,alountade,Sesan,Iyanuoluwa,,Comp. Sci.
+178862168,egwuemi,Ojonoma,Janet,,Comp. Sci.
+178860144,adeleye,Ebunoluwa,Kemisola,,I.C.H
+178860128,olatoyinbo,Deborah,Oluwamayowa,,I.C.H
+178860170,adeleke,Tomiwa,Toyin,,I.C.H
+178860126,folorunso,Kemisola,Elizabeth,,I.C.H
+178860102,olabode,Olamide,Benjamin,,I.C.H
+178865099,omoyajowo,Olawale,Taiwo,,Plant Science
+178865008,abimbawo,Toherb,Bidemi,,Plant Science
+178865061,diisu,Blessing,Bamidele,,Plant Science
+178865109,ogunwale,Oluwatimileyin,Esther,,Plant Science
+178865009,akinmade,Oluwadamilola,,,Plant Science
+77191626EC,falokun,Ayobami,B.,,Plant Science
+178865047,olaitan,Jesutofunmi,A.,,Plant Science
+178865081,adebayo,Rachael,Adetoke,,Plant Science
+178865088,ojo,Blessing,Abimbola,,Plant Science
+178865032,aniefiok,Vepa,,,Plant Science
+178865087,akinyelure,Helen,Oluwapelumi,,Plant Science
+178865073,omotola,Lukman,Oluwaseun,,Plant Science
+178431094,osakuade,OLOLADE,HUSSAIN,,Plant Science
+178865036,banjo,Dayo,Olufemi,,Plant Science
+178865076,samuel,Ayomide,Oluwasun,,Plant Science
+178865064,lawal,Ajibola,Yusuff,,Plant Science
+178865065,olaoseebu,Emmanuel,Seebi,,Plant Science
+178865108,adeyanju,Olalekan,,,Plant Science
+178865036,olufemi,Oyebisi,Abosede,,Plant Science
+178865012,oluwatuyi,Modupe,Mercy,,Plant Science
+178865050,adeniyi,Esther,Ifeoluwa,,Plant Science
+178865052,akinteye,Folashade,Grace,,Plant Science
+178865070,taiwo,Olayemi,Racheal,,Plant Science
+178860012,obasanya,Foluke,Adedayo,,Chemistry
+11023329,oluomo,Teye,Gbolanhan,,Chemistry
+178860181,oluwadare,Nifemi,Deborah,,Chemistry
+178860137,ogidan,Gkadys,Eniola,,Chemistry
+178860032,sule,Michael,Sikiru,,Chemistry
+178860027,alli,Medinat,Oluwadamola,,Chemistry
+,,,,,
+178860148,ibidapo,Oluwaseun,Alex,,Chemistry
+178860060,olagunju,Olayinka,Comfort,,Chemistry
+178860138,akinwande,Abraham,Akinlabi,,Chemistry
+178860015,olaosebikan,Rukayat,Oluwakemi,,Chemistry
+178860084,korede,Precious,Ayomide,,Chemistry
+178860066,orimabuyaku,Oluwapelumi,,,Chemistry
+178860036,faleye,Deborah,Gbadura,,Chemistry
+178860038,anjorin,Oluwatosin,Samuel,,Chemistry
+178860019,akintunde,Damilola,Vivian,,Chemistry
+178860043,,Ashaolu,Titilayo,,Chemistry
+178860136,adebo,Joy,Treasure,,Chemistry
+178860031,olaniran,Taiwo,O.,,Chemistry
+178860075,bello,Oluwatofunmi,Olayinka,,Chemistry
+168860169,salau,Habeeb,Seun,,Chemistry
+178860131,eziefulle,Richard,Chinonso,,Chemistry
+178860081,akinyemi,Tunmise,Ebenezer,,Chemistry
+178860010,onum,Philoniena,Okwa,,Chemistry
+77069292GD,funmilayo,Olusoji,,,Zoology
+178866067,adeyemi,Bridget,Funmilayo,,Zoology
+178866036,salami,Kofoworola,Mariam,,Zoology
+178866016,okereke,Fredrick,Chinedu,,Zoology
+178866058,anifowose,Olayemi,Olayinka,,Zoology
+178866087,ola-taiwo,Adesola,Eyiyemi,,Zoology
+178866007,odoko,Aanuoluwapo,Oluwasogo,,Zoology
+178866052,popoola,Ifeoluwa,Sarah,,Zoology
+76230253DA,adebayo,Ireti,Moyinoluwa,,Zoology
+178866041,nurudeen,Ajibola,Dolapo,,Zoology
+178866053,adekanbi,Toyin,Jumoke,,Zoology
+178866037,ajayi,Samson,Temitayo,,Zoology
+178866021,adewumi,Damilare,Pascal,,Zoology
+178866065,abiodun,Busayo,Feyisayo,,Zoology
+178866047,ajisola,Oluwabunmi,Toluwanimi,,Zoology
+178866028,awe,Micheal,Omogbolahan,,Zoology
+75903877EA,adesina,Blessing,Ifeoluwa,,Zoology
+178866069,bello,Eniola,Sherifat,,Zoology
+178866020,oyeleke,Damilola,Aanuoluwapo,,Zoology
+762275900EB,ijifidayo,Temitayo,Bamidele,,Zoology
+178866080,olorunyomi,Olamilekan,,,Zoology
+178866077,agwunobi,Success,M.,,Zoology
+178866048,saka,Fadekemi,Adijat,,Zoology
+178866008,ganiyu,Nurenu,Temitayo,,Zoology
+178866072,oladejo,Damilare,Adedayo,,Zoology
+178866071,olonisakin,Ayobami,Celestina,,Zoology
+178974035,faluyi,TEMITOPE,GRACE,,E.V.M
+178974033,olajide,SEHINDE,MATTHEW,,E.V.M
+178974007,oke,AMINAT,ARINOLA,,E.V.M
+178974003,olatunji,OLUWAYOMI,VICTOR,,E.V.M
+158974212,agboola,BABATUNDE,BOLUWATIFE,,E.V.M
+178974021,alonge,FOLASHADE,COMFORT,,E.V.M
+178974019,akinyemi,DAMILOLA,TOLULOPE,,E.V.M
+178974018,ajise,KUDIRAT,TOSIN,,E.V.M
+178974048,olofintuyi,IBIKUNLE,OLAWALE,,E.V.M
+178974034,ogunleye,ADEMOLA,ODUNAYO,,E.V.M
+178974059,yusuf,FATIMO,ADEOLA,,E.V.M
+178974004,agunloye,OLAMIPOSI,DAMILOLA,,E.V.M
+178974012,kayode,BENJAMIN,OLUWAGBENGA,,E.V.M
+168974086,irabor,C.,EHIGOGIE,,THM
+178975024,dada,REMILEKUN,RUTH,,POL SCIENCE
+178975044,oyebode,SAMSON,OLAYINKA,,POL SCIENCE
+178975005,ayegbusi,OLUTAYO,PETER,,POL SCIENCE
+178975103,abegunde,TOLULOPE,REBECCA,,POL SCIENCE
+178975111,adebayo,DAMOLA,EMMANUEL,,POL SCIENCE
+178975001,oluwaropo,SUNDAY,SAMUEL,,POL SCIENCE
+178975041,ayoola,ELIJAH,AYODIRAN,,POL SCIENCE
+178975134,apotishile,FAITH,BISOLA,,POL SCIENCE
+178975010,adetimiro,OLUWAFUNKE,RUTH,,POL SCIENCE
+178975015,olusiku,OLAIYA,OLULADE,,POL SCIENCE
+178975058,oyateru,ALEXANDER,OLUWOLE,,POL SCIENCE
+178975031,akinwande,OLUWASEUN,DEBORAH,,POL SCIENCE
+,,,,,
+178975088,adedeji,ADENIKE,GRACE,,POL SCIENCE
+178975121,fakolade,FEMI,MICHAEL,,POL SCIENCE
+178975038,oluyemi,AYOMIDE,EMMANUEL,,POL SCIENCE
+178975048,olatunji,ABIDEMI,JOHN,,POL SCIENCE
+178975061,omogunroye,MICHAEL,AYOMIDE,,POL SCIENCE
+178975028,oluwafemi,KEHINDE,O.,,POL SCIENCE
+178975173,ashiru,ABDULRASHEED,AKINWALE,,POL SCIENCE
+178975135,akinyemi,EMMANUEL,AKINBOBOYE,,POL SCIENCE
+178975117,afuye,IBUKUNOLUWA,MARY,,POL SCIENCE
+178975006,ikuku,ELOHOR,DORCAS,,POL SCIENCE
+178975168,oluwafemi,OLUWATOYIN,TINUOLA,,POL SCIENCE
+178975073,azeez,AZEEZAT,AMOKEOLA,,POL SCIENCE
+178975027,zacchaeus,OLADOYIN,ABIGAIL,,POL SCIENCE
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178975059,ologuntoye,OLUWASEFUNMI,IYANUOLUWA,,POL SCIENCE
+178975004,adedokun,EZEKIEL,OLUWATOMIWA,,POL SCIENCE
+178975011,olamigoke,SEFUNMI,MARVELLOUS,,POL SCIENCE
+178975025,aisida,OLUWATOPE,DEBORAH,,POL SCIENCE
+178975016,mereti,POWE,HANNAH,,POL SCIENCE
+178975096,olajide,EMMANUEL,SEGUN,,POL SCIENCE
+178975150,ajayi,OLUWAFEMI,JOSEPH,,POL SCIENCE
+178975072,adebayo,MICHAEL,OLUWADAMILARE,,POL SCIENCE
+178975065,salami,DAVID,,,POL SCIENCE
+178975089,akosile,OLUWASEUN,FAVOUR,,POL SCIENCE
+178975012,akinade,AYOMIPOSI,OMONIYI,,POL SCIENCE
+178975002,falayi,TIMILEYIN,JOHNSON,,POL SCIENCE
+178975022,falegan,OLUWASEUN,STEPHEN,,POL SCIENCE
+178975294,oluwalade,PHILIPS,A.,,POL SCIENCE
+178975132,james,OLUWATOBILOBA,GBENGA,,POL SCIENCE
+178975051,adeoye,ADEBAYO,MOSES,,POL SCIENCE
+178975057,nwachukwu,DAVID,CHUKWUEMEKA,,POL SCIENCE
+178975102,ayeni,OLADEJI,JOSHUA,,POL SCIENCE
+178975055,adewale,GRACE,FOLASHADE,,POL SCIENCE
+178975034,idowu,OLUWASEGUN,SAMUEL,,POL SCIENCE
+178975036,adegboye,OLUWATOBI,ADEGBOLA,,POL SCIENCE
+178975106,adeyemi,GBENGA,JAMES,,POL SCIENCE
+178975014,olagundoye,GBEMI,,,POL SCIENCE
+178975046,aniyun,ROTIMI,OLUWASEYI,,POL SCIENCE
+178975042,olawete,BUSAYO,RACHAEL,,POL SCIENCE
+178975056,oguntoyinbo,ABRAHAM,AKINTUNDE,,POL SCIENCE
+178975158,wisdom,VALENTINA,NNENNA,,POL SCIENCE
+178975138,okon,IMMANUEL,ASSI,,POL SCIENCE
+178975290,okegbemi,FATHIA,OLUWAFISAYO,,POL SCIENCE
+178975119,rufar,ROFIYAT,TITILAYO,,POL SCIENCE
+178975341,muyide,OMOLOLA,TOSIN,,POL SCIENCE
+178975067,oguntoye,BOSEDE,DAMILOLA,,POL SCIENCE
+178975177,seetan,ADEGOKE,OYELASI,,POL SCIENCE
+178975141,mohammed,FATIMAT,ABIODUN,,POL SCIENCE
+178975142,abdullateef,TAIWO,KUNMI,,POL SCIENCE
+178975192,olasupo,BOLUWATIFE,ADETOLA,,POL SCIENCE
+178975094,ayeni,MICHAEL,KAYODE,,POL SCIENCE
+178975090,adeleye,MUSTAPHA,AKANDE,,POL SCIENCE
+178975148,olowofela,SUNDAY,AYODEJI,,POL SCIENCE
+178975306,oladele,BUKUNMI,DAVID,,POL SCIENCE
+178975308,oladele,MOSES,AYODELE,,POL SCIENCE
+178975126,olajesu,EMMANUEL,TOBILOBA,,POL SCIENCE
+178975241,opeloye,SODIQ,TEMITAYO,,POL SCIENCE
+178975052,aka,ISMAIL,TOBI,,POL SCIENCE
+178975315,ilegbusi,ABIOLA,CAROLINE,,POL SCIENCE
+178975013,adeshina,ADEBAYO,ADEYINKA,,POL SCIENCE
+178975128,agbesusi,AYODELE,GABRIEL,,POL SCIENCE
+178975047,solaarin,AZEEZ,DAMILOLA,,POL SCIENCE
+178975060,apanisile,MOSES,WALE,,POL SCIENCE
+178975037,alao,AANUOLUWAPO,OLANIKE,,POL SCIENCE
+178975139,adeola,IFEOLUWA,FLORENCE,,POL SCIENCE
+178975269,hassan,OREOLUWA,MODUPE,,POL SCIENCE
+178975130,popoola,BOLUWATIFE,DAMILOLA,,POL SCIENCE
+178975239,dada,LOVE,MARY,,POL SCIENCE
+178975210,ofun,DAMILOLA,RICHARD,,POL SCIENCE
+178975107,ogunleye,MARVELLOUS,M.,,POL SCIENCE
+178975116,oyerinde,TINUADE,TOMISIN,,POL SCIENCE
+178975110,olatunbosun,PRECIOUS,OLUWASEYI,,POL SCIENCE
+178975062,adekunle,AYOBAMI,ELIZABETH,,POL SCIENCE
+178975190,fadipe,DAMILOLA,HELEN,,POL SCIENCE
+178975244,maminorguor,PRECIOUS,DEBORAH,,POL SCIENCE
+178975035,matthew,ANUOLUWAPO,IBUKUN,,POL SCIENCE
+178975179,adeola,MAYOWA,JACOB,,POL SCIENCE
+178975049,adedokun,GIFT,ADETOUN,,POL SCIENCE
+178975100,adebomi,TAWAKALITU,OMOLADE,,POL SCIENCE
+178975183,babajide,BUKOLA,IYANUOLUWA,,POL SCIENCE
+178975199,gbadebo,ADEDOLAPO,JANET,,POL SCIENCE
+178431094,folorunso,OLOLADE,HUSSAIN,,POL SCIENCE
+178975276,babalola,OLABODE,IFEOLUWA,,POL SCIENCE
+178975123,omole,JACOB,PATIENCE,,POL SCIENCE
+178975194,akinbe,DANIEL,OLUWASEUN,,POL SCIENCE
+178975020,quist,OLUWANISHOLA,ESTHER,,POL SCIENCE
+178975021,akinnusi,FAITH,AYOMIKUN,,POL SCIENCE
+178975180,adanlawo,AYUFULLAH,TOLU,,POL SCIENCE
+178975074,muraina,RASAQ,BABATUNDE,,POL SCIENCE
+178975085,ojo,JOSEPH,,,POL SCIENCE
+178975125,omotowa,MOSES,GBENGA,,POL SCIENCE
+178975019,famure,OLATOMIWA,JOHN,,POL SCIENCE
+178975079,moses,ANDREW,,,POL SCIENCE
+178975209,olumuyiwa,ESTHER,OYINDAMOLA,,POL SCIENCE
+178975246,ogunlowo,BOLAJI,AYOMIDE,,POL SCIENCE
+178975196,olayinka,ADEWALE,MOSES,,POL SCIENCE
+178975228,arogundade,OLAWALE,EMMANUEL,,POL SCIENCE
+178975310,oyebamiji,TOMIWA,Abel,,POL SCIENCE
+  7918545420 (D.E),michael,JACOB,IKUWE,,POL SCIENCE
+178975030,apenileola,SUNDAY,OLUWADAMILARE,,POL SCIENCE
+178975084,adetiba,WILLIAMS,OLUDUNSIN,,POL SCIENCE
+178975072,fadare,TOSIN,EMMANUEL,,POL SCIENCE
+178975256,omidina,VICTORIA,YEWANDE,,POL SCIENCE
+178975105,omolewa,KEHINDE,TEMITAYO,,POL SCIENCE
+178975075,ogunbunmi,TUNDE,OPEYEMI,,POL SCIENCE
+178975076,idris,JAMIU,IDOWU,,POL SCIENCE
+178975026,bolarinwa,YUSUF,OLAMIDE,,POL SCIENCE
+178975140,olaniyi,AYOOLA,EMMANUEL,,POL SCIENCE
+178975101,ojo,AYOMIDE,FIYINFOLUWA,,POL SCIENCE
+178975118,akinola,DAVID,FEMI,,POL SCIENCE
+178975257,taiwo,Rahmat,OLUWAPELUMI,,POL SCIENCE
+178975157,fakoroyo,ABOSEDE,PATRICIA,,POL SCIENCE
+178975043,adebayo,OLUWABUKOLA,OMOTOYOSI,,POL SCIENCE
+178975224,olafisoye,JOSEPHINE,OLUWANIFEMI,,POL SCIENCE
+178975097,dada,MICHAEL,AANUOLUWAPO,,POL SCIENCE
+178975098,ogunleye,VICTOR,GBENGA,,POL SCIENCE
+178975165,adeleke,STEPHEN,SEGUN,,POL SCIENCE
+178975188,adedayo,OLUWAFEMI,ABIODUN,,POL SCIENCE
+178975076,okere,CHINONYE,DIANA,,POL SCIENCE
+178975185,osanipin,MARY,SEUN,,POL SCIENCE
+178975170,ogbolu,SEFUNMI,MOPELOLA,,POL SCIENCE
+178975023,akintunde,AKINWUMI,GABRIEL,,POL SCIENCE
+178975133,abosede,OLUWATOBI,HENRY,,POL SCIENCE
+178975272,ogundana,ODUNAYO,OMOYEMI,,POL SCIENCE
+178975327,adejuwon,BENJAMIN,OLUSEGUN,,POL SCIENCE
+178975151,falana,OLAWALE,EMMANUEL,,POL SCIENCE
+178975069,tijani,QUADRI,DAMILARE,,POL SCIENCE
+178975217,olaniyi,BASHIR,DAMILOLA,,POL SCIENCE
+178975124,aregbesola,OLUWAPELUMI,ADEDIWURA,,POL SCIENCE
+178975087,adeleke,Fayobi,JESUTOFUNMI,,POL SCIENCE
+178975178,akala,AYOMIDE,EMMANUEL,,POL SCIENCE
+178975144,adebisi,OLARINDE,SUNDAY,,POL SCIENCE
+178975260,oyekunle,ADEMOLA,,,POL SCIENCE
+178975083,babatunde,BUSAYO,DAMILOLA,,POL SCIENCE
+178975033,bello,SULIAT,AYOKUNMI,,POL SCIENCE
+178975159,lawal,OLAMIDE,DAMILOLA,,POL SCIENCE
+      75704302IB,junaid,OLUWAFEMI,EMMANUEL,,POL SCIENCE
+178975050,mshelbwala,W.,JENNIFER,,POL SCIENCE
+178975086,adeniran,KEHINDE,TIMOTHY,,POL SCIENCE
+178975242,olumoroti,JOHN,ILERIOLUWA,,POL SCIENCE
+178975114,makanjuola,ODUNAYO,BLESSING,,POL SCIENCE
+178975350,nnecha,UGOCHUKWU,,,POL SCIENCE
+178975081,obeisun,VICTOR,OLATUNDE,,POL SCIENCE
+178975266,awoyemi,RUKAYAT,BOLA,,POL SCIENCE
+178975172,olaniran,KIGSLEY,MIRACLE,,POL SCIENCE
+178975095,omotoso,MERCY,OYINKANSOLA,,POL SCIENCE
+178975186,akinsipe,AYOMIDE,VICTORIA,,POL SCIENCE
+178975164,olajide,KEHINDE,Oluwamayowa,,POL SCIENCE
+178975040,oladele,GANIYU,OLADOTUN,,POL SCIENCE
+178975068,folorunso,BUKUNMI,SERAH,,POL SCIENCE
+178975054,ogunleke,ABAYOMI,PELUMI,,POL SCIENCE
+178975080,odole,ISAAC,ILEMONA,,POL SCIENCE
+178975003,adewumi,FOLASAYO,ELIZABETH,,POL SCIENCE
+178975311,adeke,IYANUOLUWA,AYOMIDE,,POL SCIENCE
+178975233,asaolu,OPEYEMI,BLESSING,,POL SCIENCE
+178975115,adegbite,IBUKUN,ADEWUYI,,POL SCIENCE
+178975278,amajo,JOYCE,,,POL SCIENCE
+178975113,oluwadare,QUEENSHEBA,I.,,POL SCIENCE
+178975122,taiwo,MATTHEW,OLAMIDE,,POL SCIENCE
+178975205,oladunjoye,OMOLARA,GRACE,,POL SCIENCE
+178975146,ayodele,RIDWAN,ADEWALE,,POL SCIENCE
+178975197,aniyikaye,ADEMOLA,DANIEL,,POL SCIENCE
+178975206,ayantoye,OLUWABUNMI,AYANFUNKE,,POL SCIENCE
+178431094,akinmola,OLOLADE,HUSSAIN,,POL SCIENCE
+178975071,saleem,TOHEEB,OLALEKAN,,POL SCIENCE
+178975077,adewumi,TOYOSI,DANIEL,,POL SCIENCE
+178975291,aijotan,JOHNSON,IYANUOLUWA,,POL SCIENCE
+178975175,abioye,SANJO,OLUWAGBENGA,,POL SCIENCE
+178975149,adesanmoye,ABIODUN,JOHN,,POL SCIENCE
+178975094,olawuyi,GRACE,OLUWAKEMI,,POL SCIENCE
+178975264,bodunde,ADEYEMI,,,POL SCIENCE
+168975025,ale,EMMANUEL,OLUGBENGA,,POL SCIENCE
+178974037,kolawole,OLUWATOBI,OLUWATOSIN,,G.P.S.
+178974005,ayeni,BABATUNDE,ABIODUN,,G.P.S.
+178974002,aladenbo,MAYOWA,ADETOYE,,G.P.S.
+178974016,yusuf,RILWAN,TOPE,,G.P.S.
+178974006,muraina,MUBARAK,ABIODUN,,G.P.S.
+178974031,olorunfunmi,ADEROJU,SAMUEL,,G.P.S.
+178974022,dare,OLUWAFEMI,,,G.P.S.
+178974010,adewumi,MARIAM,TOLULOPE,,G.P.S.
+,,,,,
+178974008,oladipo,SAMUEL,KOLADE,,G.P.S.
+178974044,arogbodo,ODUNAYO,TEMILOLUWA,,G.P.S.
+178974024,samuel,ABOSEDE,FAITH,,G.P.S.
+178974009,oluwafemi,OLUWAFUNMILAYO,V.,,G.P.S.
+178974041,olayemi,GBEMISOLA,FOLASADE,,G.P.S.
+178974060,abimbola,KEHINDE,KEMI,,G.P.S.
+178974015,lateef,WASIU,DARE,,G.P.S.
+178974032,babalola,BUSAYO,SAMUEL,,G.P.S.
+178974023,akinwale,AYODEJI,SUDAN,,G.P.S.
+178974025,makinde,OLUWABUSOLA,OMOWUMI,,G.P.S.
+178974045,aladejebi,TEMITOPE,FISAYO,,G.P.S.
+178974036,oladejo,TAJUDEEN,,,G.P.S.
+178974055,fatuase,DAMILOLA,JOSEPH,,G.P.S.
+178974040,ayodele,OMONIYI,AYODEJI,,G.P.S.
+178974026,lawal,TAIWO,ENIOLA,,G.P.S.
+168974071,abayomi,SAMUEL,AYODELE,,G.P.S.
+178974011,abdulwahab,ADAM,ADEYEMI,,G.P.S.
+178974013,ganiyu,BASIRU,OLAWUMI,,G.P.S.
+178974027,tijani,SEUN,,,G.P.S.
+178974064,matiluko,JOSHUA,E.,,G.P.S.
+178974032,aboki,SAMSON,OLUWASEUN,,G.P.S.
+158862023,adelusi,OLUWAFEMI,AHMED,,G.P.S.
+178979011,olahan,OLADOYIN,TEMITOPE,,THM
+178979010,adiatu,BASIRAT,AJIBOLA,,THM
+178979003,komolafe,FEYISAYO,ROSELINE,,THM
+178979068,omonupe,NOFISAT,AJOKE,,THM
+178979039,owoeye,OLUWAKEMI,RACHAEL,,THM
+178979037,ojo,OLUWASEUN,ODUNAYO,,THM
+178979067,suleiman,TAOFEEK,BAMIDELE,,THM
+178979016,fatuade,SAMUEL,SUCCESS,,THM
+178979014,martins,BLESSING,DAYO,,THM
+178979005,jolayemi,COMFORT,MOJIROLA,,THM
+178979007,ologunaye,TAIBAT,IDOWU,,THM
+178979009,attah,CHRISTIANAH,C.,,THM
+178979038,folami,OLAMIDE,AYOMIKUN,,THM
+178979015,alomoge,OLAJUMOKE,OREOLUWA,,THM
+178979002,aborisade,LAWRENCE,,,THM
+178979012,omozubor,RACHEL,OEHUWA,,THM
+178979013,salaudeen,SULIAT,OLAJUMOKE,,THM
+178979042,adebiyi,OLUDOLAPO,,,THM
+178979044,ndukwe,STEPHEN,JUNIOR,,THM
+178979052,abiodun,TOBI,SAMUEL,,THM
+178979040,ajayi,BUSAYO,YETUNDE,,THM
+178979054,adeniji,TESTIMONY,ODUNAYO,,THM
+178979019,adeoye,TAIWO,JOHN,,THM
+541013073,gabriel,SIMILOLUWA,CHRISTIANAH,,THM
+178979035,adeleye,OLUWANIFEMI,OLUWAFEMI,,THM
+178979004,anthony,VICTOR,OLAMILEKAN,,THM
+178979031,priye-thomas,DOUBRA,ABIDEMI,,THM
+178979001,adeyinka,OLATOUN,BLESSING,,THM
+178979046,lawal,ANUOLUWAPO,SULIYAT,,THM
+178979041,ogunleye,OLAJUMOKE,ONAOLAPO,,THM
+178979070,alabi,OLUWADAMILOLA,OLUWATOYIN,,THM
+178979071,orji,FAITH,CHIKA,,THM
+178979072,ogunbiyi,OLAMIDE,RUKAYAT,,THM
+178979059,alifan,AYOMIDE,STEPHEN,,THM
+178979017,israel,EUNICE,AYOBAMI,,THM
+178979027,bolaji,OLUWASEUN,SUNDAY,,THM
+178979008,egwlamhen,GLORY,IFOHAN,,THM
+     75741463FB,apena,OLUTAYO,AMINAT,,THM
+178979024,abdullateef,ABOSEDE,BARAKAT,,THM
+178979058,anisulowo,DUPE,MOTUNRAYO,,THM
+178979022,afolabi,ODUNAYO,GRACE,,THM
+178979051,aluko,KEMISOLA,DAMILOLA,,THM
+178979049,adelenwa,ABIMBOLA,ABISOLA,,THM
+178979048,omotoso,ABISOLA,OLUWAFERANMI,,THM
+178979020,oyelami,TITILAYO,ESTHER,,THM
+178979065,yakubu,MUTIAT,EINEHOWA,,THM
+178976015,oni,CHRISTIANAH,FUNMILOLA,,PSYCHOLOGY
+,,,,,
+178976004,makanjuola,AYOBAMI,MARY,,PSYCHOLOGY
+178976003,adeleye,JOY,ESTHER,,PSYCHOLOGY
+178976007,fafiyebi,OLUWATOSIN,AYOMIDE,,PSYCHOLOGY
+178976018,oloogunebi,ADEWALE,JOSEPH,,PSYCHOLOGY
+178976029,ogunlola,FUNKE,TOFUNMI,,PSYCHOLOGY
+178976022,oguntoyinbo,TINUKE,SEUN,,PSYCHOLOGY
+178976052,ajiboye,OMOLOLA,PRECIOUS,,PSYCHOLOGY
+178976020,moses,ABIGEAL,OLUWASEUN,,PSYCHOLOGY
+178976013,amosun,OLAYINKA,OPEYEMI,,PSYCHOLOGY
+178976017,afilaka,RHODA,OLUWATOMILAYO,,PSYCHOLOGY
+178976030,ajayi,OLUWABUNMI,AYOMIPOSI,,PSYCHOLOGY
+178976027,adetoye,AYOOLUWA,ANTHONIA,,PSYCHOLOGY
+178976031,olawole,TEMITOPE,GRACE,,PSYCHOLOGY
+MATRIC NO.,surname,FIRST NAME,MIDDLE NAME,,DEPT.
+178976001,jemilehin,DEBORAH,OLUWAKEMISOLA,,PSYCHOLOGY
+178976034,sasere,BOLUWAGBE,PRISCILLA,,PSYCHOLOGY
+178976009,oluwole,DAMILOLA,VIVIAN,,PSYCHOLOGY
+178976039,akindele,ESTHER,OKIKIOLA,,PSYCHOLOGY
+178976002,idima,MOWAPELUOLUWA,FAVOUR,,PSYCHOLOGY
+178976028,adelusi,KEHINDE,PAUL,,PSYCHOLOGY
+178976065,adesina,BLESSING,VICTORIA,,PSYCHOLOGY
+178976025,aluko,TOSIN,NIFESIMI,,PSYCHOLOGY
+178976021,ajibola,TOLULOPE,CECILIA,,PSYCHOLOGY
+178976069,akeju,SAMSON,OLUWASEUN,,PSYCHOLOGY
+178102016,olayiwola,OLAYINKA,ABDULWA,,PSYCHOLOGY
+178976048,alabi,OLAWUNMI,IDOWU,,PSYCHOLOGY
+178976041,mohammed,AYOMIDE,GANIYAH,,PSYCHOLOGY
+178976036,fasae,DAVID,MOSES,,PSYCHOLOGY
+178976005,oluwasanmi,FOLAYEMISI,REBECCA,,PSYCHOLOGY
+178976011,oluwasesan,TITILAYO,DORCAS,,PSYCHOLOGY
+178976008,adebo,OLUWATOYOSI,SUSAN,,PSYCHOLOGY
+178976006,aseye,BUKOLA,FUNMILAYO,,PSYCHOLOGY
+178975099,ogungbemi,WALE,ELIJAH,,POL SCIENCE
+178976051,ogunrufe,YEMISI,JANET,,PSYCHOLOGY
+178976059,adetola,OLUWASANMI,DOMINIC,,PSYCHOLOGY
+178976054,aluko,JOSEPHINE,FUNMI,,PSYCHOLOGY
+178976044,ogundare,ABIODUN,AANU,,PSYCHOLOGY
+178976047,afolabi,OMOBOLANLE,ELIZABETH,,PSYCHOLOGY
+178976046,ige,DEBORAH,OLANIKE,,PSYCHOLOGY
+178976024,kwushue,MICHAEL,EBUBE,,PSYCHOLOGY
+178976023,ogunsina,ADEROMOSOLA,TOLUWALOPE,,PSYCHOLOGY
+          76945468IG,jinadu,PAMINA,IFEOLUWA,,PSYCHOLOGY
+1403869,owolabi,BLESSING,ABIMBOLA,,PSYCHOLOGY
+178976045,emmanuel,RAPHAEL,OLAMILEKAN,,PSYCHOLOGY
+178976050,agbana,OMOLOLA,FLORENCE,,PSYCHOLOGY
+178976010,onaro,FAITH,OLAMEKU,,PSYCHOLOGY
+178976033,ayannuola,SAMUEL,AYOOLUWA,,PSYCHOLOGY
+178976053,ehinola,TOLULOPE,CATHERINE,,PSYCHOLOGY
+178977016,alhassan,OLUWASEUN,DEBORAH,,SOCIOLOGY
+178977040,antwi,ELIZABETH,ENIOLA,,SOCIOLOGY
+178977176,daramola,KIKELOMO,ITUNU,,SOCIOLOGY
+178977087,jimoh,SHANSUDEEN,BABAKA,,SOCIOLOGY
+178977066,owonifari,OLUWADAMILOLA,,,SOCIOLOGY
+178977102,okunoye,JAMIU,ADEREMI,,SOCIOLOGY
+178977050,aliu,ISIAKA,BIDEMI,,SOCIOLOGY
+178977006,ekundayo,EMMANUEL,OLUWAFEMI,,SOCIOLOGY
+178977059,ahmed,ABDULAZEEZ,TEMITOPE,,SOCIOLOGY
+178977015,daramola,MICHAEL,GBOYEGA,,SOCIOLOGY
+178977024,ilegbusi,FAITH,OLASUNKANMI,,SOCIOLOGY
+178977070,ajomale,BOLAJI,MATTHEW,,SOCIOLOGY
+178977117,olowookere,ISAIAH,AYODEJI,,SOCIOLOGY
+178977002,michael,VICTORIA,AANUOLUWAPO,,SOCIOLOGY
+178977110,busari,KEHINDE,LATEEFAT,,SOCIOLOGY
+178977041,abegunde,AYOMIDE,MOKUNFAYO,,SOCIOLOGY
+178977056,idah,JANET,OWAYIN,,SOCIOLOGY
+178977107,akingbade,DAMILARE,MOSES,,SOCIOLOGY
+178977162,oniyide,AKOREDE,GIDEON,,SOCIOLOGY
+178977095,bamigboye,ADEBOWALE,BABATUNDE,,SOCIOLOGY
+178977008,oluwole,ABIMBOLA,OLAITAN,,SOCIOLOGY
+178977065,longe,OLUSOLA,LONGE,,SOCIOLOGY
+178977052,agbogunleye,OLUWASEUN,AYOMIDE,,SOCIOLOGY
+178977055,ojo,OLAJUMOKE,REBECCA,,SOCIOLOGY
+178977033,ajakaye,JOY,OLAMIDE,,SOCIOLOGY
+178977128,okesanjo,MARY,DAMILOLA,,SOCIOLOGY
+178977174,idowu,JEWEL,OLUWAROTIMI,,SOCIOLOGY
+178977051,obatade,SOFIAT,ADESISI,,SOCIOLOGY
+178977097,adams,FUNMILAYO,OPEYEMI,,SOCIOLOGY
+178977022,abegunde,OLAYINKA,OLAIDE,,SOCIOLOGY
+178977047,ajayi,MAYOWA,ADURAGBEMI,,SOCIOLOGY
+178977005,aliu,ADEKUNBI,YETUNDE,,SOCIOLOGY
+178977004,adu,ADEBIMPE,EREOLA,,SOCIOLOGY
+178431094,adeleke,OLOLADE,HUSSAIN,,SOCIOLOGY
+178977114,agbedeji,ADEBOLA,GABRIEL,,SOCIOLOGY
+178977196,oni,ODUNAYO,ADEKUNLE,,SOCIOLOGY
+178977103,kayode,CORNELIUS,SUNDAY,,SOCIOLOGY
+178977082,essien,ABIGAIL,MARY,,SOCIOLOGY
+178977038,adekanye,JOHN,PRAISE,,SOCIOLOGY
+178977089,arilomo,AFOLABI,ISREAL,,SOCIOLOGY
+178977032,onaolapo,HASSAN,ABIODUN,,SOCIOLOGY
+178977088,ezekiel,DEBORAH,SELBYEN,,SOCIOLOGY
+178977075,eshua,MIRACLE,IQUEN,,SOCIOLOGY
+178977007,christopher,THOMAS,,,SOCIOLOGY
+178977208,olatunji,AYOBAMI,EMMANUEL,,SOCIOLOGY
+178977160,akinyege,HENRY,AKINYELE,,SOCIOLOGY
+178977139,bobadoye,BABATUNDE,,,SOCIOLOGY
+178977720,faniyi,OLUWANIFEMI,BOLUWATIFE,,SOCIOLOGY
+ADN10000022,adewumi,OLUWATOSIN,MARY,,SOCIOLOGY
+178977123,ayodele,GLORIA,Abel,,SOCIOLOGY
+178977018,alawode,VINDICATION,IYEWUMI,,SOCIOLOGY
+178977101,olubodun,OYELEKAN,ENOCH,,SOCIOLOGY
+178977111,ajogbeje,OMOLOLA,OLUWABUKOLA,,SOCIOLOGY
+178977086,afolayan,PRECIOUS,TITILAYOMI,,SOCIOLOGY
+178977146,babalola,ESTHER,ADURAGBEMI,,SOCIOLOGY
+178977085,akomolafe,ELIZABETH,AYOMIKUN,,SOCIOLOGY
+178977019,oke,VICTORIA,OLUWAPELUMI,,SOCIOLOGY
+178977009,olanrewaju,JOSEPH,DAMILARE,,SOCIOLOGY
+178977076,john,RACHAEL,OJODUENE,,SOCIOLOGY
+178977104,adebiyi,OLUSEGUN,MAYOWA,,SOCIOLOGY
+178977105,aina,OLUWAYEMISI,OLUWASIKEMI,,SOCIOLOGY
+178977039,onifade,OLUWAFEMI,NOAH,,SOCIOLOGY
+178977060,michael,Rahmat,CHARLES,,SOCIOLOGY
+178977017,olufemi,OLUWATOSIN,OLUWASANMI,,SOCIOLOGY
+178977014,cletus,ONYINYEAH,EMMANUELLA,,SOCIOLOGY
+178977001,omoseebi,ESTHER,AYOMIDE,,SOCIOLOGY
+178977026,sanusi,OMOWUMI,DADA,,SOCIOLOGY
+178977124,akinniranye,ABIMBOLA,,,SOCIOLOGY
+178977100,kushimo,WOSILAT,ADESUOLA,,SOCIOLOGY
+178977037,ozur,SARAH,ONIYECHI,,SOCIOLOGY
+178977036,temilola,TEMITOPE,MOTUNRAYO,,SOCIOLOGY
+178977073,adekoya,MOYOSOLA,IBUKUNOLUWA,,SOCIOLOGY
+178977010,busari,ABDULWASIU,AYUBA,,SOCIOLOGY
+178977057,folorunso,AYANFE,COMFORT,,SOCIOLOGY
+178977141,aladeyelu,OLUWASEYI,DEBORAH,,SOCIOLOGY
+178977242,gbadamosi,BASIRAT,OLAJUMOKE,,SOCIOLOGY
+178977067,oguntebi,ABIMBOLA,ABOSEDE,,SOCIOLOGY
+178977149,hammed,BALILUS,OLUWAFERANMI,,SOCIOLOGY
+178977222,shonekan,RAFIAT,TOLUWANI,,SOCIOLOGY
+178977130,moses,MAYOWA,DANIEL,,SOCIOLOGY
+178977062,olumeko,KAYODE,ADEDIWURA,,SOCIOLOGY
+178977027,amusan,Fayobi,VICTOR,,SOCIOLOGY
+178977109,akomolafe,OLAYINKA,JOHN,,SOCIOLOGY
+178977184,oladega,KEMI,NOIMOT,,SOCIOLOGY
+178977152,philips,GOLD,OLOLADE,,SOCIOLOGY
+1402258,lawal,RUKAYAT,TOLULOPE,,SOCIOLOGY
+178973024,adebisi-bamiro,JUMOKE,MERCY,,ECONOMICS
+178973031,dada,RACHAEL,JESUTOFUNMI,,ECONOMICS
+178973014,mustapha,FARIDAT,BUSOLA,,ECONOMICS
+178973002,borire,OLANIFESI,,,ECONOMICS
+178973005,alake,EDITH,OLUWATOYIN,,ECONOMICS
+178973011,adenekan,OPEOLUWA,MAYOWA,,ECONOMICS
+178973020,ajewole,FASANMI,RICHARD,,ECONOMICS
+178973111,olarewaju,FUNMILOLA,SIMBIAT,,ECONOMICS
+178973100,emmanuel,BARTHOLOMEW,OFUNI,,ECONOMICS
+178973021,idowu,MARY,KIKELOMO,,ECONOMICS
+178973009,oluwatuyi,OYINDAMOLA,CHRISTIANA,,ECONOMICS
+178973095,akinyele,EMMANUEL,IDOWU,,ECONOMICS
+178973003,omoyele,TAIWO,GODSTIME,,ECONOMICS
+178973056,olalekan,OLAMIDE,Oluwamayowa,,ECONOMICS
+178973004,adeleke,ESTHER,OLUWAPELUMI,,ECONOMICS
+178973055,folorunso,OLUWASEUN,OYINKANSOLA,,ECONOMICS
+178973087,akindele,JUSTINA,ITUNUOLUWA,,ECONOMICS
+178973041,makinde,SELIAT,OLAYINKA,,ECONOMICS
+178973012,adegoke,OLUWATOBI,MARY,,ECONOMICS
+178973023,ojo,AYOTOMIWA,CLEMENTINAH,,ECONOMICS
+178973016,ajila,ESTHER,ABOSEDE,,ECONOMICS
+178973063,busari,OLAMIDE,RILWANI,,ECONOMICS
+178973008,olatunji,MARIAM,ADEOLA,,ECONOMICS
+178973010,adebowale,INIOLUWA,OLUWASEUN,,ECONOMICS
+178973078,koumebio,FELICIA,THERESA,,ECONOMICS
+178973054,onmonya,ONYTOSE,COMFORT,,ECONOMICS
+178973057,fasuyi,MARVELLOUS,DAMILOLA,,ECONOMICS
+178973046,olaiya,TAIWO,TEMITATO,,ECONOMICS
+178973068,adedoye,ADESOLA,MARGRET,,ECONOMICS
+178431094,okesola,OLOLADE,HUSSAIN,,ECONOMICS
+178973034,osunlola,DAMILOLA,FOLASADE,,ECONOMICS
+178973060,olagoke,OLAYINKA,OMOLEWA,,ECONOMICS
+178973137,agbejule,ISAIAH,AKINPELU,,ECONOMICS
+178973061,oyelakin,ADESINA,AMOS,,ECONOMICS
+178973065,francis,SAMUEL,OLAYINKA,,ECONOMICS
+178973059,omoniyi,KEHINDE,ADEBAYO,,ECONOMICS
+178973113,busari,KAOSARAT,OMOWUMI,,ECONOMICS
+178973120,oyelade,STEPHEN,OLUWASEUN,,ECONOMICS
+178973092,akomolafe,OLUWATOMIWA,OLUWASEUN,,ECONOMICS
+178973127,adeusi,GODWIN,OLUWASEGUN,,ECONOMICS
+178973115,olowookere,OLUWABUKOLA,OPEYEMI,,ECONOMICS
+178973141,sanusi,ROTIMI,TUNDE,,ECONOMICS
+178973096,ale,DOLAPO,HELEN,,ECONOMICS
+178973126,oladipupo,TOBILOBA,PETER,,ECONOMICS
+178973152,afolalu,ENOCH,EMMANUEL,,ECONOMICS
+178973122,ayole,ENIOLA,EMMANUEL,,ECONOMICS
+,,,,,
+178973108,adebunmi,SULAIMON,ADEGOKE,,ECONOMICS
+178973013,afeni,LERE,BUASYO,,ECONOMICS
+178973088,ajetomobi,ABIODUN,JOSEPH,,ECONOMICS
+178973070,moruf,ABIDEEN,OLAIDE,,ECONOMICS
+178973138,alo,SUNDAY,OLAKUNLE,,ECONOMICS
+178973052,shiremehin,MODUPE,PROMISE,,ECONOMICS
+178973166,oladapo,MARVELLOUS,OLAYEMI,,ECONOMICS
+178973167,olusegun,OLAYINKA,,,ECONOMICS
+178973153,oluwatimilehin,SEUN,,,ECONOMICS
+178973168,ajijola,DAVID,OLUWATOBI,,ECONOMICS
+178973101,ilesanmi,ODUNAYO,ADEROPO,,ECONOMICS
+178973075,owolabi,ELIZABETH,ADEFIKAYO,,ECONOMICS
+178973074,aremu,ESTHER,AYOMIDE,,ECONOMICS
+178973142,adefisayo,OLUWATOSIN,,,ECONOMICS
+178973038,awe,MOSES,AKOREDE,,ECONOMICS
+178973117,orebiyi,OPEYEMI,JULIUS,,ECONOMICS
+178973091,balogun,SALIM,ADETUNJI,,ECONOMICS
+178973032,oke,AYODEJI,SAMUEL,,ECONOMICS
+178973043,olawoore,JESUJUWON,ISAAC,,ECONOMICS
+178973066,ademilua,BABATOPE,ABIMBOLA,,ECONOMICS
+178973051,edema,IMOLEAYO,KAYODE,,ECONOMICS
+178973083,akinleye,OLUWATOSIN,,,ECONOMICS
+178973072,idris,MUHAMMED,YUNUSA,,ECONOMICS
+178973107,komolafe,OLALEKAN,OQURD,,ECONOMICS
+178973124,adewumi,GABRIEL,AYOBAMI,,ECONOMICS
+178973053,rasaq,MORENIKEJI,ABOSEDE,,ECONOMICS
+178973022,samuel,SAMSON,RICHARD,,ECONOMICS
+178973029,ezeji,CHUKS,ANTHONY,,ECONOMICS
+178973064,adeniyi,MOSES,ADEDAPO,,ECONOMICS
+178973104,akande,PELUMI,VICTORIA,,ECONOMICS
+178973128,ajayi,DAMILOLA,DEBORAH,,ECONOMICS
+178973030,bello,MIKE,UCHE,,ECONOMICS
+178973085,adeoye,PEACE,KEHINDE,,ECONOMICS
+178973062,ajakaiye,OREOLUWA,ADEBAMPE,,ECONOMICS
+178973019,idowu-cole,OLUWANIFEMI,,,ECONOMICS
+178973103,kareem,IBRAHIM,OLAIDE,,ECONOMICS
+178973098,akinyooye,SIRAJUDEEN,ADEKUNLE,,ECONOMICS
+178973080,awotile,KIKIOPE,AYOADE,,ECONOMICS
+178973040,oyebamijo,BLESSING,OMOBOLANLE,,ECONOMICS
+178973077,akinwale,DORCAS,ABOSEDE,,ECONOMICS
+178973089,okelola,GRACE,OLAYEMI,,ECONOMICS
+178973026,adesanya,OLUWATOBILOBA,OLUWASEYI,,ECONOMICS
+178973007,oladunjoye,OLAYEMI,OLALEKAN,,ECONOMICS
+178973006,bamisi,OPEYEMI,TEMITAYO,,ECONOMICS
+178973018,taiwo,BLESSING,FUNMILOLA,,ECONOMICS
+178973045,oyewale,FAITH,SIMILOLUWA,,ECONOMICS
+178973093,odekanle,FLORENCE,FOLAKEMI,,ECONOMICS
+178973079,oni,ESTHER,OLUWATOSIN,,ECONOMICS
+178973049,adegite,AYOMIDE,SAMUEL,,ECONOMICS
+178973048,adeyemi,CHARLES,AYODOMOLA,,ECONOMICS
+178973036,babatunde,TOLULOPE,OMONIYI,,ECONOMICS
+178973042,isang,GRACE,,,ECONOMICS
+178973058,agunbiade,PETER,TOLULOPE,,ECONOMICS
+178973027,ojokila,TOMIWA,VINCENT,,ECONOMICS
+178973094,olasimbo,BOLUWATIFE,DEBORAH,,ECONOMICS
+178973039,oriola,BOLUWATIFE,DANIEL,,ECONOMICS
+178973106,adeleye,PRECIOUS,INIOLUWA,,ECONOMICS
+178973112,ajila-tony,ADEBOBOLA,KOFO,,ECONOMICS
+178973109,akinyemi,DAMILARE,MICHAEL,,ECONOMICS
+178973050,adeoti,OLUTAYO,OLUWATIMILEHIN,,ECONOMICS
+178973118,olotu,PRECIOUS,OMOLARA,,ECONOMICS
+178973047,odivwri,TEGA,,,ECONOMICS
+178973017,fagbamila,ADEDAMOLA,JOHNSON,,ECONOMICS
+178973015,salawu,OMENEKE,HAJARAT,,ECONOMICS
+178973035,obayomi,OLALEKE,ADEDOYIN,,ECONOMICS
+178973069,sunday,WISDOM,PROMISE,,ECONOMICS
+158973127,ojo,OLUWATOBI,JAMES,,ECONOMICS
+178973123,joseph,YEMI,STEPHEN,,ECONOMICS
+       76474006FE,ola,VICTORIA,PRECIOUS,,ECONOMICS
+,,,,,
+178973134,kuye,OPEYEMI,ESTHER,,ECONOMICS
+    76821208OE,olanipekun,OLAMIDE,BISOLA,,ECONOMICS
+178973173,afolabi,PETER,ABIOLA,,ECONOMICS
+76646438FJ,balogun,OPEYEMI,TUNRAYO,,ECONOMICS
+77055573JC,odunmorayo,COMFORT,MERCY,,ECONOMICS
+178973097,oseni,JOKE,COMFORT,,ECONOMICS
+178973135,asiyanbi,OPEYEMI,MATTHEW,,ECONOMICS
+178973044,olalere,OLALEKAN,DANIEL,,ECONOMICS

@@ -1,0 +1,27 @@
+The principal author of a book is also called____  
+A.	Secondary author 
+B.	Corporate author  
+C.	Hard author   
+D. 	Primary author
+ANSWER: D
+
+The joint author of a book can as well be referred to as____  
+A.	Corporate author   
+B.	Secondary author
+C.	Primary author
+D.	Main author
+ANSWER: B
+
+Which of the following statements is not correct?
+A.	Accession number is a running number   
+B.	Accession number indicates the number of copies
+C.	Accession number is the same with call mark
+D.	Accession number is part of bibliographic details
+ANSWER: C
+
+Which of the following statements is not correct?
+A.	Call mark is also called a location mark   
+B.	Call mark is a combination of class number and cutter number
+C.	In LCCS, call mark is numerical only
+D.	In LCCS, call mark is alpha-numerical
+ANSWER: D

@@ -1,0 +1,7536 @@
+The principal author of a book is also called____  
+A.	Secondary author 
+B.	Corporate author  
+C.	Hard author   
+D. 	Primary author
+ANSWER: D
+
+The joint author of a book can as well be referred to as____  
+A.	Corporate author   
+B.	Secondary author
+C.	Primary author
+D.	Main author
+ANSWER: B
+
+Which of the following statements is not correct?
+A.	Accession number is a running number   
+B.	Accession number indicates the number of copies
+C.	Accession number is the same with call mark
+D.	Accession number is part of bibliographic details
+ANSWER: C
+
+Which of the following statements is not correct?
+A.	Call mark is also called a location mark   
+B.	Call mark is a combination of class number and cutter number
+C.	In LCCS, call mark is numerical only
+D.	In LCCS, call mark is alpha-numerical
+ANSWER: D
+
+Which of the following statements is not correct?
+(A)	The joint author of a book can be used to trace a book   
+(B)	Accession number of a book is a location mark
+(C)	Subjects of a book can be used to trace a book in the library
+(D)	The primary author of a book always forms its main entry.
+ANSWER: B
+
+When a book has one author, the main entry of the book will be made under
+(A)	Co-author   
+(B)	Joint author
+(C)	Principal author
+(D)	Secondary author
+ANSWER: C
+
+When a book has six (6) authors, the main entry of the book will be made under
+(A)	The First author   
+(B)	The Second author
+(C)	The Sixth author
+(D)	The title
+ANSWER: D
+
+When a book is an edited work, its main entry will be made under?
+(A)	The editor   
+(B)	Title
+(C)	Co-author
+(D)	Subject
+ANSWER: B
+
+Which of the following is correct?
+(A)	See reference and See also references are cross references   
+(B)	See reference is more important than See also reference
+(C)	See also reference is more important than See reference
+(D)	See reference directs from narrower term to broader term
+ANSWER: A
+
+Which of the following options is correct
+(A)	In LCCS, cutter number is numerical only
+(B)	In LCCS, cutter number is alphabetical only
+(C)	In LCCS, cutter number is alpha-numerical 
+(D)	All of the above
+ANSWER: C
+
+Which one is odd out of the following?
+(A)	Calendar    
+(B)	Almanac
+(C)	Guinness Book of Record
+(D)	Newspapers
+ANSWER: D
+
+Which one is odd out of the following?
+(A)	Year book  
+(B)	Directories
+(C)	Periodicals
+(D)	Atlas
+ANSWER: C
+
+Which statement is correct?
+(A)	Gazetteer is a geographical dictionary   
+(B)	Gazetteer is a government publication
+(C)	Gazetteer is a form of journal
+(D)	Gazetteer is a serial publication.
+ANSWER: A
+
+Which of the following is odd?
+(A)	Library of Congress Classification Scheme
+(B)	Dewey Decimal Classification Scheme
+(C)	Universal Decimal Classification Scheme
+(D)	Moys Classification Scheme
+ANSWER: D
+
+The historical account of libraries can be traced to which of the following places?
+(A)	South Africa
+(B)	Sumeria 
+(C)	Jerusalem
+(D)	South Sudan
+ANSWER: B
+
+The accession number: 00192-00195 shows that the library has_____ copies
+(A)	4 
+(B)	2
+(C)	5
+(D)	9
+ANSWER: A
+
+According to the LCCS, Agricultural Sciences is represented by
+(A)	A  
+(B)	Q
+(C)	K
+(D)	S
+ANSWER: D
+
+According to the LCCS, Medicine is represented by
+(A)	M  
+(B)	D
+(C)	N
+(D)	R
+ANSWER: D
+
+According to the LCCS, Education is represented by
+(A)	E  
+(B)	J
+(C)	L
+(D)	A
+ANSWER: C
+
+In LCCS classification, the notation for General Works is
+(A)	G  
+(B)	W
+(C)	A
+(D)	B
+ANSWER: C
+
+In LCCS classification, the symbol for Mathematics is
+(A)	PQ  
+(B)	QA
+(C)	AQ
+(D)	SQ
+ANSWER: B
+
+The organisation of library materials involves _____ and ____
+(A)	Cataloguing and Copyright  
+(B)	Indexing and Classification
+(C)	Cataloguing and Classification
+(D)	Classification and Abstracting
+ANSWER: C
+
+The process of separating like terms from unlike terms is called
+(A)	Cataloguing  
+(B)	Indexing
+(C)	Classification
+(D)	Copyright
+ANSWER: A
+
+The process of arranging information materials in a consistent logical order is known as
+(A)	Copyright  
+(B)	Abstracting
+(C)	Cataloguing
+(D)	Classification
+ANSWER: D
+
+Which of the following is odd?
+(A)	Ekiti State University Library 
+(B)	University of Abuja Library
+(C)	College of Education, Ikere-Ekiti Library
+(D)	Ekiti State Library Board
+ANSWER: D
+
+Which of the following is odd
+(A)	Ekiti State Library Board  
+(B)	Abuja Municipal Library
+(C)	Ondo Community Library
+(D)	Federal Polytechnic, Ado-Ekiti Library
+ANSWER: D
+
+The arrangement of books and non-book materials based on similar characteristics is known as
+(A)	Indexing  
+(B)	Abstracting
+(C)	Classification
+(D)	Classification schemes
+ANSWER: C
+
+The head of the University Library is
+(A)	College Librarian  
+(B)	School Librarian
+(C)	Academic Librarian
+(D)	University Librarian
+ANSWER: D
+
+Call Mark comprises of _____ and _____
+(A)	Class number and Cutter number  
+(B)	Cutter number and Index number
+(C)	Bench mark and Class number
+(D)	Bar code and Cutter number
+ANSWER: A
+
+______ are government publications
+(A)	Directories 
+(B)	Dictionaries
+(C)	Gazetters
+(D)	Gazetteers 
+ANSWER: C
+
+The following are examples of biological agents capable of damaging books except
+(A)	Rodents 
+(B)	Cockroach
+(C)	Flooding
+(D)	Worms
+ANSWER: C
+
+The physical component of a computer system is known as
+(A)	Keyboard  
+(B)	Humanware
+(C)	Software
+(D)	Hardware
+ANSWER: D
+
+The classification scheme used in EKSU Library is
+(A)	Universal Decimal Classification Scheme  
+(B)	Dewey Decimal Classification Scheme
+(C)	Library of Congress Classification Scheme
+(D)	Bibliography Classification Scheme
+ANSWER: C
+
+Which of the following is NOT correct?
+(A)	The principal author of a book is also known as the primary author  
+(B)	The co-author of a book is also known as the joint author
+(C)	The joint author of a book is also known as the secondary author
+(D)	The joint author of a book is also known as the principal author
+ANSWER: D
+
+The ultimate aim of cataloguing and classification is______
+(A)	Easy identification and retrieval  
+(B)	To test users’ abilities
+(C)	To determine librarians’ psychology
+(D)	To investigate patrons’ intellectualism
+ANSWER: A
+
+A running number that is assigned to a book on arrival is______
+(A)	Cutter number  
+(B)	Reference number
+(C)	Digital number
+(D)	Accession number
+ANSWER: D
+
+Which of the following is not a natural disaster that destroys library materials? 
+(A)	Flooding 
+(B)	Rainstorm 
+(C)	Mutilation 
+(D)	Thunder
+ANSWER: C
+
+Ekiti State University Library is an example of 
+(A)	National Library 
+(B)	Special Library 
+(C)	Academic Library 
+(D)	Bibliographic Library 
+ANSWER: C
+
+The National Library of Nigeria was established in 
+(A) 	1960 
+(B) 	1961 
+(C)	1963	
+(D)	1964
+ANSWER: D
+
+Which of the following libraries functions as Legal Depository? 
+(A)	National Library 	
+(B)	Special Library
+(C)	Academic Library
+(D)	Bibliographic Library
+ANSWER: A
+
+Which of the following is not an Audio-visual material? 
+(A)	Slides 
+(B)	Realia
+(C)	Periodicals 
+(D)	Radio
+ANSWER: C
+
+The full meaning of OPAC is 
+(A)	Online Public Access Classification 
+(B)	Online Publication Access Cataloguing 
+(C)	Online Public Access Catalogue 
+(D)	Offline Public Access Catalogue 
+ANSWER: C
+
+The full meaning of ISBN is 
+(A)	International Standard Book Norms 
+(B)	International Standard Book Names 
+(C)	International Standard Book Number 
+(D)	International Serial Book Number 
+ANSWER: C
+
+The Full meaning of ISSN is: 
+(A) 	International Standard Serial Norms
+(B)	International Standard Serial Names 
+(C)	International Standard Serial Number 	
+(D)	International Standard Service Number
+ANSWER: C
+
+Which one is odd among the following? 
+(A)	Preface 
+(B)	Flyleaves 
+(C)	Verso 
+(D)	Periodicals 
+ANSWER: D
+
+Which of the following is not a Reference material? 
+(A)	Dictionaries 
+(B)	Directories	
+(C)	Glossary 
+(D)	Handbook
+ANSWER: C
+
+Which of the following statements is not correct about serials? 
+(A)	Serials carry the latest information 
+(B)	Serials can be loaned to users 
+(C)	Serials contain primary 	source materials for research 
+(D)	Serials keep experts abreast of the growth of developments in various fields 
+ANSWER: B
+
+Which one is not part of the following? 
+(A)	Keyboard 
+(B)	Mouse 
+(C)	Central Processing Unit 
+(D)	Scanner 
+ANSWER: C
+
+Which one is odd out of the following? 
+(A) 	Light pen 
+(B)	Graphic tablet 
+(C)	Touch Screen 
+(D)	Storage Devices
+ANSWER: D
+
+Which of the following is not library software? 
+(A)	BOOKMASTER 
+(B)	ERUDITE	
+(C)	SLAMS 
+(D)	DCCS 
+ANSWER: D
+
+Which of the following is odd? 
+(A)	Micro CDS/ISIS 
+(B)	LIBERTAS 
+(C)	IN MAGIC PLUS 	
+(D)	HINDAWI
+ANSWER: D
+
+The full meaning of WWW is 
+(A) 	World Wide Web 
+(B)	Word Wide Web 
+(C)	World Web Wide 
+(D)	World Web Word
+ANSWER: A
+
+The dimension of a standard library catalogue card is
+(A)	3cm by 5cm 
+(B)	7.5 inches by 12.5 inches  
+(C)	3 inches by 5 inches  
+(D)	All of the above
+ANSWER: A
+
+The approaches to filing of library catalogue entries are
+(A)	Word by letter and word by word
+(B)	Letter by letter and word by word
+(C)	Letter by letter and word by letter
+(D)	Letter by word and word by letter
+ANSWER: A
+
+Who is a copyright owner?
+(A)	A person who holds exclusive rights to copyrighted materials or the person who originally owns the work
+(B)	A person who has the right to publish the information materials
+(C)	An editor of the copyrighted materials
+(D)	A person who sells copies of the information materials to the public
+ANSWER: A
+
+The section of the library saddled with the responsibility of charging and discharging of books is ………… 
+(A)	Serials 
+(B)	Circulation 
+(C)	Reference 
+(D)	Cataloging and Classification 
+ANSWER: B
+
+Publications in any medium issued in successive parts at regular or irregular intervals bearing numerical or chronological designation and intended to be continued indefinitely are.............
+(A)	Subject catalogue 
+(B)	Serials 
+(C)	Books
+(D)	Reference 
+ANSWER: B
+
+In cataloguing, imprint meANSWER:
+(A)	Place of publication, publisher and date of publication 
+(B)	Date, number of volumes and illustration 
+(C)	Edition statement, Series and volumes 
+(D)	Printing of catalogue cards 
+ANSWER: A
+
+A good example of School Library is 
+(A)	EKSU Library 
+(B) 	Iworoko High School Library 
+(C)	Federal Polytechnic Library, Ilaro 
+(D)	International Institute of Tropical Agriculture Library, Ibadan.
+	ANSWER: B
+
+…………. is an example of special library
+(A)	EKSU Library 
+(B)	National Library of Nigeria 
+(C) 	Cocoa Research Institute Library
+(D)	None of the above
+ANSWER: C
+
+The main access point of an edited work is……………..
+(A)	Title 
+(b) 	Editor 
+(C)	Author 
+(D)	Subject
+ANSWER: A
+
+Pick the odd one out of the following:
+(A)	Dictionary  
+(B)	Directories 
+(C)	Periodical  
+(D)	Atlas
+ANSWER: C
+
+Which of the following statements is correct?
+(A)	Gazetteers are serial materials
+(B)	Gazetteers are audio-visual materials 
+(C)	Gazetteers are geographical dictionaries
+(D)	Gazetteers are government publication
+ANSWER: C
+
+What does class N stand for in the Library of Congress Classification Scheme?
+(A)	Geography 
+(B)	Science  
+(C)	Fine Art 
+(D)	Law
+ANSWER: C
+
+Example of a corporate author is………………………
+(A)	Methodist Church, Nigeria  
+(B)	Fagbenro, A.O 
+(C)	Adetula and Ogunleye
+(D)	Agbetuyi et al.
+ANSWER: A
+
+All BUT one is value of Information Technology
+(A)	It saves time 
+(B)	It produces up-to-date information 
+(C)	It increases efficiency  
+(D)	It wastes time
+ANSWER: D
+
+MLA is an acronym for
+(A)	Mother Language Association 
+(B)	Modern Language Association 
+(C)	Modern Language Appreciation  
+(D)	Mother-tongue and Language Association
+ANSWER: B
+
+Which of the following cannot be found in card catalogue description 
+(A)	Collation 
+(B)	Imprint 
+(C)	ISBN 
+(D)	APA
+ANSWER: D
+
+The full meaning of LCCS is
+(A)	Library of Congress Classification Scheme 
+(B)	Library of Congress Classification System 
+(C)	Liberty of Congress Classification Scheme 
+(D)	Liberal Classification Congress Scheme
+ANSWER: A
+
+Using another person’s work without giving credit or acknowledging the author or source is………….
+(A)	Favouritism
+(B)	Nepotism
+(C)	Plagiarism
+(D)	Idealism
+ANSWER: C
+
+APA is an acronym for 
+(A)	American Psychological Association 
+(B)	African Peoples Association 
+(C)	America Physiological Association
+(D)	Africa Psychological Association
+ANSWER: A
+
+In Library of congress classification Scheme “TK” Stands for  
+(a)	Engineering (General) 
+(b)	Building Engineering 
+(c)	Electrical Engineering 
+(d)	Mechanical Engineering 
+ANSWER: C 
+
+The act of going through the shelves to check the arrangements in order to ensure that books are placed in the proper position is – 
+(a)	Shelf – identificati9on 
+(b)	Shelf – reading 
+(c)	Shelf – classification 
+(d)	Shelf – notation 
+ANSWER: B
+
+The point at which a loan transaction takes place in the library is – 
+(a)	Circulation unit 
+(b)	Serials unit 
+(c)	Transaction unit 
+(d)	Cataloguing unit 
+ANSWER: A. 
+
+The act of adjusting new users to the Library and its materials or holdings for useful utilization is –  
+(a)	Anti-library use Behaviour 
+(b)	Library rules and regulations
+(c)	Library organogram 
+(d)	Library orientation 
+ANSWER: D. 
+
+The highest position in the University library organogram is –  
+(a)	University Librarian 
+(b)	Chief Librarian 
+(c)	College Librarian 
+(d)	Vice Chancellor 
+ANSWER: A
+
+The Library that acts as Legal Depository in Nigeria as it accepts legal deposits is – 
+(a)	Academic Library 
+(b)	Public Library 
+(c)	National Library 
+(d)	Special Library 
+ANSWER: C
+
+The National Library was established in –  
+(a)	1960 
+(b)	1964
+(c)	1963
+(d)	1914 
+ANSWER: B
+
+The unit responsible for repairing worn-out documents so as to enhance the 	longevity of such materials in the library is – 
+(a)	Bindery Unit 
+(b)	Circulation Unit
+(c)	Cataloguing Unit 
+(d)	Serial Unit 
+ANSWER: A
+
+All the following amount to anti-library use behaviour except – 
+(a)	Book mutilation 
+(b)	Book defacement 
+(c)	Eating in the library 
+(d)	Makerspace initiative in the library
+ANSWER: D 
+
+One of the following is a human factor to damage and deterioration of library 	materials.
+(a)	Humidity and moisture
+(b)	Flood 
+(c)	Book mutilation 
+(d)	Insects and rodents 
+ANSWER: C 
+ 
+According to UNESCO definition of a book, it must have – 
+(a)	49 or more pages
+(b)	40 or more pages 
+(c)	50 pages 
+(d)	45 or more pages 
+ANSWER: A
+
+In study skills, what does “SQ3R” mean? 
+(a)	Study, question, read, recall and Review 
+(b)	Survey, question, read, recall and review
+(c)	Service, question, read, recall and review
+(d)	Solve, question, read, recall and review 
+ANSWER: B
+
+In Library of congress classification scheme what does “L” stand for? 
+(a)	Education 
+(b) 	Technology 
+(c) 	Agriculture 
+(d) 	Military Science
+ANSWER: A
+
+Alphanumeric symbol added to the classification number to 	facilitate easy arrangement is –  
+(a) 	Accession number 
+(b) 	Class number 
+(c) 	Cutter number 
+(d) 	ISBN Number 
+ANSWER: C
+
+Two common filing methods in catalogue are: 
+(a)	Cataloguing and classification 
+(b)	Letter by letter and word by word 
+(c)	Author and title catalogue 
+(d)	All of the above 
+ANSWER: B
+
+Two types of cross references are: 
+(a)	Physical Mathematics see Mathematics- Physics 
+(b)	See reference and see also reference 
+(c)	Gazattes and 	Gazeteers 
+(d)	Cataloguing and Classification 
+ANSWER: B
+
+_____	is an example of school library 
+(a)	EKSU University Library 
+(b)	Federal Polytechnic Ado-Ekiti Library 
+(c)	Christ Boys High School Library 
+(d)	Kenneth Dike Library, University of Ibadan 
+ANSWER: C
+
+Reference Information resources include the following except – 
+(a)	Encyclopedia 
+(b)	Dictionaries 
+(c)	handbooks 
+(d)	User education materials
+ANSWER: D 
+
+A major difference between a Gazette and Gazetteer is –
+(a)	A gazette is a government publication while a gazetteer is a geographical dictionary 
+(b)	A gazette can be found in reference unit white gazetteer can be found in serials 
+(c)	A gazette can be borrowed out of the library while a gazetteer cannot 
+(d)	A gazette deals with abstracts while gazetteer deals with annual review 
+ANSWER: A
+
+_______ is a guide to location of information in a book or journal 
+(a)	Handbook 
+(b)	Cutter number 
+(c)	Index 
+(d)	Guidebook 
+ANSWER: C 
+
+______Is a descriptive list of published documents in a given subject within a period of time 
+(a)	Manuscripts 
+(b)	Bibliography 
+(c)	Conference proceedings 
+(d)	Articles 
+ANSWER: B 
+ 
+OPAC Means – 
+(a)	organisation of published articles and classification 
+(b)	organisation of public automation catalogue 
+(c)	online public access catalogue 
+(d)	online publication in accession catalogue 
+ANSWER: C 
+
+ISBN Means – 
+(a)	International Standard book number 
+(b)	International serial book number
+(c)	International subject bibliographic number 
+(d)	International serial bibliographic number 
+ANSWER: A 
+
+Library materials that appeal to the organs of seeing and hearing are 
+(a)	See references 
+(b)	See also references 
+(c)	Audio – visual materials 
+(d)	See and see also references 
+ANSWER:  C 
+
+Information resources in print and electronic formats that are issued in successive parts, at regular or irregular interval and having chronological designation and intended to be continued indefinitely are – 
+(a)	Serials
+(b)	Reference materials 
+(c)	Book resources 
+(d)	Non print materials 
+ANSWER: A 
+
+In libraries, important articles, advertisement, etc. in newspapers and other 	ephemeral materials are cut in ………file 
+(a)	Cataloguing file 
+(b)	vertical file 
+(c)	Letter by letter file  
+(d)	Articles file 
+ANSWER: B
+
+One of the distinctions between books and serial is – 
+(a)	Current information is the hallmark of serials while books contain 	permanent information unless reviewed 
+(b)	Serials can be loaned but books cannot be loaned 
+(c)	Serials are shelved on shelves while books are arranged on display 	racks 
+(d)	Serials contribute to knowledge while books do not 
+ANSWER: A 
+
+Highly rated professionally journals that cover a wide range usage by 	professionals is said to have – 
+(a)	High rated factor 
+(b)	Impact factor 
+(c)	Rated factor 
+(d)	Professionally rated factor 
+ANSWER: B 
+
+In the Historical development of libraries, printing press was first assembled in 	Germany by –  
+(a)	John Locke
+(b)	Karl Marls 
+(c)	Johann Gutenberg 
+(d)	Aristotle 
+ANSWER: C 
+
+______was the legal depository for Nigeria before the establishment of the National 	Library  
+(a)	National Archives of Nigeria 
+(b)	Kenneth Dike Library, University of Ibadan 
+(c)	Ahmadu Bello University Library 
+(d)	Colonial Library of Nigeria 
+ANSWER: B 
+ 
+In historical development of libraries, the Ancient Sumerians of Mesopotamia c 3500-3000 developed –  
+(a)	Cuneiform script 
+(b)	Ink 
+(c)	Pen 
+(d)	Biro 
+ANSWER: A
+
+A platform where individuals under the control of an editorial board can 	upload contents or modify existing ones is –  
+(a)	Computer 
+(b)	Wikis 
+(c)	Wassap 
+(d)	Messenger 
+ANSWER: B 
+
+______enables students to talk to experts and their peers around the world in real 	time through a video link up 
+(a)	Slide show 
+(b)	Camera conferencing 
+(c)	Video conferencing 
+(d)	Video / Audio Clips 
+ANSWER: C
+
+Original source of information given by someone with a direct knowledge of situation is said to be -------------------- 
+(a) 	Primary source 
+(b)	Secondary source
+(c)	Technical source 
+(d)	Tertiary source
+ANSWER: A 
+
+Classification scheme popularly used by academic libraries all over the world is
+(a)	Dewey Decimal classification (DDC) 
+(b)	Universal Decimal classification (UDC)
+(c)	Library of Congress Classification (LC) 
+(d)	Colon Classification (CC) 
+ANSWER: C  
+ 
+In a book of two authors, the first named author is Fabunmi, F.A, while the second named author is Akintunde, E.O. The main entry card will be under ___ 
+(a)	Akintunde, E.O. 
+(b)	Title of the book 
+(c)	Fabunmi, F.A. 
+(d)	Subject of the book 
+ANSWER: C 
+
+A primary reason for cataloguing and classification in the library is ----- 
+(a)	Easy retrieval 
+(b)	Easy identification of title
+(c)	Easy identification of subject 
+(d)	Easy identification of Author 
+ANSWER: A
+
+If a University Library acquired Copies of a textbook with accession no 000321 	– 000325. How many copies of the book are in the library? 
+(a)	4 
+(b)	21
+(c)	25
+(d)	5
+ANSWER: D
+
+Library of congress classification scheme uses –  
+(a)	Single notation 
+(b)	Mixed notation 
+(c)	No notation 
+(d)	All of the above 
+ANSWER: B
+
+According to Anglo American Cataloguing rule, the following allow title as main entry except – 
+(a)	There is no known personal authorship 
+(b)	A work of multiple authorship 
+(c)	A work that emanates from a corporate body 
+(d)	It is written by a known single author 
+ANSWER: D
+
+The source of information that was produced after the distillation and filtration of primary and secondary sources is 
+(a)	Distilled source 
+(b)	Condensed source 
+(c)	Tertiary source 
+(d)	Concluding source 
+ANSWER: C
+
+"International who is who" is an example of – 
+(a)	Biographical source 
+(b)	Bibliographical source 
+(c)	Dictionary 
+(d)	Guides to reference source 
+ANSWER: A
+
+A Unique number assigned to a book as soon as the library acquired it is –  
+(a)	Accession number 
+(b)	ISBN Number 
+(c)	ISSN number 
+(d)	Unique library number 
+ANSWER A
+
+_______directs users to the exact location of a work 
+(a)	Call mark 
+(b)	See reference 
+(c)	See also reference 
+(d)	Directional reference 
+ANSWER A
+
+The following are Library rules and regulating except – 
+(a)	Total Silence must be maintained in the library 
+(b)	Reference materials can be borrowed from the library 
+(c)	No food and water must be brought to the reading room
+(d)	All users are 	required to show their library card at the entrance to the 	library 
+ANSWER: B
+ 
+A Unit of the Library where library users can register loan and pay overdue 	fine is –  
+(a)	Circulation unit 
+(b)	Derail unit 
+(c)	Reference unit 
+(d)	Cataloguing unit 
+ANSWER: A
+
+The act of taking another person’s writing, conversation, song or idea and 	passing it off as your own is –  
+(a)	Impersonation 
+(b)	Plagiarism 
+(c)	Copyright
+(d)	Infringement  
+ANSWER: B
+
+A Person chiefly responsible for the intellectual content of a book is –  
+(a)	Translator 
+(b)	Composer 
+(c)	Editor 
+(d)	Author 
+ANSWER: D
+
+An unauthorised use of copyrighted materials in a manner that violates the exclusive right of the owner is – 
+(a)	Copyright infringement
+(b)	Copyright act 
+(c)	Copyright exclusion 
+(d)	Copyright exception 
+ANSWER: A
+
+The following are library databases except – 
+(a)	Ebschost 
+(b)	JSTOR 
+(c)	OPAC 
+(d)	Medline
+ANSWER: C
+
+The following are types of referencing styles except –  
+(a)	Academic Association style 
+(b)	Numeric (Vancouver) style 
+(c)	American psychological Association (APA) Style 
+(d)	Harvard style 
+ANSWER: A
+
+The following is a library routine activity except 
+(a)	acquisition 
+(b)	accessioning 
+(c)	sharing 
+(d)	shelving
+ANSWER: C
+
+The department in charge of the mechanics of the use of books by the readers is 
+(a)	technical 
+(b)	bindery 
+(c)	acquisition 
+(d)	circulation
+ANSWER: D
+
+A unit of the library that is usually out of bound to library users but performs behind the screen functions and considered the heart of librarianship is ---------------- 
+(a)	circulation 
+(b)	cataloguing & classification 
+(c)	serials 
+(d)	reference
+ANSWER: B
+
+Which of the following must be in a standard circulation department 
+(a)	control desk 
+(b)	accession register 
+(c)	printers 
+(d)	 Scanner
+ANSWER: A
+
+The process of going through the shelves and checking for the proper  arrangement of every book is called 
+(a)	shelving 
+(b)	 shelf – reading 
+(c)	organizing 
+(d)	binding
+ANSWER: B
+
+Lending books to users in the library is called 
+(a)	discharging 
+(b)	donations 
+(c)	purchase 
+(d)	charging 
+ANSWER: D
+
+Receiving books from users at the expiration of loan period is known as 
+(a)	charging 
+(b)	stacking 
+(c)	discharging 
+(d)	registration 
+ANSWER: C
+
+If a library user fails to return library book after expiration of loan, such book is said to be
+(a) 	defaulted 
+(b) 	overdue 
+(c) 	accessioned 
+(d) 	dispatched 
+ANSWER: B
+
+When it is observed that there is high demand for a particular book with few or limited copies, such book is kept in which section 
+(a)	reference 
+(b)	open shelf 
+(c)	reserve 
+(d)	new arrivals  
+ANSWER: C
+
+A behaviour that lacks consideration for the well – being of others is 
+(a)	social behaviour 
+(b)	anti – social behaviour 
+(c)	unruly behaviour 
+(d)	abnormal behaviour 
+ANSWER: B
+
+Library materials can be damaged through the following except 
+(a)	theft 
+(b)	Pollution 
+(c)	flood 
+(d)	fire
+ANSWER: B
+
+All the following constitute improper handling of library materials except----------------
+(a)	writing on library materials 
+(b)	Bibliographic searching or verification  
+(c)	mutilation of library materials
+(d)	Tearing of pages of library materials
+ANSWER: B
+
+High temperature and exposure of library books to humidity in a short time can cause
+(a) 	shrinking, stretching and eventual breakdown of paper structural fibres 
+(b) 	preservation of library materials against humidity level by library users
+(c) 	mutilation by users for conservation purpose
+(d) 	theft of library materials  
+ANSWER: A
+
+The following are climatic agents of damage to library materials except 
+(a)	sunshine 
+(b)	humidity 
+(c)	temperature 
+(d)	heat 
+ANSWER: C
+		
+A person who collects or has a great love of books is called------------------------
+(a) 	abstractor  
+(b) 	bibliophile 
+(c) 	indexer 
+(d) 	bibliographer 
+ANSWER: B
+
+Special number assigned to published books by the National Library is 
+(a) 	International Standard Series Number 
+(b) 	Call mark 
+(c) 	Classification number 
+(d) 	International Standard Book Number
+ANSWER: D
+
+Which of the following is the apex library? 
+(a)	research library 
+(b)	academic library 
+(c)	national library 
+(d)	public  library
+ANSWER: C
+
+An organized collection of data is called 
+(a) 	database 
+(b) 	repository 
+(c) 	databanks 
+(d) 	data store 
+ANSWER: A
+
+Which of the following is an input device? 
+(a) 	monitor 
+(b) 	mouse 
+(c)	printer 
+(d) 	speaker
+ANSWER: B
+
+A number that directs user to the exact location of a book on the shelf is called ____ 
+(a) 	class number 
+(b) 	cutter number
+(c) 	accession number
+(d) 	call mark
+ANSWER: D
+
+An introductory statement written by author(s) specifically to readers is called ____ 
+(a) 	reference 
+(b) 	acknowledgement
+(c) 	preface
+(d) 	appendix 
+ANSWER: C 
+
+ISSN is an acronym for 
+a.	International Serial Standard of Nigeria 
+b.	International Standard Serial of Nigeria
+c.	International Standard Serial Number 
+d.	International Serial Standard Number
+ANSWER: C
+
+Which of the following is not a serial material? 
+a.	Journals 
+b.	newspapers 
+c.	textbooks   
+d.	magazines
+ANSWER: C
+
+The full meaning of OPAC is 
+a.	On – Line Policy Access Catalogue
+b.	Off – Line Public Access Catalogue 
+c.	On – Line Public Access Catalogue 
+d.	On – Line Public Access Classification
+ANSWER: C
+
+Pick the odd out of the following 
+a.	maps 
+b.	dictionaries 
+c.	atlases
+d.	periodicals
+ANSWER: D
+
+Which of the following statement is not true 
+a.	organization of library materials involves cataloguing & classification 
+b.	a directory is a reference material 
+c.	serials are issued in successive parts and at regular interval 
+d.	another bibliographic name for call mark is accession number
+ANSWER: D
+
+Ekiti State University Library is an example of ……………………… Library
+a.	School Library 
+b.	Special Library 
+c.	Academic Library 
+d.	National Library
+ANSWER: C
+
+The two major processes of organising library materials are ---------and ----------------
+a.	Cataloguing and Classification  
+b.	Acquisition and Cataloguing 
+c.	Circulation and Classification
+d.	Organization and Dissemination
+ANSWER: A
+
+Materials found in____ and _____Sections of the library cannot be borrowed
+a.	Serials and reference 
+b.	Circulation and cataloguing 
+c.	Bindery and classification
+d.	Cataloguing and cataloguing
+ANSWER: A 
+
+Which library has the legal deposit right to acquire all the publications made by individuals   and organization within the country
+a.	Academic Library 
+b.	National Library 
+c.	Special Library 
+d.	School Library
+ANSWER: B
+
+LAN is an acronym for
+a.	Local Area Network
+b.	Library Area Network 
+(c ) Librarians Association of Nigeria
+(d) Local Area Network
+ANSWER: A
+
+The dimension of a standard library catalogue card is
+a.	3cm by 5cm 
+b.	7.5 inches by 12.5 inches 
+c.	3 inches by 5 inches  
+d.	3 inches by 5cm
+ANSWER: C
+
+Using another person’s work without giving credit or acknowledging the author or source is   ______ 
+a.	Favouritism
+b.	Plagiarism 
+c.	theft   
+d.	intellectual robbery
+ANSWER: B
+
+Gazetteer is an example of________
+a.	Subject dictionary   
+b.	Geographical dictionary 
+c.	Biographical dictionary
+d.	Government Publication
+ANSWER: B
+
+All BUT one are sources of damage to library materials 
+a.	Climatic/ Physical Agents
+b.	Natural disasters  
+c.	Mechanical Agents 
+d.	Chemical Agents
+ANSWER: C
+
+The right hand side of a book usually bearing an odd number is 
+a.	verso   
+b.	recto   
+c.	half title page  
+d.	Fly leaves
+ANSWER: B
+
+Which of these is NOT an input device 
+a.	Keyboard   
+b.	Mouse   
+c.	Printers 
+d.	Scanners
+ANSWER: C
+
+Control desk can be found at 
+a.	Serials department
+b.	Reference department 
+c.	Acquisition department 
+d.	Circulation Department
+ANSWER: D
+
+APA is an acronym for
+a.	American Physiological Association 
+b.	American Periodical Association
+c.	American People’s Association   
+d.	American Psychological Association
+ANSWER: D
+
+The unique number that is given to a book immediately it is acquired in the library is called? 
+a.	alpha-numeric number
+b.	unique library number   
+c.	acquisition number 
+d.	accession number
+ANSWER: D
+
+The word ‘Library’ is derived from a Latin word called?
+a.	Librey   
+b.	Libra 
+c.	Libro   
+d.	Liber
+ANSWER: D
+
+When the author of a book is unknown, its main entry will come under _______ 
+a.	Subject
+b.	Statement card 
+c.	Title 
+d.	Joint author
+ANSWER: C
+
+Occasional publications in print or non-print form issued at regular or irregular intervals having chronological designation and intended to be continued indefinitely are called_____ 
+a.	Serials 
+b.	Occasional journal 
+c.	articles
+d.	abstracts
+ANSWER: A
+
+‘Don’t hide books within shelves, consider other users’ interest that may be in need of the books’ is an example of ______ 
+a.	Library security network 
+b.	Library orientation
+c.	Library rules and regulation 
+d.	Students’ information guide
+ANSWER: C
+
+In the Library of Congress Classification Scheme ‘S’ stands for? 
+a.	Sociology   
+b.	Sciences  
+c.	Agriculture  
+d.	Plant culture
+ANSWER: C
+
+All could be published daily, weekly, or fortnightly except? 
+a.	Newspapers
+b.	magazine 
+c.	book
+d.	newsletter
+ANSWER: C
+
+The modern way of accessing the information materials in the library is through_____
+a.	OPAC 
+b.	Catalogue box 
+c.	3’ by 5’card 
+d.	physical perusing
+ANSWER: A
+
+All are library automation software applications except? 
+a.	TINLIB 
+b.	ALICE
+c.	SLIM 
+d.	AGORA
+ANSWER: D
+
+The type of library attached to post-secondary education purposely for meeting the information needs of undergraduate and postgraduate students together with the faculty is called ______
+a.	Academic library 
+b.	School library 
+c.	Special library 
+d.	Public library
+ANSWER: A
+
+Which of these is not a classification scheme 
+a.	Universal Decimal Classification Scheme    
+b.	Library of Congress Classification Scheme 
+c.	Dewey Decimal Classification Scheme                            
+d.	National Library Classification Scheme
+ANSWER: D
+
+The approaches to filing of library catalogue entries are 
+a.	word by letter and word by word
+b.	letter by letter and word by letter
+c.	letter by word and word by letter 
+d.	letter by letter and word by word
+ANSWER: D
+
+University of Ado – Ekiti See Ekiti State University Ado – Ekiti is an example of 
+a.	Library Reference
+b.	University Reference 
+c.	See Reference 
+d.	See Also Reference
+ANSWER: C
+
+Verbal harassment of library staff denotes _____ 
+a.	security breach 
+b.	Lawlessness 
+c.	Anti - Social Behaviour 
+d.	Anti - Library Use Behaviour
+ANSWER: D
+
+Anti – social behaviour is one that lacks consideration for 
+a.	well-being of library users only
+b.	well-being of senior citizens 
+c.	well-being of others
+d.	well-being of strangers
+ANSWER: C
+
+Standard Citation Formats consist of 
+a.	Harvard style, APA style; Chicago & MLA style 
+b.	Library of Congress style, Dewey Decimal style, & Harvard style
+c.	APA style, MLA style, Chicago & Cambridge style
+d.	Bliss style, Author style, Library of Congress & Title style
+ANSWER: A
+
+ILS is an acronym for
+a.	Inter – Library Standard 
+b.	Integrated Loan System                    	
+c.	Information Local System 
+d.	Integrated Library System 
+ANSWER: D
+
+Law of intellectual property aims at protecting the rights in the works of ____ 
+a.	publisher 
+b.	Librarian 
+c.	authors 
+d.	users
+ANSWER: C
+
+The section of the library saddled with the responsibility of charging and discharging of books is _____ section 
+a.	serials 
+b.	reference 
+c.	cataloguing & classification
+d.	circulation
+ANSWER: D
+
+One of the advantages of the internet to libraries is ____
+a.	it is error free
+b.	it makes students and librarians to be hardworking
+c.	it allows access to bibliographic records of millions of books, electronic journals, etc. 
+d.	it makes search and retrieval of information cumbersome
+ANSWER: C
+
+Dictionary of Economics is an example of ______ dictionary 
+a.	general 
+b.	children 
+c.	specialized 
+d.	biographical
+ANSWER: C
+
+____ is the physical component of a computer system
+a.	Application System
+b.	Software
+c.	Operating System
+d.	Hardware
+ANSWER: D
+
+________ are pictorial representations of geographical areas 
+a.	maps 
+b.	indexes 
+c.	atlases 
+d.	almanacs
+ANSWER: A
+
+The current edition of Encyclopaedia Britannica consists of _____ volumes 
+a.	30 
+b.	32
+c.	33
+d.	34
+ANSWER: C
+
+A compendium of knowledge is 
+a.	dictionary 
+b.	encyclopaedia 
+c.	fact book
+d.	textbook
+ANSWER: B
+
+Another name for main entry card is
+a.	supplementary card 
+b.	auxiliary card
+c.	library card 
+d.	unit card
+ANSWER: D
+
+Government publication usually devoted to current events especially within the government circles is called 
+a.	treatise 
+b.	gazette
+c.	gazetteer
+d.	none of the above
+ANSWER: B
+
+The full listing of all materials consulted in relation to research including other materials not directly cited in the text is 
+a.	citation
+b.	references 
+c.	footnotes 
+d.	bibliography
+ANSWER: D
+
+FAO is an acronym for 
+a.	Fishery and Aquaculture Organization
+b.	Fruit and Agricultural organizations
+c.	Forestry and Aquaculture Organization 
+d.	Food and Agricultural Organization
+ANSWER: D
+
+Going through the shelves and checking the arrangements to ensure that every book is in its proper position is called
+a.	Shelf checking
+b.	shelf skimming 
+c.	shelf reading
+d.	shelf browsing
+ANSWER: D
+
+Which of these alphabets has not been used in the Library of Congress Classification Scheme 
+a.	W 
+b.	K 
+c.	Q 
+d.	Z
+ANSWER: A
+
+The following are ways of acquiring information materials for the library
+a.	purchase 
+b.	gifts & donations 
+c.	bequeath 
+d.	All of the above
+ANSWER: D
+
+SDI stands for
+a.	Selective Dissemination of Information
+b.	Storage Device Index
+c.	System Design & Implementation 
+d.	Sending & Discharging of Information
+ANSWER:A
+
+The following are features of serials except 
+a.	they are not usually bulky
+b.	they usually run into volumes 
+c.	they are dynamic and volatile in nature
+d.	they are usually marked “Ref” at the call mark
+ANSWER: D
+
+
+The unique number that is given to a book immediately it is acquired in the library is called? 
+a.	call mark
+b.	class number
+c.	cutter number 
+d.	accession number
+ANSWER: D
+
+
+When a book has 2 or 3 authors, its main entry card will come under ______ author 
+a.	corporate 
+b.	joint 
+c.	principal
+d.	secondary 
+ANSWER: C
+
+What does class J stand for in the Library of Congress Classification Scheme 
+a.	Judaism 
+b.	Law
+c.	Medicine 
+d.	Political Science
+ANSWER: D
+
+The following are sources of damage to library materials except 
+a.	chemical agents 
+b.	natural disaster 
+c.	human agents 
+d.	psychological factors
+ANSWER: D
+
+Any publication with less than 49 pages is known as 
+a.	textbooks 
+b.	journals 
+c.	pamphlets 
+d.	abstracts
+ANSWER: C
+
+
+The head of a university library is 
+a.	chief librarian 
+b.	principal librarian 
+c.	university librarian
+d.	most senior librarian
+ANSWER: C
+
+ The section of the library where users interface with as soon as they enter is 
+a.	reception 
+b.	circulation 
+c.	serials 
+d.	reference
+ANSWER: B
+
+HTML stands for 
+a.	Hypertest Markup Language 
+b.	Hypertext Markup Language 
+c.	Hypertext Makeup Language 
+d.	Hypertext Mark Language
+ANSWER: B
+
+A library that has its collections in digital form is called ………………… publications 
+a.	Mute Library 
+b.	Digital Library
+c.	Physical Library 
+d.	Traditional Library
+ANSWER: B
+
+Two types of cross references are ……………. and…………..
+a.	See me and See also me 
+b.	See and See also 
+c.	cross and cross also 
+d.	all of the above
+ANSWER: B
+
+What does class L stand for in the library of congress classification scheme
+(a) Law 
+(b) Education 
+(c) Music
+(d) Economics
+ANSWER: B
+
+MLA is an acronym for 
+a.	Mother Language Association 
+b.	Modern Language Association 
+c.	Modern Language Associates 
+d.	American Psychological Association
+ANSWER: B
+
+All are reference sources except 
+a. 	Encyclopedia 
+b. 	Dictionary 
+c. 	Journals 
+d. 	World Map
+ANSWER: C
+
+The accession number 047181-047185 shows the library has ……… Copies 
+a.	7
+b.	6 
+c.	5 
+d.	4
+ANSWER: C
+
+…………… is an example of a subject encyclopaedia 
+a.	Encyclopaedia Americana 
+b.	Encyclopaedia of Religion
+c.	Encyclopaedia Britannica 
+d.	None of the above
+ANSWER: B
+
+Using another person’s work without due acknowledgement is……….
+a.	Favouritism 
+b.	Nepotism 
+c.	Plagiarism 
+d.	Idealism
+ANSWER: C
+
+The following are values of ICT except 
+a.	it produces up-to-date information 
+b.	it gives better access to information 
+c.	it promotes effective service delivery
+d.	it wastes time
+ANSWER: D 
+
+Which of these is not an input device………. 
+a.	Mouse 
+b.	VDU
+c.	Keyboard 
+d.	All of the above
+ANSWER: B
+
+All but one is a Search Engine
+a.	Mamma 
+b.	Dog Pile 
+c.	Internet Explorer 
+d.	Google
+ANSWER: C
+
+All of these are citation formats except 
+a.	MLA 
+b.	Harvard 
+c.	ISBN
+d.	APA
+ANSWER: C
+
+In cataloguing, imprint means 
+a.	Printing of catalogue cards
+b.	statement of responsibility 
+c.	Place, Date of publication and Publisher 
+d.	Author(s)/Editor(s)
+ANSWER: C
+
+The exclusive right given to authors to protect their works from unlawful reproduction is  known as ……….. 
+a.	Copyright 
+b.	Piracy
+c.	Business Right
+d.	Copyright permit
+ANSWER: A
+
+Microfiche and Microfilm are ……………. materials 
+a.	Circulation
+b.	Reference 
+c.	Audio Visual
+d.	Serial
+ANSWER: C
+
+A gazetteer is an example of …………………. Material 
+a.	Reference
+b.	Serials
+c.	Library 
+d.	Circulation
+ANSWER: A
+
+The following are examples of library automation software except 
+a.	MICRO CDS/ISIS
+b.	ALICE for Window
+c.	INMAGIC 
+d.	tweeter
+ANSWER: D
+
+An example of online database is 
+a.	JSTOR 
+b.	OPAC
+c.	APA 
+d.	CD-ROM
+ANSWER: A
+
+The left-hand page of a book usually bearing an even number is…….. 
+a.	verso
+b.	recto 
+c.	preface
+d.	fly leaves
+ANSWER: A
+
+The following are functions of a dictionary except
+a.	meaning
+b.	spelling 
+c.	pronunciation 
+d.	search engine
+ANSWER: D
+
+A systematic way of grouping things is ………… 
+a.	Cataloguing 
+b.	classification 
+c.	acquisition 
+d.	arrangement
+ANSWER: B
+
+…….. is the summary of a report, speech or academic paper
+a.	abstract
+b.	bibliography
+c.	index 
+d.	treatise
+ANSWER: A 
+
+What does class K stand for in the Library of Congress Classification Scheme 
+(a) Law 
+(b) Education 
+(c) Music 
+(d) Economics
+ANSWER: A
+
+………… are periodical publications 
+a.	reference 
+b.	serials 
+c.	newspapers 
+d.	gazettes
+ANSWER: B
+
+A computer system consists of ………. and ……… 
+a.	utility software and application software
+b.	hardware and software
+c.	output and storage devices 
+d.	keyboard and mouse
+ANSWER: B
+
+WAN is an acronym for 
+a.	wild area network 
+b.	wide area network 
+c.	wide area netwalk
+d.	wide arena network
+ANSWER: B
+
+Charging and discharging of library materials take place at 
+a.	reference
+b.	circulation 
+c.	acquisition
+d.	serials
+ANSWER: B
+
+An example of industrial property is 
+a.	paintings 
+b.	novels 
+c.	trademarks
+d.	photographs
+ANSWER: C
+
+The two filing rules you were thought in this course are  
+a.	letter by letter and word by word 
+b.	letter by word and word by letter 
+c.	word by letter and letter by letter 
+d.	word by word and letter by letter
+ANSWER:D	
+
+The process of preparing a library catalogue is
+a.	classification 
+b.	cataloguing 
+c.	cataloguing and classification
+d.	classification scheme
+ANSWER: B
+
+The classification scheme being used in EKSU library 
+a.	Colon
+b.	Dewey Decimal 
+c.	Library of Congress 
+d.	Universal Decimal
+ANSWER: C
+
+Statement policy papers, plans, legislative acts, treaty are examples of 
+a.	state policies 
+b.	government publications 
+c.	federal policies 
+d.	local policies
+ANSWER: B 
+
+The section of the library that houses journals, magazines and newspapers is called 
+a.	circulation 
+b.	reference 
+c.	serials 
+d.	technical services 
+ANSWER: C
+
+Another name for principal author is 
+a.	primary 
+b.	secondary
+c.	multiple
+d.	editor
+ANSWER: A
+
+The two units of the library that have the primary act of providing direct services to users of any category on any subject attached to the library are:
+a)	Technical section and Reference section 
+b)	Circulation desk and Reference desk 
+c)	Cataloguing and Classification
+d)	Bindery and Acquisition 
+ANSWER: B
+
+The following are examples of biological agents to damage of library resources except
+a)	rodents
+b)	insects
+c)	 microorganisms
+d)	moisture
+ANSWER: D
+
+Which of the following materials cannot be borrowed?
+a)	Processed materials
+b)	Encyclopaedia 
+c)	Books
+d)	CDs 
+ANSWER: B
+
+____________ is a page or pages that contain a variety of information that is related to the book’s topic, but not relegated to one specific chapter. 
+a)	Glossary 
+b)	References 
+c)	Appendix 
+d)	Bibliography 
+ANSWER: C
+
+_____________ is a book of information on every branch of knowledge. 
+a)	Encyclopaedia
+b)	Dictionary
+c)	Atlas
+d)	Hand-out
+ANSWER: A
+
+_____________ are words placed between search terms to narrow or expand a search. 
+a)	Keywords
+b)	Boolean operators 
+c)	Modifiers 
+d)	Qualifiers 
+ANSWER: B
+
+A gazette is a
+a)	 geographical dictionary , which provides information and data about places. 
+b)	government publication usually devoted to current events especially within government circles.
+c)	pictorial representations of geographical areas.
+d)	handbook for travellers that give information about a city. 
+ANSWER: B
+
+What does SQ3R stand for?
+a)	Survey, Question, Rate, Rethink and Reload
+b)	Survey, Question, Rewind, Recall and Repeat
+c)	Survey, Question, Read, Recall and Review
+d)	Survey, Question, Read, Repeat and Relate
+ANSWER: C
+
+SDI means 
+a)	Selective Distribution of Information 
+b)	Selective Dissemination of Information 
+c)	Sole Decider Incorporated 
+d)	Self Digital Initiation 
+ANSWER: B
+
+_____________ are published in volumes and issues. 
+a)	Serials
+b)	Books
+c)	Equipment
+d)	Posters 
+ANSWER: A
+
+Pick the odd one from the options below. 
+a)	Magazines
+b)	Newspaper 
+c)	Journals 
+d)	Books 
+ANSWER: D
+
+There are two categories of library networks, namely ________ and ___________. 
+a)	Indirect and direct network 
+b)	Internal and external network 
+c)	Software and hardware network 
+d)	LAN and WIFI networks
+ 	ANSWER: B
+
+The head of a EKSU Library is called
+a)	The University Librarian
+b)	The Chief Librarian 
+c)	The Professional Librarian 
+d)	The Main Librarian 
+ANSWER: A
+
+ISBN means 
+a)	International Standard Big Number 
+b)	International Standard Book Number 
+c)	International Standard Book Norm 
+d)	International Serials Book Number 
+ANSWER: B
+
+Images too small to be read by naked eyes are called?
+a)	Scan materials 
+b)	Microscope 
+c)	Microforms 
+d)	Optical 
+ANSWER: C
+
+Maps, Globes are types of 
+a)	Graphic materials 
+b)	Bibliographic materials 
+c)	Cartographic materials 
+d)	Google Map
+ANSWER: C
+
+The page of a book that usually carries an even page number is called
+a)	Verso
+b)	Recto
+c)	Macro
+d)	Decro 
+ANSWER: A
+
+When the shelving is right, the part of the book that faces outward is called 
+a)	Call Mark
+b)	Front Cover 
+c)	Back Cover 
+d)	Spine 
+ANSWER: D
+
+The introductory statement written by the author  or authors specifically to the reader is
+a)	Glossary
+b)	Text
+c)	Appendix 
+d)	None of the above 
+ANSWER: D
+
+The short summary of a report, speech or academic paper is called
+a)	Index
+b)	Brief
+c)	Abstract 
+d)	Preface 
+ANSWER: C 
+
+__________ gives the owner an original work of authorship right.
+a)	Copyright
+b)	Owner 
+c)	Authorship 
+d)	Act 
+ANSWER: A
+
+FOI means 
+a)	Freedom of Integrity 
+b)	Freedom of Information 
+c)	Freedom of Idea 
+d)	Freedom of Institution 
+ANSWER: B
+
+A dictionary of geographical places is referred to as 
+a)	Oxford dictionary 
+b)	Directories 
+c)	Gazetteer 
+d)	Gazettes 
+ANSWER: C
+
+University of Ibadan Library is an example of 
+a)	Academic Library 
+b)	Special Library 
+c)	National Library 
+d)	School Library 
+ANSWER: A 
+
+Using another person’s work without giving credit or acknowledging the author or source is 
+a)	Favouritism 
+b)	Nepotism 
+c)	Plagiarism 
+d)	Idealism 
+ANSWER: C 
+
+Examples of reference materials are:
+a)	Lecture note, Dissertation, Textbooks, concordance. 
+b)	Newspaper, Magazines, Digital versatile Disks and Journals 
+c)	Directories, Almanacs, Directories and Encyclopaedias
+d)	Textbook, Conference papers, theses and journals 
+ANSWER: C
+
+Which library has the legal deposit right to acquire all the publications made by individuals and organization within the country
+a)	Special Library 
+b)	National Library 
+c)	Academic Library 
+d)	Assembly Library 
+ANSWER: B 
+
+When a book has more than three authors, its  main entry card will come under
+a)	Subject
+b)	Title 
+c)	Author 
+d)	Co-author 
+ANSWER: B
+
+The two major processes of organising library materials are ____________ and ____________. 
+a)	Circulation and Classification 
+b)	Acquisition and Cataloguing 
+c)	Cataloguing and Classification
+d)	Organization and Dissemination 
+ANSWER: C
+
+Underlying library books with biro denote __________
+a)	Security Precautions 
+b)	Anti-Social Behaviour 
+c)	Cruelty to other users 
+d)	Anti-library use behaviour 
+ANSWER: D
+
+Control desk can be found at _______________
+a)	Serials department 
+b)	Circulation department 
+c)	Acquisition department 
+d)	Reference department 
+ANSWER: B
+
+An example of electronic catalogue is _____________
+a)	Book catalogue 
+b)	OPAC 
+c)	Card catalogue 
+d)	Shelve Catalogue 
+ANSWER: B
+
+The dimension of a standard library catalogue card is
+a)	3cm by 5cm 
+b)	7.5 inches by 12.5 inches 
+c)	3 inches by 5 inches 
+d)	All of the above 
+ANSWER: C 
+
+All but one are sources of damage to library materials 
+a)	Natural disasters 
+b)	Chemical agents 
+c)	Climatic/Physical agents 
+d)	Mechanical agents 
+ANSWER: D
+
+Which of these is NOT an input device
+a)	Keyboard 
+b)	Mouse 
+c)	Printers 
+d)	Scanners 
+ANSWER: C
+
+In the Library of Congress Classification Scheme, K stands for? 
+a)	Law
+b)	Kinetics 
+c)	Fine Arts 
+d)	Music 
+ANSWER: A
+
+One of the advantages of the internet to libraries is ____________________
+a)	It is error free 
+b)	It makes students and librarians to be lazy 
+c)	It allows access to bibliographic records of millions of books, electronic journals etc
+d)	It wastes time 
+ANSWER: C
+
+OPAC is an acronym for ______________
+a)	Online Public Accessing Classification 
+b)	Online Public Access Catalogue 
+c)	Online Public Access Cataloguing 
+d)	Online Public Access Classification 
+ANSWER: B
+
+The approaches to filing of Library catalogue entries are 
+a)	Word by Letter and Word by Word 
+b)	Letter by Letter and Word by Word 
+c)	Letter by Letter and Word by Letter 
+d)	Letter by Word and Word by Letter 
+ANSWER: B 
+
+__________ is a global term for a computer system specifically developed for managing online courses. 
+a)	Digital learning
+b)	Content Development
+c)	Learning Management System
+d)	Learning procedures 
+ANSWER: C
+
+What is the full meaning of SCORM
+a)	Share Content Online and Research Models 
+b)	Shareable Content Object Reference Model 
+c)	Sealed Computer of Research Models 
+d)	Share Computer Online Research Materials 
+ANSWER: B
+
+The completed catalogued cards are filed in ___________ for users 
+a)	Catalogue boxes 
+b)	Catalogue shelves 
+c)	Catalogue table 
+d)	Catalogue desk
+ANSWER: A 
+
+_________ is a global phenomenon, and act believed to be against the norms of the society. 
+a)	Anti-Library Use Behaviour 
+b)	Anti-Social Behaviour 
+c)	Anti-use Behaviour 
+d)	Anti-good Behaviour 
+ANSWER: B
+
+The following are types of academic libraries except
+a)	Late Chief Obafemi Awolowo Library 
+b)	Ekiti State University Library 
+c)	College of Education Ikere Library 
+d)	University of Ibadan Library
+ANSWER: A 
+
+______ is a small dictionary designed specifically from the words or key terms used in the textbook. 
+a)	Appendix 
+b)	Glossary 
+c)	Gazette 
+d)	References 
+ANSWER: B
+
+______ is a list of all the materials read, that the author learned from or contributed to his own ideas that are written in the book. 
+a)	References
+b)	Bibliography 
+c)	Indexes 
+d)	None of the above 
+ANSWER: B 
+
+For a library to be free from insects, _________ should be done. 
+a)	Monitoring 
+b)	Inspection 
+c)	Fumigation 
+d)	Conservation 
+ANSWER: C 
+
+The following are study technique stages except
+a)	Time management 
+b)	Goal setting 
+c)	Course choice
+d)	Motivation
+ANSWER: C 
+
+The two types of reference services are
+a)	Internal and external reference services 
+b)	Direct and indirect reference services 
+c)	Inter and intra reference services 
+d)	Super and supra reference services 
+ANSWER: B
+
+_________ materials are materials of enduring value kept for research purposes. 
+a)	Archival
+b)	Government
+c)	 Index
+d)	Abstract 
+ANSWER: A
+
+_____ materials are unpublished materials that emanate from one’s institution or faculty. 
+a)	Jargon
+b)	Department 
+c)	Grey
+d)	Rough 
+ANSWER: C 
+
+What does PDAs stand for?
+a)	Personal Display Actions
+b)	Personal Digital Admins 
+c)	Personal Digital Assistants 
+d)	Personal Display Assistants 
+ANSWER: C
+
+_________ is the process of entering or recording bibliographic information on library resources to the library lists to assist users in searching for information without delay. 
+a)	Classification 
+b)	Cataloguing 
+c)	Publishing 
+d)	Acquisition 
+ANSWER: B 
+
+When an intellectual work is edited by many contributors, its main entry card is under the
+a)	Principal author 
+b)	Editor 
+c)	Title 
+d)	Subject 
+ANSWER: C 
+
+The main entry card is also known as 
+a)	Unit card 
+b)	Real card 
+c)	Actual card 
+d)	Valid card 
+ANSWER: A 
+
+_________ is the professional skills of grouping and assigning of identification codes called call mark to catalogued information resources. 
+a)	Programming 
+b)	Classification 
+c)	Procedures 
+d)	Preservation 
+ANSWER: B 
+
+The type of classification scheme used in the Ekiti State University Library is 
+a)	Dewey Decimal Classification Scheme 
+b)	Colon Classification Scheme
+c)	Bibliographic Classification Scheme 
+d)	Library of Congress Classification Scheme 
+ANSWER: D 
+
+________ are electronic identification cards attached to a user who visit an internet site. 
+a)	Bookmarks 
+b)	Cookies 
+c)	Pages 
+d)	Card readers 
+ANSWER: B
+
+______ library is established and maintained by government or government agents at federal, state or local levels 
+a)	National 
+b)	Public
+c)	Private 
+d)	Special 
+ANSWER: B 
+
+The following are sources of damage and deterioration of library materials except
+a)	Power Factor 
+b)	Biological Factor 
+c)	Climatic Factor 
+d)	Natural Disasters 
+ANSWER: A 
+
+A page, paragraph used in thanking friends and family for their assistance in writing and publishing a book is called 
+a)	Preface
+b)	Abstract 
+c)	Acknowledgement
+d)	All of the above 
+ANSWER: C 
+
+________ are annual publications which contain facts, figures and other vital information on a wide range of subjects. 
+a)	Guidebook
+b)	Almanacs 
+c)	Manuals 
+d)	Yearbook 
+ANSWER: B 
+
+_______ is usually a small book that is conveniently handy containing concise information. 
+a)	Atlas 
+b)	Handbook 
+c)	Fact book
+d)	Yearbook 
+ANSWER: B 
+
+_______ are library materials which can be used to provide information which appeals to the organs of seeing and hearing 
+a)	Microforms 
+b)	Graphic materials 
+c)	Audio-visual materials 
+d)	Electronic resources 
+ANSWER: C
+
+Journals are published ________
+a)	Quarterly 
+b)	Biannually 
+c)	Yearly 
+d)	All of the above
+ANSWER: D
+
+_________ information is the hallmark of serials 
+a)	Stale
+b)	Old 
+c)	Current 
+d)	Late 
+ANSWER: C
+
+There are two types of digest, namely;
+a)	Organisational digest and legal digest 
+b)	Institutional digest and office digest 
+c)	Cataloguing digest and classification digest
+d)	Survey digest and question digest 
+ANSWER: A
+
+__________ is a summarised contents of a larger piece of work providing further references. 
+a)	Summary 
+b)	Abstract 
+c)	Digest 
+d)	Preface 
+ANSWER: C 
+
+SLIMS means _________
+a)	Special Library In Managing Software 
+b)	Senegal Library Manager Scam 
+c)	Seneyan Library Management Software 
+d)	Special Library In Modern Society 
+ANSWER: C
+
+MARC means _______
+a)	Machine Readable Catalogue
+b)	Modern Age Readable Catalogue 
+c)	Master Readable Catalogue 
+d)	Modern Acquired Readable Catalogue 
+ANSWER: A
+
+The word library is derived from Latin word:……………….
+A.	Liber
+B.	Liter
+C.	Book
+D.	Paper
+ANSWER: A
+
+The following are types of Library expect 
+A.	Academic
+B.  	School
+C.	Public
+D. 	Formal
+ANSWER: D
+
+Library of Alexandra is located in…………………..
+A. 	Nigeria
+B. 	Ghana
+C. 	Egypt
+D. 	Sierra Leone
+ANSWER: C
+
+The use of symbols to denote words is………………
+A.	Picture writing
+B.	Graphic
+C. 	Cuneiform
+D. 	Pictographic
+ANSWER: A
+
+The University College of Ibadan was established in 1948 and was affiliated to the University of ……………………..
+A. 	Ghana
+B.	London
+C.	America
+D.	Nigeria
+ANSWER: B
+
+User Education is also known as……………………
+A. 	Cataloguing
+B. 	Classification
+C. 	Library education
+D. 	Library Automation
+ANSWER: C
+
+Library orientation can be in two forms, namely:
+A.	Part time and Full time forms
+B.	Formal and Informal forms
+C. 	Local and Foreign Forms
+D.	Known and Unknown forms
+ANSWER: B
+
+…………………… Unit is responsible for the preservation and conservation of information resources in the library.
+A. Circulation
+B. Cataloguing
+C. Serials
+D. Bindery
+ANSWER: D
+
+……………………Library is established by federal or central government of a country.
+A. State 
+B. School
+C. National
+D. Academic
+ANSWER: C
+
+Late Chief Obafemi Awolowo Library at Ikene is an example of ……………..library
+A. School 
+B. Private 
+C. Research
+D. National
+ANSWER: B
+
+Copies of publication deposited to the National Library as stipulated by the law are………
+A. Private deposits
+B. Corporate Deposits
+C. Legal deposits
+D. Personal deposits
+ANSWER: C
+
+The following are examples of Natural disaster expect…………….
+A. Fire
+B. Flood
+C. Earth quake
+D. Stealing
+ANSWER: D
+
+The Imprint of a book is
+A.  Abuja, Longman Publishers limited, 2014.
+B.  Nigeria
+C. Abuja
+D.  Nigeria
+ANSWER: A
+
+The Collation comprises of 
+A. x, 345p; 25cm	
+B. 345p, 25cm
+C. 345p
+D. X, 25cm
+ANSWER: A
+
+An example of Call Mark in Library of Congress is
+A. SB 32.D3
+B. SB 32
+C. D3
+D. SB 
+ANSWER:  A
+
+The easiest way to search for print holdings (materials) in a library’s stacks is through….
+A. Catalogue
+B. Shelf-browsing
+C. Database index
+D. Ask a library officer to get it
+ANSWER: A
+
+The software used for automation of library services in EKSU is----------
+A. SLAM
+B. SLIMS
+C. KOHA
+D. Drags
+ANSWER: B
+
+The following are examples of biological agents to damage of library resources except
+(a)	Book lice
+(b)	Insects
+(c)	Mildew
+(d)	Flood
+ANSWER: D
+
+The dimension of a standard library catalogue card is
+A. 	3cm by 5cm
+B. 	7.5 inches by 12.5 inches
+C. 	3 inches by 5 inches
+D. 	All of the above
+ANSWER: C
+     
+APA is an acronym for 
+A. 	American Physiological Association
+B. 	American Periodical Association
+C. 	American people’s Association
+D. 	American Psychological Association
+ANSWER: D
+
+Standard Citation Formats consist of 
+A.	APA citation style, MLA citation style and Cambridge citation style and Chicago
+B. 	Library of Congress citation Style, Dewey Decimal citation style, National Style and Harvard citation style
+C. 	Harvard citation style, APA citation style, Chicago and MLA citation style
+D. 	Bliss citation style, Author citation style and Title citation style
+ANSWER: C
+
+Air conditioners will control-------- in the library
+A.	Darkness
+B. 	Temperature and Humidity
+C. 	Ventilation
+D. 	General Hygiene
+ANSWER: B
+
+Control desk can be found at --------------------
+A. 	Circulation Department
+B. 	Acquisition Department
+C. 	Serials Department
+D.  	Reference Department
+ANSWER: A
+
+Underlining library books with pencil denote………………
+A. 	Anti- Social behavior
+B.	Anti- library use behavior
+C. 	Cruelty to other users
+D. 	Security Precautions
+ANSWER: B
+
+Computer comprises of two main components
+A.	Computer / the network computer system
+B.	Hardware/software
+C.	ICT/Telecommunication
+D. 	Computer/Communication
+ANSWER: B
+
+A dictionary of geographical places is referred to as:
+A.	Oxford Dictionary
+B. 	Gazetteer
+C. 	Gazettes
+D. 	Directories
+ANSWER: B
+
+Using another person’s work without giving credit or acknowledging the author or source is………………………………..
+A. 	Favouritism
+B.  	Nepotism
+C. 	Plagiarism
+D. 	Idealism
+ANSWER: C
+
+Examples of reference materials are:
+A. 	Textbook, Conference papers, theses and journals
+B. 	Directories, Almanacs, Dictionaries and Encyclopedias
+C.  	Newspaper, Magazines, Digital versatile Disks and Journals
+D.	Lecture note, Dissertation, Textbooks, concordance
+ANSWER: B
+
+The materials in……………. and …………….. Sections of the library cannot be borrowed
+A.  	Circulation and cataloguing 
+B.  	Serials and reference
+C.  	Bindery and classification
+D.  	Cataloguing and Bindery 	
+ANSWER: B
+
+MLA is an acronym for
+A.  	Mother Language Association  
+H.  	Modern Language Association   
+C. 	Modern Language Associates
+D.  	Mother-tongue and Language Association
+ANSWER: B
+
+Example of a corporate author is………………………
+A. Ekiti State University      
+B.  Ojo, E.O
+c.  Anjorin and Alake
+D. Ademola et al
+ANSWER: A
+ 
+All but one is a source of damage to library materials
+A. Climatic/ Physical agents
+B. Mechanical agents
+C. Chemical agents
+D. Natural disasters
+ANSWER: B
+
+On-line Public Access Catalogue (OPAC) is 
+A.  Sheaf Catalogue
+B.  Book Catalogue
+C. An Electronic Catalogue
+D.  Card Catalogue
+ANSWER: C
+
+Which library has the legal deposit right to acquire all the publications made by individuals and organization within the country
+ A. 	Academic Library
+ B. 	Special Library 
+ C. 	National Library 
+ D. 	National Assembly Library 
+ANSWER: C
+
+Which of these is NOT an input device 
+A. 	Keyboard
+B.	 Mouse
+C. 	Printers
+D. 	Scanners
+ANSWER: C
+
+The leaf which appears prior to the title page that contains only the title of the book is------
+    A.  	Half Title Page
+    B.  	Fly leaves
+    C.  	Title page
+    D. 	Copyright page
+ANSWER: C
+
+One of the advantages of the internet to libraries is
+  A.  	It wastes time
+  B.  	It allows access to bibliographic records of millions of books, electronic journals etc
+  C.  	it makes students and librarians to be lazy
+  D.	It is error free
+ANSWER: B
+
+The approaches to filing of library catalogue entries are
+A. 	Word by letter and word by word
+B. 	Letter by letter and word by word
+C. 	Letter by letter and word by letter
+D. 	Letter by word and word by letter
+ANSWER: B
+
+The right hand side of a book usually bearing an odd number is 
+A. 	Verso 
+B. 	Recto 
+C. 	Half title page 
+D.  	Fly leaves 
+ANSWER: B
+
+The head of a university library is
+A. University Librarian
+B. Principal Librarian
+C. College Librarian
+D.  Librarian
+ANSWER: A
+
+When a book has more than three authors, its main entry will come under
+A. Title
+B.  Subject
+C.  Author
+D.  Series
+ANSWER: A
+
+ISSN is an acronym for 
+A. International Standard Serial Number
+B. International Serial Standard Number
+C. International Standard Serial of Nigeria
+D. International Standard Social Number
+ANSWER: A
+
+Federal University of Technology Library, Akure is an example of-----
+A. Academic Library
+B. Special Library
+C.  National Library
+D. School Library
+ANSWER: A
+
+OPAC is an acronym for---------------
+A. Online Public Access Cataloguing
+B. Online Public Access Classification
+C. Online Public Access Catalogue
+D. Online Public Accessing Classification
+ANSWER: C
+
+A set of text-filled or illustrated pages produced in electronic format is known as
+A. Electronic book
+B. Book 
+C. Journal
+D. Encyclopeadia
+ANSWER: A
+
+Collection of printed sheets usually numbered pages protected from damage by a pair of cover which can be hard or soft paper
+A. Biography
+B. Bible
+C. Book 
+D. Paper
+ANSWER: C
+
+A small dictionary designed specifically from the words or key terms used in the textbook are…………
+A. Dictionary
+B. Geography
+C. Glossary
+D. Bibliography
+ANSWER: C
+
+The following are reference sources of information except
+A. Chemistry
+B. Encyclopedia
+C. Dictionary
+D. Handbook
+ANSWER: A
+
+Library materials are categorized into two 
+A. Print and non print
+B. Electronic and e-book
+C. Media and non media
+ D. Book and Journal
+ANSWER: A
+
+Information material that have pre-recorded sound vibration 
+A. Visual materials
+B. Audio materials 
+C. Audio Visual materials 
+D. Reference materials
+ANSWER: B
+
+A generic term referring to any information storage or communication media that is made up of images too small to be read with naked eyes is known as
+A. Graphic materials
+B. Cartographic materials
+C. Bibliographic materials
+D. Microforms
+ANSWER: D
+
+Information resources in print and electronic formats that are published in successive parts without predetermined end are 
+A. Serials
+B. Circulation
+C. Reprographic
+D. Reference
+ANSWER: A
+
+The following are types of serial materials except
+A. Magazines
+B. Journals
+C. Newspapers
+D. Dictionary
+ANSWER: D
+
+The following factors are considered while selecting serials materials 
+A. Impact factors
+B. Availability of fund
+C. Relevance to academic programmes
+D. All of the above
+ANSWER: D
+
+Temperature of the library must fall within ………….degree centigrade
+A. 47
+B. 57
+C. 37
+D. 27
+ANSWER: C
+
+The relative humidity of the library should not be higher than …….HM to prevent brittleness of paper materials.
+A. 47
+B. 37
+C. 57
+D. 67
+ANSWER: A
+
+…………. enables one to disseminate and access information of a specified nature.
+A. E-mail 
+B. Computer
+B. Internet
+D. Blogs
+ANSWER: D
+
+……………… resources which provide finding tools to secondary and primary materials
+A. Archive
+B. Reserve
+C. Tertiary
+D. Thesis
+ANSWER: C
+
+…………… is a summary of materials contained works in legal and non legal 
+A. Index
+B. Journal
+C. Digest
+D. Abstracts
+ANSWER: D
+
+The process of entering or recording bibliographic information on library resources to assist users in searching, location, retrieval and utilization of information without delay
+A. Classification
+B. Catalogue
+C. Organisation
+D. Cataloguing
+ANSWER: D
+
+Call mark comprises of ……………………..
+A. classification number and author’s number
+B. class mark and ISSN
+C. ISBN and ISSN
+D. Identification number and author’s number
+ANSWER: A
+
+…………… and …………… are the two types of cross referencing
+A. See and see
+B. See and also
+C. Take and see
+D. See and see also
+ANSWER: D
+
+ISBN is an acronym for
+A.	International Standard Book Number
+B.	International Serial Bibliographic Number
+C.	International Standard Book of Nigeria
+D.	International Standard Biography Number
+ANSWER: A
+
+Ekiti State Library Board is an example of 
+A. special library
+B. research library
+C. academic library
+D. Public library
+ANSWER: D
+
+National Library of Nigeria was established in the year……………
+ A. 1963
+B. 1984
+C. 1964
+D. 1967
+ANSWER : C
+
+What is the full meaning of WWW
+A. World  Wide Web
+B. World web wide
+C. world wide word
+D. World wide world
+ANSWER : A
+
+The classification scheme that is used in EKSU library is
+ A. Moys Classification Scheme
+B. Dewey Decimal Classification Scheme
+C. Library of Congress Classification Scheme
+D. Bernard Classification Scheme
+ ANSWER : C
+
+What does class R stand for in Library of Congress Classification Scheme
+A.   Generalities
+B. Music
+C. Chemistry
+D. Medicine
+ANSWER: D
+
+The physical component of a computer system is ………………..
+ A. Networking
+ B. Keyboard
+ C. Hardware
+ D. Speaker
+ANSWER: C
+
+BARCODE reader is an example of ……………………..
+A. Output device
+B. Input device
+C. Storage device
+D. Visual Display Unit
+ANSWER: B
+
+Library is defined as a collection of____________ in a variety of formats organised by information professionals 
+A. Information resources 
+B. Information professionals
+C. Preservation materials 
+D. Journals    
+ANSWER:  A
+
+A study of history of libraries is important because it is _____
+ A. Interesting and entertaining
+ B. Devastating and conservating 
+C. Demoralising and appreciating 
+D. Interesting and representing    
+ANSWER: A
+
+History of libraries began with the efforts to organise collections of __________ 
+A. Shelves
+ B. Catalogue box
+ C. Computers
+ D. Documents 
+ANSWER:  D
+
+The first public libraries were established under the ____ 
+A. Lugard empire 
+B. European empire 
+C. Roman Empire 
+D. Azikwe regime 
+ANSWER: C
+
+Writing is the representation of ______ 
+A. Books 
+B. Knowledge and language
+C. Written words
+D. Sound and speech  
+ANSWER: D 
+
+The major purpose of library education is helping the students understand the library _____ 
+A. History 
+B. Users
+C. Organisation of materials
+D. Organisation of students and materials  
+ANSWER: C
+
+Informal library orientation takes place on ____ basis
+A. Group
+B. Organised
+C. one to one
+D. one to five  
+ANSWER: C
+
+Anti-library use behaviour involves ____ 
+A. Vision 
+B. Conservation of books 
+C. Mutilating books 
+D. Preservation of books 
+ANSWER: C
+
+The following services are provided in the library except ______
+A. Material acquisition 
+B. Loan services 
+C. Photocopying services 
+D. Bequeathing services 
+ANSWER: D
+
+The act aligning or adjusting new users to the library and its materials for useful      utilization of the library is called 
+A. Library orientation
+B. Library utilization
+C. Library information
+D. Library actualisation
+ANSWER: A
+
+A library that stocks information resources that can only be accessed through the internet can be referred to as 
+A. Special library  
+B. Public library 
+C. Electronic library 
+ D. Public internet library
+ANSWER: C  
+
+Which library acts as a Legal Depository for the nation out of the following?  
+A. National library 
+B. Electronic library
+C. Law library 
+D. Private library 
+ANSWER: A
+
+Preservation and conservation of materials in academic library is the sole responsibility of _____ 
+A. circulation unit 
+B. Reference unit
+ C. Bindery unit 
+D. Cataloguing unit 
+ANSWER: C 
+
+The national library of Nigeria was established in the year _____
+A. 1980 
+B. 1964 
+C. 1960 
+D. 1958 
+ANSWER: B
+
+The University Librarian is a _____ of the University 
+A. Principal officer 
+B. Dean of a faculty 
+C. Admission officer 
+D. Bursar 
+ANSWER: A
+
+____ is a change of original state of library information materials 
+A. Discoloration
+B. Accumulation
+C. Deterioration 
+D. Manipulation  
+ANSWER: C
+
+The level of acidity found in paper manufacturing is a ____ destroying library information materials
+ A. Environmental factor 
+B. Chemical factor 
+C. Biological factors
+ D. Human factor 
+ANSWER: B
+
+The process in which all actions are taken to check and retard deterioration is called ______ 
+A. Preservation 
+B. Conservation 
+D. Prevention
+ D. Diagnosis 
+ANSWER: A
+
+Destructive factor of library materials such as climate factor is preventable by ______ 
+A. Installing fire extinguisher
+B. Cross ventilation 
+C. Fumigation
+ D. Handling materials with care 
+ANSWER: B
+
+The following are parts of a book except _____
+ A. Abstract page
+ B. Text page 
+C. Glossary page 
+D. Verso page 
+ANSWER: A
+
+A reference book in which words and terms are arranged alphabetically is called _____ 
+A. Dictionaries 
+B. Reserved 
+ C. Encyclopaedia 
+D. Referendum book 
+ANSWER: C
+
+A yearbook is published ________
+A. Bi-annually 
+B. Forthnightly  
+C. Quarterly 
+D. Annually 
+ANSWER: D
+¬¬¬¬¬¬¬¬¬¬¬¬
+___contain the lists of names and addresses of persons and organizations
+A. Dictionaries  
+B. Abstracts 
+ C. Directories  
+D. Almanacs  
+ANSWER: C
+
+Information materials meant for consultation only are referred to as ______ 
+A. Cataloguing materials 
+B. Classification materials 
+C. Bindery materials 
+D. Almanacs and encyclopaedias 
+ANSWER: D
+
+_____ and ____ are fact books 
+A. Almanacs and encyclopaedias 
+B. Cataloguing and journals 
+C. Yearbook and prospectus 
+D. Thesis and dissertation 
+ANSWER: A
+
+_____ is a collection of books and other print or non-print materials organised maintained for use  
+A. Library  
+B. Laundry
+C. Bindery  
+D. Sanctuary  
+ANSWER: A
+
+Library information materials exist in two forms namely: ___ and ____ 
+A. Abstracts and indexes 
+B. Journals and newspaper 
+C. Print and non-print 
+D. Reserved and digitized
+ANSWER: C
+
+Information resources in digitized forms are called _____
+A. Audio-visual materials 
+B. Cartographic resources
+C. Acquisition resources 
+D. Electronics resources 
+ANSWER: D
+
+The following steps are involved in the acquisition of library materials except ______
+A. Bibliographic searching 
+B. Preparing cardex cards
+C. File maintenance
+D. Receipts of materials 
+ANSWER: B
+
+Library materials are acquired using ____ 
+A. Directional policy 
+B. Selection policy 
+C. Cataloguing policy 
+D. Filling policy 
+ANSWER: B
+
+Serials are information resources that are published
+A. Permanently 
+B. At regular intervals 
+C. Every day 
+D. Occasionally 
+ANSWER: B
+
+Journals are published by
+A. Lecturers and porters 
+B. Deans and directors 
+C. Vendors and experts
+D. Professionals and experts   
+ANSWER: D
+
+Journals are mostly used by 
+A. Researchers 
+B. Cataloguing
+C. Undergraduates
+D. Directors and researchers 
+ANSWER: A
+
+The head of research and bibliographic section in academic libraries is called 
+A. Serials Librarian 
+B. Research Librarian 
+C. University Librarian 
+D. Circulation Librarian 
+ANSWER: A
+
+Impact factor journals should be highly rated   
+A. Para –professionally
+B. Professionally 
+C. Academically 
+D. Economically 
+ANSWER: B
+
+Primary sources are materials of 
+A. Social backing 
+B. Academic backing 
+C. Legal backing
+D. Primary backing 
+ANSWER: C
+
+Examples of tertiary sources are 
+A. Digest and indexes 
+B. Newspapers and journals 
+C. Theses and files 
+D. Books and theses 
+ANSWER: A
+
+Libraries are different from bookstores because their information materials are organised by using 
+A. Classification scheme 
+B. Books 
+C. Staff
+D. Files 
+ANSWER: A
+
+The full meaning of OPAC is 
+A. Online Production of Accurate Card 
+B. Online Paper and Catalogue 
+C. Online Publishing Access Classification 
+D. Online Public Access Catalogue 
+ANSWER: D
+
+The full meaning of LMS is 
+A. Low Microsoft software 
+B. Learning Microsoft system 
+C. Library management software 
+D. Learning management system 
+ANSWER: D
+
+The process of entering bibliographic information of library resources to the library catalogue is called 
+A. Publication 
+B. Utilisation 
+C. Cataloguing 
+D. Classification 
+ANSWER: C
+
+International Standard Book Number is for 
+A. Journal 
+B. Books 
+C. Edited books only 
+D. Bulletins 
+ANSWER: B
+
+Intellectual work edited by many contributors has its main entry card under the 
+A. Principal author 
+B. Title 
+C. Uppercase 
+D. Information resources 
+ANSWER: B 
+
+In EKSU library bibliographic details of information resources are provided on
+A. 2cm by 3cm card
+B. 4cm by 5cmcard 
+C. 7.5cm by 12.5cm card
+D. a and b 
+ANSWER: C
+
+An example of electronic catalogue is 
+A. OPACS
+B. OPPACS
+C. OPACSE 
+D. OPAC 
+ANSWER: D
+
+The manner in which each component functions with other components of the system is called
+A. Organization  
+B. Interaction  
+C. Interpretation  
+D. Integration
+ANSWER: B
+
+In the library, the implementation stage of system analysis for library automation is 
+A. Parallel implementation
+B. e-learning method 
+C. Filling method 
+D. Classification method 
+ANSWER: A
+
+Commercial software in library automation system includes
+A. e-learning 
+B. AGORA 
+C. SLAM 
+D. OPAC 
+ANSWER: C
+
+The main function of library network is to 
+A. Share resources 
+B. Catalogue materials 
+C. Acquire information resources 
+D. Preserve e-learning resources 
+ANSWER: A
+
+A library with a large database for hypertext environment workers is called
+A. Virtual library 
+B. Digital library 
+C. Automated library 
+D. e-library  
+ANSWER: B
+
+An act that provides and supports freedom of expression is called 
+A. Federal Organisation Initiative Act 
+B. Firms Objectives and Expressions Act 
+C. Freedom of Information Act 
+D. Fundamental human right
+ANSWER: C
+
+The principles of information is based on four ethical standards, one of which is
+A. Confidentiality
+B. Efficiency 
+C. Publicity 
+D. Ability
+ANSWER: A
+
+The preventative method created to curb cybercrime is called 
+A. Cybercrime prevention
+B. Cyber fraud reduction 
+C. Cyber fraud security 
+D. Cyber security  
+ANSWER: D
+
+A protective mechanisms That can be applied to ensure cyber security is 
+A. Ignore request cookies 
+B. Do not clear all cookies 
+C. Allow website to store network 
+D. Block all cookies 
+ANSWER: A
+
+The application of security measures to information sharing is to ensure 
+A. Accountability 
+B. Availability of information 
+C. Accuracy and privacy 
+D. Security 
+ANSWER: C
+
+Copyright law is a legal right assigned to 
+A. User of a work 
+B. Vendor of a work 
+C. Author of a work 
+D. Researcher of a work 
+ANSWER: C
+
+Under the Nigerian law, copyright ownership is 
+A. Automatic 
+B. Not automatic 
+C. Democratic 
+D. a and b 
+ANSWER: B
+
+Copying according to Copyright Law means 
+A. Copyright records 
+B. Copyright works 
+C. Copyright infringement
+D. Copyright arrangement 
+ANSWER: C
+
+Plagiarism is the act of taking another person’s writing without due aknowledgement 
+A. True 
+B. False 
+C. Not always true 
+D. It is an assertion 
+ANSWER: A
+
+An author is an originator of 
+A. Ideas 
+B. Opinion 
+C. Yearbook 
+D. All of the above 
+ANSWER: A
+
+DBMS is an acronym of
+A. Database Management System 
+B. Database Management and Security 
+C. Database Management Software 
+D. Database Business Management System 
+ANSWER: A
+
+All these are attributes of database resources except  
+A. Up-to-date 
+B. Time saving 
+C. Accessed anywhere 
+D. Supplied bi-annually 
+ANSWER: D
+
+CD-ROM is an acronym of 
+A. Compact Disk Read Only Memory 
+B. Compact Disk Read Online Memory 
+C. Compact Disk Read One Memorandum 
+D. Compact Desk Read Only Memory 
+ANSWER is: A
+
+Database information is searchable only when it is 
+A. Stored 
+B. Annexed 
+C. Indexed 	
+D. All of the above  
+ANSWER: C 
+
+An organised collection of electronics information is called 
+A. CD-ROM 
+B. Diskette 
+C. Library database 
+D. Audio-visual database
+ ANSWER: C
+
+A reference made in the text to a source of information is called 
+A. Database 
+B. Citation 
+C. Bibliography 
+D. Revision 
+ANSWER: B
+
+It is advisable to use database when searching for information because of its 
+A. Usefulness 
+B. Correction 
+C. Modification 
+D. Reliability
+ANSWER: D
+
+An online database that is agricultural based is known as 
+A. HINARI 
+B. OARE 
+C. AGORA
+D. ERIC 
+ANSWER C
+
+Search engine is recommended when looking for _____ 
+A. Dynamic information 
+B. Critical information 
+C. Obscure information 
+D. Web information 
+ANSWER: C
+
+Why should information resources be referenced? 
+A. Easy location 
+B. Acquisition of materials 
+C. Cataloguing 
+D. Classification 
+ANSWER: A
+
+In the Library of Congress Classification Scheme ‘s ‘ stands for
+A. Sociology
+B. Sciences 
+C. Economics,
+D. Agricultural science
+ANSWER: D
+
+LMS is an acronym for 
+A. Library Management System, 
+B. Learning Management System 
+C. Library Management Search 
+D. Learning Management Search
+ANSWER: A
+
+The following are examples of reference materials except 
+A. Directories 
+B. Newspaper 
+C. Almanac 
+D. Dictionaries
+ANSWER: B
+
+............................. Is the greatest enemy of library materials? 
+A. Rodents 
+B. Insects 
+C. Man 
+D. Rainfall
+ANSWER: C
+
+When a book is authored by more than 3 authors, the main entry card is made under the
+A. Author 
+B. Title 
+C. Subject 
+D. Catalogue Card
+ANSWER: B
+
+The left hand side of a book bearing an even page number e.g 2 4 6 8.......... is called 
+A. Copyright 
+B. Recto 
+C. Verso 
+D. Spine
+ANSWER: C
+
+Ekiti State University is an example of what type of Library 
+A. Special Library 
+B. School 
+C. Academic 
+D. Public Library
+ANSWER: C
+
+The word “Liber” which means book is derived from 
+A. Asian word 
+B. Greek word 
+C. Latin 
+D. French
+ANSWER: C
+
+ISSN is an acronym for 
+A. International Search Serials Number 
+B. International Serials Service Number 
+C. International Serial Search Number 
+D. International Standard Serials Number
+ANSWER: D
+
+ISBN is an acronym for 
+A. International Serial Book Number 
+B. International Standard Book Number 
+C. International Serial Binary Number 
+D. International Standard Book Name
+ANSWER: B
+
+Leaflets covering 48pages is called 
+A. Journals 
+B. Pamphlets 
+C. Books 
+D. Government documents 
+ANSWER: B
+
+Historically ........................   library has the largest and most significant collections 
+A. Alexandra Library 
+B. Eksu Library 
+C. Palatine Library 
+D. Ulpian Library
+ANSWER=A
+
+The first Library in Nigeria located at the University of Ibadan was established in the year 
+A. 1950 
+B. 1951 
+C. 1949 
+D. 1948
+ANSWER: D
+
+Library orientation can take place in different forms namely 
+A. Formal and Informal 
+B. Former and Informer 
+C. Former and Informal 
+D. Formal and Informer
+ANSWER: A
+
+The section of the library in charge of charging and discharging of books in the library is called
+A. Technical section 
+B. Circulation 
+C. Bindery section 
+D. Serials section
+ANSWER: B
+
+The section of the Library that does not borrow or loan out its resources is called 
+A. Serials and reference 
+B. Circulation and reference 
+C. Technical and serials 
+D. Circulation and technical
+ANSWER: A
+
+Ekiti State University Library is an example of 
+A. Public Library 
+B. National Library 
+C. Academic Library 
+D. School Library
+ANSWER: C
+
+.................... is regarded to as the Apex library 
+A. National Library 
+B. Academic Library 
+C. Research Library 
+D. Public Library
+ANSWER: A
+
+The overall head of a university library is called 
+A. Librarian 
+B. University Librarian 
+C. Chief Librarian 
+D. Principal Librarian
+ANSWER: B
+
+The section that is in charge of repairing worn out/mutilated materials to enhance longetivity is called 
+A. Serials unit 
+B. Bindery unit 
+C. Circulation 
+D. Reference unit
+ANSWER=: B
+
+National Library of Nigeria was established in the year ................................
+A. 1964 
+B. 1954 
+C. 1950) 
+D. 1948
+ANSWER: A
+
+Sources of deterioration of library materials include all but ONE of the following 
+A. Biological factor 
+B. Chemical factor 
+C. Economic factor 
+D. Human factor
+ANSWER: C
+
+Deterioration caused by termites, cockroaches insects are examples of 
+A. Biological agent 
+B. Chemical agents 
+C. Animal agent 
+D. Climatic agents
+ANSWER: A
+
+The back part of a book facing downward when shelved is called 
+A. Spine 
+B. Recto 
+C. Verso 
+D. Title page
+ANSWER: A
+
+The right hand page of a book is called  
+A. Verso
+B. Recto 
+C. Spine 
+D. Title page
+ANSWER: B
+
+The ‘S’ is SQ3R system means 
+A.	study 
+B.	Survey 
+C.	Search 
+D.	All of the above
+ANSWER: B
+
+An example of a reference material is 
+A. Books 
+B. Newspaper 
+C. Journals 
+D. Dictionary
+ANSWER: D
+
+The following are examples of a specialized dictionary except 
+A. Oxford dictionary 
+B. Dictionary of medicine 
+C. Dictionary of biochemistry 
+D. Dictionary of law
+ANSWER: A
+ 
+A list of names, addresses of persons, organizations, corporate bodies are called 
+A. Index 
+B. Directories 
+C. Gazette 
+D. Year book
+ANSWER: B
+
+A government publication that is usually devoted to current events especially within government circle is 
+A. Gazette 
+B. Index 
+C. Abstract 
+D. Directories
+ANSWER: A
+
+Print materials include all but ONE of the following 
+A. Internet resources 
+B. Pamphlets 
+C. Serials 
+D. Manuscripts
+ANSWER: A
+
+In the Library of Congress Classification Scheme, Q stands for 
+A. Science 
+B. Islamic studies 
+C. Sociology 
+D. Geography
+ANSWER: A
+
+OPAC is an acronym for 
+A. Online Public Access Catalogue 
+B. Offline Public Access Control 
+C. Offline Private Access Catalogue 
+D. Online Private Access Catalogue
+ANSWER: A
+
+Materials in the library that cannot be borrowed are called 
+A. Newspaper 
+B. Reserve materials 
+C. Non-loaned materials 
+D. Out of bound materials
+ANSWER: B
+
+The physical or bibliographic description of books is called 
+A. Cataloguing 
+B. Classification 
+C. Serials 
+D. Cataloguing and Classification
+ANSWER: A
+
+The standard dimension of a library catalogue card is 
+A. 3 by 5 
+B. 3cm by 5cm 
+C. 3 by 5inches 
+D. 3 x 5 
+ANSWER: C
+
+The way of grouping like terms from unlike term is called 
+A. Arrangement 
+B. Separation 
+C. Classification 
+D. Cataloguing
+ANSWER: C
+
+The ................section is where books are catalogued and classified 
+A. Serials 
+B. Technical 
+C. Reference 
+D. Circulation
+ANSWER: B
+
+When an intellectual work is edited by many contributors ,its main entry card is under 
+A. Author 
+B. Principal author 
+C. Title 
+D. Subject
+ANSWER: C
+
+The two filing methods are
+A. Word by letter 
+B. Letter by Word
+C. Letter by letter and Word by Word
+D. None of the above
+ANSWER: C
+
+Which of the following classification scheme is used in Ekiti State University Library
+A. Dewey Decimal Classification Scheme 
+B. Bliss Classification Scheme
+C. Library of Congress classification scheme
+D. Colon Classification Scheme
+ANSWER: C
+
+Which of these is not part of the following 
+A. Scanner
+B. Keyboard 
+C. Mouse
+D. Central processing unit
+ANSWER: D
+
+The acronym HTTP means 
+A.	Hypertext Transfer Protocol 
+B.	Hypertext Transfer Programme 
+C.	Hypertext Transcorp Protocol
+D.	Hypertext Transcorp Programming
+ANSWER: A
+
+Which of the following statement is correct 
+A. Accession number is a location number 
+B. Accession number is a call mark number 
+C. Accession number is a unique number giving to a material at the point of entry 
+D. All of the above
+ANSWER: C
+
+Which of the following is an audio visual material 
+A. Television 
+B. CD Ram 
+C. Printer
+ D. Microfilm
+ANSWER: A
+
+Which of the following is caused by natural disaster 
+A. Mutilation 
+B. Flooding
+C. Climate
+D. Sunlight
+ANSWER: B
+
+The accession number 00984-00989 indicates the Library has how many number of copies 
+A. 5 
+B. 6 
+C. 7 
+D. 8
+ANSWER: B
+
+A computer system is divided into................. and ...................
+A. Hardware and input devices 
+B. Hardware and software 
+C. Utility software and application software 
+D. Operating software and utility software
+ANSWER: B
+
+......................is NOT an example of a search engine 
+A. ASK.com 
+B. Mama 
+C. Face book 
+D. Google
+ANSWER: C
+
+LAN  is an acronym for 
+A.	Large Area Network
+B.	Local Area Network 
+C.	Local Access Network 
+D.	Large Access Network
+ANSWER: A
+
+WAN  is an acronym for
+A. Wild Area Network 
+B. Wide Area Network 
+C. Wide Arena Network
+D. World Area Network
+ANSWER: B
+
+The right an author enjoyed over his or her work is 
+A. Authors right 
+B. Copyright 
+C. Patient
+D. Trademarks
+ANSWER: B
+
+The unique number giving to a book once it is acquired is 
+A. Cutter number 
+B. Class number 
+C. Book number 
+D. Accession number
+ANSWER: D
+
+The principles of information are based on the following except 
+A. Availability 
+B. Integrity 
+C. Loyalty
+D. Confidentiality
+ANSWER: C
+
+The word plagiarism is a Latin word which means
+A. Stealing
+B. Borrowing 
+C. Loaning 
+D. All of the above
+ANSWER: A
+
+Example of an online database is 
+A. Google
+ B. JSTOR 
+C. Mama 
+D. Yahoo search
+ANSWER: B
+
+An example of crawler based search engines are all but ONE of the following 
+A. Google 
+B. Altavista 
+C. Mama 
+D. None of the above
+ANSWER: C 
+
+Computer software is divided into how many parts 
+A. 2 
+B. 3  
+C. 4 
+D. 5
+ANSWER: B
+
+.......................Is the database used at Ekiti State University Library 
+A. HINARY 
+B. TINLIB 
+C. SLIM 
+D. SLAM
+ANSWER: D
+
+The following Are ways of acquiring information materials for the library except
+A. Gifts and purchase
+B. Bequeath 
+C. Purchase 
+D. All of the above
+ANSWER: D
+
+A reference made in the text to a source of information is called 
+A. Bibliography 
+B. Reference list 
+C. Copyright
+D. Citation
+ANSWER: B
+
+An organized listing of works cited in the text placed at the end of document is ................
+A. Citation 
+B. Bibliography 
+C. References 
+D. Listing
+ANSWER:  C
+
+An organized collection of electronic information that allows a user to search for a particular topic, article in variety of ways is called 
+A. Automation
+ B. Library database
+ C. Electronic library 
+D. Virtual library
+ANSWER: B
+
+Which of the following is an example of data base 
+A. Bibliographic abstract and full text database 
+B. Journals abstract and review database 
+C. Books, journals and full text database 
+D. All of the above
+ANSWER: A
+
+In respect of literary, musical or artistic work, a copy right will expire.......................years after the death of the author 
+A. 20 
+B. 70 
+C. 25
+D. 50
+ANSWER: B
+
+In the case of cinematography films and photographs, the copyright will expire...................years after the end of the year in which recoding or broadcast first took place. 
+A. 70 
+B. 50)
+ C. 55 
+D. 25
+ANSWER: B
+
+.....................are electronic identification cards attached to a user who visit an internet site 
+A. Online number 
+B. Library card
+C. Google card 
+D. Cookies
+ANSWER: D
+
+....................is an e-learning tool which is widely used by students and instructors for teaching and research purpose 
+A. Emails 
+B. Facebook
+C. Blogs 
+D. Internet
+ANSWER: D
+
+ ................ is made in the catalogue to serve as link or direction from a name heading no longer in use to the current heading in the library catalogue.
+A. See also reference
+B. Reference 
+C. Cross reference 
+D. See reference
+ANSWER:  D
+
+......................... is used to direct catalogue users from one heading that is used to another related heading that is used 
+A. Cross reference 
+B. See also reference
+C. See reference
+D. Reference
+ANSWER: B
+
+An academic library can only be defined as one of the following:
+A. Collection of organized resources in different formats, accessible by users
+B. A house full of books
+C. A quiet place where one goes to study 
+D. All of the above 
+ANSWER: A
+
+Library education prepares a student to do all of the following except:
+A. Have an understanding of the essence of library use
+B. Understand the importance of resources in the library
+C. Understand how to solve information need
+D. How to mutilate materials needed for studies
+ANSWER: D
+
+Examples of anti-library use behavior are all except:
+A. Dozing in the library 
+B. Arguing with others in the library
+C. Eating in the library
+D. Gaining access to library using fake identity card 
+ANSWER: A
+
+One of the rules and regulations in an academic library is:
+A. Seek for permission before leaving a library 
+B. Ask library officers to find books for you
+C. Present yourself to be checked by porters before leaving library
+D. Browse library shelves to pick out needed books
+ANSWER: C
+
+One out of the following is not  among the borrowing procedures for students in Ekiti State University 
+A. All borrowed materials must be returned on or before due date
+B. Where you hold book beyond due date, you should not be punished as long as you are still using it
+C. Some materials are not subject to be borrowed
+D. Only Library registered students can borrow
+ANSWER: B
+
+One of the following is not part of organogram in University library:
+A. Readers services department
+B. Bindery unit
+C. Serials
+D.  Relaxation unit
+ANSWER: D
+
+The first point of library contact for users patronizing a physical library is always: 
+A. Collection development unit
+B. Circulation unit
+C. Serials unit
+D. Special collection unit
+ANSWER: B
+
+The head of a University library is calleD.
+A. University Librarian
+B. Head Librarian
+C. Academic  Librarian
+D. Chief Librarian
+ANSWER: A
+
+The University librarian has the right to allow non-registered user to use the library:
+A. Yes
+B. No
+C. Not really
+D. only if the user is a university staff
+ANSWER: A
+
+One of the major requirement for establishment of academic programs in any university is:
+A. Employment of academic staffs
+B. establishment of an effective library
+C. Admission of students
+D. Beginning of lectures
+ANSWER: B
+
+One out of the following is not among the six types of library:
+A. Academic, University, School, National, Private and Tertiary Libraries
+B. Public, Academic, School, National, Private and Special Libraries
+C. Public, University, School, National, Private and Tertiary Libraries
+D. Secondary, University, School, National, Private and Tertiary Libraries
+ANSWER: B
+
+Academic libraries are libraries only attached to Universities 
+A. Yes 
+B. Not true
+C. Somehow true
+D. only If they have a University librarian
+ANSWER: B
+
+A polytechnic library can be grouped under one of the following types of libraries:
+A. School Library
+B. Academic Library
+C. Public library
+D. Tertiary library
+ANSWER: B
+
+ A secondary school student in need of materials for assignment can quickly use: 
+A. Academic Library
+B. School Library 
+C. Public library
+D. Tertiary Library
+ANSWER: B
+
+Bindery is part of the units in a university library 
+A. Yes
+B. NO
+C. It is attached to the University
+D. It has no academic information
+ANSWER: A
+
+Mutilation of books as a factor that damages library materials can be grouped under:
+A. Human factor
+B. Chemical factor
+C. Climatic factor
+D. Chemical factor
+ANSWER: A
+
+Rats and termites are among a type of factor that destroys library materials: 
+A. Human factor
+B. Biological factor
+C.  Environmental factor
+D. Natural disasters
+ANSWER: B
+
+One out of the following is not an example of damaging human factor in a library:
+A. Reservation of books
+B. Mutilation of books
+C. Self shelving by students
+D. folding pages of books
+ANSWER: A
+
+One of the preventive measures to damaging climatic factors is:
+A. growth of plants near the library building to provide shield 
+B. Prevention of sunlight into library shelves
+C. Windows should be left open so sun can enter into the library
+D. Making libraries to be story buildings to prevent flood
+ANSWER: B
+
+Only one of the statements below is true, which one is it? 
+A. If one understands the anatomy of book, one would know how to get quickly needed information in such book.
+B. Any publication that is less than 49 pages is a book
+C. A book is any information bearing material
+D. Spine is the inside part of a book
+ANSWER: A
+
+Only one of the statements below is true, which one is it?
+A. Copyright page provides all the information that assists in referencing a book
+B. Almost all parts of a book assist a researcher in referencing such book
+C. Fly leaves are important for purpose of referencing a material
+D. Bibliography is important for reference purpose
+ANSWER: B
+
+A self-made dictionary normally found within a book is calleD.
+A. Appendix
+B. Glossary
+C. Bibliography
+D. Index
+ANSWER: B
+
+Materials that guided a work but not cited within a work is calleD.
+A. Conclusion
+B. Bibliography
+C. Reference
+D. Acknowledgements
+ANSWER: B
+
+All except one is true about reference resources
+A. they give brief general and specific information of a word
+B. They are meant for in-depth studying
+C. They cannot be borrowed
+D. They are normally kept in reference sections 
+ANSWER: B
+
+“Encyclopedia of Architecture, design, engineering and construction” is an example of:
+A. General Encyclopedia
+B. Children Encyclopedia
+C. Specialist Encyclopedia
+D. General dictionary
+ANSWER: C
+
+A geographical dictionary which provides information and data about places, towns and other geographical features is termeD.
+A. General Atlas
+B. Gazetteer
+C. Gazette
+D. Guidebook
+ANSWER: B
+
+A publication that contains government proclamations is calleD. 
+A. General Atlas
+B. Gazetteer
+C. Gazette
+D. Guidebook
+ANSWER: C
+
+The easiest way to locate needed materials in a library is through:
+A. Shelve browsing
+B. Catalogue
+C. Asking library staff
+D. Asking classmates
+ANSWER: B
+
+When a user is confused on how to locate treated subjects in a book, he or she is better advised to use: 
+A. Book index
+B. Book Glossary
+C. Book dictionary
+D. Book guide
+ANSWER: A
+
+Only one of the statements below is true about abstracts:
+A. An abstract is a summary of contents and conclusions reached in a work
+B. An abstract is a summary of guidelines used in a work
+C. An abstract is a critical review of a work
+D. An abstract is dictionary within a work
+ANSWER: A
+
+Library users who are confused on how to handle academic issues pertaining to their research and assignments   can seek the services of a unit in a library. What is that unit? 
+A. Research unit
+B. Reference services unit
+C. Circulation unit
+D. Cataloguing unit
+ANSWER: B
+
+Material in a library published every two months can be classified as A. 
+A. Reference material
+B. Book material
+C. Serial material
+D. Text material
+ANSWER: C
+
+Between journals and Newsletters, which one is more appropriate for an academic research work? 
+A. Journals
+B. Newsletters
+C. Both of them
+D. None of them
+ANSWER: A
+
+One out of the following is not a feature of serial material
+A. It cannot be subject to loan service
+B. contributions are made by many 
+C. it is consistently current
+D. it has bias findings
+ANSWER: D
+
+A serial material is different from a textbook for all of these reasons except one
+A. Serials carry ISBN
+B. Serials carry ISSN
+C. Serials contain current research materials
+D. Serials come periodically
+ANSWER: A
+
+Newspaper clippings can only be found in what part of an academic library?
+A. Readers services unit
+B. Serials unit
+C. Journal unit
+D. Circulation unit
+ANSWER: B
+
+The usability of library resource is connected to community of users because of this singular reason:
+A. A resource which does not reflect their community is not usable
+B. resources are personal properties of communities
+C. the community of users pays the library staff
+D. All of the above reason
+ANSWER: A
+
+The use of library resources can only be understood when you understand a library. Why is that?
+A. because information use in a library is a synergy between users and library resources
+B. because information use in a library is based on understanding of shelves
+C. because information use in a library is independent
+D. because skills are required to use a library
+ANSWER: A
+
+All except one is a library resource: 
+A. databases
+B. secondary resources
+C. human resources
+D. cloaks
+ANSWER: D
+
+information resources in an academic library have been classified into three major groups, they are: 
+A. Primary, Secondary & Tertiary 
+B. Primary, Secondary & Elementary
+C. Primary, Secondary & Academic
+D. Primary, Secondary & Human
+ANSWER: A
+
+Materials that are sources of authority, originality and legality are referred to as: 
+A. Secondary materials
+B. Primary materials
+C. Elementary materials
+D. Tertiary materials
+ANSWER: B
+
+Materials that provide information for in-depth studies is referred to as: 
+A. Encyclopedia
+B. Primary materials
+C. Secondary materials
+D. Dictionaries
+ANSWER: C
+
+Laws, Edicts, and Statutes are:
+A. Primary materials
+B. Secondary materials
+C. Gazettes
+D. Tertiary materials
+ANSWER: A
+
+Reserved materials in a library has the following features except one:
+A. they cannot be loaned
+B. they are historical materials
+C. they are very costly and rare
+D. they are useful for course works
+ANSWER: B
+
+Seminar papers, conference materials and convocation materials are examples of: 
+A. Grey materials
+B. Journals
+C. Gazettes
+D. Government publications
+ANSWER: A
+
+Encyclopedias, digests, index, abstracts are examples of :
+A. Grey materials
+B. Journals materials
+C. Gazettes materials
+D. Tertiary materials
+ANSWER: D
+
+Resources that contain the bibliographic contents of a library are called?
+A. Abstracta
+B. Catalogues
+C. Cards
+D. Digests
+ANSWER: B
+
+The two units in a library that have the primary act of providing direct services to users are:
+A. Circulation desk and Reference desk
+B. Circulation desk and Users services
+C. Circulation desk and Query services desk 
+D. Technical section and Work room
+ANSWER: A
+
+In a traditional catalogue card, when an information resource is authored by three authors, the main entry of the work is put under:
+A. Principal authors surname
+B. Principal authors name
+C. Title
+D. Subject
+ANSWER: A
+
+In a traditional catalogue card, when an information resource is authored by ten authors the main entry of the work is put under: 
+A. Principal authors surname
+B. Principal authors name
+C. Title
+D. Subject
+ANSWER: C
+
+The type of catalogue used in a traditional wooden box catalogue is calleD.
+A. Sheaf catalogue
+B. OPAC
+C. Card catalogue
+D. SLIMS catalogue
+ANSWER: C
+
+All except one is among the advantages of a good catalogue:
+A. It saves library user time
+B. It links   a user to library catalogue in other locations
+C. It is a reliable database of a library
+D. It provides summary of a work 
+ANSWER: D
+
+When an author’s name is not used as main entry because he is not a principal author, such authors name can still be found under:
+A. Subsequent entry
+B. Added entry
+C. Authors entry
+D. Catalogue entry
+ANSWER: B
+
+In a card catalogue, “1. Education Administration – Universities, colleges”  represents what type of entry?
+A. Added entry
+B. Subject entry
+C. Main entry
+D. Series entry
+ANSWER: B
+
+The accession number: 00321 -00327 represents how many copies of a book?
+A. 5
+B. 6
+C. 7
+D. 8
+ANSWER: 7
+
+LA 543 .A3 2016 represents what in a catalogue?
+A. call mark
+B. Catalogue mark
+C. cutter mark
+D. year mark
+ANSWER: A
+
+ “(i) Ayodele, B. A. (ii) Tenibiaje, G. O. (iii) Title (iv) Series”     is an example of:
+A. Added entry
+B. Name entry
+C. paragraph entry
+D. Title entry
+ANSWER: A
+
+The act of grouping like materials together in a professional way is called.
+A. Classification
+B. Referencing
+C. identification
+D. Coding
+ANSWER: A
+
+The two main types of “cross reference “for material access location are:
+A. See the other reference & See Reference
+B. See Reference & See again reference
+C. See reference & See also reference
+D. See my reference & See the reference
+ANSWER: C
+
+An access reference type that directs users from a used subject entry to another used subject entry is calleD. 
+A. See the other reference 
+B. See Reference 
+C. See also reference
+D. See my reference 
+ANSWER: C
+
+ “Port Harcourt, Port Novo, Port Pricing, Portal,  Portival”  is an example of: 
+A. Letter by Letter filling method
+B. Word by Word filling method
+C. Alphabet by Alphabet filling method
+D. Word by Letter filling method
+ANSWER: B
+
+All except one is among precautions to be applied when sharing datA.
+A. informed consent
+B. Protection of identities
+C. Security of data
+D. identification of friends
+ANSWER: D
+
+Only one of the statements below is correct about freedom of expression, which one is it?
+A. Freedom of expression is limitless
+B. Right to Freedom of expression guarantees safety
+C. Right to freedom of expression is limited
+D. Right to freedom of expression cannot be breached
+ANSWER: C
+
+Only one of the statements below is false about “Right to Privacy”, which one is it?
+A. Information that concerns members of your family can be shared without any precaution
+B. Where negative information is stumbled on, it is better to delete it
+C. Sensitive information that has interest of public safety can be shared
+D. Information that that concerns others personal affair cannot be shared
+ANSWER: A
+
+All except one is among the ethical standards of information security:
+A. Confidentiality
+B. Integrity
+C. Availability
+D. Transferability
+ANSWER: D
+
+Nigerian “freedom of expression” gets support from these international laws except one, which one is it?
+A. Universal Declaration of Human Rights(UDHR)
+B. International Covenant on Civil and Political Rights(ICCPR)
+C. African Charter on Human Rights(ACH)
+D. International Charter on Right to Expression (ICRE)
+ANSWER: D
+
+The test through which private information must pass through under “Freedom of Information “Act is calleD. 
+A. People test
+B. Public Interest test
+C. Privacy test
+D. Litmus test
+ANSWER: B
+
+All except one of the following is false about “Copyright”:
+A. Copyright is exclusive right given to owners of original information in a definite form
+B. Materials not published are not subject to copyright claims
+C. Copyright covers literary materials, artistic work, musical works, and films, broadcast
+D. Copyright is exclusive right of authors to reproduce work
+ANSWER: B
+
+All except one of the statements below is an example of plagiarism
+A. Taking information from the internet and attaching to information from print textbook and acknowledging the information from the print material
+B.   Presenting others ideas as your own
+C. Using image from Google without expressed permission
+D.   Criticizing another’s theory in your work without consent
+ANSWER: D
+
+The importance of library history includes all except 
+a.	It is interesting and entertaining.
+b.	It reflects origin of the library.
+c.	Good study of library history showcases the impact of librarianship to community development. 
+d.	It collocate the shelf.
+ANSWER:  D
+
+Latin word “liber” means --------
+a.	Book
+b.	Pamphlet
+c.	Journals
+d.	Library
+ANSWER:  A
+
+Library can best describe as all except………
+a.	Collection of information materials in various formats that is processed, organised and disseminated.
+b.	A building which housed information resources and systematically arranged for easy retrieval of clienteles.
+c.	A storehouse of information materials for consultation of the users.
+d.	A store of books.
+ANSWER: D
+
+The first printer recorded in the history of printing is…………
+a.	Williston George 
+b.	Johann Gutenberg
+c.	Adams Smith 
+d.	Gaius Julius Aquila
+ANSWER: B
+
+Kinds of document that can be found in ancient libraries are listed below except
+a.	Clay tablets
+b.	Cuneiform script
+c.	Papyrus scrolls
+d.	Journals 
+ANSWER: D  
+
+User education can best describe as ………
+a.	The users performance in the library
+b.	A process of shelf search in the library
+c.	 Teaching the users necessary skills  to make effective and efficient use of library resources 
+d.	Education derived by the users in the library
+ANSWER: C 
+
+Listed below are don’ts in the library except 
+a.	Eating and drinking
+b.	Noise making
+c.	Reading 
+d.	Mutilation  
+ANSWER: C
+
+Department of the library includes all under listed except 
+a.	Readers services
+b.	ICT
+c.	Technical services 
+d.	Academic department 
+ANSWER: D
+
+Categories of the academic library users are listed below except 
+a.	All registered students of the university.
+b.	Staff of the university
+c.	Any others deemed fit by the librarian.
+d.	The entire populace.
+ANSWER: D
+
+------- and ------- are functions of the library
+a.	Selection and acquisition of information materials
+b.	Teaching and learning 
+c.	Research and reading
+d.	Buying and selling of books 
+ANSWER: D
+
+Example of academic library is………..
+a.	School library
+b.	University library
+c.	Special library
+d.	Public library
+ANSWER: B
+
+Listed below are all examples of academic library except
+a.	Kenneth Dike library
+b.	Ekiti State University library
+c.	Federal Polytechnic  Ado Ekiti library
+d.	Ekiti State College of Education library
+e.	Ekiti State Library Board
+ANSWER: E
+
+A library that is established for special needs of an organization is …………
+a.	School library
+b.	Academic library
+c.	Special library
+d.	National library
+ANSWER: C
+
+Public library is established and managed by………..
+a.	Organization 
+b.	Government 
+c.	School 
+d.	Cooperate institution 
+ANSWER: B
+
+The unit of the library that is saddled with responsibility of attending to users enquiries, loaning of books and shelves arrangement is ……….
+a.	Bindery 
+b.	Cat &Class
+c.	Circulation 
+d.	Work room 
+ANSWER: C
+
+Public access catalogues are been prepared in ---------------- unit
+a.	Serials unit
+b.	Circulation unit
+c.	Bindery unit
+d.	Cataloguing unit
+ANSWER: D
+
+National library of Nigeria was established in……..
+a.	1960
+b.	1922
+c.	1946
+d.	1964
+ANSWER: D
+
+Deterioration can be defined as………
+a.    Mutilation of information materials
+b.    Decoration of information materials 
+c.    Consecration of information materials
+d.    Change in original status of information materials
+ANSWER: D
+
+………. is not factor of deterioration 
+a.	Biological and Chemical factors 
+b.	Environmental factor
+c.	Human factor 
+d.	Air factor
+ANSWER: D  
+
+………….is a small dictionary designed specifically from the word or key terms used in the book
+a.	Appendix 
+b.	Reference
+c.	Test
+d.	Glossary
+ANSWER: D
+
+Listed below are auxiliary pages except………..
+a.	Glossary 
+b.	Main contents pages 
+c.	Appendix
+d.	Bibliography 
+ANSWER: B
+
+Which of these is a preventive measure while reading a book in the library…………….
+a.	Never make noise in the library
+b.	Avoid licking of fingers as an aid to turn pages
+c.	Avoid effective reading in the library
+d.	Do not make phone calls in the library
+ANSWER: C
+
+…………is not a part of  book
+a.	Summary
+b.	Conclusion
+c.	Introduction
+d.	Circulation 
+ANSWER: D
+
+The revers side of the title page which gives information on year of publication and ISBN is………..
+a.	Copyright or Verso page
+b.	Title page
+c.	Reference page
+d.	Fly leave page
+ANSWER: A
+
+ …………. Is written by a senior or respected professional colleague in a textbook 
+a.	Preface
+b.	Introduction
+c.	Foreword
+d.	Acknowledgement
+ANSWER: C
+
+………. gives summary information at the beginning of a textbook
+a.	Foreword
+b.	Preface 
+c.	Acknowledgement 
+d.	Author’s note
+ANSWER: B
+
+A book is …………… when new information is added or removed
+a.	Reviewed 
+b.	Reprinted
+c.	Reproduced
+d.	Rebranded 
+ANSWER: A
+
+Reference materials are listed below except ……..
+a.	Dictionary
+b.	Yearbook
+c.	Almanac 
+d.	Journal
+ANSWER: D
+
+Reference materials can be defined as …………
+a.	Materials that give concise or specific information and not expected to be read from cover to cover
+b.	Materials that give list of acronyms
+c.	Materials that are published in successive parts
+d.	Information materials of all kinds  
+ANSWER: A
+
+Example of reference materials is ……….. 
+a.	Catalogue 
+b.	Magazine
+c.	Thesis and Dissertation
+d.	General Encyclopedia 
+ANSWER: D
+
+……… is a book of language and meaning
+a.	Encyclopedia 
+b.	Dictionary
+c.	Yearbook
+d.	Almanac 
+ANSWER: B
+
+The dictionary that is restricted to specific subject is called……………
+a.	General Dictionary
+b.	Biographical Dictionary
+c.	Subject Dictionary
+d.	Children Dictionary
+ANSWER: C
+
+A reference material that is a geographical dictionary which provides information and data about places, towns, villages, longitude and latitude, statistic and etc. is……….
+a.	Dictionary 
+b.	Almanac
+c.	Gazettes 
+d.	Gazetteers
+ANSWER: D
+
+The librarian who provides reference services in the library is called……..…….
+a.	 Circulation librarian 
+b.	 Cataloguer
+c.	Reference service librarian
+d.	Technical service librarian 
+ANSWER: C
+
+FOR REFERENCE ONLY means …………
+a.	Can’t be borrowed and for concise information only
+b.	Can be borrowed only
+c.	Can be taken away only
+d.	Can be read only
+ANSWER: A
+
+These are examples of non-print materials in the library except………..
+a.	Audio-visuals 
+b.	Microforms
+c.	Graphic materials 
+d.	Stationaries
+ANSWER: D
+
+Library material can be described as …………….
+a.	Only book materials in the library
+b.	Materials carrying tangible or intangible information which exist in various formats
+c.	Only electronic resources in the library
+d.	Materials of a particular subject 
+ANSWER: B
+
+……….. are materials which appeals to the organs of seeing and hearing
+a.	Audio
+b.	Microforms 
+c.	Microfiche
+d.	Audio-visuals
+ANSWER: D
+
+The information material that contains list of names, addresses of persons, organization and etc. is called…………..
+a.	Directory
+b.	Dictionary 
+c.	Almanac 
+d.	Yearbook
+ANSWER: A
+
+………..are two dimensional representation of materials which can be viewed without a projector.
+a.	Cartographic materials 
+b.	Audio materials
+c.	Microforms 
+d.	Graphic materials
+ANSWER: D
+
+Listed below are serials materials except…………
+a.	Directories
+b.	Dictionaries
+c.	Newspapers 
+d.	Gazetteers
+ANSWER: D
+
+………. are periodicals that are published fortnightly, monthly, biannually or annually
+a.	Newspapers
+b.	Journals 
+c.	Magazines 
+d.	Yearbook
+ANSWER: C
+
+Methods of preserving serial materials are listed below except…………
+a.	Periodic fumigation
+b.	Temperature control
+c.	Book consultation 
+d.	Proper e-information resource preservation
+ANSWER: C
+
+One of these is a good example of primary materials
+a.	Yearbook
+b.	Journals
+c.	Textbook
+d.	Pamphlet
+ANSWER: B
+
+Example of tertiary materials is………..
+a.	Indexes 
+b.	Yearbook
+c.	Journals
+d.	Textbook
+ANSWER: A
+
+Textbooks that are authored by one, two or three authors, it main entry card should be entered under ………….
+a.	Third author’s name
+b.	Second author’s name
+c.	 Title 
+d.	Principal author’s name
+ANSWER: D
+
+When an information resource is authored by more than three authors, the main entry card is under ………..
+a.	Name of the first author
+b.	Name of the second author
+c.	Principal author’s name
+d.	Title
+ANSWER: D
+
+Card catalogue size in the library is………..
+a.	3by 5 inches or 7.5cm by12.5cm
+b.	2 by 3inches or 6.5cm by 12.5cm
+c.	4 by 8inches or 3.2cm by 12.5cm
+d.	3by 5inches or 3.4cm by 10.5cm
+ANSWER: A
+
+The acronyms OPAC means……….
+a.	Online Public Access Catalogue
+b.	Online Public Account Catalogue
+c.	Online People Access Catalogue
+d.	Online Public Access Computer
+ANSWER: A
+
+See Reference refers from…………
+a.	New heading to old heading
+b.	No longer use heading to current heading
+c.	Current heading to current heading
+d.	No longer use heading to no longer used heading
+ANSWER: B
+
+See Also Reference refers from………..
+a.	Current heading to another related heading
+b.	Old heading to a new heading
+c.	Current heading to an old heading
+d.	Used heading to current heading
+ANSWER: A
+
+Accession number means …………
+a.	Number given to book as it gets to the library
+b.	A binary number in the library
+c.	Number given to reference book only
+d.	Number given to journals material only
+ANSWER: A
+
+ Bibliographic details of a book are given below except………..
+a.	Title
+b.	Accession 
+c.	Author’s name
+d.	Place of publication 
+ANSWER: B
+
+Call mark is located at the ………….
+a.	Top left of 3by5 card
+b.	Top right of 3by5 card
+c.	Center of 3by5 card
+d.	Bottom of 3by5 card
+ANSWER: A
+
+All are types of catalogue in the library except………
+a.	Card catalogue
+b.	Shelf catalogue
+c.	Book catalogue
+d.	Table catalogue 
+ANSWER: D
+
+The back edge of a book is called………
+a.	Spine
+b.	Back cover
+c.	Polisher’s blub  
+d.	Cover page
+ANSWER: A
+
+The plain leaves that are usually found at the beginning or last of a book are called……….
+a.	Verso 
+b.	Recto
+c.	Fly leaves
+d.	Spine 
+ANSWER: C
+
+………. Is saddle with the responsibility of repair and amend warn out books in the library
+a.	Circulation unit
+b.	Bindery unit
+c.	Photocopy unit
+d.	Classification unit
+ANSWER: B
+
+All could be read from page to page except one
+	a. Chemistry textbook
+	b. Business administration textbook
+	c. Mathematics textbook
+	d. Dictionary
+ANSWER: D
+
+What is the full meaning of this acronym ‘’HTTP’’…………...
+a.	Hypertext transport protocol
+b.	Hypertext transfer protocols
+c.	Hypertext translate protocol
+d.	Hypertext transfer protocol
+ANSWER: D
+
+DDC means……..
+	a. Dewey Decimal Classification Scheme
+	b. Dewey Decimal Cataloguing Scheme
+	c. Decimal Dental Classification Scheme
+	d. Decimal Denotation Classification Scheme
+ANSWER: A
+
+The full meaning of the acronym NLA is ……………
+	a. Nigerian Library Association
+	b. Nigerian License Association
+	c. Nigerian Liberty Association
+	d. Nigerian Leading Association
+ANSWER: A
+
+All are Libraries except one……….
+	a. Laboratory
+	b. Special Libraries
+	c. National Library of Nigeria
+	d. Academic Libraries
+ANSWER: A
+
+What does “N” stand for in Library of classification scheme
+a. Musi
+b. Naval science
+c. Military Science
+d. Fine Arts
+ANSWER: A.
+
+What does “L” stand for in Library of congress classification scheme
+a. Arts
+b. Agriculture
+c. Law
+d. Education
+ANSWER: D
+
+What does “K” stand for in Library of congress classification scheme……..?
+a.   Agriculture
+b. Law
+c. Social science
+d. Education
+ANSWER: B
+
+The overall head of the university library is called ……………..
+a. Librarian
+b. Dean
+c. Registrar
+d. University Librarian
+ANSWER: D
+
+Libraries in higher institutions of learning are called………
+a. Public libraries
+b. Academic libraries
+c. School Libraries
+d. Main libraries
+ANSWER: B
+ 
+The Unique number assigned to a book as soon as the library acquires it is
+A. The date of publication
+B.  Accession Number
+C. Call Number 
+D.  Cutter Number
+ANSWER:  B
+
+A book of information on every branch of knowledge is……………….
+A.	Encyclopaedia
+B.	  Dictionary 
+C.	 Directories
+D.	  Map
+ANSWER: A
+
+Collation in an entry card meANSWER:
+A.	Call mark, publisher and added entry
+B.	  ISBN number, Accession Number and Main entry
+C.	  Pagination, Illustration, Size/Height
+D.	  Tracings of Added entry, main entry and call mark
+           ANSWER: C
+
+Which part of a book is most useful in getting the complete title of a book?
+A.	The front cover
+B.	The copyright page 
+C.	 The title page   
+D.	 The recto and verso
+ANSWER: C
+
+The following are example of serials except  
+A.  Dictionary
+B. Magazine 
+C.  Journals 
+D. Newspaper
+ANSWER: A
+
+The following are the conditions for Fair Use and Fair Dealing exception except
+A.	For criticism 
+B.	 Review  
+C.	 Report current event
+D.	 For commercial purpose
+ANSWER: D
+
+The size/dimension of a standard library card catalogue is
+A.  2cm by 6cm 
+B. 7.5 inches by 12.5 inches 
+C. 3 inches by 5 inches 
+D. 4cm by 2cm
+ANSWER: C
+
+The two major processes of organising library materials are ---------and ----------------
+A.	Cataloguing and Classification
+B.	 Reference and Circulation 
+C.	 Serials and plagiarisation 
+D.	 Circulation and Classification
+ANSWER: A
+
+Using another person’s work without giving credit or acknowledging the author or source is 
+A.  Favouritism
+B.  Plagiarism 
+C.  Concession
+D.  Idealism
+ANSWER: B
+
+The exclusive right given to authors to protect their works from unlawful reproduction by others is………….  
+A.  Copyright
+B.  Piracy
+C. Reproduction right
+D. Business Right
+ANSWER: A
+
+Mutilation of library books denotes
+A.  Anti-social behavior
+B. anti-library use behaviour 
+C. Cruelty to other users
+D. Security precautions
+ANSWER: B
+
+---------------- are published in volumes, parts, issues, daily, weekly, fortnightly, monthly and yearly 
+A.  Reference materials  
+B. Serials Materials
+C. Books
+D. none of the above
+ANSWER: B
+
+The followings are functions of libraries except
+A.  Provision of materials for teaching and learning
+B.  Organization of materials through cataloguing and Classification
+C.  Lending of materials to users 
+D.  Issuing tickets to users for free lunch
+ANSWER: D
+
+Directories and Dictionaries are kept in which section of the library?
+A.	 Reference 
+B.	 Serials
+C.	 Circulation 
+D.	 Technical Services
+ANSWER: A
+
+A distinguishing word or phrase, usually appearing in a publication, naming the publication or work contained in it is the --------------
+A.	 Half title 
+B.	 Recto 
+C.	 Title
+D.	  Preface
+ANSWER: C
+
+All BUT one are Non-Books materials in the library
+A.	Microfiche 
+B.	 Photograph
+C.	  Textbooks
+D.	  Slides 
+ANSWER: C
+
+The following are examples of biological agents to damage of library resources except
+A.	Book lice 
+B.	 Insects 
+C.	  Mildew
+D.	   Flood
+ANSWER: D
+
+A library stocked with distinct and specialized information resources mainly for researchers and professionals is called 
+A.	 Public library
+B.	 School library 
+C.	 Special library
+D.	 e-library
+ANSWER : C
+
+The apex library in Nigeria is
+A. School Library
+B.  Academic Library
+C. National Library
+D. Research Library
+ANSWER: C
+
+In an academic library, theses, conference papers and journals are stocked in 
+A. Circulation Section
+B. Reference Section
+C. cataloguing section 
+D. Serial Section
+ANSWER: D
+
+When the author of a book is not known, the main entry card will come under ----------
+A.	Subject  
+B.	 Title
+C.	  Series
+D.	  None of the above
+ANSWER: B
+
+When a book has more than three authors, the main entry will be 
+A.	Title
+B.	 Subject 
+C.	 Principal author
+D.	 Series
+ANSWER: A
+
+The head of a university library is
+A.	 University librarian
+B.	  reference librarians
+C.	  Principal librarian 
+D.	 Chief librarian
+ANSWER: A
+
+The following are ways of acquiring information materials for the library  except
+A.	 Purchase
+B.	 Gifts and donations 
+C.	 Bequeath 
+D.	 stock exchange and dissemination
+ANSWER: D
+
+Covenant University Library is an example of  
+A.	 Academic Library
+B.	 University Library 
+C.	 School Library 
+D.	 Private Library
+ANSWER: A
+
+Ministry of Justice Library is an example of 
+A.	 Standard Library 
+B.	 Court Library
+C.	Special Library 
+D.	 Private Library 
+ANSWER: C
+
+All of the following are features of serials except
+A.	Serials are published by many contributors
+B.	they usually run into volumes
+C.	 research and academic associations publish journals 
+D.	they are usually marked “Ref” at the call mark.
+ANSWER: D
+
+All BUT one are sources of damage to library materials
+A. Climatic/ Environmental Factors 
+B. Biological Factors 
+C. Mechanical Factors
+D. Chemical Factors
+ANSWER: C
+
+The following are benefits of using a Database except  
+A.	Substantial Time Savings 
+B.	 More Accessible Information
+C.	 Ability to link data
+D.	  information explosion
+ANSWER: D
+
+Reference books are:
+A. Meant to be read from page to page or cover to cover
+B. Meant to be borrowed from the library  
+C.  Meant for consultation only within the library and they are not to be read from page to page  
+D. For librarians and lecturers only
+ANSWER: C
+
+ISSN is an acronym for 
+A.	International Serial Standard Number 
+B.  International Standard Serial Number 
+C. International Standard Serial of Nigeria  
+D. International Serial Standard of Nigeria
+ANSWER: B
+
+Which library has the legal deposit right to acquire all the publications made by individuals and organization within the country
+A.  National Library 
+B.  Public Library
+C.  Academic Library
+D. Special Library
+ANSWER: A
+
+The following are parts of a book except:
+A. Copyright Page
+B.  Recto 
+C. Title Page
+D. Graphic page
+ANSWER: D
+
+The accession number of a book in the library ranges from 00042 – 00046. How many copies of the book are in the library?
+A. 5
+B. 6
+C. 10
+D. 4
+ANSWER: A
+
+What is the full meaning of OPAC?
+A. Organization of Public Acquisition Catalogue
+B. Organization of Private Acquisition Catalogue
+C. On-Line Public Access Catalogue
+D. Organised Publications Acquired Catalogue
+ANSWER: C
+
+Gazettes are
+A. Serials 
+B.  Government publications 
+C. Geographical Dictionary
+D. Occassional Publications
+ANSWER: B
+
+The materials in……………. and …………….. Sections of the library cannot be borrowed
+A.  Circulation and cataloguing 
+B. Serials and reference 
+C. Bindery and classification 
+D. Cataloguing and Bindery
+ANSWER: B
+
+Call Mark comprises of………………..  and…………………. 
+A. Class mark and cutter numbers
+B. Author and title numbers 
+C. Book and Journal numbers
+D. Subject and author numbers
+ANSWER: A
+
+The approaches to filing of library catalogue entries are
+A. Word by letter and word by word
+B.  Letter by letter and word by letter 
+C.  Letter by word and word by letter
+D. Letter by letter and word by word
+ANSWER: D
+
+A book authored by Owoeye, P., Dahunsi, F  and Bamidele, O. The principal author is
+A. Owoeye, P  
+B. Dahunsi, F
+C.  Bamidele O 
+D. Owoeye P and Bamidele O
+ANSWER: A
+
+Two types of cross references are:
+A.  See and See also reference
+B.  Letter by letter reference 
+C. Word by word reference 
+D. See and See reference 
+ANSWER: A
+
+Who is in charge of reference materials? 
+A. Serial Librarian 
+B. Cataloger  
+C. Reference Librarian 
+D. Acquisition Librarian
+ANSWER: C
+
+The following are anti-library use behavior except
+A. Theft and mutilations of library materials 
+B. Indecent dressing and body exposure in the library
+C.  Reading in the library
+D. Verbal harassment of library staff
+ANSWER: C
+
+National Library of Nigeria was established in
+A. 1964 
+B. 1968
+C. 1967
+D. 1982
+ANSWER: A
+
+ISBN is an acronym for
+A. International Serial Book Number
+B. International Standard Book Number 
+C. International Social Book Number 
+D. International Software Book Number
+ANSWER: B
+
+All BUT one are library online Databases except
+A. EBSCOhost 
+B. ERIC  
+C. JSTOR  
+D. Google
+ANSWER: D
+
+The following are shortcomings of databases except
+A. Subject coverage 
+B. Publication coverage 
+C. Date Coverage
+D. Data Coverage
+ANSWER: D
+
+Copyright infringement is ------------- 
+A.  the use of works protected by copyright law without permission
+B. lawful right to reproduce  protected work 
+C. rights to make derivative works
+D. inability to use copyrighted materials 
+ANSWER: A
+
+The process of making students learn and be familiar to the library to make effective use of library resources is
+A. Library Education 
+B. Library Information 
+C. skills acquisition
+D. Library dissemination
+ANSWER: A
+
+Another name for Tracing is ………………….
+A.  Added Entry
+B. Collation 
+C. Pagination
+D. Series
+ANSWER: A
+
+What does class K stand for in the Library of Congress Classification Scheme
+A. Music
+B. Law
+C. Medicine
+D. Fine Arts
+Anwer: B
+
+The difference between Gazettes and Gazetteers is
+A.	 Gazettes are government publications while gazetteers  are  unpublished documents
+B.	  Both are geographical dictionaries
+C.	 Gazetteers are geographical dictionaries while Gazettes are government publications
+D.	Gazette is a geographical  dictionary while Gazetteer is a government publication
+ANSWER: C
+
+Which of these is not a classification scheme?
+A.	Dewey Decimal Classification Scheme 
+B.	 Library of Congress Classification Scheme
+C.	  Moys Classification Scheme  
+D.	 National Library Classification Scheme
+ANSWER: D
+
+The following are steps in Acquisition of Library Automation System except
+A.  Analysing the needs 
+B.  Networking
+C. Software Selection
+D.  Automation Management
+ANSWER: D
+
+The following are non-print information materials except
+A. Audio-visual materials
+B. Microforms
+C. Cartographic materials
+D. Serials materials
+ANSWER: D
+
+The full page illustration that usually faces the title page is 
+A. Title 
+B. Verso
+C. Front Piece
+D. Recto
+ANSWER: C
+
+The preventive methods created and applied to protect oneself while on the internet is
+A. Cyber Security 
+B. Cyber protection
+C. Internet Protection
+D. Information management
+ANSWER: A
+
+The distribution of information along a well-defined channel is
+A. information distribution
+B. information sharing
+C. Information explosion
+D. Information security
+ANSWER: B
+
+A set of text-filled or illustrated pages produced in electronic format is 
+A. electronic book
+B. Pamphlet
+C. e-resources
+D.  internet material
+ANSWER: A
+
+Maps, plans and globes are
+A. Cartographic materials
+B. audio-visual materials
+C. Microforms
+D. graphic materials
+ANSWER: A
+
+What is the full meaning of WWW 
+A.  world wide world
+B. World Wide Web
+C. World web wide
+D. World wide word 
+ANSWER: B
+
+What does class Q stand for in the Library of Congress Classification Scheme?
+A.	Philosophy
+B.	 Sciences
+C.	 Law 
+D.	Languages and Literature
+ANSWER: B
+
+In cataloguing, imprint meANSWER: 
+A. Place of publication, publisher and date of publication
+B. date, number of volumes and illustration
+C. edition statement, Series and volumes
+D. printing of catalogue cards.
+ANSWER: A
+
+Statements of Policy Papers, Plans, legislative acts, pact treaty, constitution etc are examples of ..........
+A. Government documents 
+B. State policies
+C. Federal Policies
+D. Local Policies 
+ANSWER: A
+
+A good example of School Library is ;
+A. EKSU Library 
+B. Ado Grammar School Library
+C. Federal Polytechnic Library, Ibadan 
+D. Forestry Research Institute, Ibadan Library
+ANSWER: B
+
+A dictionary of French, English language, Arabic and Spanish Language is an example of  --- dictionary 
+A.  mono-lingual  
+B. bilingual
+C. Multilingual
+D. multicultural
+ANSWER: C
+
+Acts or behaviour that is against the norms of the society is-----------
+A. anti-library use behaviour
+B. anti-social behaviour
+C. cruelty 
+D. aggressive behaviour
+ANSWER: B
+
+Encyclopedia Americana is an example of …………. 
+A. Americana encyclopedia 
+B. Subject encyclopedia 
+C.  General encyclopedia
+D. Children encyclopedia
+ANSWER: C
+
+The following are values of Information Technology except
+A.  It saves time
+B.  It produces up-to-date information 
+C.  It increases efficiency 
+D. It wastes time
+ANSWER: D 
+
+Example of corporate author is  
+A.  Ekiti State University 
+B. Adebayo, B. O.
+C. Anjorin and Alake
+D. Ademola et.al
+ANSWER : A. 
+
+The word “library” is form the Latin word 
+A.	Libra
+B.	Liber
+C.	Liba
+D.	Lib
+ANSWER: 	B
+
+Writing developed in ________
+A.	Germany
+B.	Korea
+C.	China
+D.	Nigeria 
+ANSWER: 	C
+
+These are various forms of anti-library user behaviors except 
+A.	eating in the libraries 
+B.	verbal harassments of library staff 
+C.	mutilation of library materials 
+D.	provision of materials for teaching and learning 
+ANSWER.	D
+
+Libraries are established to __________
+A.	provide materials and services to meet the needs of researchers in various disciplines 
+B.	lend materials to users 
+C.	organize materials through cataloguing and classification 
+D.	all of the above 
+ANSWER:	D
+
+These are the types of libraries we have 
+A.	Academic, Law and EKSU Libraries 
+B.	Private, National and Medical Libraries 
+C.	Academic, Public and National Libraries 
+D.	Special, ABUAD, and State Library Boards 
+ANSWER:	C
+
+The overall head of a university library is 
+A.	Library Officer 
+B	University Librarian 
+C.	Academic Librarian
+D.	Librarian 
+ANSWER.	B
+
+Which unit attends to user’s inquiries, lending of books, and collection of fines for overdue books
+a	Circulation Unit 
+b	Cataloguing Unit
+c	Reference Unit 
+d	Serial Unit 
+ANSWER:	A
+
+The National Library of Nigeria was established by the Federal Government of Nigeria in the year
+a	1974
+b	1984
+c	1964
+d	1994
+ANSWER:	C
+
+The following are examples of Natural disasters to damage of library materials except 
+a	Flood
+b	Earthquake
+c	Rodents 
+d	Fire
+ANSWER:	C
+
+__________are the pages that are numbered in roman numerals
+a        Text
+b	Auxiliary pages
+c	Preliminary pages
+d	Preface 
+ANSWER.	C
+
+The left hand page of a book bearing an even page number is ______
+a	Verso
+b	Title page
+c	Recto
+d	All of the above 
+ANSWER.	D
+
+The preface is an introductory statement written by
+a	Librarian 
+b	Author/Authors
+c	Reader
+d	None of the above 
+ANSWER.	B
+
+Examples of Reference information resources include
+a	Encyclopedia 
+b	Dictionaries 
+c	Directories 
+d	All of the above 
+ANSWER.	D
+
+________ and _______ are the types of reference services rendered to users 
+a	Upward and downward 
+b	Direct and Indirect 
+c	Biological and Chemical
+d	Maps and Almanacs 
+ANSWER.	B
+
+________ consists of a metal frames for holding catalogues cards
+a	Stripdex catalogue 
+b	Book catalogue
+c	Card catalogue
+d	Shealf catalogue 
+ANSWER:	A
+
+Examples of non-print resources are these except 
+a	Audio-visual materials 
+b	Cartographic materials 
+c	Manuscripts 
+d	Microforms 
+ANSWER:	C
+
+Control desk can be found at _______
+a	Circulation department
+b	Serials department
+c	 Reference department
+d	Acquisition department
+ANSWER:	A
+
+A set of text-filled pages produced in electronic format is known as ____
+a	E-tape
+b	Electronic book 
+c	E-page
+d	E-mail
+ANSWER:	B
+
+________ are published in volume, parts, issues, daily, weekly, fortnightly, monthly and yearly
+a	Reference materials 
+b	Serials materials
+c	Books
+d	None of the above 
+ANSWER:	B
+
+Serials is to ISSN as ______ is to ISBN 
+a	Pamphlets 
+b	Manuals 
+c	Books
+d	Maps
+ANSWER:	C
+
+All these are methods of preserving serial information resources except 
+a	Temperature 
+b	Periodical fumigation 
+c	Relative humidity 
+d	Water splashes 
+ANSWER:	D
+
+Ekiti State University library is an example of 
+a	Special library 
+b	Academic library 
+c	Public library 
+d	School library 
+ANSWER: 	B
+
+Which one of these is an e-learning tools 
+a	Content development tools 
+b	Computer 
+c	Internet 
+d	All of the above 
+ANSWER:	D
+
+________ is NOT an example of electronic material 
+a	E-mails 
+b	E-journals 
+c	E-book
+d	E-theses
+ANSWER:	A
+
+What is the full meaning of OPAC
+a	Online Public Access Catalogue 
+b	Online Public Access Cataloguing 
+c	Online Public Access Classification 
+d	Online Public Access Computer 
+ANSWER:	A
+
+One of the advantages of the internet to libraries is _______
+a	It makes students and librarians to be lazy 
+b	It is error free
+c	It allows access to bibliographic records of books, e-journals etc 
+d	It wastes time 
+ANSWER: C
+
+SLIMS is an acronym for ______
+a	Seneyan Library Management Software 
+b	Senegal Library Management Software
+c	Seneyan Library Machine Software 
+d	None of the above 
+ANSWER: A
+
+OPAC is ________
+a	A book catalogue 
+b	A shealf catalogue 
+c	A card catalogue 
+d	An electronic catalogue 
+ANSWER: D
+
+________ is a preventive methods created and applied to protect oneself while on the internet 
+a. 	Cyber security 
+b. 	Cyber space 
+c.	Cyber scam 
+d	Cyber protection 
+ANSWER: A
+
+_________ is a legal right assigned to a author to protect his/her intellectual work
+a	Photocopy right 
+b	Civil right 
+c	Copyright 
+d	Will 
+ANSWER: C
+
+The act of taking another person’s writing, conversation, song, or even ideas and passing it off as your own is called _______ 
+a	Copy copy 
+b	Citation 
+c	Plagiarism 
+d	None of the above 
+ANSWER: C
+
+Which is not an example of online library database 
+a	JSTOR
+b	MEDLine 
+c	EBSCO host 
+d	GOOGLE
+ANSWER: D
+
+Control desk can be found at _______
+a	Circulation department 
+b	Acquisition department 
+c	Serials department 
+d	Reference department 
+ANSWER: A
+
+The dimension of a standard library catalogue card is 
+a	7.5 inches by 12.5 inches 
+b	3 inches by 5 inches 
+c	3cm by 5cm
+d	None of the above 
+ANSWER: B
+
+_______ are research and academic information resource carried out by experts in their various fields of learning about recent discoveries 
+a	Newspaper 
+b	Journal 
+c	Gazette 
+d	Magazine 
+ANSWER:  B
+
+Pages of a book that are numbered in roman numerals is called 
+a	Appendix
+b	Glossary 
+c	The preliminary pages 
+d	Auxiliary pages 
+ANSWER: C
+
+The late Chief Obafemi Awolowo Library is an example of 
+a	Public libraries 
+b	National libraries 
+c	Private libraries 
+d	Special library
+ANSWER: C
+
+_______ is an act of aligning or adjusting new users to the library and its materials 
+a	Library orientation 
+b	Library information 
+c	Library automation 
+d	Library town crier 
+ANSWER:  A
+
+The major purpose of library education is 
+a	Helping the students understand the library environment 
+b	Catalogue and classification process 
+c	Creating enabling environment that make users get satisfied with his/her information needs 
+d	All of the above 
+ANSWER: D
+
+________ is a government publication usually devoted to current events especially with the government circles. 
+a	Gazettes 
+b	Index
+c	Year book 
+d	Directories 
+ANSWER:  A
+
+Mutilation of library materials is ________
+a	Anti-library user behavior 
+b	Anti-behaviour 
+c	Theft 
+d	Good conduct 
+ANSWER: A
+
+_______ is a change of original state of any material by interaction between the object and the factors of destruction 
+a	Destruction 
+b	Deterioration 
+c	Shrinkage 
+d	Abrasion 
+ANSWER: B
+
+Parts of book includes all of these except 
+a	Spine 
+b	Revision exercises 
+c	Copyright page 
+d	Title page 
+ANSWER: B
+
+_______ is a small dictionary designed specifically from the key terms used in the textbook
+a	Glossary 
+b	Maps
+c	Magazine 
+d	Dictionary 
+ANSWER: A
+
+The approaches to filing of library catalogue entries are 
+a	Word by Letter and Word by Word 
+b	Letter by Letter and Word by Word 
+c	Letter by Letter and Word by Letter 
+d	Letter by Word and Word by Letter 
+ANSWER: B
+
+Example of a corporate author is _______ 
+a	Federal University, Oye-Ekiti
+b	Ogunleye A.O
+c	Agbetuyi et al.
+d	Familusi and Fagbemiro
+ANSWER: A
+
+Two main Components of Information Technology are
+a	ICT/Telecommunication 
+b	Computer/Communication 
+c	Computer/the network computer 
+d	Hardware/Software 
+ANSWER: D
+
+Which of these is NOT an input device _______
+a	Scanners 
+b	Printers
+c	Mouse
+d	Keyboard 
+ANSWER: B
+
+If books are shelved on shelves, serials materials are arranged on 
+a	Shelves
+b	Display racks 
+c	Trolley
+d	Wardrobe 
+ANSWER: B
+
+_______ is the hall mark of serials 
+a	Past information 
+b	Permanent information 
+c	Current information 
+d	None of the above 
+ANSWER:  C
+
+_________ consists of metal frames for holding catalogue cards 
+a	Stripdex
+b	Clippings 
+c	Strings 
+d	File 
+ANSWER: A
+
+A good catalogue must 
+a	Contain all bibliographic information for accessing and retrieval purposes 
+b	Be readily accessible and easy to use  
+c	Contain entries, cross references and filing rules with examples 
+d	All of the above 
+ANSWER: D
+
+MARC is an acronym for 
+a	Machine Readable Classification 
+b	Machine Readable Catalogue 
+c	Machine Readable Computer 
+d	Machine Readable Compatment 
+ANSWER:  B
+
+What are the stages of system analysis for library automation 
+a	Planning 
+b	Analysis
+c	Design 
+d	All of the above 
+ANSWER: D
+
+What are the precautions to be exercised when sharing information 
+a	Information consent 
+b	Regulation of access 
+c	Security of data 
+d	All of the above 
+ANSWER: D
+
+A library database is 
+a	an organized collection of electronic information
+b	Data 
+c	Database 
+d	None of the above 
+ANSWER: A
+
+________ is the use of computer technology to automate the typical procedures of libraries 
+a	Automated library 
+b	Digital library 
+c	Virtual library 
+d	Electronic library 
+ANSWER:  A
+
+Air conditioners will control ________ in the library 
+a	Darkness 
+b	Temperature and Humidity 
+c	General Hygiene
+d	Ventilation 
+ANSWER: B
+
+The materials in ________ and _____ sections of the library cannot be loaned out 
+a	Circulation and Cataloguing 
+b	Serials and Reference
+c	Bindery and Classification 
+d	Cataloguing and Classification 
+ANSWER: B
+
+Which of these is not a type of database 
+a	Bibliographic 
+b	Full text
+c	Abstract 
+d	Google 
+ANSWER: D
+
+The Headquarters of National Library of Nigeria is in 
+a	Lagos 
+b	Kaduna
+c	Abuja 
+d	Port-Harcourt 
+ANSWER: C
+
+Which unit is responsible for the preservation and conservation of information materials 
+a	Circulation 
+b	Bindery
+c	Cataloguing 
+d	Reserved
+ANSWER: B
+
+University, Polytechnics, Colleges of Education and other institutions of higher learning have which kind of libraries
+a	Academic libraries 
+b	School libraries 
+c	Public libraries 
+d	Special libraries 
+ANSWER: A
+
+The duty of helping the user’s locate suitable books on a given topic is the services of 
+a	Reader’s advisory services 
+b	Advisory services
+c	Service adviser
+d	Reader’s services
+ANSWER: A
+
+All these are functions of a library except 
+a	Provision of materials for teaching and learning 
+b	Organization of materials through cataloguing and classification 
+c	Lending of materials to users
+d	All of the above 
+ANSWER: D
+
+Non print materials are all of these except 
+a	Electronic resources 
+b	Audio materials 
+c	Manuscripts
+d	Cartographic materials 
+ANSWER: C
+
+________ are materials of different form, equipment, and software located within a library to serve the information needs of the library community 
+A.	Library resources
+B.	Cataloguing 
+C.	Data
+D.	Book
+ANSWER.	A
+
+________ is ordering, receiving and invoicing print and non-print materials 
+a	Acquisition 
+b	Circulation 
+c	Serial 
+d	Reference 
+ANSWER:	A
+
+Example of a reference material is 
+A.	Journals
+B.	Dictionaries 
+C.	Dissertation 
+D.	Textbooks
+ANSWER:	B
+
+A short summary of a report, speech, or academic paper is called 
+A.	Preface 
+B.	Abstract
+C.	Acknowledgement 
+D.	Introduction
+ANSWER:	B 
+ 
+Any reference made in a text or a direct quotation, summarizing, and paraphrasing is called?
+A.	Reference    
+B.	Bibliography
+C.	Citation
+D.	None of the above
+ANSWER: C
+
+In Greek and Roman language, book is called?
+A.	Liber
+B.	Bibliotheca
+C.	A and B
+D.	None of the above
+ANSWER: B
+
+The development of writing starts from?
+A. Rome 
+B. Latin
+C. China
+D. All of the above
+ANSWER: C
+
+Love for books and reading is created by?
+A.	Library education
+B.	Library orientation
+C.	User education
+D.	All of the above
+ANSWER: D
+
+Library orientation can take place in different forms or formats known as?
+A.	Formal library orientation
+B.	Informal library orientation
+C.	Electronical library orientation
+D.	A and B
+ANSWER: D
+
+Cruelty, theft, vandalism, manipulation and aggression are_________ in the library organisation.
+A.	Anti-social behaviour
+B.	Anti-library behaviour
+C.	A and B
+D.	All of the above
+ANSWER: B
+
+The first library was established under the ____________empire.
+A.	Lugard 
+B.	European
+C.	Roman
+D.	Jonathan
+ANSWER: C
+
+Preservation and conservation of library materials are solely under the responsibility of _______________________
+A.	Circulation unit
+B.	Reference unit
+C.	Bindery unit
+D.	Cataloguing unit
+ANSWER: C
+
+The first Chinese book consisted of _________?
+A.	Clay tablets
+B.	Scapulae 
+C.	Tortoise-shell
+D.	B and C
+ANSWER: D
+
+In 1943 Goldsmith Johann Gutenberg first assembled a mechanical system in ________?
+A.	China
+B.	Western Europe
+C.	East Asia
+D.	Germany
+ANSWER: D
+
+Sources of damage and deterioration of library materials can be divided into how many factors?
+A.	Two 
+B.	Three
+C.	Five
+D.	Six
+ANSWER: C
+
+“Foreward “contains remarks about a book and it is usually written by _________?
+A.	Author
+B.	Reader
+C.	Co-Author
+D.	Someone other than the Author
+ANSWER: D
+
+Most of the time a text pages are numbered in_________?
+A.	Roman figures
+B.	Arabic numerals
+C.	A and B
+D.	None of the above
+ANSWER: B
+
+The ancillary pages in a book are divided into how many parts?
+A.	Five
+B.	Twelve
+C.	Two
+D.	Three
+ANSWER: A
+
+What is SQ3R in full?
+A.	Study, quietly, read, relax and re-read
+B.	Study, question, read, relax and refresh
+C.	Survey, question, read, recall and review
+D.	None of the above
+ANSWER: C
+
+Study techniques are divided into__________?
+A.	Time management 
+B.	Reading and note taking
+C.	Motivation and Goal setting
+D.	A and C
+ANSWER: D
+
+There are different_______ types of reference services namely?
+A.	Formal and informal reference service
+B.	Direct and indirect reference services
+C.	A and B
+D.	None of the above
+ANSWER: B
+
+ERS means__________
+A.	Electronic  Reference Sources
+B.	Electronic Reader Services
+C.	Electronic Reference Services
+D.	Electronic Reader Sources
+ANWERS: C
+
+Liber is a word derived from________?
+A.	Latin
+B.	Greek
+C.	Rome
+D.	None of the above
+ANSWER: A
+
+The words” Liber” and “Bibliotheca” mean _______?
+A.	Book
+B.	Library
+C.	Archives
+D.	None of the above
+ANSWER: A
+
+Improper storage, rough handling, deliberate abusive are examples of  _________  factors in the deterioration of library materials.
+A.	Natural factor
+B.	Chemical factor
+C.	Environmental factor
+D.	Human factor
+ANSWER: D
+
+Curative measure is __________ step to library materials.
+A.	Restoration
+B.	Preservation
+C.	Conservation
+D.	A, B and C
+ANSWER: D
+
+Auxillary pages consist of __________
+A.	Reference and index
+B.	Appendix
+C.	Bibliography and glossary
+D.	All of the above
+ANSWER: D
+
+Harvard referencing style consisted of these parameters ________?
+A.	Authors or editors family names
+B.	The date of publication
+C.	A and B
+D.	Topic of a publication
+ANSWER: C
+
+An organised list of works cited in a text is called
+A.	Bibliography
+B.	Reference list
+C.	Citation
+D.	All of the above
+ANSWER: B
+
+Substantial time saving is the benefit of using___________?
+A.	The library
+B.	Database
+C.	C and B
+D.	None of the above
+ANSWER: B
+_______________are words connectors placed between search terms to narrow or expand a search.
+A.	Keywords searching 
+B.	Boolean operator
+C.	A and B
+D.	None of the above
+ANSWER: B
+
+Examples of Boolean operators are listed below except __________?
+A.	Or
+B.	And
+C.	Not
+D.	Yes
+ANSWER: D
+
+Searching for information while using database can be done through all below except_________?
+A.	Keyword
+B.	Author
+C.	Journal
+D.	Title
+                  ANSWER:  C
+
+The following are Library databases except _______________?
+A.	ERIC
+B.	JSTOR
+C.	MEDLine
+D.	HOST
+ANSWER: D
+
+A precise overview of a book can be attained through reading the____________________?
+A.	Abstract
+B.	Index
+C.	Acknowledgement
+D.	Encyclopaedia
+ANSWER: A
+
+A characteristic of reference materials is ___________________ below?
+A.	It is interesting and entertaining
+B.	It increases curiosity
+C.	It is not meant to be read from page to page 
+D.	All of the above
+ANSWER: C
+
+The two types of encyclopaedia is ______ and _______ ?
+A.	General and specialized
+B.	Specialised and specific
+C.	General and specific
+D.	None of the above
+ANSWER: A
+
+A dictionary that is restricted to a particular subject is called____________?
+A.	General dictionary
+B.	Specialised dictionary
+C.	Macmillan dictionary
+D.	The world book dictionary
+ANSWER: B
+
+List of names and addresses of a person, organisation or countries are known to be ________?
+A.	Telephone directories
+B.	Countries directories
+C.	A and B
+D.	Directories
+ANSWER: D
+
+An annual volume of current information in a descriptive and statistical forms or formats limited to a specific field is _________?
+A.	Encyclopaedia Britannica
+B.	Handbook
+C.	Yearbook
+D.	Guidebook
+ANSWER: C
+
+Publication usually devoted to current events within the government circles is called______________?
+A.	Gazetteers
+B.	Gazettes
+C.	Current affairs
+D.	Manual
+ANSWER: B
+
+A small book which contains concise information, principles, procedures, tables, diagram and graphs are called_______________?
+A.	Instruction book
+B.	Guide book
+C.	Handbook
+D.	All of the above
+ANSWER: C
+
+A book that gives information about a city, what to see, where to stay and how to get there is ______?
+A.	Directive
+B.	Guide book
+C.	Maps
+D.	Atlas
+ANSWER: B
+
+A pictorial or geographical representation of geographical areas is______?
+A.	Maps
+B.	Atlas
+C.	A and B
+D.	Almanacs
+ANSWER: A
+
+Recent discoveries in science and technologies, medicine, population figures and entertainment are referred to as__________?
+A.	General fact book
+B.	Series
+C.	Almanacs
+D.	None of the above
+ANSWER: C
+
+Electronic reference services can be categorised into two types, namely_______?
+A.	E-mail reference services
+B.	Computer reference services
+C.	Asynchronous and synchronous services
+D.	A and B
+ANSWER: C
+
+A long written work dealing with one subject in any given area of study or descriptive is _______?
+A.	Reviews
+B.	Index
+C.	Gazetters
+D.	Treaties
+ANSWER: D
+
+Characteristics of a specialised dictionary are all bellow except_______?
+A.	It deals with terms  on a particular subject
+B.	It is a subject dictionary
+C.	It gives detailed information about specific topic
+D.	It lists and identifies notable persons
+ANSWER: D
+
+The two categories of library materials is_________ and _______?
+A.	Print materials
+B.	CDROM material
+C.	Non- Print material
+D.	A and C
+ANSWER: D
+
+Electronic resources, Audio Visual material and microforms are example of _________ library materials.
+A.	Non-print
+B.	CDROM
+C.	Print materials
+D.	None of the above
+ANSWER: A
+
+The library materials that can only be accessed through the organs of seeing and hearing is ______library materials.
+A.	Micro forms
+B.	 Graphic materials
+C.	Audio materials
+D.	Audio-visual materials
+ANSWER: D
+
+Any information materials made up of image too small to be read by the naked eyes but could only be accompanied by readers or printers are_________ library materials.
+A.	Graphic materials
+B.	Micro forms
+C.	A and B
+D.	Cartographic materials
+ANSWER: B
+
+Bibliographic searching or verification, preparation of order, file maintenance, receipts of materials and payment for information materials are different process to _______?
+A.	Cataloguing of library materials
+B.	Acquisition of library materials
+C.	A and B
+D.	None of the above
+ANSWER: B 
+
+Information technology comprises of two major components ____________ and _____________?
+A.	Computer/ the network computer system
+B.	Hardware and software
+C.	ICT/telecommunication
+D.	All of the above
+ANSWER: B
+
+Magazine, bulletin, newsletter, research report and organisational annual reports are ______
+A.	Reference materials
+B.	Serials materials
+C.	A and B
+D.	None of the above
+ANSWER: B
+
+Serials carry ISSN while__________ carry ISBN.
+A.	CDROM
+B.	Books
+C.	Reference materials
+D.	Electronic information resources.
+ANSWER: B
+
+The easiest way to search for print holdings materials in a library stacks is through________?
+A.	Catalogue 
+B.	Shelf-browsing
+C.	Database index
+D.	Ask a library officer to get it
+ANSWER: A
+
+The following are examples of biological agents to library resources except_________?
+A.	Book lice
+B.	Insect
+C.	Mildew
+D.	Flood
+ANSWER: D
+
+Air conditioners will control______ in the library.
+A.	Darkness
+B.	Temperature and humidity
+C.	Ventilation
+D.	General Hygiene
+ANSWER: B
+
+The materials in _____ and _____ sections of the library cannot be borrowed.
+A.	Circulation and cataloguing 
+B.	Serials and reference
+C.	Bindery and classification 
+D.	Cataloguing and bindery
+ANSWER: B
+
+Which library has legal deposit right to acquire all the publications made by individuals and organisations within the country.
+A.	Academic library
+B.	Special library
+C.	National library
+D.	National assembly
+ANSWER: C
+
+The right side of a book usually bearing an odd number is_________?
+A.	Verso
+B.	Recto
+C.	Half title page
+D.	Fly leaves
+ANSWER: B
+
+The leaf which appears prior to the title page that contains only the title of the book is________?
+A.	Half title page
+B.	Fly leaves
+C.	Title page
+D.	Copyright page
+ANSWER: A
+
+What is a virtual library?
+A.	Library building
+B.	Online library
+C.	Private library
+D.	None of the above
+ANSWER: B
+
+L.M.S means_______?
+A.	Library management system
+B.	Learning management system
+C.	Literacy management system
+D.	None of the above
+ANSWER: B
+
+PDAs means_________?
+A.	Personnel directives assistance
+B.	Personal digital assistance
+C.	Protocol directives assistants
+D.	None of the above
+ANSWER: B
+
+Digital book consisting of text, images, or both readable through electronic devices such as phones, computers, I-Pad are called_________?
+A.	Computer books
+B.	Online books
+C.	A and B
+D.	Electronic books
+ANSWER: D
+
+Stripdex cataloguing can also be called________________?
+A.	Visible index
+B.	Card catalogue
+C.	Online public access catalogue
+D.	All of the above
+ANSWER: A
+
+All are classification tools except one
+A.	DDC
+B.	BDC
+C.	UDC
+D.	LC
+ANSWER: B
+
+A mode of alternative link from one heading or entry to another is__________?
+A.	Point reference
+B.	Word reference
+C.	See also reference
+D.	None of the above
+ANSWER: C
+
+The two types of cross reference are__________?
+A.	See reference
+B.	Point reference
+C.	See also reference
+D.	A and C
+ANSWER: D
+
+The different types of classification schemes that cataloguers use globally are all except one.
+A.	Bernard classification scheme
+B.	Colon classification scheme
+C.	Dewey decimal classification scheme
+D.	Charles classification scheme
+ANSWER: D
+
+The steps in acquisition of library automation system are all except  .
+A.	Networking
+B.	Analysing the needs
+C.	Software selection 
+D.	Vendor
+ANSWERS: D
+
+Security on the internet is referred to as_______?
+A.	Online security
+B.	Computer security
+C.	Cyber security
+D.	  Protective mechanism
+ANSWER: C
+
+Library of the present age was derived from the _____ word ‘’Liber’’ meaning Book.
+A.   Spanish
+B.   Latin
+C. English
+D. French
+ANSWER: B
+
+The representation of sound and speech in meaningful form and in graphic form on papyrus, stone, parchment, paper and other similar objects is ______
+A.  Organizing
+B.  Speaking
+C.  Writing
+D.  Farming
+ANSWER: C
+
+The largest and most significant great Library of the ancient world was 
+A.  Library of Alexandria, Egypt
+B.  University of Ibadan Library, Nigeria
+C.  South African Public Library
+D.  Fourah Bay College Library, Sierra Leone
+ANSWER:  A
+
+The first fully functional Library equipped for reference& research, professionally directed and provided with an appropriate building in Nigeria is ________
+A.  University of Nigeria Library, Nsukka
+B.   Obafemi Awolowo University, Ile-Ife
+C.   National Library of  Nigeria, Abuja
+D.  University Library, Ibadan
+ANSWER:  D
+
+The first fully functional Library was established in ______
+A.  1948
+B.  1984
+C.  1968
+D.  1842
+ANSWER: A
+
+The instructions given to users on how to obtain required information by making use of the total resources and materials available in the Library is called__________
+A.  Library user
+B.  Library user education
+C.  Library information
+D.  General education
+ANSWER: B
+
+Acts believed to be against the norms of the society are called
+A.  Anti-social behavior
+B.  Anti-science behavior
+C.  Anti- work behavior
+D.  Anti-study behavior
+ANSWER:  A
+
+Acts that lack considerations for other Library users and often cause damage to Library materials are called_______
+A.  Anti-theft behavior
+B.  Anti-library user behavior
+C.  Anti-section use behavior
+D.  Anti-mutilation
+ANSWER: B
+
+Using other students ID card to have access to the Library is called______
+A.  Personification
+B.  Personify
+C.  Impersonation
+D.  Partiality
+ANSWER: C
+
+Some forms anti-library user behavior include the following except_____
+A.  Eating in the Library
+B.  Fighting in the Library
+C.  Reading quietly in the Library
+D.  Mutilation of Library materials
+ANSWER: C
+
+After making use of books removed from the shelf, you are to __________
+A.  Reshelf the books
+B.  Write on the books
+C.  Leave the books on the table
+D.  Tear the books
+ANSWER:  C
+
+Book loan period is _______ weeks
+A.  Two
+B.  Three
+C. One
+D.  Seven
+ANSWER: A
+
+In a typical University Library, the head of the Library is called _________
+A.  Liberator
+B.  University Librarian
+C.  University informant
+D.  Vice Chancellor
+ANSWER: B
+
+Departments in the University Library include the following EXCEPT
+A.  Technical service department
+B.  Collection development department
+C.  Readers service department
+D.  Group reading department
+ANSWER: D
+
+There are basically ___ types of Library
+A.  6
+B.  5
+C.  4
+D.  7
+ANSWER: A
+
+Libraries situated in and attached to tertiary institutions are called__________
+A. Professional Libraries
+B.  Academic Libraries
+C.  Special Libraries
+D.  School Libraries
+ANSWER:  B
+
+Libraries that belong to, or are attached to primary schools, secondary schools and all other post primary schools are called__________
+A.   School Libraries
+B.  Academic Libraries
+C.  Special Libraries
+D. National Libraries
+ANSWER: A
+
+A Library established and maintained by the federal or central government and also functions as legal depository is called __________
+A.  Academic Library
+B.  National Library
+C.  Deposit  Library
+D.  Private Library
+ANSWER: B
+
+The State Library board is an example of ___________
+A.  Public Library
+B.  Private  Library
+C.  Special Library
+D.  Academic Library
+ANSWER: A
+
+The Cataloguing and Classification unit is under the _________department of the University Library
+A.  Technical service department
+B.  Readers service department
+C.  Collection development
+D.  Serials
+ANSWER:  A
+
+Cracks, shrinkage, brittleness, discoloration, and warping are all reflections of________ on Library materials
+A.  Starvation
+B.  Deterioration
+C.  Collaboration
+D.  Extinguisher
+ANSWER: B
+
+The following are factors responsible for deterioration of Library materials EXCEPT______
+A.  Environmental factors
+B.  Human factors
+C.  Natural disaster
+D.  Case file factors
+ANSWER: D
+
+Theft, book mutilation, back folding of books,are examples of ________ factor in book deterioration
+A.  Human
+B.  Biological
+C.  Natural disaster
+D.  Climatic
+ANSWER: A
+
+Microorganisms like fungus, moulds, insects, rodents in Libraries are______ factors that leads to book deterioration.
+A.  Human
+B.  Biological
+C.  Climatic
+D.  Natural disaster
+ANSWER: B
+
+Preventive measures for biological factors in Library material deterioration include the following EXCEPT
+A.  Eating inside the Library
+B.  Keeping food away from the Library
+C.  Periodic use of insecticide
+D.  Attending to cracks and loose joints in walls and floors
+ANSWER: A
+
+A collection or number of printed pages fastened together and enclosed in a cover is called____________
+A.  Book
+B.  Channel
+C.  Page
+D.  Title
+ANSWER:  A
+
+The right hand page of a book or the front side of a leaf usually odd numbered e.g. 1, 3, 5, 7, e.t.c. is called__________
+A.  Verso
+B.  Recto
+C.  Page
+D.  Copyright
+ANSWER:  B
+
+The left hand of a book usually even numbered is called_________
+A.   Verso
+B.  Recto
+C.  Page
+ D.  Copyright
+ANSWER: A
+
+Parts of a book include the following EXCEPT___________
+A.  The cover
+B.  Spine
+C.  Recto
+D.  Scanner
+ANSWER: D
+
+ _______ Leaves are blank pages which could be first and las leaves in a book
+A.  Fly
+B.  Full
+C.  Film
+D.  Good
+ANSWER: A
+
+Study technique is divided into motivation, goal setting and ________
+A. Manage
+B.  Time management
+C.  Goal management
+D.  Calculation
+ANSWER: B
+
+Information resources designed to be consulted or referred to from time to time for specific information are called________ materials
+A.  Consultant
+B.  Reference
+C.  Searching
+D.  Collecting
+ANSWER: B
+
+Reference information resources include the following EXCEPT
+A.  Encyclopedias
+B.  Dictionaries
+C.  Journals
+D.  Directories
+ANSWER: C
+
+The two main types of encyclopedia are specialized and ________
+A.  General
+B.  Similar
+C.  Curriculum
+D.  Artificial
+ANSWER: A
+
+Library’s information bearing materials are generally categorized into________
+A.  Film and non-film materials
+B.  Print and non-print materials
+C.  Use and non-use materials
+D.  Seen and unseen materials
+ANSWER: B
+
+Non-print resources include the following except_________-
+A.  Microfilms
+B.  Audio-visual materials
+C.  Electronic resources
+D.  Textbooks
+ANSWER:  D
+
+Acquisition of information materials into the Library is done by the_____
+A.  Buying Librarian
+B.  Reference Librarian
+C.   Organization Librarian
+D.  Acquisition Librarian
+ANSWER:  D
+
+Information resources in print and electronic formats that are published in successive parts without a predetermined end are called_______
+A.  Informants
+B.  Serials
+C.  Manual
+D.  Reference
+ANSWER:  B
+
+Libraries generally acquire information materials through the following EXCEPT _________
+A.  Purchase
+B.  Donation
+C.  Bequeath
+D.  Selling
+ANSWER: D
+
+The head of the Serials unit in the Library is called __________
+A.  Journal Librarian
+B.  Print Librarian
+C.  Serials Librarian
+D.  Bulletin Librarian
+ANSWER:  C
+
+Sources of information materials that have not gone through stages of analysis, interpretation, evaluation or modification are called___________
+A.  Primary material source
+B.  Secondary material source
+C. Nursery material source
+D.  Tertiary material source
+ANSWER: A
+
+An example of a secondary information material source is _________
+A.  Journal
+B.  Textbook
+C.  Encyclopaedia
+D. Bulletin
+ANSWER:  B
+
+Tertiary sources of information materials are usually found in the _________section of the Library
+A.  Reference
+B.  Serials
+C.  Bindery
+D.  Circulation
+ANSWER: A
+
+Information materials and holdings in the ______ section are not subject to loan
+A.  Reference
+B.  Science
+C.  General reading room
+D.  Circulation
+ANSWER: A
+
+The section in the Library where newly acquired materials are processed and catalogued and only open to professionals and staff is called __________
+A.  Technical service
+B.  Readers service
+C.  Serial
+D.  Bindery
+ANSWER:  A
+
+The process of entering or recording bibliographical information of Library resources to Library catalogue to assist users in the searching, locating, retrieval and utilization of information without delay is _______
+A.  Locator
+B.  Cataloguing
+C.  Recorder
+D.  Catalyst
+ANSWER: B
+
+ The professional skills of grouping or organizing and assigning of identification codes called call number/mark to catalogued information resources is_______
+A.  Classics
+B.  Clarify
+C.  Clarification
+D.  Classification
+ANSWER: D
+
+The classification scheme adopted globally in academic Libraries is the_________
+A.  Universal decimal classification scheme
+B.  Library of congress classification scheme (LC.
+C.  Moys classification scheme
+D.  Colon classification scheme
+ANSWER: B
+
+Under the LC classification scheme, subjects Law, Agriculture and Medicine are given the notations ___, ___, and ___ respectively
+A.  K, S, R
+B.  R, S, K
+C.  K, R, S
+D.  S, K, R
+ANSWER:  A
+
+The Library catalogue card is ____ inches
+A. ‘2X6’
+B.  ‘3X5’
+C.  ‘4X2’
+D.  ‘3X8’
+ANSWER:  B
+
+Book materials in the Library include the following EXCEPT______
+A.  Textbooks
+B.  Monographs
+C.  Journals
+D.  Floppy disks
+ANSWER:  D
+
+The two major processes of  organizing Library information materials are______&_____
+A.  Cataloguing& Circulation
+B.  Circulation &Classification
+C. Cataloguing & Classification
+D.  Reference & Circulation
+ANSWER:  C
+
+Non-book materials in the Library include the following EXCEPT______
+A.  Microfiche
+B.  Compact disks
+C.  Slides
+D. Textbooks
+ANSWER:  D
+
+A distinguishing word or phrase, usually appearing in publications, naming the publication or work contained in it is the_____
+A.  Verso
+B.  Recto
+C.  Title
+D.  Flyleaf
+ANSWER: C
+
+Acronym for the electronic equivalent of the card catalogue is_______
+A.  OLAC
+B.  ONAC
+C.  OPAC
+D. PACO
+ANSWER:  C
+
+Index, Abstract, Yearbook can be found in the _____ unit of the Library
+A. Serials
+B. Circulation
+C. Reference
+D.  Bindery
+ANSWER:  C
+
+Precautions to be exercised when sharing information include the following EXCEPT______
+A.  Informed consent
+B.  Regulation of access
+C.  Protection of identity
+D.  Exposure of Data
+ANSWER:  D
+
+Illegal means of collecting and sharing data include the following EXCEPT_______
+A. Hacking
+B.  Identity theft
+C.  Informed consent
+D.  Wiretapping
+ANSWER:  C
+
+Preventive measures created and applied to protect oneself while on the internet and to protect information from being stolen, compromised, or attacked is called________
+A.  Cybernating
+B.  Cyber system
+C.  Cyber security
+D. Hibernating
+ANSWER:  C
+
+An electronic identificationcard attached to a user who visits a site is called_______
+A.  Cookies
+B.  Candy
+C.  Sweeties
+D.  Cooking
+ANSWER:  A
+
+OPAC means
+A.  Onpoint Public Access Catalogue
+B.  Online Public Access Catalogue
+C.  Onward Public Admission Catalogue
+D.  Only Public Admission Catalogue
+ANSWER:  B
+
+A  legal right assigned to author or creator of a work in order to protect his intellectual product till a time fixed by the law for him to enjoy sole right of the work is_____
+A.  Copycat
+B.  Copyright
+C.  Copyload
+D.  Copying
+ANSWER:  B
+
+The act of taking another person’s writing. Conversation, song or even idea and passing it off as your own is _______
+A.  Plagiarism
+B.  Plaging
+C.  Copylist
+D.  Player
+ANSWER:  A
+
+An organized collection of electronic information that allows a user to search for a particular topic, article or book in a variety of ways is _______
+A.  Library Database
+B.  Library Board
+C.  Library Internet
+D.  Librarian
+ANSWER:  A
+
+The following are examples of Library database EXCEPT
+A.  EBSCO
+B.  ERIC 
+C.  JSTOR
+D.  MSTOP
+ANSWER:  D
+
+An organized listing of the works cited in a text placed at the end of the document is called______
+A.  Reference list
+B.  Referendum
+C.  Referral
+D.  Refers
+ANSWER:  A
+
+A reference made in a text to a source of information, which could be in the form of a direct quotation, summarizing or paraphrasing is called_______
+A.  Referral
+B.  Citation
+C.  Statue
+D.  Statistics
+ANSWER:  B
+
+The two most widely used referencing styles are_______&_________
+A.  Harvard & Cambridge
+B.  Number & Harvard
+C.  Harvard & Numeric schemes
+D.  Numeric & Cambridge
+ANSWER:  C
+
+The Card Catalogue is produced from______
+A.  Cardboard paper
+B.  Tissue paper
+C.  Cello tape
+D.  Rayon
+ANSWER:  A
+
+Bibliographical information which could be used to access information resources from the Library include the following EXCEPT________
+A.  Title
+B.  Author’s name
+C.  Subject
+D.  Number of pages
+ANSWER:  D
+
+The following are the features of a library card catalogue except.
+A. Author, Title, place of publication, author’s statement of responsibility and year of publication
+B. Accession number, ISBN, tracings, collation, Series 
+C. Cataloguing number, ISBN, Acquisition date, shelf list, collation
+D. Author, call mark, accession number, tracings or added entries, imprint
+ANSWER: C
+
+All of the following are importance of studying the history of the library except 
+A. to increase student’s curiosity and interest
+         B. to Show importance of library
+         C. it is interesting and entertaining 
+         D. for bibliographic classification
+ANSWER: D 
+
+……………… was used to preserve paper since the 3rd century A.D
+ A. vellum  
+ B. parchment
+ C. papyrus
+ D. insecticide 
+ANSWER: D
+
+The first attempt to control temperature in a library in hot climate was carried out at …………………… 
+A. Shirazi 
+B. Greece
+C. Germany
+D. Egypt
+ANSWER: A
+
+The mechanical systems involved printing press were probably first assembled in……………… 
+A. China
+B. Mesopotamia 
+C. Germany
+D. United Kingdom
+ANSWER: C
+
+………………….. was the goldsmith who first assembled printing press in Western Europe
+A. John Gruke
+B. Thomas Edison 
+C. David Livingstone
+D. Johann Gutenberg
+ANSWER: D
+
+The first libraries consisted of archives of the earliest form of writing in ………….. 
+A. Parchment
+B. Clay tablets
+C. Vellum
+D. papers
+ANSWER: B
+
+According to the historical development of libraries, the earlier libraries were situated in ……………….. 
+A. University
+B. Temple rooms
+C. museums
+D. Archives
+ANSWER: B
+
+……………….. was the largest and the most significant great library of the ancient word 
+A. Library of Ephesus 
+B. Library of the Senator Tiberius 
+C. Library of Julius Caesar 
+D. Library of Alexandria 
+ANSWER: D
+
+One of the following is not the purpose of user education
+ A. to understand library environment 
+          B. to understand library’s arrangements
+        C. help the students to catalogue books 
+         D. help the students to satisfy their information needs
+ANSWER: C
+
+ Library education involves the following except 
+A. bibliographic instruction
+B. library tour 
+C. publication programme
+D. bibliographic mutilation
+ANSWER: D
+
+The act that lacks consideration for other users of the library is called ………… 
+A. library behaviour 
+B. bibliotheraphy  
+C. anti-library use behaviour 
+D. user information behaviour
+ANSWER: C
+
+The act of intentional damaging of library book is called ………………
+A. mutilation
+B. multungulation
+C. mitigation
+D. modification
+ANSWER: A
+
+ The following are ways of vandalizing library materials except 
+A. tearing 
+B. removing ownership stamp
+C. careless handling 
+D. repackaging
+ ANSWER : D
+
+Ekiti State University library is an example of ……….
+A. school library 
+B. special library
+C. academic library 
+D. national library
+ANSWER: C
+
+The head of a university library is called
+A. chief librarian 
+B. head librarian
+C. university librarian 
+D. principal librarian
+ANSWER: C 
+
+One of the following is not a function of the library
+A. provision of materials and services to meet user needs 
+B. organization of materials through cataloguing and classification
+C. reference services 
+D. Radiographic services 
+ANSWER: D
+
+All of the following are types of the library except 
+A. university library
+B. school library 
+C. special library
+D. reprographic library
+ANSWER: D
+
+……………… is the legal depository library 
+A. national library 
+B. public library 
+C. special library
+D. academic library
+ANSWER: A
+
+ The following are responsibilities of circulation section of the library except 
+A. attending to user inquiry
+B. loaning of books 
+C. collection of overdue fines 
+D. cataloguing and classification
+ANSWER: D
+
+……………is the library established and maintained by government or government agencies at federal, state or local government
+A. National library
+B. government library
+C. public library
+D. special library
+ANSWER: C
+
+The following are important units of the library except
+A. circulation, serial, reserve
+B. Government publication, reference, cataloguing 
+C. indexing and abstracting, acquisition, bindery
+D. circulation, reference, e-library, serials, shelf reading,    
+ANSWER: D
+
+The following biological factors can cause damage to library books except
+A. micro-organisms 
+B. insects
+C. rodent
+D. sunlight
+ANSWER: D
+
+If the relative humidity is below …………. the paper gets brittle
+A. 40%
+B. 45%
+C. 48% 
+D. 50%
+ANSWER:  B
+
+………… is the back part of a book that faces outward when you shelf the book right 
+A. verso
+B. recto
+C. spine
+D. Title page
+ANSWER:  C
+
+…………… is page that introduces the book, appears prior to the title page, it typically contains only the title of the book, although, at times, the author’s name and other information may appear
+A. title page
+B. fly leaves
+C. half title page
+D. copyright page
+ANSWER: C
+
+……….. is the blank pages of a book which could be first and last leaves A. copyright page
+B. recto
+C. verso
+D. fly leaves
+ANSWER: D
+
+The small dictionary designed specifically from the words or key terms used in the textbook. 
+A. appendix
+B. glossary
+C. auxiliary pages 
+D. references 
+ANSWER: B
+
+ ……………is a list of all the materials an author read, learnt from, or contributed to his own ideas that are written in the book.
+A. bibliography
+B. references
+C. appendix
+D. compilation
+ANSWER: A
+
+Study technique can be divided into the following stages
+A. motivation, goal setting, recall 
+B. motivation, goal setting, reading
+C. motivation, goal setting, review
+D. motivation, goal setting, time management
+ANSWER: D
+
+……………….  materials are not meant to be read from cover to cover but to be consulted for specific or general information
+A. serials 
+B. government publication
+C. reference
+D. newspapers
+ANSWER:  C
+
+Encyclopaedia Britannica is an example of…………………. encyclopedia 
+A. Specialised
+B. general
+C. subject
+D. biographic
+ANSWER: B
+
+……….. is a dictionary which lists and identifies notable persons by giving important and essential data about each of them
+A. bibliographic
+B. specialist dictionary 
+C. biographic
+D. multilingual
+ANSWER: C   
+
+ ……………. is a government publication usually devoted to current event especially within the government circles.
+A. gazetteer
+B. guidebook
+C. factbook
+D. gazette
+ANSWER: D
+
+………….. is a reference transaction that takes place in real-time with instant response from the reference librarian handling the user queries 
+A. Systematic 
+B. synchronous 
+C. video conferencing 
+D. asynchronous
+ANSWER: B
+
+Ask jeeves is an example of ……………….. 
+A. meta search engine 
+B. google search engine
+C. digital reference robots 
+D. truncation
+ANSWER: C
+
+Which one is odd among these ………….
+A. e-resources
+B. textbook 
+C. audio-visual materials
+D. microforms
+ANSWER: B
+
+…………… are the library materials representing the whole or part of the earth surface or any celestial body at any scale
+A. graph
+B. charts
+C. drawings 
+D. cartographic
+ANSWER: D
+
+…………… are information resources in print and electronic formats that are published in successive parts without predetermined end.
+A. maps
+B. government publication
+C. serials 
+D. e-resources
+ANSWER: C
+
+ The research and academic information resources carried out by experts in their fields of learning about current and up-to-date development and discoveries are published in………………
+A. journals
+B. monograph
+C. school portal
+ D. textbooks
+ANSWER: A
+
+What is the full meaning of ISSN…………….
+A. International serial standard number 
+B. International standards series numbers
+C. International standard serial number
+D. International series standard number
+ANSWER: C 
+
+Which of the following is an example of primary material sources………… 
+A. technical report
+B. index
+C. abstract
+D. government publication
+ANSWER: A
+
+…………… are resources that contain the bibliographic details of information resources in the library. They are meta data and also an index showing the holdings of a particular library
+A. see and see also reference
+B. reference
+C. catalogue 
+D. encyclopedia
+ANSWER:  C
+
+SMART school is an example of ……………..
+A. wifi  
+B. LMS 
+C. e-library 
+D. server
+ANSWER: B
+
+…………….. is the library software use in EKSU library
+A. SLAM
+B. SLIM 
+C. inmagic
+D. koha
+ANSWER: B
+
+ Identify the odd out of these
+A. blog 
+B. e-mail 
+C. content development tools 
+D. OPAC
+ANSWER: D
+
+What is the full meaning of SCORM……….. 
+A. sharing content object reference module
+B. shareable content object resource module
+C. Shareable content object reference model 
+D. sharing content object reference module
+ANSWER: C
+
+…………… is the process of entering the bibliographic information of library resources to the library catalogue to assist users in searching, locations, retrieval and utilization of information without delay………..
+A. call mark
+B. classification 
+C. cataloguing 
+D. collation
+ANSWER: C
+
+ Textbooks that are authored by one, two or three authors, the main entry card should be entered under…………….. 
+A. principal author 
+B. joint author
+C. combined author D. title
+ANSWER: A
+
+When a work is authored by more than three authors, the main entry card is entered under 
+A. joint author 
+B. principal author 
+C. title 
+D. statement of responsibility
+ANSWER: C
+
+The standard dimension of a library catalogue card is …………
+A. 3.5cm by 5 inches 
+B. 7.5m by 12.5cm
+C. 3by 5 inches
+D. 7.5 by 12.5 inches
+ANSWER: C
+
+Which of the following cannot be a catalogue box arrangement
+A. dictionary form 
+B. classified subject format
+C. divided catalogue
+D. OPAC 
+ANSWER: D
+
+…………..is a catalogue which consists of metal frames for holding catalogue cards, its contents could be seen at a glance, its bulkiness constitutes easy mobility and expensive to build
+ A. shelf catalogue 
+B. book catalogue 
+C. Stripdex catalogue 
+D. wooden catalogue box
+ANSWER: C
+
+What is the full meaning of MARC …………..
+ A. Machine Readable Card 
+ B. Machine Readable Character 
+ C. Machine Readable Catalogue
+ D. Machine Readable content
+ANSWER: C
+
+The two types of cross reference are……………….. and ………………
+  A. see and see also referencing
+  B. Chicago & Harvard styles 
+  C. APA & MLA styles
+  D. see & Chicago styles
+ANSWER: A
+
+Which of the following is the classification scheme used in EKSU library A. Benard classification scheme
+B. Bliss classification scheme
+C. Dewey Decimal Classification Scheme
+D. Library of Congress Classification Scheme
+ANSWER: D
+
+In the synopsis of the classification scheme being used in EKSU library, AG stands for
+A. Index 
+B. Directories
+C. Dictionaries
+D. Sociology 
+ANSWER: C
+
+One of the following is not a characteristics of a system 
+A.	organisation 
+B.	 interaction 
+C.	Interlocking
+D.	 central objective 
+ANSWER: C
+
+One of the following library automation software is an open source 
+A.  Koha, ALICE, Virtua, SOUL
+B. SLAM, ALICE, Virtua, SOUL
+C. Inmagic, SLAM, ALICE, Virtua, SOUL  
+D. SLAM, ALICE, Virtua, SOUL
+ANSWER: A
+
+…………implementation is adopted when the old system is completely discarded for the new one.
+A. phase  
+B. plunge 
+C. pilot 
+D. parallel
+ANSWER : B
+
+One of the following is not institutional repository software……..
+A. CDSWare
+B. Dspace
+C. E-prints
+D. Libero
+ANSWER: D
+
+……………. Refers to the use of computer technology to perform the typical procedures of libraries such as cataloguing, circulation to easy operation and saving human power and time. 
+A. automation 
+B. Information technology
+C. Internet 
+D. electronic library
+ ANSWER: A
+
+ ………….. is a legal right assigned to the author or creator of a work in order to protect his intellectual product till such a time as fixed by the law within which he is to enjoy a sole right to make pecuniary gains.
+A. intellectual right 
+B. copyright 
+C. moral right
+D. information right
+ANSWER : B 
+
+Fair use and fair dealing exception are fairly limited and exist for the purposes of the following except 
+A. non-commercial research and private study
+B. criticism and review
+C. reporting current events 
+D. copyright
+ANSWER: D
+
+………..Collation in an entry card means 
+A. call mark, publisher and added entry 
+B. ISBN number, Accession numbers and main entry 
+C. pagination, illustration, size/height
+D. title, author, statement of responsibility
+ ANSWER: C
+
+The following are the approaches to the library catalogue except
+A. Author 
+B. subject 
+C. Title 
+D. classifier 
+ANSWER : D
+
+Identify the odd out of the following……………… 
+A. informed consent, regulation of access
+B. regulation of access , protection of identities
+C. protection of identities, informed consent 
+D. security of data, user characteristics
+ANSWER: D
+ 
+Which of the following is not part of the principles of information security 
+A. confidentiality, integrity, availability
+B. non-repetition confidentiality, integrity 
+C. confidentiality, availability, integrity 
+D. confidentiality, non-repudiation, integrity    
+ANSWER: B
+
+Which of the following can be found in card catalogue descriptions
+A. collation 
+B. series
+C. edition
+D. all of the above
+ANSWER: D
+
+Which one is odd
+A. Librarian 
+B. illustrator
+C. translator 
+D. cataloguing
+ANSWER: D.
+
+ODLIS stands for:
+A. Online Database of Library and Information Science 
+B. Original Digital Institutional Software 
+C. Online Dictionary of Library and Information Science 
+D. Online Digital of Library and Information Science 
+ANSWER: C 
+
+The largest and most significant great library of the ancient world is -------------
+A. Library of Ashurbanipal 
+B. Library of Alexandria 
+C. Palatine Library 
+D.Vespasian’s library 
+ANSWER: B
+
+The representation of sound and speech in meaningful and graphic form is called ------------ 
+A.	Printing 
+B. Instant messaging 
+C. Pictography 
+D. Writing 
+ANSWER: D
+
+The history of library began with the first efforts to organize collections of -------
+A.	Documents
+B.	Symbols 
+C.	Pictures
+D.	Stone 
+ANSWER: A
+
+University colleges in Ibadan Nigeria was established in the year -----------
+A.	1958
+B.	1948
+C.	1938
+D.	1928
+ANSWER: B
+
+Forms of disruptive activities to other library users is called ----------------------
+A.	Anti-social behavior
+B.	Anti-library orientation 
+C.	Anti-library behavior 
+D.	Anti-library crisis 
+ANSWER: C
+
+The act of aligning or adjusting view users to the library and its materials is called ------------------
+A.	Library orientation 
+B.	Library rules and regulation 
+C.	Current awareness 
+D.	Reader’s advisory services 
+ANSWER: A
+
+The following are forms of anti-library user behaviour except ----------------------
+A.	Mutilation of library materials 
+B.	Impersonation 
+C.	Total silence 
+D.	Verbal harassments
+ANSWER: C
+
+Forms of library orientation are -------------------------
+A.	Informal and semi-formal library orientation 
+B.	Informal and formal library orientation
+C.	Non-formal and formal library orientation 
+D.	Formal and semi-formal library orientation 
+ANSWER: B
+
+The library orientation given to a group of people in an organized way is called -
+A.	Formal library orientation
+B.	Informal library orientation
+C.	Electronic library orientation  
+D.	Semi-formal library orientation
+ANSWER: A
+
+Basically, we have --------------- types of libraries 
+A.	9
+B.	6
+C.	5
+D.	7
+ANSWER: B
+
+The overall head of a university library is called ---------------------
+A.	Reference librarian
+B.	Principal librarian
+C.	University librarian
+D.	Librarian 
+ANSWER: B
+
+The following units are under technical unit except ------------------
+A.	Cataloguing unit
+B.	Bindery unit
+C.	Circulation unit
+D.	Reprography unit
+ANSWER: C
+
+---------------- library functions as a legal depository 
+A.	National
+B.	Private 
+C.	Public 
+D.	Special
+ANSWER: A
+
+Libraries established by commercial firm, private associate to meet the information needs of its employees are ------------------------
+A.	National libraries
+B.	Special libraries
+C.	Public libraries
+D.	School libraries
+ANSWER: B
+
+The deterioration caused by biological agents is known as -------------------
+A.	Chemical deterioration
+B.	Deacidification 
+C.	Bio-deterioration
+D.	Brittleness 
+ANSWER: C
+
+Publications less than forty-nine pages are regarded as ---------------------
+A.	Pamphlets 
+B.	Books
+C.	Leaves 
+D.	E-book 
+ANSWER: A
+
+Remarks about a book, usually written by someone other than the author is called ------------------
+A.	Introduction
+B.	Preface 
+C.	 Forward
+D.	Acknowledgements 
+ANSWER: C
+
+------------------ is a small dictionary designed specially from the key terms used in the text book
+A.	Appendix 
+B.	Encyclopedia 
+C.	Biographical dictionary 
+D.	Glossary 
+ANSWER: D
+
+----------------- is the process in which all actions are taken to check and retard deterioration
+A.	Restoration 
+B.	Conservation 
+C.	Preservation 
+D.	Curative measure 
+ANSWER: C
+
+----------------- is a geographical dictionary which provides information and data about geographical features 
+A.	Gazettes 
+B.	Biographical dictionary
+C.	Gazetteer
+D.	Atlas 
+ANSWER: C
+
+Personal assistance provided by trained personnel to library users seeking information is referred to as ----------------------
+A.	Reference service
+B.	Digital reference service
+C.	Web cam services 
+D.	Library services 
+ANSWER: A
+
+Two types of electronic reference services are -------------- and -------------------
+A.	E-mail references service, reference via web
+B.	Synchronous, textbook chart
+C.	Asynchronous, synchronous 
+D.	Digital reference robots, video conferencing 
+ANSWER: C
+
+An example of the work performed by the use of artificial intelligence is -------
+A.	Webcam services
+B.	Info rocket 
+C.	Ask Jeeves 
+D.	Ask me
+ANSWER: C
+
+The following are examples of non-print resources except ------------------
+A.	Microforms
+B.	Cartographic materials 
+C.	Electronic resources 
+D.	Manuscripts
+ANSWER: D
+Information materials can be purchased through the following means except ---
+A.	Vendors 
+B.	Subscript
+C.	Publishers 
+D.	Information specialist 
+ANSWER: D
+
+Acquisition of materials to the library is done through the following except -----
+A.	Selective dissemination of information
+B.	Bequeath 
+C.	Legal deposits 
+D.	Gift  
+ANSWER: A
+
+Two-dimensional representation of materials, which can be viewed without a projector is ------------
+A.	Cartographic materials
+B.	Audio materials
+C.	Graphic materials
+D.	Manuscripts 
+ANSWER: C
+
+Information resources in print and electronic formats that are published in successive parts without predetermined end is called -------------------
+A.	Reference 
+B.	Serials 
+C.	E-materials 
+D.	Blogs 
+ANSWER: B
+
+While selecting serial materials, the following factors are taken in consideration except-------------
+A.	Impact factor 
+B.	Recency 
+C.	Experts approval 
+D.	Temperature 
+ANSWER: D
+
+Serials are synonymous to ---------------------
+A.	Reference 
+B.	Newspaper 
+C.	Periodicals 
+D.	Magazine
+ANSWER: C
+
+--------------- is the listing of keywords and topics taken from the text of a book
+A.	Appendix 
+B.	Bibliography
+C.	Abstracts
+D.	Indexing 
+ANSWER: D
+
+Simple methods of preserving serial information resources involved the following except ----------
+A.	Relative humidity 
+B.	Periodical fumigation of the library 
+C.	Temperature 
+D.	Professional approval 
+ANSWER: D
+
+Serials after processing are arranged on ----------------
+A.	Shelves
+B.	Display racks
+C.	Cardex trays 
+D.	Catalogue boxes 
+ANSWER: B
+
+Two types of periodicals indexes are ------------ and -------------
+A.	Narrow, broad indexes 
+B.	Narrow, wide indexes
+C.	Individual, broad indexes
+D.	Individual, group indexes
+ANSWER: C
+
+Materials that emanate from one’s institution or faculty which are unpublished are -------------
+A.	Archived materials
+B.	Reserved materials
+C.	Grey materials
+D.	Digest materials
+ANSWER: C
+
+-------------- is the education delivered through all kinds of electronic platforms involving internet and computer
+A.	Local area network
+B.	Electronic learning 
+C.	E-book materials 
+D.	Wikis
+ANSWER: B
+
+SCORM stands for --------------------
+A.	Shareable Content Object Reference Modem
+B.	Shareable Content Object Reference Modern
+C.	Shareable Content Object Reference Model
+D.	Shareable Content Office Reference Model
+ANSWER: C
+
+Dissertation is an example of ------------ resources 
+A.	Secondary 
+B.	Primary 
+C.	Tertiary 
+D.	E-materials
+ANSWER: A
+
+Stripdex catalogue is also known as -------------------
+A.	
+B.	Invisible index
+C.	Visible index 
+D.	Sheaf catalogue 
+(e)	Card catalogue 
+ANSWER: B
+
+The process of organizing and assigning of identification codes to catalogued information resources is called ----------------
+A.	Cataloguing 
+B.	Classification 
+C.	Cross references 
+D.	Library catalogue 
+ANSWER: B
+
+In library of congress scheme, the following alphabets were not used 
+A.	U, N, D, H, J
+B.	I, O, N, X, Y
+C.	I, O, W, X, Y
+D.	I, O, D, X, H
+ANSWER: C
+
+When an information resource is authored by more than three authors, the main entry card is under ----------------
+A.	Title 
+B.	Principal author’s name
+C.	Editor’s name
+D.	Co-authors 
+ANSWER: A
+
+------------- indicates that two headings are simultaneously used in the catalogues
+A.	See reference 
+B.	Word-by-word
+C.	See also reference 
+D.	Letter-by-letter
+ANSWER: C
+
+In the library of congress scheme, R stands for ---------------------
+A.	Agriculture
+B.	Religion 
+C.	Recreation 
+D.	Medicine 
+ANSWER: D
+
+The Head of Department for technical services is called ----------------
+A.	Chief cataloguer 
+B.	Reference Librarian 
+C.	Catalogue Librarian  
+D.	Technical Librarian 
+ANSWER: A
+
+DDC simply means ----------------------
+A.	Decimal Dewey Classification Scheme 
+B.	Dewey Decimal Colon Scheme
+C.	Dewey Decimal Classification Scheme 
+D.	Dewey Decimal Congress Scheme 
+ANSWER: C
+
+P stands for -------------in the library of congress Classification Scheme 
+A.	Languages and Literature
+B.	Psychology 
+C.	Philosophy 
+D.	Plant culture 
+ANSWER: A
+
+Three out of seven stages of system analysis for library automation are the following except ------
+A.	Maintenance 
+B.	Development 
+C.	Interdependence 
+D.	Implementation 
+ANSWER: C
+
+Examples of library Automation modules are as follows except ----------------
+A.	Barcode scanning 
+B.	Computer management
+C.	Circulation management 
+D.	Catalogue management
+ANSWER: B
+
+The following are channels of information sharing except -------------------
+A.	Personal contact
+B.	Chat room
+C.	Passwords 
+D.	Discussion rooms 
+ANSWER: C
+
+Three out of the four ethical standards on the principles of information are the following except 
+A.	Non repudiation 
+B.	Confidentiality
+C.	Cyber security 
+D.	Availability 
+ANSWER: C
+
+--------------- is preventive method applied to protect information from being stolen, compromised or attacked 
+A.	Cookies
+B.	Information sharing 
+C.	Informed consent 
+D.	Cyber security 
+ANSWER: D
+
+Electronic identification cards attached to users who visit an internet site is -------------------
+A.	Databases 
+B.	Cookies 
+C.	Google 
+D.	Search engines 
+ANSWER: B
+
+The use of works protected by copyright law without permission is called ------------------
+A.	Copyright holder 
+B.	Copyright infringement 
+C.	Copyright owner
+D.	Copyright
+ANSWER: B
+
+The act of presentation of the work of another person without proper acknowledgement is called ---------------
+A.	Copyright infringement 
+B.	Plagiarism 
+C.	Infringing 
+D.	Copyright owner 
+ANSWER: B
+
+An organized listing of works cited in the text, placed at the end of the document is ----------------
+A.	Citation 
+B.	Bibliography 
+C.	References list 
+D.	Indexing 
+ANSWER: C
+
+Gray (1) considers how to run a…...is an example of material cited in ------------
+A.	Numeric --- style 
+B.	Harvard ---- style 
+C.	Academic---thesis 
+D.	Conference-----proceedings 
+ANSWER: A
+
+The following are examples of search engines except ---------------------
+A.	Open dictory 
+B.	Teoma 
+C.	Ask jeevees 
+D.	Boolean operators 
+ANSWER: D
+
+The following are ways of making one’s searches more precise except ----------
+A.	Try truncation 
+B.	Try phase searching
+C.	AGORA
+D.	Using Boolean operators 
+ANSWER: C
+
+The full meaning of ERIC is -------------------
+A.	Educational Resource Information Centre
+B.	Educational Research Information Centre  
+C.	Environmental Resource Information Centre
+D.	Educational Resource Infrastructure Centre 
+ANSWER: A
+
+The following are types of databases except ------------
+A.	Bibliographic databases
+B.	Full text databases
+C.	Abstract database
+D.	Index database  
+ANSWER: D
+
+When sharing information, the following precaution should be exercised except ------------------
+A.	Informed consent
+B.	Protection of identities 
+C.	Promotion of resources
+D.	Regulation of access 
+ANSWER: C
+
+An organized collection of electronic information that allows a user to search for a particular topic or book in a variety of ways is called ---------------------
+A.	Google 
+B.	Search engines
+C.	LISTA
+D.	Library database 
+ANSWER: D
+
+Plagiarism comes from a Latin word plagiarus, meaning ---------------------
+A.	Capturing 
+B.	Snatching 
+C.	Carrying 
+D.	Kidnapping 
+ANSWER: D
+
+Two methods of filing are ----------- and ---------------
+A.	Colon, bliss
+B.	See reference, see also reference 
+C.	Letter-by-letter, word-by-word
+D.	Moys, benard
+ANSWER: C
+
+Classification tools includes the following except ------------------
+A.	DDC
+B.	Thesaurus 
+C.	Cross reference 
+D.	LC
+ANSWER: C
+
+------------------- are sets of data representing different disciplines, accessible through electronic means.
+A.	Catalogues 
+B.	Glossary 
+C.	Databases 
+D.	Digests 
+ANSWER: C
+
+A dictionary which lists and identifies notable persons by giving important and essential data about each of them is a ---------------------
+A.	Specialized dictionary
+B.	Biographical dictionary
+C.	Gazetteer 
+D.	Altas 
+ANSWER: B
+
+
+
+  
+
+
+     
+   
+
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

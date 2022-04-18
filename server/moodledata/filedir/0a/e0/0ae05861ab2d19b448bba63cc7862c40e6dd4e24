@@ -1,0 +1,395 @@
+﻿Given that $$P(n)=5^{2n}+3n-1$$.  Is $$p(n)$$ an integer multiple of $$9$$ for $$n=1?$$
+A. No
+B. Not clear
+C. Yes
+D. None of the above
+ANSWER: C
+
+Which of the following cannot be established using mathematical induction for the set of integers?
+A. $$n\le n+1$$
+B. $$1+n=n+1$$
+C. $$n.1=n$$
+D. $$1-n=n-1$$
+ANSWER: D
+
+Using the first principle of mathematical induction (PMI) i.e induction basis, what is the value of $$n^4+4n^2+11$$ that has a multiple of $$16$$?
+A. $$256$$
+B. $$32$$
+C. $$48$$
+D. $$16$$
+ANSWER: D
+
+If matrix $$A=\begin{pmatrix} 2 & -3 \\ 0 &  1 \\ 9 & 8 \end{pmatrix} $$, the order is
+A. $$2\times 3$$
+B. $$3\times 3$$
+C. $$3\times 1$$
+D. $$3\times 2$$
+ANSWER: D
+
+If $$B=\begin{pmatrix} 1 & 2 & 3 \end{pmatrix}$$, the order is 
+A. $$1\times3$$
+B. $$1\times2$$
+C. $$3\times1$$
+D. $$3\times3$$
+ANSWER: A
+
+What type of matrix is p? if $$P=\begin{pmatrix}1 & 0 & 0\\0 & 1 & 0 \\0 & 0 & 1 \end{pmatrix}$$
+A. Null matrix
+B. Idempotent matrix
+C. Identify matrix
+D. Identity matrix
+ANSWER: D
+
+If $$A=\begin{pmatrix} 2 & -3\\0 & 1\\9 & 8 \end{pmatrix}$$,  then $$\frac{-2}{3}A$$ is 
+A. $$\begin{pmatrix} \frac{-2}{3} & -3\\0 & 1\\9 & 8 \end{pmatrix}$$
+B. $$\begin{pmatrix} \frac{-4}{3} & -4\\0 & \frac{2}{3}\\-6 & 8 \end{pmatrix}$$
+C. $$\begin{pmatrix} \frac{-2}{3} & -4\\0 & 1\\-9 & \frac{8}{-3} \end{pmatrix}$$
+D. $$\begin{pmatrix} \frac{-2}{3} & 2\\0 & \frac{-2}{3}\\-6 & \frac{-16}{3} \end{pmatrix}$$
+ANSWER: D
+ 
+Given that $$A=\begin{bmatrix}3 & -2 & 1\\0 &  4 & 2 \end{bmatrix}$$ and $$B=\begin{bmatrix}1\\2\\3 \end{bmatrix}$$, find AB
+A. $$\begin{bmatrix}2\\6 \end{bmatrix}$$
+B. $$\begin{bmatrix}2\\14 \end{bmtrix}$$
+C. $$\begin{bmatrix}2\\11 \end{bmatrix}$$
+D. $$\begin{bmatrix} 2 & 6 \end{bmatrix}$$ 
+ANSWER: B
+
+Find the transpose of the matrix $$\begin{bmatrix} 9 & -4 \\-8 & 7 \end{bmatrix}$$
+A. $$\begin{bmatrix}9 & 7\\-8 & -4 \end{bmatrix}$$
+B. $$\begin{bmatrix}7 & -4\\-8 & 9 \end{bmatrix}$$
+C. $$\begin{bmatrix}9 & -8\\-4 & 7 \end{bmatrix}$$
+D. $$\begin{bmatrix}7 & 4\\8 & 9 \end{bmatrix}$$
+ANSWER: C
+
+Find the inverse of the matrix  $$\begin{bmatrix}2 & -1\\4 & 0 \end{bmatrix}$$
+A. $$\frac{1}{4} \begin{bmatrix}0 & 1\\-4 & 2 \end{bmatrix}$$
+B. $$\frac{1}{4} \begin{bmatrix}2 & -1\\4 & 0 \end{bmatrix}$$
+C. $$\frac{1}{4} \begin{bmatrix}2 & 1\\-4 & 0 \end{bmatrix}$$
+D. $$\frac{1}{4} \begin{bmatrix}0 & -1\\4 & 2 \end{bmatrix}$$
+ANSWER: A
+
+Find the cofactor of the matrix  $$\begin{bmatrix}-2 & -3\\1 & 5 \end{bmatrix}$$
+A. $$\begin{bmatrix}-2 & 1\\-3 & 5 \end{bmatrix}$$
+B. $$\begin{bmatrix}5  & -3\\1 & -2 \end{bmatrix}$$
+C. $$\begin{bmatrix}-2 & 1\\-3 & 5 \end{bmatrix}$$
+D. $$\begin{bmatrix}5  & -1\\3 & 2 \end{bmatrix}$$
+ANSWER: D
+
+If $$X=\begin{pmatrix}\frac{-4}{3} & -4\\0 & \frac{2}{3}\\-6 & 8 \end{pmatrix}$$ and $$Y=\begin{pmatrix}\frac{-4}{3} & -4\\2 & \frac{2}{3}\\-6 & 8 \end{pmatrix}$$, then $$X+Y$$ is
+A. $$X=\begin{pmatrix}\frac{-8}{-3} & -8\\2 & \frac{4}{3}\\-12 & 16 \end{pmatrix}$$
+B. $$X=\begin{pmatrix}\frac{8}{3} & -8\\2 & \frac{4}{3}\\-12 & 16 \end{pmatrix}$$
+C. $$X=\begin{pmatrix}\frac{-8}{3} & -8\\2 & \frac{4}{3}\\12 & 16 \end{pmatrix}$$
+D. $$X=\begin{pmatrix}\frac{-8}{3} & -8\\2 & \frac{-4}{3}\\-12 & 16 \end{pmatrix}$$
+ANSWER: D
+
+Find $$\begin{pmatrix}1 & 2 & 0\\-2 & 1 & 3\\2 & 4 & -1\end{pmatrix} \begin{pmatrix}-3\\2\\-4 \end{pmatrix}$$
+A. $$\begin{pmatrix}1 & -4 & 6\\-4 & 1 & 6\\6 & -4 & 5 \end{pmatrix}$$
+B. $$\begin{pmatrix}-\frac{8}{3} & -8 \\2 & \frac{4}{3} \\-12 & 16 \end{pmatrix}$$
+C. $$\begin{pmatrix}1\\6 \\-4 \end{pmatrix}$$
+D. $$\begin{pmatrix}1\\-4 \\6 \end{pmatrix}$$
+ANSWER: D
+
+If $$A=\begin{pmatrix}2 & -3 & -1\\0 & 2 & -3\\1 & -3 & 5 \end{pmatrix}$$, find |A|
+A. $$-7$$
+B. $$-13$$
+C. $$13$$
+D. $$7$$
+ANSWER: C
+
+If$$P=\begin{pmatrix}2 & -3 & -1\\0 & 2 & -3\\1 & -3 & 5 \end{matrix}$$, find $$P^T$$
+A. $$\begin{pmatrix}1 & 2 & -1\\1 & -1 & 2\\1 & 2 & -1 \end{pmatrix}$$
+B. $$\begin{pmatrix}1 & -1 & 2\\2 & 1 & -1\\-1 & 2 & 1 \end{pmatrix}$$
+C. $$\begin{pmatrix}1 & -1 & 2\\-2 & 1 & -1\\-1 & 2 & 1 \end{pmatrix}$$
+D. $$\begin{pmatrix}1 & -1 & 2\\2 & 1 & 1\\-1 & 2 & 1 \end{pmatrix}$$
+ANSWER: B
+
+If the elements of a column(or row) are all zero, the value of the determinant is zero.
+A. false
+B. Not clear
+C. True
+D. None of the above
+ANSWER: C
+
+The matrix form of this system of linear equation$$\begin{align}& 2x+3y-2z  =  2\\ & 3x+5y+3z  = 6\\ & x-2y+1  = 3z \end{align}$$
+A. $$\begin{pmatrix}2 & 3 & 2 \\3 & 5 & 3 \\-1 & -2 & 1 \end{pmatrix} \begin{pmatrix}2  \\6 \\3 \end{pmatrix} =\begin{pmatrix}x \\y \\z \end{matrix}$$
+B. $$\begin{pmatrix}2 & 3 & -2 \\3 & 5 & 3 \\-1 & -2 & 1 \end{pmatrix} \begin{pmatrix}2  \\6 \\3 \end{pmatrix}=\begin{pmatrix}x \\y \\z \end{pmatrix}$$
+C. $$\begin{pmatrix}2 & 3 & -2 \\3 & 5 & 3 \\-1 & -2 & 1 \end{pmatrix} \begin{pmatrix}2  \\6 \\3 \end{pmatrix} = \begin{pmatrix}x \\y \\z \end{pmatrix}$$
+D. $$\begin{pmatrix}2 & 3 & -2 \\3 & 5 & 3 \\1 & -2 & -3 \end{pmatrix} \begin{pmatrix}2  \\6 \\-1 \end{pmatrix}= \begin{pmatrix}x \\y \\z \end{pmatrix}$$
+ANSWER: D
+
+Evaluate $$\left|\begin{array}{ccccc} 3 & 1 & -1\\0 & 2 & 0\\0 & 0 & 3 \end{array}\right|$$
+A. $$8$$
+B. $$18$$
+C. $$-3$$
+D. $$0$$
+ANSWER: B
+
+Consider the system of linear equation $$\begin{align}& x+3y+3z  =  8\\ & x+4y+3z  =  9\\ & x+3y+4z   =  12 \end{align}$$, if the matrix has inverse of $$\begin{pmatrix}7 & -3 & -3\\-1 & 1 & 0\\-1 & 0 & 0 \end{pmatrix}$$, the values of $$x,y,z$$ are
+A. $$x=7, y=1, z=4$$
+B. $$x=7, y=1, z=-4$$
+C. $$x=-7,y=1, z=4$$
+D. $$x=7,y=1,z=-4$$
+ANSWER: C
+
+If $$A=\begin{pmatrix}7 & -3 & -3 \\-1 & 1 & 0 \\-1 & 0 & 0 \end{pmatrix}$$, evaluate $$a_{23}+a_{21}+a_{31}+a_{32}$$
+A. $$2$$
+B. $$-2$$
+C. $$0$$
+D. $$4$$
+ANSWER: B
+
+A matrix P is said to be idempotent if 
+A. $$P^2=I$$
+B. $$P^2=0$$
+C. $$P=I$$
+D. $$P^2=P$$
+ANSWER: D
+
+In using crammer's rule to solve this system of equation$$\begin{align}& 2x+3y-z  = 1\\ & 3x+5y+2z =  8\\ & x-2y-3z =  -1\end{align}$$, $$\Delta_y$$ has the value
+A. $$23$$
+B. $$11$$
+C. $$-22$$
+D. $$-11$$
+ANSWER: C
+
+Find the eigenvalues of the matrix A, given that $$\begin{bmatrix}1 & 2 & 3\\0 & 2 & 3\\0 & 0 & 3 \end{bmatrix}$$
+A. $$1,2,3$$
+B. $$-3,1,2$$	 
+C. $$-2,-1,3$$
+D. $$-1,-2,-3$$
+ANSWER: A
+
+Find the eigenvector corresponding to the bigger eigenvalue of the matrix $$\begin{pmatrix}3 & 2\\2 & 0 \end{pmatrix}$$
+A. $$\begin{pmatrix}1 \\-2 \end{pmatrix}$$
+B. $$\begin{pmatrix}2 \\1 \end{pmatrix}$$
+C. $$\begin{pmatrix}1 \\1 \end{pmatrix}$$
+D. $$\begin{pmatrix}-1 \\1 \end{pmatrix}$$
+ANSWER: B
+
+Which of the following matrices is symmetric?
+A. $$\begin{bmatrix}1 & -1\\2 & 2 \end{matri}$$ 
+B. $$\begin{bmatrix}1 & 3 & 4 \\3 & 7 & 2\\4 & 2 & 0 \end{bmatrix}$$
+C. $$\begin{bmatrix}1 & -3 & -5 \\-4 & 4 & 5\\1 & -3 & -5 \end{bmatrix}$$ 
+D. $$\begin{bmatrix}1 & 2\\-1 & 1 \end{bmatrix}$$ 
+ANSWER: B
+
+Which of the following matrix is idempotent?
+A. $$\begin{bmatrix}-2 & 0\\1 & 1\end{bmatrix}$$
+B. $$\begin{bmatrix}1 & 1\\0 & 1\end{bmatrix}$$  
+C. $$\begin{bmatrix}1 & 0\\0 & 1\end{bmatrix}$$ 
+D. $$\begin{bmatrix}1 & 2\\-1 & 1\end{bmatrix}$$
+ANSWER: C
+
+Solve the equation $$\left|\begin{array}{cccc} 4 & 3 & 2 \\-1 & 4 & x \\2 & -2 & 3 \end{array}\right|=17$$
+A. $$-3$$
+B. $$2$$
+C. $$3$$
+D. $$-2$$
+ANSWER: D
+
+Solve the equation $$\begin{bmatrix}2 & -3\\1 & 3\end{bmatrix} \begin{bmatrix}x & y \end{bmatrix}= \begin{bmatrix}1 & 2 \end{matrix}$$
+A. $$x=-1,y=\frac{-1}{3}$$
+B. $$x=1, y=\frac{-1}{2}$$
+C. $$x=1, y=\frac{1}{3}$$
+D. $$x=1,y=\frac{1}{2}$$
+ANSWER: C
+
+If $$A=\{pmatrix}2 & 0 & 1\\0 & 2 & 0\\1 & 0 & 2$$ is a square matrix and $$\left|A-\lamdaI\right|=0$$ is a characteristic equations, 
+the matrix has one of its eigen-value has 
+A. $$-1$$
+B. $$4$$
+C. $$0$$
+D. $$2$$
+ANSWER: A
+
+If A is a square matrix.  Then A is called a singular matrix if it has an inverse.
+A. True
+B. False
+C. Indeterminate
+D. None of the above
+ANSWER: A
+
+
+VECTOR ANALYSIS
+
+If $$\underline{a}+\underline{b}=0$$, where $$\underline{a}$$ and $$\underline{b}$$ are vectors, then
+A. the vectors are parallel
+B. the vectors have nothing in common
+C. the angle between them is $$60^\circ$$
+D. the angle between them is $$90^\circ$$
+ANSWER: A
+
+If $$\underline{a}=-2i+2j+3k$$, and If $$\underline{b}=-4i-2j+3k$$, evaluate $$2\underline{a}+\underline{b}$$
+A. $$\underline{a}=-8i+2j+9k$$
+B. $$\underline{a}=-8i-2j+9k$$
+C. $$\underline{a}=-4i-2j+3k$$
+D. $$\underline{a}=8i+2j-9k$$
+ANSWER: A
+
+If $$\underline{a}=2i+3j-k$$, find $$|3\underline{a}|$$
+A. $$72$$
+B. $$81$$
+C. $$9$$
+D. None of the above
+ANSWER: D
+
+What is the unit vector along $$2i+3j-k$$
+A. $$\frac{-2i+3j-k}{\sqrt{13}}$$ 
+B. $$\frac{2i+3j-k}{\sqrt{14}}$$ 
+C. $$\frac{2i+3j-k}{\sqrt{14}}$$ 
+D. $$\frac{2i-3j-k}{\sqrt{14}}$$ 
+ANSWER: B
+
+$$\underline{a}=2i+3j-k$$ and $$\underline{b}=-2i+5j-6k$$, find $$3\underline{a}.\underline{b}$$
+A. $$17$$
+B. $$15$$
+C. $$6$$
+D. $$51$$
+ANSWER: D
+
+If $$\underline{a}=2i+3j-k$$ and $$\underline{b}=-2i+5j-6k$$, find $$\underline{a}x2\underline{b}$$
+A. $$-26i+25j-32k$$
+B. $$-26i+28j+32k$$
+C. $$-26i+25j+32k$$
+D. $$-26i+28j-32k$$
+ANSWER: B
+
+$$\underline{a}=2i+3j-k$$, and $$\underline{b}=-2i+5j-6k$$, evaluate $$\left|\underline{a}.\left|\underline{b}\right|$$
+A. $$\sqrt{901}$$
+B. $$\sqrt{801}$$
+C. $$\sqrt{910}$$
+D. $$\sqrt{810}$$
+ANSWER: C
+
+Given that $$\underline{a}=2i+j-2k$$, find $$\left|\underline{a}\right|$$
+A. $$3$$
+B. $$1$$
+C. $$2$$
+D. $$0$$
+ANSWER: A
+ 
+Given that $$\underline{a}=3i-4j+5k$$ and $$\underline{a}=i+2j-2k$$; find the cosine of the anglebetween $$\underline{a}$$ and $$\underline{b}$$
+A. $$5$$
+B. $$\frac{1}{3\sqrt{2}}$$
+C. $$15$$
+D. $$\sqrt{2}$$
+ANSWER: B
+
+If $$\theta$$ is the angle between two vectors whose direction cosine are $$l_1,m_1,n_1$$ and $$l_2,m_2,n_2$$ respectively, then $$cos\theta=l_1l_2+m_1m_2+n_1m_2$$
+A. True
+B. false
+C. none of the above
+D. all of the above
+ANSWER: A
+
+Given that $$\underline{a}=i+2j+k$$ and $$\underline{b}=2i+-j-4k$$, evaluate $$\left|\underline{a} \times \underline{b}\right|$$
+A. $$-4$$
+B. $$\sqrt{110}$$
+C. $$\sqrt{126}$$
+D. $$18$$
+ANSWER: B
+
+Find the directional cosine of $$2\underline{a}-\underline{b}$$, where $$\underline{a}=3i-j+2k$$ and $$\underline{b}=2i+j-2k$$
+A. $$\frac{1}{sqrt{14}}(3,1,2)$$
+B. $$\frac{1}{sqrt{3}}(2,1,-2)$$
+C. $$\frac{1}{sqrt{21}}(4,-1,2)$$
+D. $$\frac{1}{sqrt{14}}(4,-1,2)$$
+ANSWER: C
+
+If $$\phi=x^3y^2z^4$$, find $$grad\phi$$
+A. $$3x^2y^2z^4i+2x^3yz^4j+4x^3y^2z^3k$$  
+B. $$3x^2y^2z^4i+3x^3yz^4j+4x^3y^2z^4k$$
+C. $$3x^2y^2z^4i+2x^3yz^4j-4x^3y^2z^3k$$ 
+D. $$2x^2y^2z^4i+3x^3yz^4j+4x^3y^2z^3k$$ 
+ANSWER: A
+  
+If $$\underline{A}=x^3y^2i+yz^4j-x^zk$$ find $$curl\underline{A}$$
+A. $$-4zy^3i+2xzj+2yx^3k$$ 
+B. $$-4zy^3i+2xzj+2yx^3yx^3k$$
+C. $$4zy^3i+2xzj+2yx^3k$$ 
+D. $$-4zy^3i+2xzj-2yx^3k$$ 
+ANSWER: D
+
+If $$F=3x^3z-2xy+5xy^2z^3$$, what is $$F_{xy}$$
+A. $$9x^2z-2y+5y^2z^2$$
+B. $$-2zy+5yz^2$$
+C. $$-2+10yz^2$$
+D. $$-2y+5yz^2$$
+ANSWER: C
+ 
+If $$\phi(x,y,z)=x^2yz$$, evaluate $$\bigtriangledown\phi$$ at the point $$(1,-1,-1)$$
+A. $$-i+4j-4k$$
+B. $$-i+j+k$$
+C. $$2i-j-k$$
+D. $$2i+2j-2k$$
+ANSWER: C
+
+A vector $$\underline{A}$$ is said to be solenoid if 
+A. $$\bigtriangledown x A=0$$
+B  $$\bigtriangledown x(\bigtriangledown x A)=0$$
+C. $$\bigtriangledown . (\bigtriangle x A)=0$$
+D. $$\bigtriangledown . A=0$$ 
+ANSWER: D
+
+Evaluate $$\bigtriangledown \times (\bigtriangledown\phi)$$ at the point $$(1,2,-1)$$ where $$\phi(x,y,z)=x^2yz^3$$
+A. $$6$$
+B. $$-6$$
+C. $$0$$
+D. $$18$$
+ANSWER: C
+
+A vector v is said to to be irrotational if 
+A. $$\bigtriangledown \times v=0$$   
+B. $$\bigtriangledown . v=0$$
+C. $$\bigtriangledown . (\bigtriangledown \times A)=0$$ 
+D. $$\bigtriangledown \times(\bigtriangledown . v)=0$$
+ANSWER: A
+ 
+The differential operator grad is defined as
+A. $$i\frac{\partial}{\partial{x}}+j\frac{\partial}{\partial{y}}+k\frac{\partial}{\partial{z}}$$
+B. $$i\frac{\partial}{\partial{x}}-j\frac{\partial}{\partial{y}}+k\frac{\partial}{\partial{z}}$$
+C. $$i\frac{\partial}{\partial{x}}-j\frac{\partial}{\partial{y}}-k\frac{\partial}{\partial{z}}$$
+D. $$i\frac{\partial}{\partial{x}}+j\frac{\partial}{\partial{y}}-k\frac{\partial}{\partial{z}}$$
+ANSWER: A
+
+Calculate the workdone by a force $$\underline{f}=(x+1)^2i+(y+2)^2j$$ on a particle from $$x=0$$ to $$x=2$$ along the parabola $$y=x^2$$
+A. $$80$$
+B. $$78$$
+C. $$-80$$
+D. $$-60$$
+ANSWER: A
+
+Evaluate $$\int_c xy\,dx+x^2\,dy$$, where the region is  square of side units$$2$$
+A. $$-4$$ 
+B. $$4$$
+C. $$3$$
+D. $$-3$$
+ANSWER: B
+
+Evaluate $$\int_0^1\int_0^1\int_0^1x+y+z\,dzdydx$$
+A. $$\frac{1}{2}$$
+B. $$\frac{3}{2}$$
+C. $$\frac{-3}{2}$$
+D. $$\frac{-4}{3}$$
+ANSWER: B
+
+Evaluate $$\int_0^1\int_0^2\int_0^3(x+2y+3z)\,dxdydz$$
+A. $$2$$
+B. $$5$$
+C. $$6$$
+D. $$1$$
+ANSWER: C
+
+Evaluate $$\int_{y=1}^2\int_{x=0}^3(x^2+y^2)\,dxdy$$	
+A. $$16$$
+B. $$-2$$
+C. $$$0$$
+D. $$18$$
+ANSWER: A 
+
+Find the volume of a parallepiped whose vertices are $$P(2,1,2)$$, $$Q(1,2,0)$$, $$R(3,-1,2)$$, and  $$S(2,4,-3)$$
+A. $$17$$
+B. $$18$$
+C. $$-17$$
+D. $$20$$
+ANSWER: A
